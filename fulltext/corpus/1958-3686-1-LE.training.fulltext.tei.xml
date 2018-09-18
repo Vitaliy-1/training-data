@@ -1,0 +1,342 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>Climate change and health has been given increasing attention during recent years, largely
+			<lb/>
+			initiated and triggered by the insightful report by McMichael and colleagues published a
+			<lb/>
+			decade ago <ref type="biblio">(1)</ref>. Until then research on, and analysis of, the impacts of climate change had
+			<lb/>
+			focused on environmental change and impacts on ecosystems. Further review of the health
+			<lb/>
+			aspects <ref type="biblio">(2, 3, 4)</ref> and assessment of the contribution of climate change to the global burden of
+			<lb/>
+			disease <ref type="biblio">(5)</ref> has lead to a greater understanding of the importance of this issue and the latest
+			<lb/>
+			report from the Intergovernmental Panel on Climate Change (IPCC) <ref type="biblio">(6)</ref> includes a 40-page
+			<lb/>
+			chapter on &quot;Human health&quot;. However, very sparse attention is paid to the non-fatal effects of
+			<lb/>
+			direct heat exposure.
+			<lb/>
+		</p>
+		<p>
+			It seems logical that an analysis of the impacts of climate change on human health should
+			<lb/>
+			start with a thorough review of what we know about the direct impacts of climate on health.
+			<lb/>
+			The most obvious climate variables that people would be aware of are: air temperature, air
+			<lb/>
+			humidity, rainfall, wind speed and wind direction. In addition, a meteorologist could add
+			<lb/>
+			cloud cover, solar radiation intensity, air pressure, and other more specialized variables.
+			<lb/>
+			Several of these variables link to human health via the basic physiological mechanisms that
+			<lb/>
+			balance core body temperature at approximately 37 C in all human beings <ref type="biblio">(7)</ref>. A very small
+			<lb/>
+			range of temperatures around this value is concomitant to maintaining good health. Serious
+			<lb/>
+			heat stroke and even death occurs after a relatively short time if core body temperature goes
+			<lb/>
+			above 42 C <ref type="biblio">(7)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Additional mortality due to increased exposure to heat because of climate change has been
+			<lb/>
+			studied and reviewed in a number of reports <ref type="biblio">(8)</ref>, and is also given substantial attention in the
+			<lb/>
+			IPCC report <ref type="biblio">(6)</ref>. However, the non-fatal impacts on health and well-being may be even more
+			<lb/>
+			important. If core body temperature exceeds 38 C over several hours, heat exhaustion and
+			<lb/>
+			reduced psychometric and motor capacity will occur. Above 39 C more serious heat stroke
+			<lb/>
+			and unconsciousness may occur. Because individual variation is considerable, heat exposures
+			<lb/>
+			and possible effects need to be monitored when work is carried out in hot environments in
+			<lb/>
+			order to protect more sensitive people <ref type="biblio">(7)</ref>. As examples of the most serious effects that can
+			<lb/>
+			occur among working people, some information about the situation in a South African gold
+			<lb/>
+			mine in the 1950s is presented in <ref type="table">Table 1</ref>.
+			<lb/>
+		</p>
+		
+		<p>The heat transfer between the human body and the environment depends on climate and
+			<lb/>
+			clothing. If air temperatures exceed 35 C the human body can only maintain normal core
+			<lb/>
+			body temperature by the heat reducing mechanism of sweat evaporation <ref type="biblio">(9)</ref>. This mechanism
+			<lb/>
+			is strongly influenced by air humidity, wind speed and clothing. In certain climate conditions,
+			<lb/>
+			even if very light clothing is worn, sweat evaporation is not sufficient to maintain core body
+			<lb/>
+			temperature and a health-threatening increase in core body temperature will occur. Internal
+			<lb/>
+			heat production in the body also greatly influences the need for sweat evaporation cooling. At
+			<lb/>
+			rest, this heat production is low, but for people working or engaging in heavy physical
+			<lb/>
+			activities in hot environments the internal heat production becomes a major challenge for the
+			<lb/>
+			maintenance of body heat balance <ref type="biblio">(7)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Thus, one can easily imagine the situation for workers carrying out heavy labour in tropical
+			<lb/>
+			countries where both air temperature and humidity are high, particularly during the hottest
+			<lb/>
+			seasons. Heavy labor is common in agriculture, construction, and manufacturing industries
+			<lb/>
+			without air-conditioning, and is also a feature of the daily chores of poor people, e.g. during
+			<lb/>
+			subsistence agricultural work, crowded cottage industry work, and collection of drinking
+			<lb/>
+			water or fire-wood. This aspect of climate change and health has not been fully analyzed,
+			<lb/>
+			even though the physiological mechanisms have been known for decades and the relevance
+			<lb/>
+			of climate change for workers&apos; health was highlighted ten years ago in a conference paper by
+			<lb/>
+			Kjellstrom <ref type="biblio">(10)</ref>. Examples of how heat exposure during work currently affects people in low
+			<lb/>
+			and middle income countries <ref type="table">(Table 1)</ref> show how serious the health impacts may be and
+			how
+			<lb/>
+			worker productivity is reduced among those who manage to avoid serious heat stroke.
+			<lb/>
+			Climate change will require additional interventions to avoid heat stroke and to compensate
+			<lb/>
+			for reduced productivity.
+			<lb/>
+		</p>
+		
+		<figure type="table">Table 1. Examples of heat and productivity suppression in different parts of the world
+			<lb/>
+			Geographic location and
+			<lb/>
+			work activity; source of
+			<lb/>
+			information, references
+			<lb/>
+			Heat and productivity effects
+			<lb/>
+			1. South African gold mine
+			<lb/>
+			with &gt; 200,000 underground
+			<lb/>
+			miners, who worked in
+			<lb/>
+			extremely hot and humid
+			<lb/>
+			conditions; 1956-61.
+			<lb/>
+			<ref type="biblio">(11)</ref>
+			<lb/>
+			3.3 deaths/1000 miners/year due to fatal heat stroke when wet
+			<lb/>
+			bulb temperature (Twb) exceeded 34 C; 0.7 deaths/year/1000
+			<lb/>
+			miners when Twb was between 31 and 33 C. Acclimatization
+			<lb/>
+			to heat before going underground reduced the risk, but even
+			<lb/>
+			after acclimatization two thirds of new recruits were not able
+			<lb/>
+			to carry out heavy labour in the hot work environment. Work
+			<lb/>
+			intensity needed to be closely monitored by &quot;boss-boys&quot; to
+			<lb/>
+			detect early symptoms of heat stroke and force rest as
+			<lb/>
+			required.
+			<lb/>
+			2. Agricultural workers in El
+			<lb/>
+			Salvador and Nicaragua
+			<lb/>
+			cutting sugar cane with a
+			<lb/>
+			machete in the sun for 6-8
+			<lb/>
+			hours each day during a 3-5
+			<lb/>
+			month harvest ; 2000-2008
+			<ref type="biblio">
+				<lb/>
+				(12, 13)
+				<lb/>
+			</ref>
+			Young sugar cane workers have a very high rate of serious
+			<lb/>
+			chronic kidney disease, which is often fatal. Daily dehydration
+			<lb/>
+			due to heat and sweating, and without sufficient drinking
+			<lb/>
+			water supply in the farm fields is a likely contributing cause,
+			<lb/>
+			but other causes are being investigated. However, diabetes and
+			<lb/>
+			hypertension cannot explain the high rates of this disease in
+			<lb/>
+			this population. Sugar cane cutting cannot be carried out in the
+			<lb/>
+			afternoons on sunny days due to excessive heat exposure,
+			<lb/>
+			which reduces productivity.
+			<lb/>
+			3. South India assembly work
+			<lb/>
+			in car and truck factories;
+			<lb/>
+			2008 (personal
+			<lb/>
+			communication from
+			<lb/>
+			company safety officers)
+			<lb/>
+			In these factories without air-conditioning the air temperatures
+			<lb/>
+			reach 42 C in the afternoons of the hottest months. The
+			<lb/>
+			workers need frequent rest breaks to avoid heat stroke. At the
+			<lb/>
+			car production line this is achieved by employing two people
+			<lb/>
+			to do one persons job. In the truck factory, much fewer orders
+			<lb/>
+			are put through to the factory floor in the hottest months. Heat
+			<lb/>
+			protection of workers reduces productivity.
+			<lb/>
+			4. Northern Viet Nam shoe
+			<lb/>
+			factory with 2,900 young
+			<lb/>
+			women workers; 2002
+			<lb/>
+			(personal communication
+			<lb/>
+			from factory manager)
+			<lb/>
+			The daily production target is the same throughout the year. In
+			<lb/>
+			the cool period the workers start at 07.30 and in the hot period
+			<lb/>
+			at 06.30. In the hot period they get longer rest breaks (three
+			<lb/>
+			per day), and the actual daily working hours are greater than
+			<lb/>
+			in the cool period in order to meet the production target. The
+			<lb/>
+			reduced productivity caused by heat is compensated for by the
+			<lb/>
+			workers&apos; longer working hours (at the same daily pay).
+			<lb/>
+			5. Southern states of the
+			<lb/>
+			United States of
+			America;
+			<lb/>
+			early 20th century <ref type="biblio">(14)</ref>
+			<lb/>
+			Economic historians have reported on the lower productivity
+			<lb/>
+			in the southern parts of the USA before air-conditioning was
+			<lb/>
+			introduced in factory and office buildings. The culture of the
+			<lb/>
+			South, with its&apos; hot and humid climate conditions, was
+			<lb/>
+			different from the North, and work was carried out at a more
+			<lb/>
+			leisurely pace. One major reason for this difference was the
+			<lb/>
+			physiological needs to &quot;slow down&quot;, which in other hot places
+			<lb/>
+			of the world is demonstrated by &quot;siesta&quot; and a working hour
+			<lb/>
+			distribution very different from 9 to 5.
+			<lb/>
+		</figure>
+		
+		<p>In order to quantify the health and well-being impact of heat exposure different heat stress
+			<lb/>
+			indices have been developed <ref type="biblio">(7)</ref>. Some of them are based on &quot;comfort&quot; variables and some
+			<lb/>
+			on the physiological limits of the human body. The most widely used &quot;heat stress index&quot; is
+			<lb/>
+			the Wet Bulb Globe Temperature (WBGT), that is based on physiology and used in
+			<lb/>
+			international and national occupational health guidelines <ref type="biblio">(7)</ref>. This index was developed by
+			<lb/>
+			the US Army to protect trainee soldiers from dangerous heat stroke and integrates the heat
+			<lb/>
+			exposure impact of air temperature, humidity, wind speed and heat radiation.
+			<lb/>
+		</p>
+		
+		<p>An international standard <ref type="biblio">(15)</ref> based on WBGT provides guidance on the work/rest ratios
+			<lb/>
+			required to maintain core body temperature below 38 C under different heat exposures and
+			<lb/>
+			work intensity conditions. The increasing need for rest at higher heat exposures will reduce
+			<lb/>
+			worker productivity and well-being incurring loss of income and experience of exhaustion
+			<lb/>
+			<ref type="biblio">(10)</ref>. If the rest period needs are not taken into account, core body temperature will increase
+			<lb/>
+			leading to the serious health risks associated with heat stroke. Ongoing and future climate
+			<lb/>
+			change will lead to higher heat exposures for billions of people in tropical countries, and most
+			<lb/>
+			likely affect poor people in labouring occupations particularly, adding to the health inequities
+			<lb/>
+			caused by the other health hazards linked to climate change <ref type="biblio">(5, 16)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Global Health Action has initiated the preparation of a series of papers on the health and
+			<lb/>
+			well-being aspects of direct heat exposure in low and middle income countries, to be
+			<lb/>
+			published in the near future. The aim is to increase awareness of the non-fatal health related
+			<lb/>
+			impacts of heat exposure and the need immediate to develop and apply preventive
+			<lb/>
+			interventions, particularly in tropical low and middle income countries. Climate change will
+			<lb/>
+			make the environment even hotter and long-term plans for &quot;adaptation&quot; need to consider the
+			<lb/>
+			health threats of increasing heat exposure.
+			<lb/>
+		</p>
+		
+		<p>Introductory papers describe the basic physiological mechanisms behind the &quot;health and
+			<lb/>
+			productivity suppression&quot; caused by heat exposure, the impact on &quot;work ability&quot; from heat
+			<lb/>
+			exhaustion, and the need to reduce work/rest ratios. Other papers will describe the current
+			<lb/>
+			situation for workers in hot environments in different parts of the world, recorded health
+			<lb/>
+			impacts and the potential for implementing better prevention programs. In conclusion, there
+			<lb/>
+			is a need for more field research that will allow better quantification of these effects and
+			<lb/>
+			encourage the development and application of feasible preventive interventions to protect all
+			<lb/>
+			those at risk.
+		</p>
+	
+	
+	</text>
+</tei>

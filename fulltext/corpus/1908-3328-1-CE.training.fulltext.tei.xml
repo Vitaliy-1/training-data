@@ -1,0 +1,328 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>
+			There is increasing concern and research around the health issues of ageing, not least
+			<lb/>
+			because of the increasing proportion of older people in many populations <ref type="biblio">[1]</ref>.
+			<lb/>
+			However, whilst it is widely recognised that more developed countries are
+			<lb/>
+			encountering an increasing &quot;burden&quot; of elderly people, a more global perspective is
+			<lb/>
+			often lacking <ref type="biblio">[2]</ref>. This partially reflects gaps in the global data, which mean that
+			the
+			<lb/>
+			details of ageing in many contexts are poorly documented, as highlighted by HelpAge
+			<lb/>
+			International <ref type="biblio">[3]</ref>. Many other concerns about ageing relate to possible future gaps
+			in
+			<lb/>
+			pension provision as a result of demographic changes <ref type="biblio">[4]</ref>.
+			<lb/>
+		</p>
+		<p>
+			The numbers behind the global situation, though, clearly show that issues of ageing
+			<lb/>
+			are by no means restricted to more affluent settings <ref type="biblio">[5]</ref>. Using the UN population
+			<lb/>
+			estimates <ref type="biblio">[6]</ref>, characteristics of the global population in 2010 by level of
+			development
+			<lb/>
+			are illustrated in <ref type="figure">Figure 1</ref>. The world&apos;s over-60 population is 0.8 billion,
+			11% of the
+			<lb/>
+			total. Whilst the overall shape of this population pyramid is perhaps unsurprising,
+			<lb/>
+			there are several points to note. It is only among the over-85 age group that the elderly
+			<lb/>
+			of the more developed countries out-number those of the less-and least-developed
+			<lb/>
+			countries. The over-80s account for 14% of the over-60s.
+			<lb/>
+		</p>
+		<p>
+			Interesting as this contemporary situation may be, it also has to be recognised that it is
+			<lb/>
+			far from static. <ref type="figure">Figure 2</ref> shows the UN&apos;s projected developments in the world&apos;s
+			<lb/>
+			population by 2050. By this time, it will be only in the over-95 age group where there
+			<lb/>
+			will be a majority from more developed nations. The world&apos;s over-60 population will
+			<lb/>
+			be 1.4 billion, almost 18% of the total. The over-80s globally will account for 20% of
+			<lb/>
+			the over-60s. Thus it becomes clear that, in the global context, the proportion of
+			<lb/>
+			elderly people who live in more developed countries will decline sharply. The
+			<lb/>
+			difference in the shape of the 2050 pyramid compared with 2010 basically reflects the
+			<lb/>
+			upward shift of an increasingly large proportion of the population over time, with
+			<lb/>
+			some of the biggest changes seen in the less-and least-developed countries.
+			<lb/>
+		</p>
+		
+		<p>The role of the elderly within any population depends on many interlinked factors,
+			<lb/>
+			including social determinants, financial concerns, familial structures, and cultural
+			<lb/>
+			norms, all of which impact on the health and well-being of older people. Favourable
+			<lb/>
+			trends hence lead to longer survival, hopefully associated with continuing good
+			<lb/>
+			quality of life. The concept of &quot;successful ageing&quot; <ref type="biblio">[7]</ref> thus attempts to
+			create a more
+			<lb/>
+			constructive paradigm around growing older, as opposed to problematising the ageing
+			<lb/>
+			process.
+			<lb/>
+		</p>
+		
+		<p>What are the health problems globally that mitigate against successful ageing? Much
+			<lb/>
+			emphasis is rightly given to increasingly high rates of non-communicable diseases as
+			<lb/>
+			causes of mortality among the elderly <ref type="biblio">[8]</ref>, and it is inevitable as life expectancy
+			<lb/>
+			increases that the incidence and prevalence of those diseases which predominantly
+			<lb/>
+			affect the elderly will also increase. But at the same time, the elderly retain their
+			<lb/>
+			vulnerability to infections, particularly in environments where widespread epidemics
+			<lb/>
+			may occur. Emmelin et al.&apos;s detailed account of the impact of abnormal weather
+			<lb/>
+			patterns on a rural Ethiopian population <ref type="biblio">[9]</ref>, leading to food shortages and major
+			<lb/>
+			mortality peaks relating to malaria and diarrhoeal diseases, clearly demonstrates that
+			<lb/>
+			the elderly may be just as vulnerable as the youngest in such epidemics (<ref type="figure">Figure 3</ref>).
+			<lb/>
+		</p>
+		
+		<p>It is also very important to avoid the fallacy of assuming that relatively low life
+			<lb/>
+			expectancy at birth reflects low survival among the elderly. To take two fairly
+			<lb/>
+			extreme examples, Ethiopia and Sweden, UN estimates of life expectancy at birth for
+			<lb/>
+			the period 2000-2005 were 50.7 years and 80.1 years respectively <ref type="biblio">[10]</ref>.
+			Nevertheless,
+			<lb/>
+			survival curves from the age of 60 from Swedish national statistics <ref type="biblio">[11]</ref> and the
+			<lb/>
+			Butajira Rural Health Programme in Ethiopia<ref type="biblio">[12]</ref>
+			<ref type="figure">(Figure 4)</ref> show that
+			survival
+			<lb/>
+			differences among the elderly in these two very diverse settings are not so great.
+			<lb/>
+			However, what <ref type="figure">Figure 4</ref> does not show is that in Sweden 93% of babies born can
+			<lb/>
+			expect to reach their 60 th birthday, while the corresponding figure in Butajira is just
+			<lb/>
+			52%. Thus the current levels and projected increases in the numbers of elderly people
+			<lb/>
+			in less-and least-developed countries are related more critically to the number of
+			<lb/>
+			people entering old age, rather than the survival experience of elders. Hence, at least
+			<lb/>
+			from a survival perspective in the global context, &quot;successful ageing&quot; might more
+			<lb/>
+			accurately be described as &quot;successfully joining the elderly&quot;.
+			<lb/>
+		</p>
+		
+		<p>In terms of research agendas on ageing, there are also significant global disparities.
+			<lb/>
+			Apart from the relative lack of research on ageing in poorer settings, some research
+			<lb/>
+			hypotheses and methods are mainly focussed on more developed settings. Current
+			<lb/>
+			advances and discoveries around genetic and other biomarkers associated with the
+			<lb/>
+			ageing process are such examples <ref type="biblio">[13,14]</ref>. There is a clear need for technology and
+			<lb/>
+			capacity transfer to enable some of these more complex research methods to be
+			<lb/>
+			applied more widely on a global basis, both for the sake of research equity and
+			<lb/>
+			broader-based understanding.
+			<lb/>
+		</p>
+		
+		<p>In summary, the key points of relevance for setting a more global agenda for ageing
+			<lb/>
+			are:
+			<lb/>
+		</p>
+		
+		<list>
+			<item> The number of elders in the world is steadily increasing, with the majority of
+				<lb/>
+				the increases being in less-and least-developed countries
+				<lb/>
+			</item>
+			<item>
+				 The elderly in poorer settings are doubly vulnerable, being exposed both to
+				<lb/>
+				diseases of ageing and infectious epidemics
+				<lb/>
+			</item>
+			<item>
+				 In less-and least-developing countries, the proportion of people becoming
+				<lb/>
+				elders is a major determinant of population change
+				<lb/>
+			</item>
+			<item>
+				 Technology transfer is needed to facilitate a more global approach to high-<lb/>technology ageing
+				research
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Global Health Action would welcome research papers on ageing which reflect these
+			<lb/>
+			global perspectives.
+			<lb/>
+		</p>
+		
+		<figure>Figure 1:</figure>
+		
+		<p>The age-sex structure of the world&apos;s population in 2010, by level of
+			<lb/>
+			development. (data source: UN Population Division <ref type="biblio">[6]</ref>)
+			<lb/>
+		</p>
+		
+		<formula>-350
+			<lb/>
+			0
+			<lb/>
+			350
+			<lb/>
+		</formula>
+		
+		<p>population (millions)
+			<lb/>
+		</p>
+		
+		<figure>Figure 2:</figure>
+		
+		<p>The age-sex structure of the world&apos;s population in 2050, by level of
+			<lb/>
+			development. (data source: UN Population Division <ref type="biblio">[6]</ref>)
+			<lb/>
+		</p>
+		
+		<formula>-350
+			<lb/>
+			0
+			<lb/>
+			350
+			<lb/>
+		</formula>
+		
+		<p>population (millions)
+			<lb/>
+		</p>
+		
+		<figure>Figure 3:</figure>
+		
+		<p>The impact of infectious epidemics on all-cause community-based
+			<lb/>
+			mortality rates in Butajira, Ethiopia, by age-group. (data source: Emmelin et al. <ref type="biblio">[9]</ref>)
+			<lb/>
+		</p>
+		
+		<figure>
+			0
+			<lb/>
+			20
+			<lb/>
+			40
+			<lb/>
+			60
+			<lb/>
+			80
+			<lb/>
+			100
+			<lb/>
+			120
+			<lb/>
+			140
+			<lb/>
+			160
+			<lb/>
+			1997
+			<lb/>
+			1998
+			<lb/>
+			1999
+			<lb/>
+			2000
+			<lb/>
+			2001
+			<lb/>
+			mortality per 1,000 person-years
+			<lb/>
+			under 5 yrs
+			<lb/>
+			5 -49 yrs
+			<lb/>
+			50+ yrs
+			<lb/>
+			malaria-related
+			<lb/>
+			epidemic
+			<lb/>
+			diarrhoea-related
+			<lb/>
+			epidemic
+			<lb/>
+			Figure 4
+		</figure>
+		
+		<figure>: Survival after the age of 60 years in Ethiopia and Sweden (data sources:
+				<lb/>
+				Fantahun <ref type="biblio">[12]</ref> and Statistics Sweden <ref type="biblio">[11]</ref>)
+			<lb/>
+			0
+			<lb/>
+			0.2
+			<lb/>
+			0.4
+			<lb/>
+			0.6
+			<lb/>
+			0.8
+			<lb/>
+			1
+			<lb/>
+			60
+			<lb/>
+			70
+			<lb/>
+			80
+			<lb/>
+			90
+			<lb/>
+			age (years)
+			<lb/>
+			survival from 60 years
+			<lb/>
+			Ethiopia
+			<lb/>
+			Sweden
+		</figure>
+	
+	
+	</text>
+</tei>

@@ -1,0 +1,900 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>Emerging technologies are more accessible, less expensive, and easier to learn than their predecessors.
+			<lb/>
+			Nevertheless, incorporating them into education remains a challenge. Sometimes faculty members question the
+			<lb/>
+			utility of new technologies and desire a strategic way to incorporate them into their classrooms that is
+			effective,
+			<lb/>
+			efficient, and worth their time and effort.
+			<lb/>
+		</p>
+		
+		<p>Technology integration is an issue at all levels of education, from one learning activity in one classroom to
+			<lb/>
+			institution-wide programs. <ref type="biblio">1</ref> <ref type="table">Table 1</ref> summarizes a number of technology integration
+			models and compares them to
+			<lb/>
+			eTIME, the emerging Technology Integration Model for Education we have developed. The first three columns
+			<lb/>
+			provide the name of the model, a brief description, and the source. The next column indicates the level of
+			education
+			<lb/>
+			(for example individual lesson, curriculum) for which the model is suited. The next three columns indicate
+			whether
+			<lb/>
+			or not the model contains the learning problem, references learning theory and/or assists with technology
+			selection.
+			<lb/>
+			The last column indicates whether there appears to be a link between the previous three elements within the
+			model.
+			<lb/>
+			Several of the models do not address learning theory and an understanding of how people learn. In our view,
+			this is
+			<lb/>
+			a critical flaw of technology integration models when the end goal is student learning. Several other models
+			lack a
+			<lb/>
+			strong connection between the choice of a particular technology and learning outcomes. We believe faculty
+			<lb/>
+			members will have more difficulty using these models to select a technology rationally.
+			<lb/>
+		</p>
+		
+		<p>In contrast, eTIME, the emerging Technology Integration Model for Education, explicitly includes the triad of
+			<lb/>
+			problem, technology, and learning theory. We believe that matching the technology to the learning theory and
+			the
+			<lb/>
+			learning problem/goal is the critical first step in a strategic implementation effort. We have used eTIME
+			each year in
+			<lb/>
+			our technology in education course and have iteratively improved it to encompass the critical facets needed
+			to
+			<lb/>
+			consider when implementing a technology <ref type="figure">(Figure 1)</ref>.
+			<lb/>
+			eTIME begins by creating a preliminary solution through consideration of technology, theory, and problem.
+			<lb/>
+			Instructional design methods are then applied to arrive at the final implementation. Real-world examples
+			from
+			<lb/>
+			health science educators are used throughout the paper. At the end of the paper we present an easy to use
+			&quot;pocket
+			<lb/>
+			guide&quot; for health professionals who wish to strategically incorporate technology into teaching.
+			<lb/>
+		</p>
+		
+		<head>To Arrive at a Preliminary Solution, consider these steps:
+			<lb/>
+		</head>
+		
+		<p>Define a teaching or learning goal or problem to solve -Each time you make a change to instruction, you
+			<lb/>
+			either have an implicit goal you are trying to achieve or a problem to solve. Clearly state the goal or the
+			problem for
+			<lb/>
+			yourself before even considering the technology.
+			<lb/>
+		</p>
+		
+		<p>For example, one of our projects has the goal of providing nutrition education for elementary school children
+			in
+			<lb/>
+			an after-school program. <ref type="biblio">8<ref></ref> The curriculum initially relied heavily on instructor involvement and was
+			difficult to
+			<lb/>
+			implement and sustain. The problem was that children did not want to participate in a written curriculum
+			after
+			<lb/>
+			school because it was not fun and instructors were not interested in formal teaching in an after-school
+			setting. Our
+			<lb/>
+			solution was to design an online game to teach children about nutrition, solving both problems by making the
+			<lb/>
+			learning fun and not heavily reliant on an instructor. (Other facets of the problem description included the
+			content
+			<lb/>
+			to be learned and how it might be taught. ) By stating the learning goal and/or the problem you can go
+			forward with
+			<lb/>
+			a clear focus, referring back to it during the many design and implementation decisions.
+			<lb/>
+		</p>
+		
+		<p>Consider Learning Theory -Every faculty member holds some concepts about how to create a productive
+			<lb/>
+			classroom environment. Yet many faculty members do not articulate their ideas or compare them to those of
+			others.
+			<lb/>
+			Perusing established learning theories will help faculty name the concepts they hold and point out other
+			ideas that
+			<lb/>
+			may be helpful. When considering how to incorporate a new technology into their classrooms, it is useful to
+			review
+			<lb/>
+			what constructs are successful in supporting student learning so that the best decisions can be made about
+			adding a
+			<lb/>
+			role for technology.
+			<lb/>
+		</p>
+		
+		<p>A dental hygienist taking our technology in education course used Bandura&apos;s social learning theory as a
+			<lb/>
+			theoretical foundation for her emerging technology project. <ref type="biblio">9</ref> She used streaming video to model patient care
+			<lb/>
+			behaviors. By designing the video with social learning theory in mind, she tailored her actions in the video
+			to
+			<lb/>
+			encourage her students to imitate her behaviors. Grounding your technology selection in a theoretical
+			framework
+			<lb/>
+			will help you capitalize on others&apos; best practices.
+			<lb/>
+		</p>
+		
+		<p>Match technology affordances to the problem -Affordance refers to the way a technology or software can be
+			<lb/>
+			used and what it allows the user to do or not to do. All technologies have different affordances arising
+			from their
+			<lb/>
+			internal structure and functionalities. <ref type="table">Table 2</ref> lists several more established
+			technologies along with some examples
+			<lb/>
+			of their uses in education. For example, if your goal is for students to collaboratively create content, you
+			may
+			<lb/>
+			consider using a wiki. A wiki has the ability for all students to upload and contribute content in a format
+			that is
+			<lb/>
+			integrated and easily searchable. A wiki allows students to collaboratively edit content, but it would be a
+			poor
+			<lb/>
+			choice for real-time communication, for example, that may be another facet of collaboration.
+			<lb/>
+		</p>
+		
+		<p>On the other hand, if your goal is that students reflect on a series of learning experiences, a blog may be a
+			more
+			<lb/>
+			appropriate tool. A blog affords the learner a way to post or &quot;journal&quot; and allows others to
+			comment on each entry.
+			<lb/>
+			The posts are presented in reverse chronological order so students can collaboratively reflect on their most
+			recent
+			<lb/>
+			experiences or scroll down to go back in time for review.
+			<lb/>
+		</p>
+		
+		<p>To determine technology affordances, look at the technology&apos;s functionality. <ref type="table">Table 3
+		</ref> includes questions to think
+			<lb/>
+			about related to both affordances and sustainability.
+			<lb/>
+		</p>
+		
+		<p>There are several ways to lower entry and sustainability barriers. Working with a group of colleagues who are
+			<lb/>
+			committed to trying a new technology can spread the workload and has the advantage of leveraging the skills
+			within
+			<lb/>
+			the group. Group strategies might include asking for help from someone who already successfully used a
+			<lb/>
+			technology or adapting a technology that is already part of someone&apos;s personal life. Team-teaching
+			presents special
+			<lb/>
+			challenges and opportunities. If you team-teach with other faculty, their technology experience and comfort
+			level
+			<lb/>
+			are important and can be an asset or a barrier to successful implementation.
+			<lb/>
+		</p>
+		
+		<p>An example of a technology being implemented based on its affordances was demonstrated by a dental faculty
+			<lb/>
+			member in our technology course who created and evaluated the use of Flickr to share educational dental
+			images. <ref type="biblio">10</ref>
+			<lb/>
+			The project capitalized on this system&apos;s affordances of sharing images and of tagging images with
+			information.
+			<lb/>
+			Tagging adds keywords to images that allow searching. He created a standardized system for tagging the
+			images to
+			<lb/>
+			be useful for dental educators and shared this with his colleagues so they could tag, contribute images, and
+			use the
+			<lb/>
+			resources for teaching.
+			<lb/>
+		</p>
+		
+		<p>In contrast, one of the nursing faculty in the course created a video to teach fundal height measurements and
+			<lb/>
+			Leopold&apos;s maneuvers to nurses in the undergraduate program. While the video format allowed students to
+			watch
+			<lb/>
+			and listen to each step of this procedure, updating the video because of changing guidelines would be time-
+			<lb/>consuming and problematic, making sustainability fairly time-and cost-intensive. An alternative way to
+			create the
+			<lb/>
+			video would be to break it into short segments, thus allowing a single segment to be swapped out if needed.
+			While
+			<lb/>
+			initially more time-consuming to create and edit, it would have made the video easier to update in the
+			future.
+			<lb/>
+		</p>
+		
+		<p>As new technologies become available, questions regarding affordances and sustainability may have to be
+			<lb/>
+			revisited. The act of changing technologies is never completely seamless; the best we can do is to minimize
+			the
+			<lb/>
+			disruption by choosing technologies today with an eye toward updating in the future.
+			<lb/>
+		</p>
+		
+		<head>To Arrive at the Final Implementation, also Consider these steps:
+			<lb/>
+		</head>
+		
+		<p>Formulate behavioral learning objectives -Explicitly stating your learning objectives will help frame the
+			<lb/>
+			technology implementation and guide your evaluation. Learning objectives can fall in the cognitive,
+			affective, and
+			<lb/>
+			psychomotor domains. <ref type="biblio">11-13</ref> Stated course objectives are one source of learning goals. Other sources include
+			program
+			<lb/>
+			outcomes or certification/licensing guidelines. Often, interpersonal skills, such as team collaboration, are
+			not
+			<lb/>
+			explicitly stated as part of course objectives but are nonetheless valid and important goals to achieve.
+			Once you have
+			<lb/>
+			explicit learning goals, these can be referred back to on an ongoing basis during the design and
+			implementation
+			<lb/>
+			decisions. These objectives will be measured during evaluation of the project and student learning.
+			<lb/>
+		</p>
+		
+		<p>Determine learner characteristics -Taking the characteristics of your students into consideration is critical
+			for
+			<lb/>
+			the successful implementation of a new technology. There are a variety of factors that can have an impact on
+			the
+			<lb/>
+			success of your implementation, including students&apos; ability to access technologies, their comfort level
+			with and
+			<lb/>
+			preferences about technologies, and the classroom environment. Although the Pew Center for the Internet and
+			<lb/>
+			American Life has many different questionnaires, no simple questionnaire applicable to the use of emerging
+			<lb/>
+			technologies in education exists. An easy way to discover your students&apos; characteristics is to use a
+			short survey,
+			<lb/>
+			possibly hosted by one of the free survey websites. Important questions, along with age and gender, that we
+			have
+			<lb/>
+			used include the following:
+			<lb/>
+		</p>
+		
+		<figure type="table">What technology devices do you have access to? (Include technologies you are considering using, for
+			example
+			<lb/>
+			an MP3 player if you are considering podcasts)
+			<lb/>
+			Which technologies are you comfortable using? (Include technologies you are considering using, for example
+			an
+			<lb/>
+			MP3 player if you are considering podcasts)
+			<lb/>
+			Where do you learn the material? (Check all that apply) Home School Library Car Other
+			<lb/>
+			Do you have any barriers to using audio and video technology? Yes No If yes, please describe
+			<lb/>
+			.
+			<lb/>
+		</figure>
+		
+		<p>After you&apos;ve implemented, consider these steps:
+			<lb/>
+			Evaluate the implementation -Evaluation is an integral part of incorporating anything into the classroom.
+			<lb/>
+			Kirkpatrick <ref type="biblio">14</ref> describes four sequential levels of evaluation, with information gained from each level
+			informing the
+			<lb/>
+			next level of evaluation. Level one focuses on participant reactions. Personal reflection, collegiate
+			discussion, and
+			<lb/>
+			perusal of students comments on course evaluations are other ways to gauge reaction. Valenza et al <ref type="biblio">10</ref>
+			examined
+			<lb/>
+			usage data and reactions from faculty participants. Level two assesses whether learning is different between
+			two
+			<lb/>
+			different conditions. For example, you might consider administering the same exam to a class using the
+			technology
+			<lb/>
+			and a class not using the technology and then compare exam performance. Orientale et al. <ref type="biblio">15</ref> compared
+			physical
+			<lb/>
+			exam performance of first year medical students who had access to videos of specific skills to the
+			historical
+			<lb/>
+			performance of previous medical school classes. Level three addresses whether the students can transfer the
+			<lb/>
+			behavior, attitude, knowledge, and/or skills learned to a new situation. Level four addresses bottom line
+			results.
+			<lb/>
+			Level four outcomes might include performance on licensing exams, acceptance into residency programs, or
+			<lb/>
+			publication of a peer-reviewed paper. Prokhorov et al. <ref type="biblio">16</ref> examined the impact of A Smoking Prevention
+			Interactive
+			<lb/>
+			Experience (ASPIRE) on smoking initiation, among other outcomes. In general, the time and energy required of
+			the
+			<lb/>
+			faculty member involved in evaluation increases with each level. However, performing at least a level-one
+			<lb/>
+			evaluation is critical to inform the next iteration of technology implementation.
+			<lb/>
+		</p>
+		
+		<p>Another component of technology evaluation is looking at usability. Sample questions that could be evaluated
+			<lb/>
+			relate to use, success with technology, learning, learning efficiency and learning enjoyment.
+			<lb/>
+		</p>
+		
+		<head>Applying eTime to your teaching situation -the Pocket Guide
+			<lb/>
+		</head>
+		
+		<p>Many health science fields use concise pocket guides, or cards, to remind practitioners of the most important
+			<lb/>
+			facts and considerations in a particular situation. In the same spirit, we have created a pocket guide to
+			make
+			<lb/>
+			applying eTIME easier. <ref type="box">Box 1</ref> summarizes the parts of the model using action items. These are presented in a
+			<lb/>
+			linear list with the understanding that technology implementation is an iterative process that can start at
+			any step
+			<lb/>
+			prior to evaluation.
+			<lb/>
+		</p>
+		
+		<head>Box 1 about here
+			<lb/>
+		</head>
+		
+		<head>
+			Conclusion
+			<lb/>
+		</head>
+		
+		<p>The goal of this paper was to give health sciences instructors a review of topics to consider before
+			implementing
+			<lb/>
+			technology in their classrooms. Students in our technology course, many of whom are faculty themselves, were
+			able
+			<lb/>
+			to use these points in creating technology-based learning projects for their students.
+			<lb/>
+		</p>
+		
+		<p>In conclusion, we believe that learning needs to be at the center of any technology implementation. Using
+			<lb/>
+			eTIME provides faculty with a strategic method for the successful implementation of new technologies into
+			their
+			<lb/>
+			classroom environment. It provides a framework for implementing and evaluating whatever technologies could
+			<lb/>
+			emerge in the future.
+			<lb/>
+		</p>
+		
+		<head>Correspondence
+			<lb/>
+		</head>
+		
+		<p>Irmgard U. Willcockson, PhD
+			<lb/>
+			School of Health Information Sciences
+			<lb/>
+			University of Texas Health Science Center at Houston
+			<lb/>
+			7000 Fannin Suite 600
+			<lb/>
+			Houston, TX 77030
+			<lb/>
+			Phone: (713) 500 -3627
+			<lb/>
+			Fax:
+			<lb/>
+			(713) 500-3907
+			<lb/>
+			Email: Irmgard.Willcockson@uth.tmc.edu
+			<lb/>
+		</p>
+		
+		<figure>
+			Figure 1. The eTime Model.
+			<lb/>
+		</figure>
+		
+		<figure type="box">Box 1. Pocket Guide to Implementing Technologies
+			<lb/>
+			* Define a learning goal or problem
+			<lb/>
+			* Consider learning theory
+			<lb/>
+			* Match technology affordance to the goal and theory
+			<lb/>
+			* Formulate learning objectives
+			<lb/>
+			* Determine learner characteristics
+			<lb/>
+			* Evaluate the implementation
+			<lb/>
+		</figure>
+		
+		<figure type="table">Table 1. Comparison of Technology Integration Models
+			<lb/>
+			Model
+			<lb/>
+			Brief Description of
+			<lb/>
+			Model
+			<lb/>
+			Reference
+			<lb/>
+			Content
+			<lb/>
+			Level
+			<lb/>
+			Problem Learning
+			<lb/>
+			Theory
+			<lb/>
+			Technology
+			<lb/>
+			Selection
+			<lb/>
+			Addressed
+			<lb/>
+			Comments
+			<lb/>
+			Assure
+			<lb/>
+			Analyze learners;
+			<lb/>
+			state objectives;
+			<lb/>
+			select media and
+			<lb/>
+			materials; utilize
+			<lb/>
+			media and materials;
+			<lb/>
+			require learner
+			<lb/>
+			participation;
+			<lb/>
+			evaluate and revise
+			<lb/>
+			Heinich et
+			<lb/>
+			al 2
+			<lb/>
+			All
+			<lb/>
+			x
+			<lb/>
+			Technology
+			<lb/>
+			selection not
+			<lb/>
+			linked to
+			<lb/>
+			learning
+			<lb/>
+			problem
+			<lb/>
+			ICARE
+			<lb/>
+			Introduce; connect;
+			<lb/>
+			apply; reflect; extend
+			<lb/>
+			Hoffman
+			<lb/> &amp; Ritchie 3
+			<lb/>
+			Learning
+			<lb/>
+			activity/
+			<lb/>
+			lesson
+			<lb/>
+			x
+			<lb/>
+			x
+			<lb/>
+			Technology
+			<lb/>
+			selection not
+			<lb/>
+			linked to
+			<lb/>
+			learning
+			<lb/>
+			problem
+			<lb/>
+			Generic
+			<lb/>
+			Considers pedagogy,
+			<lb/>
+			social interaction and
+			<lb/>
+			technology
+			<lb/>
+			Wang 4
+			<lb/>
+			Learning
+			<lb/>
+			activity/
+			<lb/>
+			lesson
+			<lb/>
+			x
+			<lb/>
+			x
+			<lb/>
+			Systematic
+			<lb/>
+			Planning
+			<lb/>
+			Linear model consists
+			<lb/>
+			of problem statement;
+			<lb/>
+			learning objectives;
+			<lb/>
+			technology; rationale;
+			<lb/>
+			strategies; assessment
+			<lb/>
+			and reflection
+			<lb/>
+			Wang &amp;<lb/>
+			Woo 5
+			<lb/>
+			All
+			<lb/>
+			x
+			<lb/>
+			x
+			<lb/>
+			3D
+			<lb/>
+			Consists of
+			<lb/>
+			information;
+			<lb/>
+			technology and
+			<lb/>
+			instructional design
+			<lb/>
+			Liu &amp;<lb/>
+			Johnson 1
+			<lb/>
+			All
+			<lb/>
+			x
+			<lb/>
+			x
+			<lb/>
+			Technology
+			<lb/>
+			selection not
+			<lb/>
+			linked to
+			<lb/>
+			learning
+			<lb/>
+			problem or
+			<lb/>
+			theory
+			<lb/>
+			RIPPLES
+			<lb/>
+			Considers resources;
+			<lb/>
+			infrastructure; people;
+			<lb/>
+			policies; learning;
+			<lb/>
+			evaluation and
+			<lb/>
+			support
+			<lb/>
+			Surrey 6
+			<lb/>
+			All
+			<lb/>
+			x
+			<lb/>
+			SECTIONS
+			<lb/>
+			Considers students,
+			<lb/>
+			ease of use and
+			<lb/>
+			reliability; cost;
+			<lb/>
+			teaching and learning;
+			<lb/>
+			interactivity;
+			<lb/>
+			organizational issues;
+			<lb/>
+			novelty; speed
+			<lb/>
+			Bates &amp;<lb/>
+			Poole 7
+			<lb/>
+			All
+			<lb/>
+			x
+			<lb/>
+			Partial
+			<lb/>
+			x
+			<lb/>
+			Technology
+			<lb/>
+			selection not
+			<lb/>
+			linked to
+			<lb/>
+			learning
+			<lb/>
+			theory
+			<lb/>
+			eTIME
+			<lb/>
+			Current
+			<lb/>
+			Paper
+			<lb/>
+			Learning
+			<lb/>
+			activity/
+			<lb/>
+			lesson
+			<lb/>
+			x
+			<lb/>
+			x
+			<lb/>
+			x
+			<lb/>
+			Technology
+			<lb/>
+			selection
+			<lb/>
+			linked
+			<lb/>
+			tightly to
+			<lb/>
+			learning
+			<lb/>
+			theory and
+			<lb/>
+			problem
+			<lb/>
+		</figure>
+		
+		<figure type="table">Table 2. Emerging Technologies Table
+			<lb/>
+			Technology
+			<lb/>
+			Description
+			<lb/>
+			Examples
+			<lb/>
+			Educational Example
+			<lb/>
+			Blog
+			<lb/>
+			A website by one (or more)
+			<lb/>
+			authors with entries made in
+			<lb/>
+			reverse-chronological order
+			<lb/>
+			WordPress
+			<lb/>
+			Blogs can foster reflective
+			<lb/>
+			learning and critical thinking by
+			<lb/>
+			allowing students to make the
+			<lb/>
+			changes in their thinking visible
+			<lb/>
+			Social Network
+			<lb/>
+			An online community that
+			<lb/>
+			supports the sharing of your
+			<lb/>
+			persona, information and
+			<lb/>
+			ideas
+			<lb/>
+			Facebook
+			<lb/>
+			MySpace
+			<lb/>
+			LinkedIn
+			<lb/>
+			Ning
+			<lb/>
+			Social networks can foster
+			<lb/>
+			community and a sense of
+			<lb/>
+			belonging, may also support
+			<lb/>
+			communication to improve
+			<lb/>
+			learning
+			<lb/>
+			Wiki
+			<lb/>
+			A website authored by a
+			<lb/>
+			community, highly
+			<lb/>
+			interlinked and searchable,
+			<lb/>
+			easy to contribute to
+			<lb/>
+			Wetpaint
+			<lb/>
+			A class may use a wiki as a
+			<lb/>
+			collaboratively created
+			<lb/>
+			repository for the knowledge
+			<lb/>
+			students are learning
+			<lb/>
+			Microblogging
+			<lb/>
+			A microblogging text tool
+			<lb/>
+			that sends broadcasts of
+			<lb/>
+			under 140 characters
+			<lb/>
+			Twitter
+			<lb/>
+			Microblogging is useful for
+			<lb/>
+			providing real-time updates,
+			<lb/>
+			short pieces of content or quiz
+			<lb/>
+			questions to students
+			<lb/>
+			Serious Games
+			<lb/>
+			Electronic games that teach
+			<lb/>
+			in addition to being fun and
+			<lb/>
+			motivating
+			<lb/>
+			Whyville (both game and
+			<lb/>
+			virtual world)
+			<lb/>
+			Army of One
+			<lb/>
+			Games can be used by all age
+			<lb/>
+			groups to teach a variety of
+			<lb/>
+			health science content
+			<lb/>
+			Virtual Worlds
+			<lb/>
+			An online environment
+			<lb/>
+			where you are represented
+			<lb/>
+			by an avatar and you can
+			<lb/>
+			explore and communicate
+			<lb/>
+			with others in the world
+			<lb/>
+			Second Life
+			<lb/>
+			World of Warcraft (both
+			<lb/>
+			game and virtual world)
+			<lb/>
+			Virtual worlds are great for
+			<lb/>
+			simulating physical
+			<lb/>
+			environments for learning, such
+			<lb/>
+			as simulating a doctor/patient
+			<lb/>
+			interaction in a virtual clinic
+			<lb/>
+			Content Sharing
+			<lb/>
+			Flickr
+			<lb/>
+			YouTube
+			<lb/>
+			Podcast
+			<lb/>
+			Allows for easy uploading and
+			<lb/>
+			sharing of visual and/or
+			<lb/>
+			auditory content
+			<lb/>
+		</figure>
+		
+		<figure type="table">Table 3. Considerations around affordances and sustainability
+			<lb/>
+			Category
+			<lb/>
+			Questions to Ask
+			<lb/>
+			Affordances
+			<lb/>
+			 Is the technology synchronous or asynchronous?
+			<lb/>
+			 Can it be accessed and used by few or many people?
+			<lb/>
+			 Can it be loaded onto a mobile device or do you need a big screen?
+			<lb/>
+			 Will the users need to download programs or is it a web application?
+			<lb/>
+			Sustainability
+			<lb/>
+			 How easy is it to update the learning material?
+			<lb/>
+			 How widely used is this technology and who supports it? (In general, solutions supported by
+			<lb/>
+			a user community or a large company are less likely to disappear than those created by small
+			<lb/>
+			entrepreneurs.)
+			<lb/>
+			 Can content be exported into another technology if your current solution is no longer
+			<lb/>
+			supported?
+			<lb/>
+		</figure>
+	</text>
+</tei>

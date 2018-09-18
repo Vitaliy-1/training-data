@@ -1,0 +1,1094 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>The principles behind how people respond to heat and conditions which would
+			<lb/>
+			influence health, comfort and human performance have been extensively
+			<lb/>
+			studied and are well understood <ref type="biblio">(1)</ref>. To avoid unacceptable heat strain in
+			<lb/>
+			specific populations and in specific contexts requires the application of those
+			<lb/>
+			principles into guidelines and heat management systems. How to do that is
+			<lb/>
+			not well understood.
+			<lb/>
+		</p>
+		
+		<p>Heat stress is determined by the metabolic heat production of the body,
+			<lb/>
+			which increases with level of activity (even at rest a person produces around
+			<lb/>
+			100 Watts of heat) and the ability to lose heat to the environment so that heat
+			<lb/>
+			stored in the body does not raise body temperature to unacceptable levels.
+			<lb/>
+			Clothing will restrict heat loss (or gain) between the skin and the
+			<lb/>
+			environment, which is determined by air temperature, radiant temperature,
+			<lb/>
+			humidity and air velocity. It is the interaction and combined effect of these
+			<lb/>
+			six factors that determines the level of heat stress.
+			<lb/>
+		</p>
+		
+		<p>Heat strain is a consequence of the response of the body to heat stress.
+			<lb/>
+			Increased heart rate and blood flow to the skin, and sweating can cause
+			<lb/>
+			illness and death in vulnerable people even when internal body temperatures
+			<lb/>
+			are at what would normally be considered to be acceptable levels. Sweating
+			<lb/>
+			can lead to dehydration and as well as increased body temperature can lead
+			<lb/>
+			to collapse, heat stroke and death.
+			<lb/>
+		</p>
+		
+		<p>This paper provides a summary of physiological responses to heat and
+			<lb/>
+			presents methods for reducing heat strain. The aim of the paper is to consider
+			<lb/>
+			the application of knowledge of human response to heat to provide methods
+			<lb/>
+			for maintaining the health, comfort and productivity of people during a
+			<lb/>
+			prolonged and atypical period of hot weather (a heat wave).
+			<lb/>
+		</p>
+		
+		<head>Physiological response to heat
+			<lb/>
+		</head>
+		
+		<p>In heat stress the body temperature may rise and receptors sensitive to
+			<lb/>
+			change in temperature in the skin, muscle, stomach and other areas of the
+			<lb/>
+			central nervous system, as well as in the anterior hypothalamus itself, all send
+			<lb/>
+			signals via the central nervous system to the anterior hypothalamus. The ratio
+			<lb/>
+			of sodium to calcium ions is also monitored. Where temperatures are above
+			<lb/> &apos;set point&apos; levels, blood circulation is controlled in specific areas of the body
+			<lb/>
+			through the sympathetic nervous system which dilates the cutaneous vascular
+			<lb/>
+			bed and hence increases skin blood flow and invokes the sweating
+			<lb/>
+			mechanism if necessary. This provides greater potential for heat to flow from
+			<lb/>
+			the body and hence maintain body temperature. Because the heart cannot
+			<lb/>
+			supply blood to all of the body&apos;s organ systems the autonomic nervous and
+			<lb/>
+			endocrine system control allocation of blood to competing organs.
+			<lb/>
+		</p>
+		
+		<p>During exercise there is an initial sympathetic vasoconstriction so that blood
+			<lb/>
+			may flow to active muscles. If heat is required to be dissipated there is an
+			<lb/>
+			increased cutaneous blood flow. During continuous work, in the heat, central
+			<lb/>
+			nervous blood volume decreases as the cutaneous vessels dilate. The stroke
+			<lb/>
+			volume falls and the heart rate must increase to maintain cardiac output. The
+			<lb/>
+			effective circulatory volume also decreases as water is lost through sweating.
+			<lb/>
+			Sweat glands are stimulated by cholinergic sympathetic nerves and secrete
+			<lb/>
+			sweat onto the surface of the skin. Sweat rates of 1 litre per hour are common
+			<lb/>
+			and for each litre evaporated 675W of heat are lost per hour <ref type="biblio">(2)</ref>. However,
+			<lb/>
+			large sweat losses reduce body water content and hence thermoregulatory
+			<lb/>
+			effectiveness. During sweating salt is lost at about 4 g per litre (1 g per litre in
+			<lb/>
+			acclimatized persons). As a normal diet provides 8 -14 g per day then a
+			<lb/>
+			normal diet is often sufficient. Salt tablets can irritate the stomach and heavier
+			<lb/>
+			use of salt at meals is preferred, but salt supplementation will probably not
+			<lb/>
+			normally be required <ref type="biblio">(2)</ref>. Potassium is also lost in sweat and a high salt intake
+			<lb/>
+			may increase potassium loss. In most cases however potassium will be
+			<lb/>
+			replaced by a normal diet (especially fruit and vegetables).
+			<lb/>
+		</p>
+		
+		<p>The overall physiological response for continued heat storage is therefore
+			<lb/>
+			vasodilatation to increase skin temperature and then sweating leading to
+			<lb/>
+			profuse sweating (including ineffective dripping of some sweat losing
+			<lb/>
+			insignificant heat but important water). As &apos;core&apos; temperature continues to rise
+			<lb/>
+			and the skin is completely wet, hidromeiosis (a reduction in sweating) may
+			<lb/>
+			occur due to swelling and blocking of sweat glands in the wet humid
+			<lb/>
+			conditions <ref type="biblio">(3)</ref>. This is often confused with so-called sweat gland fatigue. The
+			<lb/>
+			decrease in sweating promotes a further, often rapid, increase in &apos;core&apos;<lb/>
+			temperature to beyond 38 -39 °C where collapse may occur to above 41 °C
+			<lb/>
+			(rectal temperature), where heat stroke may occur. There will be mental
+			<lb/>
+			confusion, behavioural changes, failure in central nervous thermoregulation
+			<lb/>
+			and sweating and death with eventual denaturing of body protein. NIOSH
+			<lb/>
+			(1986) <ref type="biblio">(2)</ref> consider age, gender, body fat, drugs (including alcohol) and other
+			<lb/>
+			non-thermal disorders as important individual factors. There is a large
+			<lb/>
+			individual variability in the mechanisms of response, which are not fully
+			<lb/>
+			understood. Physical fitness however, has been shown to be of great
+			<lb/>
+			importance. The mnemonic, &apos;SHAFTS&apos; can be used to advise people how to
+			<lb/>
+			increase tolerance to heat. This is: Sensible (i.e. appropriate behaviour;
+			<lb/>
+			reduce exercise or work activity); Hydrated; Acclimatised; Fit; Thin: and Sober
+			<lb/>
+			(including avoidance of alcohol and other drugs).
+			<lb/>
+		</p>
+		
+		<head>Heat physiology and health
+			<lb/>
+		</head>
+		<p>
+			Leithead and Lind (1964)
+			<ref type="biblio">(4)</ref>
+			conclude that heat disorders occur for one or
+			<lb/>
+			more of three reasons:
+			<lb/>
+		</p>
+		
+		<list>
+			<item>1. the existence of factors such as dehydration or lack of acclimatization;
+				<lb/>
+			</item>
+			<item>
+				2. the lack of proper appreciation of the dangers of heat, either on the part of
+				<lb/>
+				the supervising authority or of the individuals at risk; and
+				<lb/>
+			</item>
+			<item>
+				3. accidental or unforeseen circumstances leading to exposure to very high
+				<lb/>
+				heat stress.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>They conclude that many heat-related deaths can be attributed to neglect and
+			<lb/>
+			lack of consideration and that even when disorders do occur much can be
+			<lb/>
+			done if all the requirements for the correct and prompt remedial treatment are
+			<lb/>
+			available. In climates such as those found in Singapore, military personnel are
+			<lb/>
+			exposed to hot, humid conditions and must carry out essential tasks in
+			<lb/>
+			protective clothing. Although heat stroke will occur, severe consequences
+			<lb/>
+			have been avoided by organizational methods including extensive training of
+			<lb/>
+			personnel and an efficient back-up system to transport casualties rapidly to
+			<lb/>
+			hospital.
+			<lb/>
+		</p>
+		
+		<p>There are a number of classification systems for heat disorders. The
+			<lb/>
+			mechanisms are summarized in <ref type="figure">Figure 1</ref> (5) and a description is provided in
+			<lb/>
+			<ref type="table">Table 1</ref>
+			(6).
+			<lb/>
+		</p>
+		
+		<head>INSERT FIGURE 1 ABOUT HERE
+			<lb/>
+			INSERT TABLE 1 ABOUT HERE
+			<lb/>
+		</head>
+		
+		<p>There are a number of other complaints related to heat exposure. For
+			<lb/>
+			example, in mildly sunburnt skin sweat can be trapped and accumulate under
+			<lb/>
+			the dead surface layer and cause discomfort as well as reducing evaporative
+			<lb/>
+			efficiency. In industries where chemicals and particulates are present in the
+			<lb/>
+			air they may interact with sweat on the skin surface to cause complaints. The
+			<lb/>
+			interaction between chemical substances in the air and a sweating person has
+			<lb/>
+			yet to be fully explored but can be significant. Pollution and poor air quality
+			<lb/>
+			may be an additional hazard along with heat and in combination may cause
+			<lb/>
+			and exacerbate respiratory disorders. Protective clothing and equipment may
+			<lb/>
+			promote sweating and will reduce the ability to evaporate sweat to cool down.
+			<lb/>
+			This will often increase the risk they the clothing is protecting against and
+			<lb/>
+			dangerous levels can occur at what would normally be considered to be
+			<lb/>
+			moderate temperatures.
+			<lb/>
+		</p>
+		
+		<head>Acclimatisation
+			<lb/>
+		</head>
+		
+		<p>Acclimatisation refers to the increased ability of a person to reduce heat strain
+			<lb/>
+			due to experience of exposure to heat. It takes two forms: behavioural and
+			<lb/>
+			physiological. Behavioural acclimatisation is most effective and is mainly
+			<lb/>
+			gained in the context of the heat exposure. If we go to a hot climate we soon
+			<lb/>
+			Parsons<lb/>learn to drink appropriately and keep out of the sun. Physiological
+			<lb/>
+			acclimatisation involves adjustments to our ability to thermoregulate to allow a
+			<lb/>
+			greater capacity for and more efficient vasodilatation and in particular
+			<lb/>
+			sweating. When people become exposed to heat they increase their ability to
+			<lb/>
+			sweat <ref type="biblio">(7)</ref>. Significant changes occur even after only three days of exposure. It
+			<lb/>
+			is possible to gain physiological acclimatisation by exposing people for a few
+			<lb/>
+			hours per day to high levels of heat (e.g. in a laboratory -called acclimation)
+			<lb/>
+			and this is often used as a technique to reduce strain when people are about
+			<lb/>
+			to travel to a hot climate.
+			<lb/>
+		</p>
+		
+		<p>In short, if a person is used to being exposed to heat then they will adjust
+			<lb/>
+			physiologically to some extent and learn how to behave to tolerate the heat. In
+			<lb/>
+			extremely hot tropical environments this &quot;behavioural change&quot; will include a
+			<lb/>
+			reduction of physical activity workload, and an increase of frequency and
+			<lb/>
+			length of rest breaks. If they are not used to the heat and the weather
+			<lb/>
+			suddenly becomes hot then they will be more vulnerable to heat strain.
+			<lb/>
+		</p>
+		
+		<head>Maintaining health in heat waves
+			<lb/>
+		</head>
+		
+		<p>There is no reason why a person should suffer ill health in a heatwave as the
+			<lb/>
+			principles of reducing heat strain are well understood. The requirement is that
+			<lb/>
+			we have adequate management systems based upon these principles.
+			<lb/>
+			Physiological responses to heat have generally been studied on fit young
+			<lb/>
+			males and under conditions that could be regarded as very hot and towards
+			<lb/>
+			the extremes of weather conditions. For less fit and vulnerable people,
+			<lb/>
+			physiological responses such as increased heart rate, prolonged sweating
+			<lb/>
+			and respiratory responses (related to air quality or dryness) will pose a threat.
+			<lb/>
+			Increased body temperature will eventually be a threat to health but it may not
+			<lb/>
+			be the primary cause of illness and death in a heatwave.
+			<lb/>
+		</p>
+		
+		<p>So what do we do to maintain health? We set up a management system to
+			<lb/>
+			ensure that people are not exposed to unacceptable heat stress. Heat stress
+			<lb/>
+			is determined by the interaction of air temperature, radiant temperature, air
+			<lb/>
+			velocity and humidity. It is also greatly influenced by the clothes a person is
+			<lb/>
+			wearing and the activity they are performing. Consideration of these six
+			<lb/>
+			factors must form the basis of any management programme. A full discussion
+			<lb/>
+			of management programme for heat-waves is provided in <ref type="biblio">(8)</ref>. Of particular
+			<lb/>
+			importance will be the availability of household water and electrical power.
+			<lb/>
+			Moving people away from hot homes to cooler areas (e.g. public libraries or
+			<lb/>
+			modern shopping centres) will reduce heat strain but may not be practicable.
+			<lb/>
+			The use of water provides an effective and often practical method of keeping
+			<lb/>
+			cool in the heat. Simply plunging the hands and feet into cool water reduces
+			<lb/>
+			thermal strain. Immersing hands and arms in cool water is a practical way for
+			<lb/>
+			vulnerable people to avoid health problems in the heat. For those with a bath
+			<lb/>
+			tub, running a normal warm bath (e.g. 38 o C water temperature) to half full and
+			<lb/>
+			getting in, then running in cool water to fill the bath allows a non-stressful
+			<lb/>
+			method of keeping cool. The initial warm water will promote vasodilatation and
+			<lb/>
+			will not cause thermal shock, which will occur with cool water and raise blood
+			<lb/>
+			pressure. The slow cooling will not be detected by the body and at around
+			<lb/>
+			30 o C a &apos;cool&apos; bath will greatly enhance heat loss.
+			<lb/>
+		</p>
+		
+		<p>Spraying water on the face or exposed skin and enhancing evaporative
+			<lb/>
+			cooling with fans for example will reduce heat loss even when the air
+			<lb/>
+			temperature is above desired internal body temperature. The direction and
+			<lb/>
+			Parsons
+			<lb/>
+			strength of fans however has to be controlled as evaporation of mucous from
+			<lb/>
+			the airways and moisture from the eyes can cause irritation and respiratory
+			<lb/>
+			problems.
+			<lb/>
+		</p>
+		
+		<p>The use of air conditioning is very effective in reducing air temperature and
+			<lb/>
+			hence thermal strain. It requires electrical power however and if electric grid
+			<lb/>
+			systems cannot meet capacity then lack of power can cause a critical
+			<lb/>
+			problem. The above discussion provides methods for keeping cool in a heat
+			<lb/>
+			wave. It is not exhaustive and the reader is referred to <ref type="biblio">(8)</ref> for a fuller
+			<lb/>
+			discussion.
+			<lb/>
+		</p>
+		
+		<head>Maintaining comfort in heat waves
+			<lb/>
+		</head>
+		
+		<p>Conditions for thermal comfort are well described by Fanger (1970) <ref type="biblio">(9)</ref> and
+			<lb/>
+			were later adopted worldwide in ISO 7730 (2005) <ref type="biblio">(10)</ref>. They are, that for a
+			<lb/>
+			person to be in thermal comfort they must be in heat balance (maintaining
+			<lb/>
+			internal body temperature) and that skin temperatures and sweat rates
+			<lb/>
+			must be within comfort limits. A method is derived from those three
+			<lb/>
+			premises that allows the prediction (from air temperature, radiant temperature,
+			<lb/>
+			air velocity, humidity, clothing and activity) of thermal comfort conditions and
+			<lb/>
+			of any thermal discomfort. The Predicted Mean Vote (PMV) index predicts the
+			<lb/>
+			mean rating of a large group of people exposed to thermal conditions (six
+			<lb/>
+			factors above) on the scale: +3 hot; +2 warm; +1 slightly warm; 0 neutral; -1
+			<lb/>
+			slightly cool; -2 cool; -3 cold. For a given PMV value the Predicted Percentage
+			<lb/>
+			of Dissatisfied (PPD) provides the likely level of dissatisfaction.
+			<lb/>
+		</p>
+		
+		<p>Parsons (2003) <ref type="biblio">(1)</ref> and Hodder and Parsons (2006) <ref type="biblio">(11)</ref> extend
+			the scale
+			<lb/>
+			from 7 to 11 points by adding very hot/cold and extremely hot/cold on either
+			<lb/>
+			end. They then provide a simple rule of thumb method for taking account of
+			<lb/>
+			the direct sun on a person. For every 200Wm -2 of solar radiation (from 0Wm -2
+			<lb/>
+			totally cloudy to 600 blue sky to 1000 absolute maximum) the PMV (now
+			<lb/>
+			PMVsolar) is increased by one scale value. It is emphasised that this rule of
+			<lb/>
+			thumb provides a simplistic practical method which accounts for main effects.
+			<lb/>
+			For a more accurate assessment, direct and diffuse radiation, depending
+			<lb/>
+			upon turbidity and cloudiness, elevation of the sun, posture of the person and
+			<lb/>
+			more, also play a role but involve increasingly complex analysis.
+			<lb/>
+		</p>
+		
+		<p>To take account of the ability for people to change behaviour or adapt to the
+			<lb/>
+			environment, Parsons (2003) <ref type="biblio">(1)</ref> suggested an Iequiv index which allows the
+			<lb/>
+			clothing insulation value, used in the calculation of PMV, to be adjusted to
+			<lb/>
+			take account of the effects of any adaptive opportunities in the environment
+			<lb/>
+			(e.g. ability to reduce clothing, open windows etc). The Iequiv method provides a
+			<lb/>
+			simplistic but direct method of accounting for adaptive opportunities available
+			<lb/>
+			to people. Estimates of adaptive opportunity however remain necessarily
+			<lb/>
+			subjective. There are other, less rational or &apos;causal&apos; adaptive models which
+			<lb/>
+			relate indoor comfort temperatures to outside conditions based upon data
+			<lb/>
+			from thermal comfort surveys. (e.g. 12). The &apos;causal&apos; model assumed in such
+			<lb/>
+			models is that the effects of the adaptive opportunity, such as that used in the
+			<lb/>
+			Iequiv method, are captured in the behaviour of people to outside conditions, for
+			<lb/>
+			example, a reduction in clothing when outside temperatures are high. The Iequiv
+			<lb/>
+			method suggests that a consequence of this is to provide the suggestion that
+			<lb/>
+			for reasonable levels of adaptive opportunity, it will not be necessary to cool
+			<lb/>
+			offices or homes below 25 o C to provide thermal comfort. This measure is
+			<lb/>
+			related to sustainable thermal comfort discussions <ref type="biblio">(13)</ref> and will also have the
+			<lb/>
+			Parsons
+			<lb/>
+			effect of significantly reducing electrical power requirements and hence
+			<lb/>
+			avoiding power failure. It is interesting to note that in Japan a few years ago,
+			<lb/>
+			the government in Tokyo ran a campaign to set a lower limit for cooling offices
+			<lb/>
+			to 28 o C air temperature. The prime minister at the time advised businessmen
+			<lb/>
+			not to wear a tie. The 28 o C limit clearly requires less energy to achieve in hot
+			<lb/>
+			outside conditions than a limit of 25 o C or below, however it is likely to cause
+			<lb/>
+			some discomfort. The practical point is that it is common practice to cool
+			<lb/>
+			rooms to around 20 o C (and often causes cold discomfort) in hot outside
+			<lb/>
+			conditions. This is an unnecessary and inefficient use of energy. An energy
+			<lb/>
+			saving by not cooling below 25 o C would be highly significant world-wide and it
+			<lb/>
+			is generally agreed would still allow thermal comfort.
+			<lb/>
+		</p>
+		
+		<head>Maintaining productivity in heat waves
+			<lb/>
+		</head>
+		
+		<p>The most effective way to maintain human performance and productivity
+			<lb/>
+			during a heatwave will be to provide thermal comfort conditions. This is not
+			<lb/>
+			always possible however and in hot conditions productivity is likely to fall. This
+			<lb/>
+			is by no means certain however and motivation, morale and team spirit will all
+			<lb/>
+			be significant factors. There have been numerous studies into the effects of
+			<lb/>
+			heat on manual dexterity and cognitive performance. The most direct and
+			<lb/>
+			measurable effect on productivity however is &quot;time off task&quot; <ref type="biblio">(1)</ref> caused
+			by
+			<lb/>
+			work having to be stopped or due to heat causing a distraction to people (e.g.
+			<lb/>
+			concentrating or finding fans or adjusting control systems or simply paying
+			<lb/>
+			attention to the heat). This will apply to people in homes, offices and other
+			<lb/>
+			work places. The relationship between the level of distraction caused by heat
+			<lb/>
+			and the level of heat stress is not known. Further investigation is needed if the
+			<lb/>
+			full economic costs of heat waves are to be determined. For practical
+			<lb/>
+			purposes the costs in terms of health and loss in productivity can be weighed
+			<lb/>
+			against the costs of systems for ensuring the avoidance of unacceptable
+			<lb/>
+			thermal strain during heatwaves.
+			<lb/>
+		</p>
+		
+		<head>Conclusions
+			<lb/>
+		</head>
+		
+		<list>
+			<item>
+				1. Much is known about human response to heat and basic principles can
+				<lb/>
+				be used to provide guidance on effective heat management systems.
+				<lb/>
+			</item>
+			<item>
+				2. With electrical power and especially water, it is possible to avoid health
+				<lb/>
+				problems due to heat.
+				<lb/>
+			</item>
+			<item>
+				3. For sedentary and light activities it is not necessary to cool rooms
+				<lb/>
+				below 25 o C to provide thermal comfort.
+				<lb/>
+			
+			</item>
+			<item>
+				4.There is a need to determine the relationships between levels of heat
+				<lb/>
+				stress and how much distraction and time off work it causes.
+				<lb/>
+			</item>
+		</list>
+		
+		<figure type="table">Table 1. Classification, medical aspects and prevention of heat illness
+			<lb/>
+			(from(6) )
+			<lb/>
+			Category and clinical features Predisposing factors
+			<lb/>
+			Underlying physiological
+			<lb/>
+			disturbance
+			<lb/>
+			Treatment
+			<lb/>
+			Prevention
+			<lb/>
+			1. Temperature Regulation Heatstroke
+			<lb/>
+			Heatstroke: (1) Hot dry
+			<lb/>
+			skin usually red, mottled
+			<lb/>
+			or cyanotic; (2) re
+			<lb/>
+			t , 40.5
+			<lb/>
+			°C (104 °F) and over; (3)
+			<lb/>
+			confusion, loss of
+			<lb/>
+			consciousness,
+			<lb/>
+			convulsions, re
+			<lb/>
+			t continues
+			<lb/>
+			to rise; fatal if treatment
+			<lb/>
+			delayed.
+			<lb/>
+			(1) Sustained exertion
+			<lb/>
+			in heat by
+			<lb/>
+			unacclimatized workers;
+			<lb/>
+			(2) Lack of physical
+			<lb/>
+			fitness and obesity; (3)
+			<lb/>
+			Recent alcohol intake;
+			<lb/>
+			(4) Dehydration; (5)
+			<lb/>
+			Individual susceptibility;
+			<lb/>
+			and (6) Chronic
+			<lb/>
+			cardiovascular disease.
+			<lb/>
+			Failure of the central
+			<lb/>
+			drive for sweating
+			<lb/>
+			(cause unknown)
+			<lb/>
+			leading to loss of
+			<lb/>
+			evaporative cooling and
+			<lb/>
+			an uncontrolled
+			<lb/>
+			accelerating rise in re
+			<lb/>
+			t ,
+			<lb/>
+			there may be partial
+			<lb/>
+			rather than complete
+			<lb/>
+			failure of sweating.
+			<lb/>
+			Immediate and rapid
+			<lb/>
+			cooling by immersion in
+			<lb/>
+			chilled water with
+			<lb/>
+			massage or by wrapping
+			<lb/>
+			in wet sheet with vigorous
+			<lb/>
+			fanning with cool dry air,
+			<lb/>
+			avoid overcooling, treat
+			<lb/>
+			shock if present.
+			<lb/>
+			Medical screening of
+			<lb/>
+			workers, selection based
+			<lb/>
+			on health and physical
+			<lb/>
+			fitness, acclimatization
+			<lb/>
+			for 5-7 days by graded
+			<lb/>
+			work and heat exposure,
+			<lb/>
+			monitoring workers
+			<lb/>
+			during sustained work in
+			<lb/>
+			severe heat.
+			<lb/>
+			2. Circulatory Hypostasis Heat Syncope
+			<lb/>
+			Fainting while standing
+			<lb/>
+			erect and immobile in
+			<lb/>
+			heat.
+			<lb/>
+			Lack of acclimatization.
+			<lb/>
+			Pooling of blood in
+			<lb/>
+			dilated vessels of skin
+			<lb/>
+			and lower parts of body.
+			<lb/>
+			Remove to cooler area,
+			<lb/>
+			rest recumbent position,
+			<lb/>
+			recovery prompt and
+			<lb/>
+			complete.
+			<lb/>
+			Acclimatization,
+			<lb/>
+			intermittent activity to
+			<lb/>
+			assist venous return to
+			<lb/>
+			the heart.
+			<lb/>
+			3. Water and/or Salt
+			<lb/>
+			Depletion
+			<lb/>
+			(a) Heat Exhaustion
+			<lb/>
+			(1) Fatigue, nausea,
+			<lb/>
+			headache, giddiness; (2)
+			<lb/>
+			Skin clammy and moist;
+			<lb/>
+			complexion pale, muddy,
+			<lb/>
+			or hectic flush; (3) May
+			<lb/>
+			faint on standing with
+			<lb/>
+			rapid thready pulse and
+			<lb/>
+			low blood pressure; (4)
+			<lb/>
+			Oral temperature normal
+			<lb/>
+			or low but rectal
+			<lb/>
+			temperature usually
+			<lb/>
+			elevated (37.5-38.5 °C)
+			<lb/>
+			(99.5-101.3 °F); water
+			<lb/>
+			restriction type; urine
+			<lb/>
+			volume small, highly
+			<lb/>
+			concentrated; salt
+			<lb/>
+			restriction type; urine less
+			<lb/>
+			concentrated, chlorides
+			<lb/>
+			less than 3 g/l.
+			<lb/>
+			(1) Sustained exertion
+			<lb/>
+			in heat; (2) Lack of
+			<lb/>
+			acclimatization; and (3)
+			<lb/>
+			Failure to replace water
+			<lb/>
+			lost in sweat.
+			<lb/>
+			(1) Dehydration from
+			<lb/>
+			deficiency of water; (2)
+			<lb/>
+			Depletion of circulating
+			<lb/>
+			blood volume; (3)
+			<lb/>
+			Circulatory strain from
+			<lb/>
+			competing demands for
+			<lb/>
+			blood flow to skin and to
+			<lb/>
+			active muscles.
+			<lb/>
+			Remove to cooler
+			<lb/>
+			environment, rest
+			<lb/>
+			recumbent position,
+			<lb/>
+			administer fluids by
+			<lb/>
+			mouth, keep at rest until
+			<lb/>
+			urine volume indicates
+			<lb/>
+			that water balances have
+			<lb/>
+			been restored.
+			<lb/>
+			Acclimatize workers
+			<lb/>
+			using a breaking-in
+			<lb/>
+			schedule for 5 to 7 days,
+			<lb/>
+			supplement dietary salt
+			<lb/>
+			only during
+			<lb/>
+			acclimatization, ample
+			<lb/>
+			drinking water to be
+			<lb/>
+			available at all times and
+			<lb/>
+			to be taken frequently
+			<lb/>
+			during work day.
+			<lb/>
+			(b) Heat Cramps
+			<lb/>
+			Painful spasms of
+			<lb/>
+			muscles used during work
+			<lb/>
+			(arms, legs, or
+			<lb/>
+			abdominal); onset during
+			<lb/>
+			or after work hours.
+			<lb/>
+			(1) heavy sweating
+			<lb/>
+			during hot work; (2)
+			<lb/>
+			Drinking large volumes
+			<lb/>
+			of water without
+			<lb/>
+			replacing salt loss.
+			<lb/>
+			Loss of body salt in
+			<lb/>
+			sweat, water intake
+			<lb/>
+			dilutes electrolytes,
+			<lb/>
+			water enters muscles,
+			<lb/>
+			causing spasm.
+			<lb/>
+			Salted liquids by mouth, or
+			<lb/>
+			more prompt relief by I-V
+			<lb/>
+			infusion.
+			<lb/>
+			Adequate salt intake with
+			<lb/>
+			meals; in unacclimatized
+			<lb/>
+			workers supplement salt
+			<lb/>
+			intake at meals.
+			<lb/>
+			4. Skin Eruptions
+			<lb/>
+			(a) Heat Rash (miliaria rubra; &apos;prickly heat&apos;)
+			<lb/>
+			Profuse tiny raised red
+			<lb/>
+			vesicles (blister-like) on
+			<lb/>
+			affected areas, pricking
+			<lb/>
+			sensations during heat
+			<lb/>
+			exposure.
+			<lb/>
+			Unrelieved exposure to
+			<lb/>
+			humid heat with skin
+			<lb/>
+			continuously wet with
+			<lb/>
+			unevaporated sweat.
+			<lb/>
+			Plugging of sweat gland
+			<lb/>
+			ducts with retention of
+			<lb/>
+			sweat and inflammatory
+			<lb/>
+			reaction.
+			<lb/>
+			Mild drying lotions, skin
+			<lb/>
+			cleanliness to prevent
+			<lb/>
+			infection.
+			<lb/>
+			Cool sleeping quarters to
+			<lb/>
+			allow skin to dry between
+			<lb/>
+			heat exposures.
+			<lb/>
+			(b) Anhydrotic Heat Exhaustion (miliaria profunda)
+			<lb/>
+			Extensive areas of skin
+			<lb/>
+			which do not sweat on
+			<lb/>
+			heat exposure, but
+			<lb/>
+			present gooseflesh
+			<lb/>
+			appearance, which
+			<lb/>
+			subsides with cool
+			<lb/>
+			environments; associated
+			<lb/>
+			with incapacitation in heat.
+			<lb/>
+			Weeks or months of
+			<lb/>
+			constant exposure to
+			<lb/>
+			climatic heat with
+			<lb/>
+			previous history of
+			<lb/>
+			extensive heat rash and
+			<lb/>
+			sunburn.
+			<lb/>
+			Skin trauma (heat rash;
+			<lb/>
+			sunburn) causes sweat
+			<lb/>
+			retention deep in skin,
+			<lb/>
+			reduced evaporative
+			<lb/>
+			cooling causes heat
+			<lb/>
+			intolerance.
+			<lb/>
+			No effective treatment
+			<lb/>
+			available for anhydrotic
+			<lb/>
+			areas of skin, recovery of
+			<lb/>
+			sweating occurs gradually
+			<lb/>
+			in return to cooler climate.
+			<lb/>
+			Treat heat rash and
+			<lb/>
+			avoid further skin trauma
+			<lb/>
+			by sunburn, periodic
+			<lb/>
+			relief from sustained
+			<lb/>
+			heat.
+			<lb/>
+			5. Behavioural Disorders
+			<lb/>
+			(a) Heat Fatigue -<lb/>Transient
+			<lb/>
+			Impaired performance of
+			<lb/>
+			skilled sensorimotor,
+			<lb/>
+			mental, or vigilance tasks,
+			<lb/>
+			in heat.
+			<lb/>
+			Performance decrement
+			<lb/>
+			greater in
+			<lb/>
+			unacclimatized and
+			<lb/>
+			unskilled worker.
+			<lb/>
+			Discomfort and
+			<lb/>
+			physiologic strain.
+			<lb/>
+			Not indicated unless
+			<lb/>
+			accompanied by other
+			<lb/>
+			heat illness.
+			<lb/>
+			Acclimatization and
+			<lb/>
+			training for work in the
+			<lb/>
+			heat.
+			<lb/>
+			(b) Heat Fatigue -<lb/>Chronic
+			<lb/>
+			Reduced performance
+			<lb/>
+			capacity, lowering of self-<lb/>imposed standards of
+			<lb/>
+			social behaviour (e.g.
+			<lb/>
+			alcoholic over-<lb/>indulgence), inability to
+			<lb/>
+			concentrate, etc.
+			<lb/>
+			Workers at risk come
+			<lb/>
+			from temperate
+			<lb/>
+			climates, for long
+			<lb/>
+			residence in tropical
+			<lb/>
+			latitudes.
+			<lb/>
+			Psychosocial stresses
+			<lb/>
+			probably as important
+			<lb/>
+			as heat stress, may
+			<lb/>
+			involve hormonal
+			<lb/>
+			imbalance but no
+			<lb/>
+			positive evidence.
+			<lb/>
+			Medical treatment for
+			<lb/>
+			serious cases, speedy
+			<lb/>
+			relief of symptoms on
+			<lb/>
+			returning home.
+			<lb/>
+			Orientation on life in hot
+			<lb/>
+			regions (customs,
+			<lb/>
+			climate, living conditions,
+			<lb/>
+			etc.).
+			<lb/>
+			Heat Stroke
+			<lb/>
+			Heat Stress
+			<lb/>
+		</figure>
+		
+		<p>Figure 1: Causes of heat stroke (from (5))</p>
+	
+	
+	</text>
+</tei>

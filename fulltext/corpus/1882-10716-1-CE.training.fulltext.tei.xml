@@ -1,0 +1,636 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Background to PMTCT
+			<lb/>
+		</head>
+		
+		<p>
+			HIV and AIDS have caused untold harm and human suffering globally. Over 90% of
+			<lb/>
+			people infected with this deadly virus live in sub-Saharan Africa including Malawi. In
+			<lb/>
+			Malawi, the prevalence of HIV among the child bearing age group <ref type="biblio">(15 -49</ref>) is
+			estimated
+			<lb/>
+			to be at 14% and close to a million people have already died of AIDS related conditions
+			<lb/>
+			<ref type="biblio">(MDHS, 2004</ref>). Women and children are more affected than the rest of the general
+			<lb/>
+			population. HIV infection in children below 15 years is largely due to mother to child
+			<lb/>
+			transmission (MTCT). Worldwide, over 2 million children have got infected through
+			<lb/>
+			MTCT <ref type="biblio">(UNAIDS, 2008)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The high prevalence of HIV among the women is contributed by multiple factors. The
+			<lb/>
+			factors that are responsible for the proliferation of HIV and AIDS in these women include
+			<lb/>
+			tradition, gender inequalities, biological make up, inadequate coverage of health care in
+			<lb/>
+			some areas, distance, failure of women to negotiate on matters regarding sex and poverty
+			<lb/>
+			among others. It is estimated that 18% of the pregnant women in Malawi are infected
+			<lb/>
+			with HIV and this prevalence is relatively high in urban areas as it ranges from 19 -30%
+			<lb/>
+			<ref type="biblio">(MDHS, 2004)</ref>. As a result of this, mother to child transmission of HIV becomes an
+			area
+			<lb/>
+			of concern and calls for the prevention of mother to child transmission of HIV (PMTCT).
+			<lb/>
+		</p>
+		
+		<p>PMTCT was first introduced in 2001 into the ANC as an international initiative and then
+			<lb/>
+			was adopted by different countries in Africa <ref type="biblio">(WHO, 2006; Druce and Nolan, 2007)</ref>.
+			The
+			<lb/>
+			primary aim of the PMTCT programme as put in the guidelines was to decrease the
+			<lb/>
+			number of HIV infected babies born to HIV positive mothers. Primary prevention of HIV
+			<lb/>
+			infection particularly among women of childbearing age has always been the backbone of
+			<lb/>
+			the programme. It is believed that without intervention, up to 50% of babies born from
+			<lb/>
+			HIV positive women get infected through labour, delivery and breast feeding. A number
+			<lb/>
+			of interventions have been aimed at limiting the risk of newborn infections during
+			<lb/>
+			delivery, such as caesarian section as the mode of delivery and administering
+			<lb/>
+			antiretroviral (ARV) drugs prepartum and peripartum and providing alternatives to
+			<lb/>
+			breastfeeding. However, all these approaches are not always possible in developing
+			<lb/>
+			countries and the relative importance of ARV drugs, in particular nevirapine (NVP), has
+			<lb/>
+			been investigated <ref type="biblio">(Sullivan, 2003; Volmink et al., 2007)</ref>.
+			<lb/>
+		</p>
+		
+		<p>HIV testing starting with &apos;opt-in&apos; strategy was introduced in PMTCT programmes in
+			<lb/>
+			2001 following international initiatives, with efforts to reduce MTCT. Opt-in strategy is
+			<lb/>
+			an approach whereby all clients are encouraged to undergo voluntary counseling and
+			<lb/>
+			testing (VCT) at their own will (<ref type="biblio">Perez et al., 2006</ref>). Later, opt-out strategy was
+			adopted
+			<lb/>
+			by many countries in sub-Saharan Africa <ref type="biblio">(CDC, 2004</ref>). The aim was to enable all
+			<lb/>
+			pregnant women to be screened for HIV infection. Screening should occur after a woman
+			<lb/>
+			is notified that HIV screening is recommended for all pregnant women and that she will
+			<lb/>
+			receive an HIV test as part of the routine panel of prenatal tests unless she declines (opt-<lb/>out
+			screening) (<ref type="biblio">Bajunirwe and Muzoora, 2005)</ref>.
+			<lb/>
+		</p>
+		
+		<p>PMTCT programmes adopted different policies to ensure successful intervention of the
+			<lb/>
+			programmes. In 2002, the MTCT-plus Initiative was established which aimed to move
+			<lb/>
+			beyond interventions to prevent infant HIV infection. It does this by supporting the
+			<lb/>
+			provision of specialized care to HIV-infected women, their partners and their children
+			<lb/>
+			who are identified in MTCT programmes <ref type="biblio">(WHO, 2003; Iliff et al, 2005</ref>).
+			<lb/>
+		</p>
+		
+		<p>Much attention has been given to the ARV prophylaxis in developing countries.
+			<lb/>
+		</p>
+		
+		<p>Commonly a single dose of nevirapine 200 mg administered to a woman at the onset of
+			<lb/>
+			labour and a similar drug but in syrup form given to the child within 72 hours after
+			<lb/>
+			delivery reduces infection by 38 -50% <ref type="biblio">(Scarlatti, 2004</ref>). The single use of
+			nevirapine as
+			<lb/>
+			prophylaxis in PMTCT has been recommended by the World Health Organization
+			<lb/>
+			(WHO) and widely adopted by many poor resource countries particularly those in sub-<lb/>Saharan Africa. The
+			common availability of nevirapine and its simplicity in
+			<lb/>
+			administration including the fact that it is cheap with fewer side effects make it
+			<lb/>
+			acceptable, accessible and affordable in poor resource settings. However, the single use
+			<lb/>
+			of nevirapine as prophylaxis in PMTCT programmes has been associated with the
+			<lb/>
+			development of resistance at some stages in the lives of women who eventually receive
+			<lb/>
+			antiretroviral treatment <ref type="biblio">(Lallemant et al., 2004</ref>). It is for this reason that
+			combined
+			<lb/>
+			regimen has been adopted although at the time of conducting the study; nevirapine only
+			<lb/>
+			was being used in PMTCT.
+			<lb/>
+		</p>
+		
+		<head>PMTCT at Malamulo
+			<lb/>
+		</head>
+		
+		<p>Malamulo PMTCT programme was started in July 2004 as part of a national initiative to
+			<lb/>
+			protect more HIV positive pregnant women from transmitting HIV to their babies. With a
+			<lb/>
+			catchment population of 70,000, it was observed that more pregnant women who came to
+			<lb/>
+			Malamulo hospital for the antenatal care tested HIV positive and this was the same at
+			<lb/>
+			national level. As a Christian Health Association of Malawi (CHAM) unit, Malamulo
+			<lb/>
+			hospital is supported by Malawi Government&apos;s Ministry of Health though CHAM like
+			<lb/>
+			any other faith based health facility in Malawi. Malamulo hospital is owned by the
+			<lb/>
+			Seventh Day Adventist Church.
+			<lb/>
+		</p>
+		
+		<p>
+			Both curative and preventive services are offered by this hospital and the integrated
+			<lb/>
+			approach is used to run the preventive services. The services include; voluntary
+			<lb/>
+			counseling and testing (VCT) and synonymously called HIV testing and counseling
+			<lb/>
+			(HTC), management of sexually transmitted infections (STIs), home based care (HBC),
+			<lb/>
+			youth friendly health services (YFHS), family planning (FP), prevention of mother to
+			<lb/>
+			child transmission (PMTCT) of HIV, provision of ARVs, nutrition, static and outreach
+			<lb/>
+			mother and child health (MCH) services. Over the study period, the project was largely
+			<lb/>
+			funded by USAID through local and international NGOs called Umoyo Network and
+			<lb/>
+			later Private Agencies Collaborating Together (PACT Malawi) respectively among other
+			<lb/>
+			donors.
+			<lb/>
+		</p>
+		
+		<p>At that time Malamulo hospital HIV testing services adopted an opt-in approach whereby
+			<lb/>
+			women accessed HIV testing after receiving information if they wished to do so. The
+			<lb/>
+			HIV testing was done at one central point and this was in the out-patient department
+			<lb/>
+			(OPD). Therefore, women in the antenatal care were routinely referred to OPD for HIV
+			<lb/>
+			testing after accessing all the necessary antenatal care. However, it was observed that not
+			<lb/>
+			all antenatal women accessed HIV testing in the OPD regardless of being referred to the
+			<lb/>
+			services and many were lost in the process. It was due to this that HIV testing was
+			<lb/>
+			integrated in the antenatal care as a local initiative so as to capture more women in March
+			<lb/>
+			2005.
+			<lb/>
+		</p>
+		
+		<p>In January 2006, opt-out (routine) HIV testing was started and by this approach, more
+			<lb/>
+			antenatal women accessed HIV testing in the same way they accessed other routine
+			<lb/>
+			antenatal investigations and consequently joined PMTCT programme. Unfortunately,
+			<lb/>
+			maternal services at that time were payable, so much as more antenatal women accessed
+			<lb/>
+			HIV testing and joined PMTCT programme, quite a small proportion of them completed
+			<lb/>
+			full antenatal care and delivered in the hospital.
+			<lb/>
+		</p>
+		
+		<p>In October 2006 free maternal care was introduced at Malamulo also as a national
+			<lb/>
+			initiative to capture and help more marginalized women access maternal care and
+			<lb/>
+			consequently reduce preventable maternal and infant mortality.
+			<lb/>
+		</p>
+		
+		<p>It is only Malamulo hospital that offers comprehensive PMTCT package in the catchment
+			<lb/>
+			area. All antenatal women who test HIV positive are routinely registered into the PMTCT
+			<lb/>
+			programme. These HIV positive women are then subjected to the prescribed PMTCT
+			<lb/>
+			package and this comprises of the following; provision of antiretroviral prophylaxis
+			<lb/>
+			(nevirapine) with advice to be taken at the onset of labour and the child to get the same
+			<lb/>
+			drug in syrup form within 72 hours after delivery, to access hospital delivery and to
+			<lb/>
+			exclusively breast feed the child for six months. The consequences of home delivery as
+			<lb/>
+			well as hospital delivery in relation to PMTCT programme are explained to these women
+			<lb/>
+			to understand why it is important for them to make informed choices. If eligible the
+			<lb/>
+			woman is provided with long term antiretroviral treatment. There is also provision of
+			<lb/>
+			supplementary feeds to the women and their infants when necessary, provision of
+			<lb/>
+			cotrimoxazole to the infants as prophylaxis.
+			<lb/>
+		</p>
+		
+		<p>Further, these women are encouraged to come with their husbands so that they can access
+			<lb/>
+			HIV testing as couples. After delivery, women and their infants are followed up to 18
+			<lb/>
+			months when babies&apos; HIV status is determined. HIV negative babies at 18 months are
+			<lb/>
+			discharged from PMTCT programme and the HIV positive ones are then subjected to
+			<lb/>
+			comprehensive care and investigations such as CD4 counts, hemoglobin, and continuous
+			<lb/>
+			provision of cotrimoxazole as prophylaxis for chest infections and depending on the
+			<lb/>
+			levels of CD4 counts, these infants are put on long term general antiretroviral treatment.
+			<lb/>
+		</p>
+		
+		<head>Why operational research?
+			<lb/>
+		</head>
+		
+		<p>The overall aim of the study was to study the demand and adherence to key components
+			<lb/>
+			of the PMTCT programme.
+			<lb/>
+			A good number of researches continue to be done in various fields but much of their
+			<lb/>
+			applicability remains questionable and if anything they end up in book shelves and an
+			<lb/>
+			award of academic credentials thereof. This study took a different direction all together in
+			<lb/>
+			that not only did it suffice the requirements but also paved a way to improve the reality
+			<lb/>
+			on the ground. It is as a result of this that positive consequences of service delivery
+			<lb/>
+			regarding its acceptability, accessibility as well as affordability by the marginalized rural
+			<lb/>
+			communities have been explored.
+			<lb/>
+		</p>
+		
+		<head>The conducted research in a nutshell
+			<lb/>
+		</head>
+		
+		<p>This study employed a mixture of both quantitative and qualitative approaches. Data
+			<lb/>
+			sources included antenatal care (ANC), PMTCT and delivery registers, structured
+			<lb/>
+			questionnaires, in-depth interviews with HIV positive women in the programme and
+			<lb/>
+			focus group discussions with community members, health care workers and traditional
+			<lb/>
+			birth attendants.
+			<lb/>
+		</p>
+		
+		<p>Three interventions were introduced in the antenatal care (ANC) at the hospital at
+			<lb/>
+			different times. These were HIV testing integrated in the ANC clinic in March 2005, opt-<lb/>out testing in
+			January 2006 and free maternal services in October 2006. A steady increase
+			<lb/>
+			of the service uptake as interventions were being introduced was observed over time.
+			<lb/>
+		</p>
+		
+		<p>HIV testing was generally accepted by the community and women within the
+			<lb/>
+			programme. However positive HIV tests among pregnant women were also experienced
+			<lb/>
+			to cause conflicts and fear within the family. Although hospital deliveries were
+			<lb/>
+			recognized to be safe and clean, home deliveries were common. Lack of transport, spouse
+			<lb/>
+			support and negative attitudes among staff were some of the underlying factors
+			<ref type="biblio">(Kasenga,
+				<lb/>
+				2009)
+			</ref>
+			.
+			<lb/>
+		</p>
+		
+		<head>Research triggered actions
+			<lb/>
+		</head>
+		
+		<p>As a result of this study, the following consequences were arrived at; Ever since PMTCT
+			<lb/>
+			programme got started at Malamulo hospital, very few marginalized women actually
+			<lb/>
+			accessed hospital delivery services despite attending ANC due to financial constraints.
+			<lb/>
+			Coincidentally, with long standing lobbying with Malawi Government through its
+			<lb/>
+			Ministry of Health and district health office (DHO), free maternal care was introduced in
+			<lb/>
+			October 2006. Good proportions of women in general as well as those in the PMTCT
+			<lb/>
+			programme now do access maternity care. This has also beefed up the uptake of HIV
+			<lb/>
+			testing, antiretroviral prophylaxis for the HIV positive women and their infants as well as
+			<lb/>
+			access to general long-term antiretroviral treatment. This has created an opportunity to
+			<lb/>
+			scale up the programme and improve the quality of care given as has been commented by
+			<lb/>
+			other authors <ref type="biblio">(Pai and Klein 2009)</ref>. It is clear that apart from financial constraint as a
+			<lb/>
+			barrier, there are also other challenges that prevent women from accessing the services at
+			<lb/>
+			the hospital.
+			<lb/>
+		</p>
+		
+		<p>Negative attitude of health workers was observed as one of the barriers that prevent
+			<lb/>
+			women from accessing maternity care. Pregnant women in delivery suits would like to be
+			<lb/>
+			treated as human beings with respect and dignity, an observation which was echoed as
+			<lb/>
+			missing among some of the midwives at the health facility&apos;s labour ward. The same
+			<lb/>
+			women preferred home delivery with the assistance of traditional birth attendants to
+			<lb/>
+			hospital delivery due to the warm reception the traditional birth attendants accord them.
+			<lb/>
+		</p>
+		
+		<p>Previous successful home delivery experiences, provision of warm bath, porridge, respect
+			<lb/>
+			and dignity to the women before and after delivery were said to be some of the
+			<lb/>
+			motivating factors for the women to continue having home deliveries. After debriefing
+			<lb/>
+			the study findings to the management, strategies were developed to improve on this. All
+			<lb/>
+			the health workers were involved and issues such as increased workload, less experience
+			<lb/>
+			in labour ward and tradition among other factors, were named as contributing factors to
+			<lb/>
+			negative attitude of health care staff. In response to this the management came up with
+			<lb/>
+			the following strategies:
+			<lb/>
+		</p>
+		
+		<list>
+			<item> Suggestion box was put in maternity ward for the women and interested parties
+				<lb/>
+				to put in their aspirations. These suggestion boxes are reviewed monthly to
+				<lb/>
+				respond to the issues as they arise.
+				<lb/>
+			</item>
+			
+			<item> Monthly and yearly ward performance competitions began so that the best ward
+				<lb/>
+				receives an award as a token of appreciation. There is a committee which has
+				<lb/>
+				been set up to handle this activity.
+				<lb/>
+			</item>
+			
+			<item> Best health worker of the year for each department and should receive awards.
+				<lb/>
+			</item>
+			
+			<item> General staff meetings organised by the management through the human
+				<lb/>
+				resources&apos; office to handle personnel issues including staff attitude to patients in
+				<lb/>
+				general. In such meetings people expressed their opinions and what ought to be
+				<lb/>
+				done to improve the situation. Also staffing issues in such meetings were being
+				<lb/>
+				tackled as health workers expressed concern that they were understaffed.
+				<lb/>
+			</item>
+			
+			<item> The matron&apos;s office took an active role in seeing to it that nurses and midwives
+				<lb/>
+				performed their duties in accordance with their profession and routine meetings
+				<lb/>
+				were held relating to this.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Minimal male involvement in reproductive health care was as well long observed right at
+			<lb/>
+			the inception of the programme. This observation was contrary to the fact that men in this
+			<lb/>
+			study decided for their wives where to access maternal care. It is important to note that
+			<lb/>
+			traditional tendencies in the study area are enshrined in paternalistic approaches, as such
+			<lb/>
+			whatever men decide is firmly held by the general communities particularly women.
+			<lb/>
+		</p>
+		
+		<p>From the time immemorial until the turn of the century, it has been very uncommon to
+			<lb/>
+			see men participating actively in the reproductive health services or rather mother and
+			<lb/>
+			child health (MCH) services in general. This has for a long time disadvantaged not only
+			<lb/>
+			women and the children but also men themselves resulting into poor understanding and
+			<lb/>
+			acceptability of different health issues and family break ups particularly when health
+			<lb/>
+			matters in question require both couples to take actions.
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Based on the study findings, the hospital management through community medicine
+				<lb/>
+				department developed the following strategies to positively address this challenge;
+				<lb/>
+			</item>
+			
+			<item> Women in the ANC to be encouraged to come with their spouses to PMTCT and
+				<lb/>
+				ANC services in general and to participate in what is called &apos;couple
+				<lb/>
+				counselling&apos;before and after undergoing HIV testing.
+				<lb/>
+			</item>
+			
+			<item> Men to be encouraged to come with under five children to the health facility for
+				<lb/>
+				screening, immunisation, growth monitoring just as women routinely do.
+				<lb/>
+			</item>
+			
+			<item> If a man comes alone to the health facility with a sick child or joins his wife to
+				<lb/>
+				access ANC he ought not to be in the queues.
+				<lb/>
+			</item>
+			
+			<item> Males may be encouraged to accompany their wives to the labour ward to see and
+				<lb/>
+				support their wives as they undergo delivery experiences. This is optional as this
+				<lb/>
+				issue is culturally sensitive and few men wish to participate in this way.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>To enforce this, routine meetings with men and women, village headmen and faith based
+			<lb/>
+			leaders continue to be conducted in the communities. In addition, the district health office
+			<lb/>
+			(DHO), various non governmental organisations and funding agencies including USAID
+			<lb/>
+			through Private Agencies Collaborating Together (PACT Malawi) which funded the
+			<lb/>
+			activities in the study area supported the male involvement initiative. However, it is
+			<lb/>
+			encouraging to note that currently, over 10% of women who come to the health facility
+			<lb/>
+			are now being accompanied by their husbands, a move which was not there before.
+			<lb/>
+		</p>
+		
+		<p>The provision of antiretroviral prophylaxis (nevirapine) which was given to the women in
+			<lb/>
+			the PMTCT programme at 32 weeks and above is now given at the first contact with the
+			<lb/>
+			woman during the antenatal care. This is because, it was observed that when nevirapine
+			<lb/>
+			was being given in late pregnancy, there were lots of missing opportunities as some
+			<lb/>
+			women could deliver at home or on the way to the hospital before accessing the
+			<lb/>
+			antiretroviral prophylaxis. This as well resulted into babies not accessing nevirapine as
+			<lb/>
+			per PMTCT programme protocol. Therefore, early administration of antiretroviral
+			<lb/>
+			prophylaxis to women in the PMTCT programme, has improved the accessibility of the
+			<lb/>
+			services.
+			<lb/>
+		</p>
+		
+		<p>The study further explored the opportunities of maximising the various resources at
+			<lb/>
+			different levels namely; health workers at facility, health surveillance assistants (HSAs)
+			<lb/>
+			from the district health office who work both at the health facility as well as at the
+			<lb/>
+			community levels. In addition opinion leaders such as village headmen, faith based
+			<lb/>
+			leaders and community volunteers at community levels were some of the resources that
+			<lb/>
+			were utilized and provided a way of possible decentralisation of the services so as to
+			<lb/>
+			widely reach a good proportion of the population within the studied facility&apos;s catchment
+			<lb/>
+			area.
+			<lb/>
+		</p>
+		
+		<p>The involvement of TBAs in maternity care has always been a contentious issue although
+			<lb/>
+			their home delivery services can not be completely ruled out. There are trained TBAs in
+			<lb/>
+			the area who conduct normal deliveries with minimal or no complications but there has as
+			<lb/>
+			well been a thin line between those who can afford to refer some of the cases they can not
+			<lb/>
+			manage and those who can not. It has also been not clear to establish number of women
+			<lb/>
+			who deliver at the home of trained and untrained TBAs as some of the TBAs do conduct
+			<lb/>
+			their services in secrecy. Although the Malawi Government recognises their participation
+			<lb/>
+			in maternal health but it is clear that their services can be potentially harmful to some of
+			<lb/>
+			the women particularly those at risk. It is as a result of this that officially home delivery
+			<lb/>
+			with the assistance of the TBAs is being discouraged and this calls for all women to
+			<lb/>
+			access maternal care at the health facility.
+			<lb/>
+		</p>
+		
+		<head>Conclusions and recommendations
+			<lb/>
+		</head>
+		
+		<p>Based on the study findings, the following were concluded and recommended; increased
+			<lb/>
+			accessibility and utilisation of maternity care can as well potentially increase the
+			<lb/>
+			coverage of PMTCT services. Free maternity care removes partly the economic
+			<lb/>
+			constraints that prevent marginalised women from accessing the services. Similarly, the
+			<lb/>
+			integration of services into ANC increased the women&apos;s uptake of HIV testing and
+			<lb/>
+			hospital delivery influenced women&apos;s adherence to antiretroviral prophylaxis (NVP).
+			<lb/>
+		</p>
+		
+		<p>Both women as well as the community in general supported institutional delivery.
+			<lb/>
+		</p>
+		
+		<p>Further, by encouraging hospital delivery and male involvement, more PMTCT women
+			<lb/>
+			are likely to adhere to the PMTCT programme and consequently reduce MTCT of HIV.
+			<lb/>
+		</p>
+		
+		<p>Further studies on the quality of care offered in the presence of increased service uptake,
+			<lb/>
+			estimation of true programme coverage and effectiveness are required. Policy makers as
+			<lb/>
+			well as potential donors need to come up with interventions that have positive effects for
+			<lb/>
+			the disadvantaged communities. Operational research provides an opportunity for health
+			<lb/>
+			care institutions to optimise the local implementation of programmes like PMTCT. The
+			<lb/>
+			provision of such research skills should be encouraged by MOHP and donor
+			<lb/>
+			organisations. Service providers at facility and community levels, policy makers at all
+			<lb/>
+			levels, all stakeholders and the communities should see themselves as partners in
+			<lb/>
+			development and should work together to reduce preventable maternal and infant
+			<lb/>
+			mortality including MTCT of HIV.
+		</p>
+	
+	
+	</text>
+</tei>

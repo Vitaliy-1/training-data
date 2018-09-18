@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>Nutrient profiling has been defined as &quot;the science of categorizing foods according to
+			<lb/>
+			their nutritional composition&quot; <ref type="biblio">(1,2)</ref> and &quot;categorization of foods for
+			specific purposes
+			<lb/>
+			on basis of their nutrient composition according to scientific principles&quot; <ref type="biblio">(3)</ref>.
+			Nutrient
+			<lb/>
+			profiling is a highly actual and contemporary topic as there are many areas in which
+			<lb/>
+			nutrient profiling plays a crucial role. Although it is generally agreed that as such,
+			<lb/>
+			there are no &apos;good&apos; or &apos;bad&apos; foods, and that the &apos;overall&apos; mean nutritional
+			quality of
+			<lb/>
+			the daily diet, and a balanced food consumption pattern, are the more important
+			<lb/>
+			determinants of nutritional health, a &apos;healthy&apos; diet requires an informed and healthy
+			<lb/>
+			food choice by the consumer. As such, &apos;healthy eating&apos; logo&apos;s or symbols on the food
+			<lb/>
+			package can be viewed as potential tools to assist consumers in making &apos;the healthy
+			<lb/>
+			choice the easy choice&apos;. Adoption of nutrient profiles might also stimulate the
+			<lb/>
+			development by the food industry of products with an improved nutritional
+			<lb/>
+			composition.
+			<lb/>
+		</p>
+		
+		<p>Some national nutrition authorities, such as from Sweden, The Netherlands, the UK,
+			<lb/>
+			the USA, charities, and food companies have established voluntary/private systems
+			<lb/>
+			for nutrient profiling as a basis for consumer education, and/or for product labeling
+			<lb/>
+			using graphic or symbolic representations to help the consumer to identify &apos;healthier&apos;<lb/>
+			food products food choices at the site and moment of purchase. Nutrient profiling
+			<lb/>
+			schemes have been developed, and are applied in various countries, for different
+			<lb/>
+			purposes:
+			<lb/>
+		</p>
+		
+		<list>
+		
+			<item>-<lb/>As part of a regulatory system to restrict foods to which nutrients may be
+				<lb/>
+				added, and/or from making claims e.g. US <ref type="biblio">(4,5)</ref>, Australia/ New Zealand <ref type="biblio">(6)</ref>, and UK
+				<lb/>
+				(7).
+				<lb/>
+			</item>
+			
+			<item>-<lb/>As part of a voluntary system to help consumers making a &apos;healthy&apos; food
+				<lb/>
+				choice, such as the 1989 Swedish Green Keyhole system <ref type="biblio">(8)</ref>, the 2005 Netherlands
+				<lb/>
+				Nutrition Centre Tripartite classification scheme <ref type="biblio">(9)</ref>, and the 2004 UK &apos;traffic light
+				<lb/>
+				system&apos; <ref type="biblio">(10)</ref>.
+				<lb/>
+			</item>
+			<item>
+				-<lb/>As part of private &apos;healthy eating&apos; logo&apos;s schemes) from charities, especially
+				<lb/>
+				heart foundations, food companies and retail organizations for labeling their branch
+				<lb/>
+				products, such as the &apos;My choice&apos; logo <ref type="biblio">(11)</ref> and the clover logo <ref type="biblio">(12)</ref>. Very recently
+				<lb/>
+				the CIAA (Confederation of the Food and Drink Industries in the EU) launched the
+				<lb/>
+				Guideline Daily Amount (GDA) concept as a tool in product labeling and also
+				<lb/>
+				intended to help consumers making the healthy choice <ref type="biblio">(13)</ref>.
+				<lb/>
+			</item>
+			
+		</list>
+		
+		<p>Hence, nutrient profiling can be done for several purposes such as: 1. the evaluation
+			<lb/>
+			of the nutritional quality of single foods, 2. to help consumers make a &apos;healthy&apos; food
+			<lb/>
+			choices, 3. to regulate the promotion of foods to children, and 4. to identify food
+			<lb/>
+			products eligible to bear a nutrition or health claim. The latter is of particular interest
+			<lb/>
+			in Europe since the publication of EU Regulation 1924/2006 on nutrition and health
+			<lb/>
+			claims made on foods <ref type="biblio">(14)</ref>. Article 4 in that Regulation states that &quot;By… January
+			<lb/>
+			2009, the Commission shall … establish specific nutrient profiles … which food or
+			<lb/>
+			certain categories of food must comply with ….in order to bear nutrition or health
+			<lb/>
+			claims and the conditions for the use of nutrition or health claims for foods or
+			<lb/>
+			categories of foods with respect to the nutrient profiles.&quot; In order to set these nutrient
+			<lb/>
+			profiles the European Commission has requested the European Food Safety Authority
+			<lb/>
+			(EFSA) to provide relevant scientific advise <ref type="biblio">(15)</ref>. In its mandate to EFSA, the
+			<lb/>
+			European Commission requested specific advise on: 1 whether profiles for food in
+			<lb/>
+			general and/or categories of food, 2. what should be the choice and balance of
+			<lb/>
+			nutrients, 3. what should be the choice of reference quantity / basis, 4. what should be
+			<lb/>
+			the approach to the calculation of profiles and 5. the feasibility and testing of a
+			<lb/>
+			proposed system.
+			<lb/>
+		</p>
+		<p>
+			There are many scientific and policy aspects associated with choosing within the
+			<lb/>
+			various nutrient profiling schemes. These will not be discussed here as there are
+			<lb/>
+			already several recent, good and thorough reviews available in this area such as from
+			<lb/>
+			the UK-FSA <ref type="biblio">(1,2,3, 16-18)</ref>, EFSA <ref type="biblio">(19)</ref>, ILSI <ref type="biblio">(3,20-22)</ref>, BEUC <ref type="biblio">(23)</ref>, Sweden <ref type="biblio">(24)</ref>,
+			<lb/>
+			France <ref type="biblio">(25)</ref> and USA <ref type="biblio">(26)</ref>. In these articles/reports full descriptions of the various
+			<lb/>
+			systems with the (dis-)qualifying criteria and nutrients can be found.
+			<lb/>
+		</p>
+		<p>
+			Since nutrient profiling is now highly actual there are many scientific meetings in
+			<lb/>
+			which nutrient profiling is the major or one of the major topics, such as the ILSI
+			<lb/>
+			workshop on nutrient profiling in April 2006 in Mallorca, Spain <ref type="biblio">(3)</ref>, the EFSA
+			<lb/>
+			scientific colloquium on nutrition and health claims in Bologna, Italy in November
+			<lb/>
+			2006 <ref type="biblio">(27)</ref>, and the EFSA scientific colloquium on nutrient profiling in Parma, Italy, in
+			<lb/>
+			October 2007 <ref type="biblio">(28)</ref>.
+			<lb/>
+		</p>
+		
+		<p>In discussing and presenting the various existing nutrient profiling schemes it was our
+			<lb/>
+			experience that it is difficult to maintain an overview over the many systems. To this
+			<lb/>
+			end we developed a simple visual model to illustrate the existing nutrient profiling
+			<lb/>
+			schemes (<ref type="figure">Figure 1</ref>). In this model the various choices that can be made are
+			indicated
+			<lb/>
+			and these are in line with the request in the EU mandate to EFSA <ref type="biblio">(15)</ref>. Choices have
+			<lb/>
+			to be made with respect to several issues and these are not independent from one
+			<lb/>
+			another. So in no particular order the following choices are possible, such as a choice
+			<lb/>
+			between a system based on food categories and/or general, i.e. &apos;across the board, a
+			<lb/>
+			choice between qualifying and/or disqualifying ingredients, and the respective
+			<lb/>
+			qualifying (e.g. vitamin C, fibre, iron, protein, ω-3 PUFA, fruits and vegetables, …)
+			<lb/>
+			and disqualifying constituents (e.g. salt, sugar, saturated fat, trans fat, cholesterol,
+			<lb/>
+			energy, ….), a choice for the reference base, which can be per 100g/100 ml, 100 kcal/
+			<lb/>
+			100 kJ, and/or per reference quantity/serving, and a choice between a scoring system
+			<lb/>
+			or a threshold system. When all the individual choices have been made and agreed
+			<lb/>
+			upon by scientists and policy makers, any system of choices needs to be validated and
+			<lb/>
+			tested.
+			<lb/>
+		</p>
+		
+		<p>When the simple visual model is applied to the existing nutrient profiling schemes, it
+			<lb/>
+			is immediately clear that various bodies have made different choices among the
+			<lb/>
+			existing possibilities <ref type="figure">(Figure 2</ref>). This simple model was eagerly welcomed when
+			<lb/>
+			presented to scientific audiences such as at the recent FENS conference in July 2007,
+			<lb/>
+			in Paris, France <ref type="biblio">(29)</ref> and we have decided to share this simple visual model in the
+			<lb/>
+			public domain.
+			<lb/>
+		</p>
+		
+		<p>Hence, we are happy to share this simple visual model with all those interested in its
+			<lb/>
+			use. Upon official publication of this scheme in this journal, the PowerPoint version
+			<lb/>
+			will be attached to this manuscript. Moreover, we have it upon ourselves to collect
+			<lb/>
+			more schemes for this system. As such, all bodies that have issued nutrient profiling
+			<lb/>
+			schemes can send their version to the authors and upon checking we shall incorporate
+			<lb/>
+			the newest versions in the PowerPoint-version on a regular basis. It can then be used
+			<lb/>
+			by all interested, provided that with every use it is properly referenced. May this
+			<lb/>
+			instrument be helpful in providing and keeping an overview of existing nutrient
+			<lb/>
+			profiling schemes.
+			<lb/>
+		</p>
+		
+		<figure>Legends to the figures
+			<lb/>
+			Figure 1
+			<lb/>
+			A simple visual model to compare existing nutrient profiling schemes; basic figure,
+			<lb/>
+			Figure 2
+			<lb/>
+		</figure>
+		
+		<p>Application of the simple visual model to compare existing nutrient profiling
+			<lb/>
+			schemes; examples from the UK <ref type="figure">(Fig 2a)</ref>, USA <ref type="figure">(Fig 2b)</ref>, The
+			Netherlands
+			<ref type="figure">(Fig 2c)
+				<lb/>
+			</ref>
+			and Sweden <ref type="figure">(Fig 2d)</ref> as well as the private &apos;Ik Kies Bewust&apos;/&apos;Choices&apos;
+			initiative (
+			<ref type="figure">Fig
+				<lb/>
+				2e)
+			</ref>
+			and the Albert Heijn/Ahold retailer&apos;s &apos;clover system&apos; <ref type="figure">(Fig 2f)</ref>.
+			Note: the Dutch
+			<lb/>
+			system will be adapted shortly with sodium as an additional disqualifying criterion.
+		</p>
+	
+	
+	</text>
+</tei>

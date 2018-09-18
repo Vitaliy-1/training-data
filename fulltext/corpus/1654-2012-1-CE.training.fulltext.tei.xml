@@ -1,0 +1,447 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>In recent years there have been great advances in the field of prevention and treatment of
+			<lb/>
+			osteoporosis. New drugs acting on the modelling and remodelling bone process have been
+			<lb/>
+			introduced in the management of osteoporosis <ref type="biblio">(1)</ref>. In osteoporosis, bone mineral
+			density
+			<lb/>
+			(BMD) is decreased partly due to decreased osteoblast bone formation <ref type="biblio">(2)</ref>. The
+			consequences
+			<lb/>
+			of osteoporosis are well known with regard to the risk of fractures <ref type="biblio">(3)</ref>. Especially
+			hip fractures
+			<lb/>
+			are a growing problem world-wide. Half of all women will eventually suffer from a fracture
+			<lb/>
+			after the age of 50 years <ref type="biblio">(4)</ref>. The men are also affected with a 25% fracture risk
+			after the age
+			<lb/>
+			of 50 <ref type="biblio">(4)</ref>. Osteoporosis prevention is therefore of outmost importance. In order to
+			maximize
+			<lb/>
+			BMD focus is laid on pharmacological treatment, e.g. with bisphosphonates. This view has to
+			<lb/>
+			a certain extent decreased the awareness of the importance of energy and nutrients like
+			<lb/>
+			vitamin D and calcium. An adequate intake of these nutrients is also necessary to ensure
+			<lb/>
+			optimal benefit from drugs <ref type="biblio">(5)</ref>. A deficiency of calcium intake in itself is
+			considered to be one
+			<lb/>
+			of the major risk factors for osteoporosis <ref type="biblio">(6)</ref>. Milk and cheese are primary sources
+			of calcium
+			<lb/>
+			and might therefore be expected to have an impact on osteoporotic bone loss and fracture risk
+			<lb/>
+			(7). Many patients fail to consume the minimum recommended daily intake of calcium <ref type="biblio">(8,
+				9)</ref>,
+			<lb/>
+			which in Sweden is 800 mg according to the Nordic Nutrition Recommendation (NNR 2004)
+			<lb/>
+			(10). However, the observed intake in descriptive studies varies between 400-1,500 mg. Low
+			<lb/>
+			calcium intake causes secondary hyperparathyroidism as the calcium homeostasis in blood
+			<lb/>
+			must be kept stable <ref type="biblio">(11,12)</ref>. This causes resorption of calcium from the bone with
+			ensuing
+			<lb/>
+			bone loss and an increased susceptibility to fractures. There is a lack of studies on calcium
+			<lb/>
+			intake in patients with hip fractures. The aim of this study was to estimate the daily intake of
+			<lb/>
+			calcium during four consecutive years in patients with hip fracture in relation to age, gender,
+			<lb/>
+			biochemical markers of nutrition and BMD.
+			<lb/>
+		</p>
+		
+		<head>Material and Methods
+			<lb/>
+		</head>
+		
+		<p>Elderly patients with a low-energy hip fracture were consecutively recruited from a gero-<lb/>orthopaedic
+			ward at the Karolinska University Hospital, Huddinge, awaiting their operations.
+			<lb/>
+			A low energy fracture was defined as a fracture caused by a fall in the same level. Twenty
+			<lb/>
+			consecutive patients were investigated yearly between 2002 and 2004 and 60 patients in 2005,
+			<lb/>
+			totalling 120 patients. Patients were included only if they were above 65 years, able to
+			<lb/>
+			communicate and had a normal cognitive function, i.e. Mini Mental State Examination
+			<lb/>
+			(MMSE) &gt;24 points <ref type="biblio">(13)</ref>. The MMSE is a validated questionnaire used to evaluate
+			cognitive
+			<lb/>
+			function that consists of ten items. Each item is given a score of 0-3 points, at a maximum
+			<lb/>
+			total score of 30 points.
+			<lb/>
+		</p>
+		
+		<p>All patients were asked about their weight and height. The nutritional status of the patients
+			<lb/>
+			was evaluated by body mass index (BMI, kg/m 2 ) and plasma albumin. Blood was sampled
+			<lb/>
+			before the operation for analyses of haemoglobin, C-reactive protein (CRP), total calcium and
+			<lb/>
+			calcium conjugated with albumin. Fifteen patients during 2005 underwent Dual Energy X-ray
+			<lb/>
+			Absorptiometry (DEXA) to evaluate the osteoporotic state by bone mineral density (BMD).
+			<lb/>
+		</p>
+		
+		<head>Data Collection
+			<lb/>
+		</head>
+		
+		<p>The patients were interviewed bedside on the ward one week after the operation and asked
+			<lb/>
+			about their average daily consumption of calcium rich products and their intake of calcium
+			<lb/>
+			supplements before they had had their hip fracture. In order to facilitate the interview with
+			<lb/>
+			these elderly injured patients, we chose to assess dietary calcium intake using a food
+			<lb/>
+			frequency questionnaire modified from a questionnaire previously used by
+			Michaelsson et al
+			<lb/>
+			<ref type="biblio">(14)</ref>. This questionnaire has open questions estimating daily consumption the last 6
+			months of
+			<lb/>
+			dairy products including type of milk and number of glasses of milk, yoghurt, numbers of
+			<lb/>
+			cheese slices per day, but also supplementary calcium intake by calcium tablets with or
+			<lb/>
+			without vitamin D. We used eight predefined frequency categories ranging from &quot;never&quot; or
+			<lb/> &quot;seldom&quot;, to &quot;many times per day&quot;. One glass of milk and a dish of soured milk
+			were
+			<lb/>
+			calculated to contain 200 ml, thus with 232 mg calcium (116 mg/100ml) and a slice of cheese
+			<lb/>
+			was likewise calculated to contain 85 mg calcium according to the Swedish Dairy Association
+			<lb/>
+			<ref type="biblio">(15)</ref>.
+			<lb/>
+		</p>
+		
+		<head>Statistics
+			<lb/>
+		</head>
+		
+		<p>Mean values and standard deviations (SD) were calculated for all variables. Student&apos;s t-test
+			<lb/>
+			was used to compare means between men and women. Otherwise non-parametric statistics
+			<lb/>
+			were used as the number of observations was small and a non-normal distribution was
+			<lb/>
+			probable. Spearman&apos;s rank correlation coefficients were calculated to determine the
+			<lb/>
+			relationship between calcium intake and age, gender and nutritional indicators. Statistical
+			<lb/>
+			significance was accepted at the p&lt; 0.05 level.
+			<lb/>
+		</p>
+		
+		<head>Ethics
+			<lb/>
+		</head>
+		
+		<p>All patients gave their informed consent before participation. The study was approved by the
+			<lb/>
+			ethics committee of Karolinska Institutet, Stockholm (2002-06-12; 02-153)
+			<lb/>
+		</p>
+		
+		<head>Results
+			<lb/>
+		</head>
+		
+		<p>Included in the study were 120 patients, 97 women and 23 men with a mean age of 789
+			<lb/>
+			years (<ref type="table">Table 1 and 2</ref>). The hip fractures were divided in 2 groups with cervical hip
+			fracture
+			<lb/>
+			found in 62 patients (53%) and trochanteric fracture in 58 (48%). <ref type="table">Table 1and 2</ref>  show
+			the Ca
+			<lb/>
+			intake during the whole observation period. The mean daily calcium intake from food was
+			<lb/>
+			685±306 mg (mean  SD) and from supplementation 283372 mg, respectively.
+			<lb/>
+		</p>
+		
+		<p>Consequently, there was a total calcium intake of 968±501 mg. Calcium intake through food
+			<lb/>
+			were below 800 mg per day in 74 patients (62%). A corresponding low intake from food and
+			<lb/>
+			calcium supplementation combined were registered in 46 patients (38%) (<ref type="figure">Figure 1</ref>).
+			<lb/>
+		</p>
+		
+		<p>Altogether fifteen patients had a daily calcium intake lower than 400 mg through food. Fifty-<lb/>five
+			patients (42%) had no calcium supplementation. The laboratory parameters are depicted
+			<lb/>
+			in <ref type="table">Table 1</ref> and there were no correlations to calcium intake.
+			<lb/>
+		</p>
+		
+		<p>There was no significant difference in calcium intake between men and women in total or
+			<lb/>
+			between the individual years (<ref type="table">Table 1</ref> and <ref type="table">Table 2</ref>). However,
+			there was a trend towards lower
+			<lb/>
+			intakes during the last year in the study (<ref type="figure">Figure 2</ref>) and there was a significantly
+			decreased
+			<lb/>
+			calcium intake from food and supplements in men during the last year. There was no
+			<lb/>
+			correlation between calcium intake and age, gender, BMI, plasma calcium or albumin.
+			<lb/>
+		</p>
+		
+		<p>Neither were there any significant difference in calcium intake between patients with cervical
+			<lb/>
+			hip fracture or trochanteric fracture.
+			<lb/>
+		</p>
+		
+		<p>According to the DEXA examinations in 15 patients, 12 patients had osteoporosis, i.e. a T-<lb/>score below
+			-2.5. Two had osteopenia (T score between -1 and -2.5) and one had a normal T-<lb/>score. There was no
+			correlation between calcium intake and BMD.
+			<lb/>
+		</p>
+		
+		<head>Discussion
+			<lb/>
+		</head>
+		
+		<p>In this study on calcium intake in 120 elderly patients with hip fracture during the years 2002-<lb/>05, we
+			found a mean total daily calcium intake of 970 mg of which daily dietary calcium
+			<lb/>
+			through milk, yoghurt and cheese was 686 mg (71%), and the mean daily calcium
+			<lb/>
+			supplementation was 284 mg (29%). More than half of the patients had no supplementation at
+			<lb/>
+			all. Close to 40 % of the patients had a calcium intake below the recommended 800 mg/day.
+			<lb/>
+			There was a tendency to a gradually decreased calcium intake over the four years through
+			<lb/>
+			food with 27% and through supplements with 63%. There was no gender difference in
+			<lb/>
+			calcium intake.
+			<lb/>
+		</p>
+		
+		<p>In the treatment of established osteoporosis, calcium supplementation has mainly a role as a
+			<lb/>
+			general adjuvant therapeutic measure <ref type="biblio">(16,17</ref>). However, several studies have shown
+			that
+			<lb/>
+			calcium supplementation rendering a total calcium intake of 1,200 mg/day may slow the rate
+			<lb/>
+			of bone loss <ref type="biblio">(18)</ref>. Among health care workers it has been difficult to reach a
+			consensus on
+			<lb/>
+			what should be considered as the physiological requirement of daily calcium intake. The
+			<lb/>
+			reality is that for the time being we have no reliable method on which to determine the
+			<lb/>
+			requirement of calcium <ref type="biblio">(10)</ref>. However, the Nordic Nutrition Recommendation (NNR
+			2004)
+			<lb/>
+			has recommended a daily calcium intake of 800 mg <ref type="biblio">(10)</ref>. Due to the high consumption
+			of
+			<lb/>
+			calcium rich foodstuffs like milk and milk products the mean daily calcium intake in the
+			<lb/>
+			Nordic countries is higher than the recommendation for almost all age-groups, i.e. 900-1,200
+			<lb/>
+			mg/day for women and 900-1,400 for men (NNR) <ref type="biblio">(10)</ref>. In contrast, the major
+			proportion of
+			<lb/>
+			the world&apos;s population has a calcium intake below 500 mg/day <ref type="biblio">(10)</ref>, e.g. the
+			intake in Japan is
+			<lb/>
+			400-500 mg/day due to their diet of mainly soybean, small fish with bone and vegetables <ref type="biblio">
+				(19)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The calcium intake is even lower in other Asian countries as well as in Africa. Paradoxically,
+			<lb/>
+			the highest incidence of osteoporotic fractures is found in developed countries with the
+			<lb/>
+			highest calcium intake, arguing in favour of a more complex correlation to fractures than just
+			<lb/>
+			calcium intake.
+			<lb/>
+		</p>
+		
+		<p>According to the findings of our study, the mean calcium intake of patients with a hip fracture
+			<lb/>
+			was sufficient, whereas more than one third of the patients had a suboptimal intake. Several
+			<lb/>
+			studies in the world since 1980 have asserted that calcium intake via food and supplement was
+			<lb/>
+			the best way to prevent and treat osteoporosis and hip fracture. However, the results are
+			<lb/>
+			conflicting <ref type="biblio">(14, 16, 20, 21</ref>). For example, calcium supplementation alone has been
+			reported
+			<lb/>
+			to have a small positive effect on bone density <ref type="biblio">(22)</ref>. On the other hand, calcium
+			<lb/>
+			supplementation was recently shown unlikely to be able to substantially reduce the fracture
+			<lb/>
+			risk <ref type="biblio">(23, 24)</ref>. There are even Dutch results suggesting an increased risk of
+			osteoporotic
+			<lb/>
+			fractures in old age with high life time&apos;s calcium intake <ref type="biblio">(2)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Surprisingly, in our study there was a trend toward a decreased calcium intake during the
+			<lb/>
+			years 2002-2005. We don&apos;t have specific explanations to this finding, but possibly the
+			<lb/>
+			coincidental mass-medial warnings at this time concerning milk consumption and its relation
+			<lb/>
+			to atherosclerosis and cardiovascular disease could be one explanation. Moreover, there were
+			<lb/>
+			discussions of studies on osteoporotic hip fractures in postmenopausal women reported that
+			<lb/>
+			neither milk nor high calcium diet appeared to reduce the risk of fracture <ref type="biblio">(2, 24)</ref>.
+			In countries
+			<lb/>
+			like USA, Italy, and Sweden, it has been suggested that there is almost no correlation between
+			<lb/>
+			calcium intake and osteoporotic hip fracture <ref type="biblio">(14, 20, 25</ref>). In the previously
+			mentioned Dutch
+			<lb/>
+			study it was suggested that Ca might inhibit osteoblast activity in bone tissue <ref type="biblio">(2)</ref>.
+			<lb/>
+		</p>
+		<p>
+			A drawback of our study was that we did not measure the levels of 25-OH-vitamin D, which
+			<lb/>
+			is important to calcium absorption. However, effectiveness of vitamin D alone in fracture
+			<lb/>
+			prevention is unclear <ref type="biblio">(26)</ref>. One study reports no association with fracture risk <ref
+				type="biblio">(14)
+			</ref> while
+			<lb/>
+			others show a sustained effect on fewer hip fractures in institutionalised, frail older people in
+			<lb/>
+			combination with calcium supplements <ref type="biblio">(27)</ref>. Yet another study shows reduced risk of
+			hip
+			<lb/>
+			fractures and other non-vertebral fractures among elderly women with such a combination
+			<lb/>
+			therapy <ref type="biblio">(28)</ref> as well as a study on elderly community dwelling residents <ref
+				type="biblio">(29)</ref>.
+			Furthermore,
+			<lb/>
+			we did not have a matched control group to compare calcium intake with. However, we were
+			<lb/>
+			interested in the hip fracture patients´calciumpatients´calcium intake and the relation to RDI. A French
+			study
+			<lb/>
+			on institutionalized geriatric patients showed a mean calcium intake of 670±258 mg/day <ref type="biblio">
+				(30)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The use of FFQ as the only measure of calcium intake is a weakness of the study. This
+			<lb/>
+			technique was validated by <ref type="biblio">Michaelsson et al (2003)</ref>. In conclusion, this study of
+			patients with
+			<lb/>
+			hip fracture showed that the mean calcium intake was well above the daily recommended
+			<lb/>
+			intake regardless of gender, despite the general dominant incidence of osteoporotic hip
+			<lb/>
+			fracture in women. Still, more than one third of the patients had an intake below what is
+			<lb/>
+			recommended. There were no significant correlations between dietary calcium intake and age,
+			<lb/>
+			gender or nutritional status. We suggest further studies to seek mechanistic explanations to the
+			<lb/>
+			paradox that subjects with sufficient or even high calcium intake still have a high incidence of
+			<lb/>
+			hip fractures
+			<lb/>
+		</p>
+		
+		<figure type="table">Table 1. Demographic, biochemical and calcium intake data in elderly patients with hip
+			fractures through 2002-2005
+			<lb/>
+			Year
+			<lb/>
+			Gender
+			<lb/>
+			Female
+			<lb/>
+			80% (16)
+			<lb/>
+			Male
+			<lb/>
+			20% (4)
+			<lb/>
+			Total
+			<lb/>
+			Female
+			<lb/>
+			65% (13)
+			<lb/>
+			Male
+			<lb/>
+			35% (7)
+			<lb/>
+			Total
+			<lb/>
+			Female
+			<lb/>
+			90% (18)
+			<lb/>
+			Male
+			<lb/>
+			10% (2)
+			<lb/>
+			Total
+			<lb/>
+			Female
+			<lb/>
+			83% (50)
+			<lb/>
+			Male
+			<lb/>
+			17% (10)
+			<lb/>
+			Total
+			<lb/>
+			Age, y<lb/>Figure legends
+			<lb/>
+		</figure>
+		
+		<figure>Fig 1. Total daily calcium intake in 120 hip fracture patients during 2002 to 2005.
+			<lb/>
+		</figure>
+		<figure>
+			Fig 2. Mean calcium intake by food and supplementation in men and women with hip
+			<lb/>
+			fractures through 2002 to 2005.
+		</figure>
+	
+	
+	</text>
+</tei>

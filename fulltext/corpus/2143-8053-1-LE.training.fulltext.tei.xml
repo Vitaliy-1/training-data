@@ -1,0 +1,715 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>INTRODUCTION
+			<lb/>
+		</head>
+		
+		<p>Sleepwalking (somnambulism) is one of the
+			<lb/>
+			sleep disorders known as the parasomnias,
+			<lb/>
+			which are not disorders of the processes
+			<lb/>
+			responsible for sleep but undesirable
+			<lb/>
+			phenomena that occur predominantly during
+			<lb/>
+			sleep. Sleepwalking consists of a series of
+			<lb/>
+			complex behaviours that are initiated during
+			<lb/>
+			slow-wave sleep and result in walking during
+			<lb/>
+			sleep <ref type="biblio">[1]</ref>. It appears in the context of a non-<lb/>rapid
+			<lb/>
+			eye
+			<lb/>
+			movement (NREM)
+			<lb/>
+			sleep.
+			<lb/>
+			Sleepwalking is called a &quot;disorder of arousal&quot;<lb/>
+			because it most often occurs following sudden
+			<lb/>
+			arousal from deep sleep.
+			<lb/>
+		</p>
+		
+		<p>Episodes of sleepwalking vary in complexity
+			<lb/>
+			and can range from simple activities such as
+			<lb/>
+			sitting up in bed to walking and even to violent
+			<lb/>
+			acts. The patient may be difficult to awaken
+			<lb/>
+			and when awakened, is usually confused. The
+			<lb/>
+			patient usually does not remember the events.
+			<lb/>
+			Sleepwalking occurs during slow-wave sleep
+			<lb/>
+			and so is most often evident during the first
+			<lb/>
+			third of the night or during other times of
+			<lb/>
+			increased slow-wave activity, such as after
+			<lb/>
+			sleep deprivation <ref type="biblio">[1,2]</ref>. Homicide or suicide
+			<lb/>
+			during a sleepwalking episode has been
+			<lb/>
+			reported <ref type="biblio">[3]</ref>. The person attempting to awaken
+			<lb/>
+			the patient may be physically attacked <ref type="biblio">[1]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Sleepwalking and night terrors are considered
+			<lb/>
+			manifestations of the same nosologic
+			<lb/>
+			continuum. Both are thought to be due to
+			<lb/>
+			sudden arousal from non-REM sleep <ref type="biblio">[4]</ref>.
+			<lb/>
+			Prevalence rates of these conditions are
+			<lb/>
+			based
+			<lb/>
+			on
+			<lb/>
+			self-reported
+			<lb/>
+			data
+			<lb/>
+			and,
+			<lb/>
+			consequently, are likely to be underestimated
+			<lb/>
+			<ref type="biblio">[5]</ref>.
+			<lb/>
+		</p>
+		
+		<p>The causes of sleepwalking are incompletely
+			<lb/>
+			understood. Genetic factors are said to be
+			<lb/>
+			important in the aetiology of the disorder
+			<lb/>
+			because the prevalence of sleepwalking in
+			<lb/>
+			first-degree relatives of an affected individual
+			<lb/>
+			is at least tenfold greater than in the general
+			<lb/>
+			population <ref type="biblio">[2]</ref>. Family history is very important,
+			<lb/>
+			because the prevalence in children increases
+			<lb/>
+			to 45% if one of the parents is affected and to
+			<lb/>
+			60% if both parents are affected. Twin studies
+			<lb/>
+			too provided support for a possible genetic
+			<lb/>
+			origin of sleepwalking: the concordance rate in
+			<lb/>
+			monozygotic twins is 55% compared with 35%
+			<lb/>
+			in dizygotic twins <ref type="biblio">[2]</ref>.
+			<lb/>
+			Sleepwalking also occurs in Parkinson&apos;s
+			<lb/>
+			disease <ref type="biblio">[6]</ref>, hyperthyroidism <ref type="biblio">[7]</ref>, migraine
+			<ref type="biblio">[8]
+				<lb/>
+			</ref>
+			and following the use of quetiapine <ref type="biblio">[9]</ref> or
+			<lb/>
+			olanzapine <ref type="biblio">[10]</ref>. Diagnosing sleepwalking with
+			<lb/>
+			objective instruments is difficult because
+			<lb/>
+			episodes rarely occur in the laboratory.
+			<lb/>
+		</p>
+		
+		<p>However, evidence suggests that sleepwalkers
+			<lb/>
+			experience a substantial increase in the mean
+			<lb/>
+			frequency
+			<lb/>
+			of
+			<lb/>
+			somnambulistic
+			<lb/>
+			episodes
+			<lb/>
+			following sleep deprivation <ref type="biblio">[11]</ref>. Certain
+			<lb/>
+			studies suggested an association between
+			<lb/>
+			adult sleepwalking and mental disorders, as
+			<lb/>
+			well as between adult sleepwalking and
+			<lb/>
+			psychotropic medications <ref type="biblio">[12,13]</ref>.
+			<lb/>
+		</p>
+		
+		<p>The management of sleepwalking relies on
+			<lb/>
+			safety precautions and drugs <ref type="biblio">[14]</ref>. Safety
+			<lb/>
+			measures include ensuring that the patient
+			<lb/>
+			lives on the ground floor of a house,
+			<lb/>
+			dangerous materials are removed from the
+			<lb/>
+			room, and glass windows are covered with
+			<lb/>
+			thick drapes. Effective drugs include diazepam
+			<lb/>
+			and other benzodiazepines, as well as the
+			<lb/>
+			tricyclic antidepressants.
+			<lb/>
+		</p>
+		
+		<p>Although the prevalence of sleepwalking has
+			<lb/>
+			been documented in certain parts of the world,
+			<lb/>
+			there is not enough information on its
+			<lb/>
+			prevalence and demographic correlates in
+			<lb/>
+			Nigeria. This study was aimed at determining
+			<lb/>
+			the lifetime prevalence and demographic
+			<lb/>
+			correlates of sleepwalking in Ile-Ife, Nigeria.
+			<lb/>
+		</p>
+		
+		<head>MATERIALS AND METHODS
+			<lb/>
+		</head>
+		
+		<p>The study was carried out in the Obafemi
+			<lb/>
+			Awolowo University Teaching Hospitals
+			<lb/>
+			Complex (OAUTHC), Ile-Ife, in Southwestern
+			<lb/>
+			Nigeria. The study was approved by the Ethics
+			<lb/>
+			and Research Committee of the Obafemi
+			<lb/>
+			Awolowo University Teaching Hospitals
+			<lb/>
+			Complex. All participants gave written
+			<lb/>
+			informed consent.
+			<lb/>
+		</p>
+		
+		<p>Ile-Ife is a rapidly growing city in which a
+			<lb/>
+			federal
+			<lb/>
+			university
+			<lb/>
+			(Obafemi
+			<lb/>
+			Awolowo
+			<lb/>
+			University) and a teaching hospital (Obafemi
+			<lb/>
+			Awolowo University Teaching Hospitals
+			<lb/>
+			Complex; OAUTHC) are located. Thus, though
+			<lb/>
+			the city is in the Yoruba-speaking part of
+			<lb/>
+			Nigeria, it is home to people from different
+			<lb/>
+			ethnic groups, many of whom were attracted
+			<lb/>
+			by the educational, medical, commercial,
+			<lb/>
+			farming and other activities.
+			<lb/>
+		</p>
+		
+		<p>The city of Ile-Ife is composed of two local
+			<lb/>
+			government areas (LGA), each with ten
+			<lb/>
+			smaller districts referred to as &apos;wards&apos;. In each
+			<lb/>
+			street or road within a district, one person was
+			<lb/>
+			approached in every third building (house,
+			<lb/>
+			shop or office). Some people refused to
+			<lb/>
+			participate and some were excluded because
+			<lb/>
+			they did not understand the questionnaire.
+			<lb/>
+			Those under the age of 18 years or above the
+			<lb/>
+			age of 60 years were also excluded. Some
+			<lb/>
+			others were excluded because of ill health.
+			<lb/>
+			People who had a history of seizure, loss of
+			<lb/>
+			consciousness or stroke were excluded from
+			<lb/>
+			the study. Twelve (and in some cases 13)
+			<lb/>
+			participants were recruited from each district,
+			<lb/>
+			giving a total of 250 people. All gave their
+			<lb/>
+			consent.
+			<lb/>
+		</p>
+		
+		<p>Five assistants distributed the questionnaire,
+			<lb/>
+			while the author coordinated and oversaw the
+			<lb/>
+			whole exercise. Each of the assistants worked
+			<lb/>
+			in two districts within each local government
+			<lb/>
+			area. Copies of the questionnaires were
+			<lb/>
+			distributed in the first local government area on
+			<lb/>
+			Saturday, 16 th August 2008, and in the second
+			<lb/>
+			area on Saturday, 23 rd August 2008.
+			<lb/>
+			Weekends were chosen for the distribution of
+			<lb/>
+			the questionnaire because they were
+			<lb/>
+			considered the most convenient periods for the
+			<lb/>
+			respondents. The questionnaires were
+			<lb/>
+			distributed between 08:00 and 16:00 hours,
+			<lb/>
+			and the participants were allowed 24 hours to
+			<lb/>
+			consult their spouses, bed partners and
+			<lb/>
+			relatives, after which the completed forms
+			<lb/>
+			were collected.
+			<lb/>
+		</p>
+		
+		<p>All participants were resident in Ile-Ife. They
+			<lb/>
+			were of different ethnic groups and social
+			<lb/>
+			classes and all were literate enough in English
+			<lb/>
+			to be able to understand the description of
+			<lb/>
+			sleepwalking. Due to the complex nature of the
+			<lb/>
+			description of sleepwalking, the questionnaire
+			<lb/>
+			was not translated into local languages.
+			<lb/>
+		</p>
+		
+		<p>The questionnaire elicited information on age,
+			<lb/>
+			sex, marital status, level of education and the
+			<lb/>
+			lifetime prevalence rate of sleepwalking. They
+			<lb/>
+			were required to indicate whether they had
+			<lb/>
+			ever experienced sleepwalking in their lifetime.
+			<lb/>
+			Since people generally do not recall
+			<lb/>
+			sleepwalking episodes, participants were
+			<lb/>
+			urged to verify from their spouses or bed
+			<lb/>
+			partners and other close family members with
+			<lb/>
+			whom they may have lived. The questionnaire
+			<lb/>
+			is reproduced in Annex 1.
+			<lb/>
+		</p>
+		
+		<p>The data were analysed statistically to obtain
+			<lb/>
+			the socio-demographic characteristics of the
+			<lb/>
+			subjects. The number and percentage of those
+			<lb/>
+			who experienced sleepwalking were
+			<lb/>
+			calculated. Significance of differences were
+			<lb/>
+			evaluated with Chi-square test, specifying p &lt;<lb/>
+			0.05 as significant.
+			<lb/>
+		</p>
+		
+		<head>
+			RESULTS
+			<lb/>
+		</head>
+		
+		<p>Of the 250 participants, 18 did not return the
+			<lb/>
+			questionnaire and four were not sure if they
+			<lb/>
+			had experienced sleepwalking, which left 228
+			<lb/>
+			participants: 115 males and 113 females,
+			<lb/>
+			overall ranging in age from 18 to 60 years with
+			<lb/>
+			a mean of 46.3 years and standard deviation
+			<lb/>
+			of 11.6 years. The information on marital
+			<lb/>
+			status and educational level are shown in
+			<lb/>
+			<ref type="table">Table 1</ref>.
+			<lb/>
+		</p>
+		
+		<figure type="table">Table 1: Socio-demographic characteristics of
+			<lb/>
+			the participants.
+			<lb/>
+			Numbe
+			<lb/>
+			r
+			<lb/>
+			Single
+			<lb/>
+			Married
+			<lb/>
+			Separated
+			<lb/>
+			83
+			<lb/>
+			143
+			<lb/>
+			2
+			<lb/>
+			Primary school
+			<lb/>
+			Secondary school
+			<lb/>
+			Post-secondary
+			<lb/>
+			12
+			<lb/>
+			71
+			<lb/>
+			145
+			<lb/>
+		</figure>
+		
+		<p>Sixteen of the 228 participants (7.0%) reported
+			<lb/>
+			having experienced sleepwalking. Twelve of
+			<lb/>
+			the 115 males (10.4%) and four of the 113
+			<lb/>
+			females (3.5%) reported sleepwalking, but the
+			<lb/>
+			difference was not statistically significant (X² =
+			<lb/>
+			3.163, df = 1, p = 0.07). Twelve of the 16
+			<lb/>
+			individuals who had experienced sleepwalking
+			<lb/>
+			(75%) were within the age range of 18-30
+			<lb/>
+			years. Five of the 16 (31.25%) were single
+			<lb/>
+			while 11 (68.75%) were married (X² = 0.041, df
+			<lb/>
+			1, p = 0.84). Two of them (12.5%) had primary
+			<lb/>
+			education, six (37.5%) had secondary
+			<lb/>
+			education and eight (50%) had post secondary
+			<lb/>
+			education (X² = 2.436, df = 2, p = 0.296).
+			<lb/>
+		</p>
+		
+		<head>DISCUSSION
+			<lb/>
+		</head>
+		
+		<p>The results show that sleepwalking is much
+			<lb/>
+			commoner than was once thought, with 7% of
+			<lb/>
+			the participants reporting having experienced
+			<lb/>
+			sleepwalking. Previous studies have reported
+			<lb/>
+			much lower prevalence rates ranging from 2%
+			<lb/>
+			to 3.9% <ref type="biblio">[6,15,16]</ref>. However, the observations
+			<lb/>
+			are consistent with the 1-15% range given by
+			<lb/>
+			the American Academy of Sleep Medicine <ref type="biblio">[1]</ref>.
+			<lb/>
+			The preponderance of males in this study
+			<lb/>
+			(75%) is consistent with previous findings
+			<ref type="biblio">[17-<lb/>20]
+			</ref>
+			.
+			<lb/>
+		</p>
+		
+		<p>The importance of sleepwalking in clinical
+			<lb/>
+			practice cannot be overemphasised. During
+			<lb/>
+			sleepwalking, the individual is in a state of
+			<lb/>
+			partial arousal from early non-REM sleep,
+			<lb/>
+			during which some areas of the brain appear
+			<lb/>
+			to be functioning as in a waking state while
+			<lb/>
+			other areas appear to remain in a state of
+			<lb/>
+			sleep. During an episode of sleepwalking, the
+			<lb/>
+			individual is at risk of sustaining physical
+			<lb/>
+			injuries. The fact that the individual does not
+			<lb/>
+			retain the memory of the event makes the
+			<lb/>
+			experience psychologically very disturbing.
+			<lb/>
+			This makes sleepwalking not just a sleep
+			<lb/>
+			disorder but also a psychological challenge.
+			<lb/>
+			Cases of violence carried out during
+			<lb/>
+			sleepwalking have been reported in the
+			<lb/>
+			forensic literature <ref type="biblio">[3,21,22]</ref>. During the trial of
+			<lb/>
+			such cases, the idea that it is possible to
+			<lb/>
+			engage in dangerous behaviour while
+			<lb/>
+			sleepwalking may be met with a great deal of
+			<lb/>
+			scepticism.
+			<lb/>
+		</p>
+		
+		<p>Sleepwalking can have grave physical,
+			<lb/>
+			psychological and forensic consequences.
+			<lb/>
+			Clinicians evaluating cases of seizure
+			<lb/>
+			disorders should be encouraged to include
+			<lb/>
+			questions concerning behavioural arousal from
+			<lb/>
+			the first hours of sleep without awareness or
+			<lb/>
+			recall of the events. There should be a
+			<lb/>
+			standard procedure to exclude the differential
+			<lb/>
+			diagnoses of sleepwalking, such as complex
+			<lb/>
+			partial seizures, toxic encephalopathy and
+			<lb/>
+			other causes of delirium, and also from REM
+			<lb/>
+			sleep behaviour disorder (RBD) <ref type="biblio">[1]</ref>. REM
+			<lb/>
+			sleep behaviour disorder is a dream-enacting
+			<lb/>
+			disorder with complex and aggressive
+			<lb/>
+			behaviour emerging during REM sleep with
+			<lb/>
+			loss of the usual muscle paralysis of REM
+			<lb/>
+			sleep. Because sleepwalking has also been
+			<lb/>
+			reported in Parkinson&apos;s disease <ref type="biblio">[6]</ref>,
+			<lb/>
+			hyperthyroidism <ref type="biblio">[7]</ref> and migraine <ref type="biblio">[8]</ref>, patients
+			<lb/>
+			suffering from these conditions should be
+			<lb/>
+			properly evaluated for possible occurrence of
+			<lb/>
+			sleepwalking. These measures will facilitate
+			<lb/>
+			early detection and prompt management of
+			<lb/>
+			sleepwalking.
+			<lb/>
+		</p>
+		
+		<p>An obvious limitation of this study is the rather
+			<lb/>
+			small sample size. Another limitation is that the
+			<lb/>
+			questionnaire was not translated into local
+			<lb/>
+			languages; thus only those who were literate in
+			<lb/>
+			English took part. However, the idea was to
+			<lb/>
+			ensure that the participants understand the
+			<lb/>
+			instructions, and at present there are no
+			<lb/>
+			validated translations of the complex
+			<lb/>
+			descriptions of sleepwalking in the local
+			<lb/>
+			languages.
+			<lb/>
+		</p>
+		
+		<p>In conclusion, this study provides preliminary
+			<lb/>
+			data on sleepwalking in the studied population.
+			<lb/>
+			The high prevalence of sleepwalking and its
+			<lb/>
+			male preponderance are noteworthy. Further
+			<lb/>
+			studies on a much larger scale are needed to
+			<lb/>
+			provide more information. Such studies should
+			<lb/>
+			be extended to identify the physical,
+			<lb/>
+			psychological and legal consequences of
+			<lb/>
+			sleepwalking.
+			<lb/>
+		</p>
+		
+		<p>CORRESPONDING AUTHOR:
+			<lb/>
+			Celestine O M, e-mail: celemume2000@yahoo.com
+			<lb/>
+		</p>
+		
+		<figure type="table">
+			Annex 1: Questionnaire on Sleepwalking
+			<lb/>
+			This questionnaire which is in two parts is for research purposes only. Information provided is treated
+			<lb/>
+			with confidentiality, and the respondent remains anonymous. Please read through and provide your
+			<lb/>
+			answers. Thanks for your cooperation.
+			<lb/>
+			PART 1
+			<lb/>
+			Age (in years): ----------------------------<lb/>Sex:
+			<lb/>
+			male
+			<lb/>
+			female
+			<lb/>
+			Marital status: single
+			<lb/>
+			married
+			<lb/>
+			separated
+			<lb/>
+			divorced
+			<lb/>
+			widowed
+			<lb/>
+			Level of Education:
+			<lb/>
+			primary
+			<lb/>
+			secondary
+			<lb/>
+			post secondary
+			<lb/>
+			PART 2
+			<lb/>
+			This questionnaire aims at obtaining information about sleepwalking which is one of the sleep
+			<lb/>
+			disorders. Sleepwalking consists of a series of behaviors that occur during sleep and may range from
+			<lb/>
+			such behaviours as the individual sitting up in bed, walking about, to a display of aggression and
+			<lb/>
+			violence. Such an individual may have caused injuries either to himself/herself, to others or to both
+			<lb/>
+			himself and others. The individual may be difficult to awaken but, when awakened, often is mentally
+			<lb/>
+			confused. The individual usually does not remember the event and depends largely on the account of
+			<lb/>
+			witnesses such as bed partners. It is thus suggested to the participants in this study to please find out
+			<lb/>
+			from their spouses/ bed partners and relatives if this has happened to them (the participants) at least
+			<lb/>
+			once in their lifetime before indicating whether they have experienced sleepwalking or not. Injuries (if
+			<lb/>
+			any) that resulted from such experiences are not part of the current study. INDIVIDUALS KNOWN TO
+			<lb/>
+			BE SUFFERING FROM SEIZURE DISORDER, STROKE OR WHO HAVE SUFFERED FROM LOSS
+			<lb/>
+			OF CONSCIOUSNESS MAY NOT TAKE PART IN THIS STUDY.
+			<lb/>
+			Have you ever experienced sleepwalking in your life? Yes
+			<lb/>
+			No
+			<lb/>
+			Thanks for your participation.
+			<lb/>
+		</figure>
+		
+		<p>To cite this article: Celestine OM. Prevalence of Sleepwalking in an Adult Population. Libyan J Med,
+			<lb/>
+			2010; 5: Article No. 090907.
+		</p>
+	
+	
+	</text>
+</tei>

@@ -1,0 +1,563 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>The under-reporting of maternal deaths is common in both developing and developed
+			<lb/>
+			countries. Even in countries where all or most deaths are medically certified, institutional
+			<lb/>
+			maternal mortality can still be grossly underestimated. Hospital studies have shown that
+			<lb/>
+			routine methods of identifying maternal deaths under-estimate the number by one-half to
+			<lb/>
+			two-thirds <ref type="biblio">[1-4]</ref>, with the main problem being the misclassification of indirect
+			maternal
+			<lb/>
+			deaths as non-maternal.
+			<lb/>
+		</p>
+		
+		<p>Accurate estimates are important for several reasons: it is necessary to define the scale of the
+			<lb/>
+			problem of maternal mortality so that adequate resources can be allocated to address it;
+			<lb/>
+			complete reporting allows all maternal deaths to be audited, so facilitating relevant changes in
+			<lb/>
+			policy and practice; and in the context of evaluation it is essential that any changes
+			<lb/>
+			attributable to an intervention can be quantified precisely.
+			<lb/>
+		</p>
+		
+		<p>The Initiative for Maternal Mortality Programme Assessment (Immpact) project is an
+			<lb/>
+			international research initiative to strengthen the evidence base on cost-effective and
+			<lb/>
+			sustainable safe motherhood interventions (http://www.immpact-international.org/). As part
+			<lb/>
+			of this project, enhanced methods and tools have been developed to measure processes of
+			<lb/>
+			care as well as health outcomes, including maternal mortality. The objectives of the sub-<lb/>component of
+			Immpact reported here was to document the completeness of reporting of
+			<lb/>
+			institutional maternal deaths in two districts of Indonesia and to assess the usefulness of a
+			<lb/>
+			new approach developed by Immpact, called as RAPID (Rapid Ascertainment Process of
+			<lb/>
+			Institutional Deaths) in identifying missing deaths.
+			<lb/>
+		</p>
+		
+		<p>RAPID is a method designed to identify unreported maternal deaths within health facilities,
+			<lb/>
+			and to highlight areas for improvement in routine institutional death reporting. RAPID
+			<lb/>
+			involves reviewing all the health facility records relating to deaths among women of
+			<lb/>
+			reproductive age and subsequently identifying pregnancy-related deaths. This process differs
+			<lb/>
+			from the method routinely used in health facilities to identify pregnancy related deaths
+			<lb/>
+			because the deaths of all women of reproductive age are examined, so the search is not
+			<lb/>
+			limited to obstetric wards, but includes all wards in the hospital where women may be
+			<lb/>
+			patients. This minimizes the possibility of missing pregnancy-related deaths that occur
+			<lb/>
+			outside the obstetric area. RAPID also differs from previous research methods that have
+			<lb/>
+			examined under-reporting by taking information from registers to identify pregnancy-related
+			<lb/>
+			deaths, and only investigating the case notes for deaths that cannot be classified using readily
+			<lb/>
+			available routine sources.
+			<lb/>
+		</p>
+		
+		<p>We also looked at whether it was possible to improve the reporting using existing sources of
+			<lb/>
+			data, and if so where such an improvement should be targeted.
+			<lb/>
+		</p>
+		
+		<head>Methods
+			<lb/>
+		</head>
+		
+		<figure>The data collection was conducted during April-May 2005 in the district hospitals of
+			<lb/>
+			Pandeglang and Serang, in Banten Province, Indonesia. The hospital records of all women
+			<lb/>
+			who had died aged 15-49 years during 2003 and 2004 were checked for evidence of their
+			<lb/>
+			pregnancy-related status. Information was extracted from registers and case notes onto pre-<lb/>tested
+			forms. Before the study commenced ethical approval was obtained from Ethics
+			<lb/>
+			Committee of the University of Indonesia. Each institution also gave written consent before
+			<lb/>
+			data collection began.
+			<lb/>
+		</figure>
+		
+		<p>The definition used to classify deaths as maternal was that the death occurred while a woman
+			<lb/>
+			was pregnant or within 42 days following the end of pregnancy, irrespective of the duration
+			<lb/>
+			and site of the pregnancy, from any cause related to or aggravated by the pregnancy or its
+			<lb/>
+			management but not from accidental or incidental causes <ref type="biblio">[5]</ref>.
+			<lb/>
+		</p>
+		
+		<head>Register review
+			<lb/>
+		</head>
+		
+		<p>Each team, consisting of one medical doctor and a research assistant, identified all the
+			<lb/>
+			possible register sources of information on deaths to 15-49 year old women at each of the
+			<lb/>
+			participating hospitals. There were a total of 12 wards in the two district hospitals where
+			<lb/>
+			women may have died, and in each ward there were various sources of information about the
+			<lb/>
+			cases (e.g. ward registers, nurses&apos; daily reports, and death registers). These sources were
+			<lb/>
+			listed and then searched for deaths, until all deaths among 15-49 year old women were
+			<lb/>
+			recorded with details of the diagnosis and cause of death. Deaths could be recorded in more
+			<lb/>
+			than one register, so it was essential that the information obtained was cross-checked between
+			<lb/>
+			the different registers. Using the information from the registers as many deaths as possible
+			<lb/>
+			were classified as likely &apos;maternal&apos; or &apos;non-maternal.&apos; All the deaths that could not be
+			<lb/>
+			classified as either maternal or non-maternal progressed to the next stage of investigation:
+			<lb/>
+			case note review.
+			<lb/>
+		</p>
+		
+		<head>Case note review
+			<lb/>
+		</head>
+		
+		<p>Case notes were sought for all the women whose pregnancy-related status at time of death
+			<lb/>
+			remained unclear following register review. Information on diagnosis, cause of death,
+			<lb/>
+			treatments, procedures, obstetric history and demographics were extracted with the intention
+			<lb/>
+			of re-classifying these as maternal or non-maternal deaths. The purpose of this extraction was
+			<lb/>
+			not to review clinical management or procedures, but simply to gauge the likelihood that a
+			<lb/>
+			woman was pregnant or recently pregnant when she died. Based on the information extracted
+			<lb/>
+			from the case notes above, data collectors classified the pregnancy-related status of each
+			<lb/>
+			woman.
+			<lb/>
+		</p>
+		
+		<head>Comparison with other data sources:
+			<lb/>
+			Hospitals&apos; routine data sources for maternal death
+			<lb/>
+		</head>
+		
+		<p>The total numbers of maternal deaths reported by the hospitals for the two years period were
+			<lb/>
+			collected from the district health offices (DHOs). Informal discussions with both hospital
+			<lb/>
+			staff and district health office staff were also conducted to obtain a description of the routine
+			<lb/>
+			reporting practices from the hospitals to the district health offices.
+			<lb/>
+		</p>
+		
+		<head>Results
+			<lb/>
+		</head>
+		
+		<p>The register review identified 666 adult female deaths of which 135 were initially classified
+			<lb/>
+			as maternal deaths <ref type="figure">(Figure 1)</ref>. A further 20 maternal deaths were identified
+			following case
+			<lb/>
+			note review, giving a total of 155 maternal deaths identified in the two district hospitals using
+			<lb/>
+			RAPID. Classification for the non-maternal deaths from the register reviews was mostly
+			<lb/>
+			based on the cases diagnosis, such as &apos;severe head injury caused by car accident&apos; and &apos;burns.&apos;<lb/>
+		</p>
+		
+		<p>Of the 453 cases that remained unclassified after register review, 191 (42.2%) had missing
+			<lb/>
+			case notes and could therefore not be subject to further examination. Of the 262 case notes
+			<lb/>
+			that were examined the vast majority, 241 (92%) could not be classified into maternal or non-<lb/>maternal
+			following the review due to incomplete information.
+			<lb/>
+		</p>
+		
+		<figure>
+			(Figure 1)
+			<lb/>
+		</figure>
+		
+		
+		<p>When attempts were made to collect routine figures for maternal deaths it was found that
+			<lb/>
+			hospitals were not in fact routinely reporting deaths to the district health offices. In practice,
+			<lb/>
+			the Maternal Child Health unit staff of the district health offices irregularly collected
+			<lb/>
+			information on maternal deaths directly from the obstetric areas and intensive care unit
+			<lb/>
+			(ICU); this was not a routine process, occurring once every 1-3 months. From the district
+			<lb/>
+			health offices annual record, there were total of 67 maternal deaths reported by the two
+			<lb/>
+			hospitals&apos; routine statistics. This number is less than a half of the number identified by
+			<lb/>
+			RAPID. The routine reports only include deaths from the obstetric wards, delivery room and
+			<lb/>
+			ICU. In this study, 86% of the maternal deaths were found in these three clinical areas, with
+			<lb/>
+			the majority (67.1%) either in the delivery rooms or the obstetric wards <ref type="table">(Table 1)</ref>.
+			<lb/>
+		</p>
+		
+		<figure type="table">
+			(Table 1)
+			<lb/>
+		</figure>
+		
+		<p>
+			<ref type="table">Table 2</ref> shows how direct and indirect obstetric causes of death are distributed
+			between the
+			<lb/>
+			clinical areas. Nearly all of the deaths identified from the obstetric wards and ICU were due
+			<lb/>
+			to direct obstetric causes, while in contrast most of the deaths found on other wards were due
+			<lb/>
+			to indirect causes (73%).
+			<lb/>
+		</p>
+		
+		<figure type="table">
+			(Table 2)
+			<lb/>
+		</figure>
+		
+		<head>Discussion
+			<lb/>
+		</head>
+		
+		<p>Despite our limited ability to compare the RAPID results with the hospitals&apos; routine data
+			<lb/>
+			fairly, (due to incomplete reports from the hospitals), it is reasonable to say that the hospitals&apos;<lb/>
+			routine reports missed considerable numbers of maternal death cases. Furthermore it is likely
+			<lb/>
+			that the true number of maternal deaths was even higher than the number found in this study.
+			<lb/>
+			We consider it likely that our method missed additional maternal deaths due to the lack of
+			<lb/>
+			completeness in recorded information: missing registers, missing case notes or inadequate
+			<lb/>
+			notes written by health providers. Most diagnoses could be coded, but some could not, since
+			<lb/>
+			the health care providers only noted symptoms or conditions. Usually there was inadequate
+			<lb/>
+			information regarding pregnancy-related status for the cases outside the obstetric wards.
+			<lb/>
+		</p>
+		
+		<p>The under-reporting of maternal deaths in the current study was partly due to inadequacies in
+			<lb/>
+			the coverage of the routine reporting system, which only collected maternal deaths from the
+			<lb/>
+			delivery room, the obstetric and ICU wards. Approximately 14% of the cases missed from the
+			<lb/>
+			routine report were identified on non-obstetric wards, and these were mostly indirect
+			<lb/>
+			maternal deaths, although additional direct deaths were also found. There appeared to be poor
+			<lb/>
+			understanding among hospital staff that indirect obstetric deaths should be regarded as
+			<lb/>
+			maternal deaths, and it seems that the possibility of finding maternal deaths on other wards
+			<lb/>
+			was not considered by the hospital authorities. However failure to collect data from non-<lb/>obstetric
+			wards was not the main reason for under-reporting: even on the obstetric and ICU
+			<lb/>
+			wards, the number of cases identified by RAPID, was twice as high as the number in the
+			<lb/>
+			routine hospital report.
+			<lb/>
+		</p>
+		
+		<p>Our findings are similar to those of other studies, both in developing and developed countries.
+			<lb/>
+			A study in Tanzania <ref type="biblio">[6]</ref> assessing the completeness of various information sources
+			and the
+			<lb/>
+			related estimates of maternal mortality found that official statistics only reported two out of
+			<lb/>
+			22 maternal deaths occurring in one facility. Another study conducted in France in 1991
+			<ref type="biblio">[2]
+				<lb/>
+			</ref>
+			found that nearly half of the maternal deaths had not been reported as such on the death
+			<lb/>
+			certificate, and even those that had, may not have been subsequently registered correctly; as a
+			<lb/>
+			result, maternal deaths were underestimated by nearly 50%. Another study conducted in
+			<lb/>
+			Surinam <ref type="biblio">[7]</ref> used a reproductive age mortality survey (RAMOS) in 5 hospitals to
+			identify 85
+			<lb/>
+			cases of maternal death. This was 1.3 times higher than the officially reported 65 cases of
+			<lb/>
+			maternal deaths.
+			<lb/>
+		</p>
+		
+		<p>The inadequate reporting of indirect obstetric deaths is also in concordance with other work.
+			<lb/>
+			A study in Taiwan <ref type="biblio">[8]</ref> found that factors contributing to the under-reporting and
+			<lb/>
+			misclassification of maternal mortality included: care sought for non-obstetric reasons, death
+			<lb/>
+			from non-obstetric causes; care received in private health facilities, and death occurring at
+			<lb/>
+			home with certification by a non-obstetrician-gynecologist. A World Health Organization
+			<lb/>
+			(WHO) report <ref type="biblio">[9]</ref> shows that out of 66 countries reporting vital registration
+			figures for causes
+			<lb/>
+			of maternal death over the period 1992-1993, over half (33 countries) reported no indirect
+			<lb/>
+			deaths at all. Yet the 1997-1999 Confidential Enquiry in the United Kingdom found that
+			<lb/>
+			indirect deaths now account for more maternal deaths than deaths due to direct causes <ref type="biblio">
+				[10]</ref>.
+			<lb/>
+		</p>
+		
+		<p>One of the limitations of the study was that the register review process could not be
+			<lb/>
+			implemented as simply as had been anticipated. The RAPID retrospective process revealed
+			<lb/>
+			that there was no standard format for the registers in each ward, which meant that the type of
+			<lb/>
+			information available varied between registers and the RAPID forms had to be revised. The
+			<lb/>
+			most important consequence of this was that cases could exist in single or multiple registers,
+			<lb/>
+			so there was a need to cross-check cases between registers. The identification of duplicate
+			<lb/>
+			cases between registers had not been adequately considered by the method, as hospital
+			<lb/>
+			identifiers alone proved insufficient (these were often missing). This meant a great deal of
+			<lb/>
+			extra work was involved in going back to registers and case notes to check that extractions
+			<lb/>
+			had not been duplicated. The absence of case note numbers in some registers also meant that
+			<lb/>
+			cases only recorded in such a register could not be followed up.
+			<lb/>
+		</p>
+		
+		<p>The majority of the maternal deaths identified in this study were found at the register review
+			<lb/>
+			stage; future similar studies in this context could consider removing the case note review
+			<lb/>
+			element from the method. This would significantly reduce the resources needed to implement
+			<lb/>
+			the review.
+			<lb/>
+		</p>
+		
+		<head>Conclusions and Recommendations
+			<lb/>
+		</head>
+		
+		<p>The RAPID method found 155 maternal death cases in the two hospitals for the period of
+			<lb/>
+			2003-2004. This is more than twice the number of maternal deaths reported routinely by the
+			<lb/>
+			hospitals. It is likely that the real number of maternal deaths is even higher, as some registers
+			<lb/>
+			and case notes were missing; and because even where they were available, the information
+			<lb/>
+			needed to identify a death as pregnancy-related is not always recorded.
+			<lb/>
+		</p>
+		
+		<p>RAPID highlights possible misunderstandings in what should be regarded as a maternal
+			<lb/>
+			death, and in particular the inclusion of deaths from indirect (non-obstetric) causes. In other
+			<lb/>
+			contexts RAPID has focused on all pregnancy-related deaths <ref type="biblio">[11]</ref>, and this may be
+			preferable,
+			<lb/>
+			considering the difficulty in determining whether particular causes of death are exacerbated
+			<lb/>
+			by pregnancy <ref type="biblio">[12-13]</ref>. However, identifying pregnancy-related deaths means that
+			there is
+			<lb/>
+			greater emphasis attached to the information obtained from case notes, which is a limitation
+			<lb/>
+			given the incompleteness of data on pregnancy status obtained from this source.
+			<lb/>
+		</p>
+		
+		<p>We recommend that DHO and hospital staffs are formally orientated to the definition of
+			<lb/>
+			maternal death, and that non-obstetric wards are included in the collection of data for routine
+			<lb/>
+			reports on maternal mortality. The RAPID process is a practical method that can alert
+			<lb/>
+			hospitals to the magnitude of under-reporting maternal deaths. It also draws attention to
+			<lb/>
+			shortcomings in the quality and storage of case notes, and provides evidence to initiate
+			<lb/>
+			improvements in all these areas. We suggest that regular implementation of RAPID, or its
+			<lb/>
+			integration into the routine hospital information system, could help to monitor improvement
+			<lb/>
+			in reporting, and call on hospitals to improve the quality and storage of registers and case
+			<lb/>
+			notes to facilitate this process.
+			<lb/>
+		</p>
+		
+		<figure type="table">Table 1. Numbers of maternal deaths by clinical area
+			<lb/>
+			Wards
+			<lb/>
+			Number of
+			<lb/>
+			cases
+			<lb/>
+			%
+			<lb/>
+			Delivery room
+			<lb/>
+			61
+			<lb/>
+			39.4
+			<lb/>
+			Obstetric wards
+			<lb/>
+			43
+			<lb/>
+			27.7
+			<lb/>
+			ICU/ICCU
+			<lb/>
+			29
+			<lb/>
+			18.7
+			<lb/>
+			Emergency Room
+			<lb/>
+			9
+			<lb/>
+			5.8
+			<lb/>
+			Internal medicine wards
+			<lb/>
+			8
+			<lb/>
+			5.2
+			<lb/>
+			General
+			<lb/>
+			4
+			<lb/>
+			2.6
+			<lb/>
+			Surgery wards
+			<lb/>
+			1
+			<lb/>
+			0.6
+			<lb/>
+			Total
+			<lb/>
+			155
+			<lb/>
+			100
+			<lb/>
+			Table
+		</figure>
+		
+		<figure type="table">2. Numbers of maternal deaths by direct/indirect cause and by clinical area
+			<lb/>
+			Direct Maternal Indirect Maternal Inconclusive
+			<lb/>
+			Total
+			<lb/>
+			Wards
+			<lb/>
+			N (%)
+			<lb/>
+			N (%)
+			<lb/>
+			N (%)
+			<lb/>
+			N (%)
+			<lb/>
+			Obstetric
+			<lb/>
+			100 (96.2)
+			<lb/>
+			4 (3.8%)
+			<lb/>
+			0 (0)
+			<lb/>
+			104 (67.1)
+			<lb/>
+			ICU
+			<lb/>
+			25 (86.2)
+			<lb/>
+			3 (10.3)
+			<lb/>
+			1 (3.4)
+			<lb/>
+			29 (18.7)
+			<lb/>
+			Other
+			<lb/>
+			3 (13.6)
+			<lb/>
+			16 (72.7)
+			<lb/>
+			3 (13.6)
+			<lb/>
+			22 (14.2)
+			<lb/>
+			Total
+			<lb/>
+			128 (82.6)
+			<lb/>
+			23 (14.8)
+			<lb/>
+			4 (2.6)
+			<lb/>
+			155
+		</figure>
+	
+	
+	</text>
+</tei>

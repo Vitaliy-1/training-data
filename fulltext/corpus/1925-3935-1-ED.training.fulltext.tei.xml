@@ -1,0 +1,338 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>Iodine is a trace element present almost exclusively in the thyroid gland and an
+			<lb/>
+			essential component of the thyroid hormones. When the physiological requirements for
+			<lb/>
+			iodine are not met, a series of functional and developmental abnormalities occur, including
+			<lb/>
+			thyroid function abnormalities. When iodine deficiency is severe, hypothyroidism, endemic
+			<lb/>
+			goiter and cretinism, endemic mental retardation, decreased fertility, increased prenatal death
+			<lb/>
+			and infant mortality may occur <ref type="biblio">(1)</ref>. According to the Nordic Nutrition recommendations the
+			<lb/>
+			average requirement is estimated to be 100µg iodine per day for both adult women and men.
+			<lb/>
+			The recommended intake (RDI) of iodine is 150µg/day for adults and adolescents. An extra
+			<lb/>
+			25µg/day is recommended during pregnancy and extra 50µg/day during lactation to provide
+			<lb/>
+			sufficient iodine in the breast milk <ref type="biblio">(2)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Fish has the highest natural concentration of iodine <ref type="biblio">(3,4,5)</ref>. Analysis on various
+			<lb/>
+			Icelandic fish species showed iodine content in haddock of 191µg/100g, in cod 170µg/100g,
+			<lb/>
+			wild salmon 36µg/100g, and in farmed salmon 30µg/100g <ref type="biblio">(6)</ref>. Marine fish species, low in fat
+			<lb/>
+			have the highest iodine contents <ref type="biblio">(6)</ref>. Cod and haddock (marine fish low in fat) are the most
+			<lb/>
+			common species consumed in Iceland <ref type="biblio">(7,8)</ref>. Kelp is also a good natural source of
+			iodine, but
+			<lb/>
+			is not commonly consumed by Icelanders. Iodized salt is in many countries the main dietary
+			<lb/>
+			source of iodine, particularly in countries where the consumption of seafood is rather poor.
+			<lb/>
+			Iodized salt is not commonly used in Iceland.
+			<lb/>
+		</p>
+		
+		<p>Another important sources of iodine are milk, other dairy products and eggs <ref type="biblio">(3,4,5)</ref>.
+			<lb/>
+			Iodine content of milk and dairy products varies considerably depending on feed and use of
+			<lb/>
+			disinfectants containing iodine in connection with milking <ref type="biblio">(5)</ref>. In Iceland, fish products have
+			<lb/>
+			traditionally been used for animal feeding causing high iodine content in milk and dairy
+			<lb/>
+			products <ref type="biblio">(3)</ref>. The first measurements of iodine concentration in Icelandic milk were
+			<lb/>
+			performed in 1962 <ref type="biblio">(9)</ref> found 21.6 µg/100g which was higher than in Scottish milk analyzed
+			<lb/>
+			for comparison. Analyses from 1997 showed an average concentration of 11.2µg/100g <ref type="biblio">(6)</ref>.
+			<lb/>
+			The reduction of iodine content of milk from 1962 could be explained by the reduction in the
+			<lb/>
+			use of fishmeal as cow fodder. However, it should be noted that estimates of iodine content
+			<lb/>
+			of food in the Icelandic nutrition database are often based on very few samples. Additionally,
+			<lb/>
+			seasonal variations in iodine content of food can be significant <ref type="biblio">(10)</ref>
+			and in the analysis of
+			<lb/>
+			milk from 1997 all samples were collected in November <ref type="biblio">(6)</ref>. For this reason,
+			measurements
+			<lb/>
+			of iodine excretion in urine should be conducted regularly to estimate iodine status rather
+			<lb/>
+			than to depend solely on dietary surveys.
+			<lb/>
+		</p>
+		
+		<head>Iodine status and dietary intake of Icelanders in 1939
+			<lb/>
+		</head>
+		
+		<p>In 1939 Sigurjonsson reported that the thyroid gland in the Icelandic population appeared to
+			<lb/>
+			be very small compared to the commonly accepted normal size in other countries <ref type="biblio">(11)</ref>. The
+			<lb/>
+			first study on nutrition and diet of Icelanders showed that fish as well as dairy products were
+			<lb/>
+			the main iodine sources <ref type="biblio">(12)</ref>. The high consumption of fish, 200g/day on average, was
+			<lb/>
+			considered unique compared to other countries (<ref type="table">Table 1</ref>). Milk and dairy product
+			<lb/>
+			consumption was also high, on average 1000 ml/day. Considering that 100g of fish provides
+			<lb/>
+			on average 180µg/day <ref type="biblio">(6)</ref> and 100 ml of milk around 21µg/day in this period <ref type="biblio">(9)</ref>,
+			<lb/>
+			approximately 570µg of iodine was provided daily through consumption of these products
+			<lb/>
+			<ref type="table">(Table 1)</ref>.This level of consumption is close to the upper safe limit of iodine
+			intake (600
+			<lb/>
+			µg/day) proposed by the Scientific Committee on Food <ref type="biblio">(13)</ref>. However, persons with normal
+			<lb/>
+			thyroid function can in general tolerate a prolonged consumption of iodine up to 1 mg/day
+			<lb/>
+			<ref type="biblio">(14)</ref>, suggesting that the high iodine consumption of the Icelandic population probably did
+			<lb/>
+			not cause any harm.
+			<lb/>
+		</p>
+		
+		<head>Icelandic dietary survey in 1979-1980
+			<lb/>
+		</head>
+		
+		<p>A second diet survey was performed in 1979-80 by the Icelandic Nutrition Council <ref type="biblio">
+			(15)</ref>. In
+			<lb/>
+			the council&apos;s report presenting the main results of the study, food intake was reported as
+			<lb/>
+			percentages of total energy intake. The food group &quot;fish, meat and eggs&quot; provided 20% of the
+			<lb/>
+			energy intake. The average energy intake of women was 1970 kcal/day and for men 2750
+			<lb/>
+			kcal/day, meaning that fish, meat and eggs provided about 400 to 550 kcal per day. Food
+			<lb/>
+			supply data suggest the proportional intake of meat, fish and eggs in 1979 was very similar to
+			<lb/>
+			that in year 2002 <ref type="biblio">(7,16)</ref>. Using this assumption, about 15% of the total energy from the food
+			<lb/>
+			group (fish, meat and eggs) is attributable to fish, and the average fish intake could be
+			<lb/>
+			estimated as around 70 g/day (60 g/day for women and 80 g/day for men), given that 100
+			<lb/>
+			grams provide around 100 kcal <ref type="biblio">(6)</ref> (<ref type="table">Table 1</ref>).
+			<lb/>
+		</p>
+		
+		<p>In the 1979-80 study, milk and dairy products provided 21% of the total energy. Given that
+			<lb/>
+			most of the milk consumed was whole milk providing 68 kcal/100g, the estimated average
+			<lb/>
+			intake of milk and dairy products is 729g/day. This level of intake harmonizes very well with
+			<lb/>
+			data on food supplies in Iceland in 1979, was estimated to be 269 kg/person/year or 737
+			<lb/>
+			g/day <ref type="biblio">(16)</ref>. Interestingly, the authors of the report 1979 mentioned changes in diet habits,
+			<lb/>
+			especially by the younger generation and a risk of nutritional deficiency due to poor diet <ref type="biblio">(15)</ref>.
+			<lb/>
+			The average intake of iodine was estimated to be 336 µg/day, using the same assumptions as
+			<lb/>
+			in the previous section (only based on intake of fish, milk and dairy products).
+			<lb/>
+		</p>
+		
+		<head>Second study of iodine status and the national dietary survey in 1990
+			<lb/>
+		</head>
+		
+		<p>In 1988 a second study of iodine status on Icelanders was performed, including 20 to 59 years
+			<lb/>
+			old individuals showing excellent iodine status with average iodine excretion 395g/L for
+			<lb/>
+			men and 270g/L for women <ref type="biblio">(9)</ref>. In 1990 the Icelandic Nutrition Council conducted a third
+			<lb/>
+			national dietary survey <ref type="biblio">(8)</ref>. The average fish consumption was 73g/day, which was a huge
+			<lb/>
+			drop from the survey in 1939, although similar to the estimated intake in 1979-80 <ref type="table">(Table
+				1)</ref>.
+			<lb/>
+		</p>
+		
+		<p>People above 50 years had the highest fish consumption but the younger generations
+			<lb/>
+			consumed considerably less. The average consumption of milk was 320g/day but on average
+			<lb/>
+			the total consumption of dairy products was 589g/day <ref type="table">(Table 1)</ref>. Although the intake
+			of fish
+			<lb/>
+			and milk had decreased, the average intake of iodine was 299g/day, 365g/day for men and
+			<lb/>
+			238g/day for women (<ref type="table">(Table 1)</ref>. However, the study revealed a group of young women,
+			<lb/>
+			consuming on average less than 22g fish per day, and very low amounts of dairy products as
+			<lb/>
+			well. The average intake of iodine by these young women ranged from 86g/day to
+			<lb/>
+			130g/day which is below the RDI of iodine. These results were the first evidences to reveal
+			<lb/>
+			a certain group in Iceland which could be at risk for iodine deficiency <ref type="biblio">(8)</ref>.
+			<lb/>
+		</p>
+		
+		<head>Iodine status of Icelanders in 1998
+			<lb/>
+		</head>
+		
+		<p>In 1998 the iodine concentration was measured in the urine of 66-70 years old Danes and
+			<lb/>
+			Icelanders <ref type="biblio">(17)</ref>. The results showed that the iodine status of Icelanders was still optimal, on
+			<lb/>
+			average150 µg/L, ranging from 33µg/L to 703µg/L. However, it was lower than in the
+			<lb/>
+			previous studies, indicating changes in dietary habits. It should be noted, however, that this
+			<lb/>
+			study only included elderly individuals and not the group of young women suspected to be at
+			<lb/>
+			risk of iodine deficiency in the dietary survey 1990 <ref type="biblio">(8)</ref>. Data collection is ongoing to study
+			<lb/>
+			further iodine status of young women (16-20 years old) and pregnant women in Iceland,
+			<lb/>
+			where both iodine intake and urinary iodine excretion will be estimated.
+			<lb/>
+		</p>
+		
+		<head>Major changes in dietary habits -national dietary survey 2002
+			<lb/>
+		</head>
+		
+		<p>The latest dietary survey was performed by the Icelandic Public Health Institute (former
+			<lb/>
+			Nutrition Coucil) in 2002 and the results showed quite extensive changes in food
+			<lb/>
+			consumption, compared with the survey in 1990 <ref type="biblio">(7,8)</ref>. Fish consumption was only 40g/day
+			<lb/>
+			on average <ref type="table">(Table 1)</ref>. As in 1990 the intake of fish was split by generations, the
+			younger
+			<lb/>
+			people consumed three times less fish than the oldest people and the young women consumed
+			<lb/>
+			the smallest serving of fish of all participants, only 15g/day, and 23% of young women (15-<lb/>19 years)
+			consumed fish less than once a week. Milk consumption was also considerably
+			<lb/>
+			lower than before, 185g/day on average. However, the average consumption of other dairy
+			<lb/>
+			products seemed to have increased resulting in an average intake of milk and dairy products
+			<lb/>
+			corresponding to 388g/day <ref type="table">(Table 1)</ref>. Those consuming least dairy were young women
+			(15-<lb/>19 years), where 17% consumed dairy products less than once a day.
+			<lb/>
+		</p>
+		
+		<p>The average iodine intake by men was 196g/day and by women 135g/day. On
+			<lb/>
+			average young women (15-19 years) only obtained 2/3 of RDI for iodine from the diet.
+			<lb/>
+			Similar trends presumably due to reduction of fish intake and milk consumption have been
+			<lb/>
+			seen in studies on children and adolescents in Iceland where up to 44% of 15 year-old
+			<lb/>
+			adolescents were estimated to be at risk of iodine deficiency due to low intake of fish and
+			<lb/>
+			dairy products <ref type="biblio">(18)</ref>. Very low fish intake has also been seen in young overweight Icelanders
+			<lb/>
+			<ref type="biblio">(19)</ref>.
+			<lb/>
+		</p>
+		
+		<head>Is there a need for action?
+			<lb/>
+		</head>
+		
+		<p>Both dietary intake and composition of food is in continuous changes, and an example is
+			<lb/>
+			Icelandic milk where the iodine concentration has decreased by 48% from 1962 to 1997
+			<lb/>
+			<ref type="biblio">(6,9,)</ref>. Milk intake has also decreased in the same period <ref type="biblio">(7,8,12,15)</ref>. Therefore
+			follow up
+			<lb/>
+			studies are essential to evaluate dietary intake and nutrient status on regular basis and in
+			<lb/>
+			Iceland a study on iodine status of young women is essential.
+			<lb/>
+		</p>
+		
+		<p>The latest dietary survey, from 2002, showed the diet to have become more similar to
+			<lb/>
+			the diet in other European countries and the consumption of fish and dairy products had
+			<lb/>
+			diminished significantly. These changes were seen most clearly for young people but
+			<lb/>
+			previously the references for iodine status in Iceland had been considered outstanding due to
+			<lb/>
+			the good iodine status in earlier times <ref type="biblio">(18)</ref>.
+			<lb/>
+		</p>
+		
+		<p>According to the latest diet research, intake of salt is too high in
+			Iceland, like in other
+				<lb/>
+				Western Countries <ref type="biblio">(7)</ref>
+			. Although availability of iodized salt would not necessary result in
+			<lb/>
+			increased salt consumption this solution could easily be criticised. The official Icelandic
+			<lb/>
+			recommended intake of fish is 300g/week and two portions of milk or dairy products per day.
+			<lb/>
+			By following these recommendations around 138µg iodine would provided per day, which is
+			<lb/>
+			close to the RDI for iodine.
+			<lb/>
+		</p>
+		
+		<p>A group of young Icelandic women in childbearing age might be at risk of iodine
+			<lb/>
+			deficiency. The seriousness of the matter is that in the next few years these women might get
+			<lb/>
+			pregnant where an iodine deficiency could have some negative consequence for the future
+			<lb/>
+			generations due to its effects on the mature on the fetuses and neonates by irreversible
+			<lb/>
+			derangement in the development of the brain and central nervous system <ref type="biblio">(20,21)</ref>.
+			Some but
+			<lb/>
+			not all dietary supplements sold in Iceland contain iodine but emphasis should be made on
+			<lb/>
+			getting vitamins and minerals from food. Fish and milk are the foods which are
+			<lb/>
+			recommended because of the content of other important nutrients.
+			<lb/>
+		</p>
+		
+		<p>In conclusion, trends in dietary intake in Iceland show decreased fish and dairy intake
+			<lb/>
+			especially by the young generation. The population cannot longer be excluded from the risk
+			<lb/>
+			of iodine deficiency. The results from the ongoing studies on iodine status of Icelandic
+			<lb/>
+			adolescent girls and pregnant women are important to evaluate the need for special action
+			<lb/>
+			with regard to iodine status.
+			<lb/>
+		</p>
+	
+	</text>
+</tei>

@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>
+			Having participated in the formal process of his PhD defence, it was a real pleasure to
+			<lb/>
+			read the paper by Ed Fottrell discussing challenges, limitations, possibilities, and research
+			<lb/>
+			areas related to mortality data in developing countries <ref type="biblio">(1)</ref>. In a few pages he has managed
+			<lb/>
+			to highlight the most important aspects around that topic. A quotation from J.W. Lee,
+			<lb/>
+			former Director General of the World Health Organisation, &quot;To make people count, we first
+			<lb/>
+			need to be able to count people&quot; is filled with life here. Fottrell lucidly constructs a bridge
+			<lb/>
+			from describing the data we want to describing the data we have, and it is most interesting
+			<lb/>
+			to read about ongoing research activities leading towards making the best use of the data
+			<lb/>
+			at hand, with their undoubted limitations, to get information, for example on cause-of-death
+			<lb/>
+			distributions, to a precision and certainty which allow them to be the basis for public health
+			<lb/>
+			action. His paper, as well his recent PhD thesis <ref type="biblio">(2)</ref>, shows nicely that being a good
+			<lb/>
+			statistician who understands sampling surveys and theory of measurement error analysis
+			<lb/>
+			is necessary but not sufficient in order to make significant contributions to improving
+			<lb/>
+			mortality surveillance in resource-poor countries. Personal experience in developing
+			<lb/>
+			countries, the ability to see what can be done and what cannot be done, and to simplify
+			<lb/>
+			things as much as necessary, but not too much, are just as important.
+			<lb/>
+		</p>
+		
+		<p>For public health purposes information on mortality is necessary. But what degree of
+			<lb/>
+			precision is needed? What is &quot;sufficiently accurate&quot;? How can it be concluded that quality
+			<lb/>
+			is &quot;sufficient&quot;? Fottrell&apos;s supervisor wrote in another recent publication: &quot;Realistically,
+			there
+			<lb/>
+			will not be universal vital registration and individually based cause-of-death data on a
+			<lb/>
+			worldwide basis anytime soon, no matter how useful such information might be in public
+			<lb/>
+			health terms. Therefore a mixed-methods approach will continue to be used, combining
+			<lb/>
+			data sources that are most appropriate to their particular settings, and meeting needs at
+			<lb/>
+			different levels.&quot; <ref type="biblio">(3)</ref>. The approaches that have been developed and used in
+			the past to
+			<lb/>
+			obtain the previously mentioned parameters require: (i) refinement -meaning that existing
+			<lb/>
+			methods may not be fully satisfactory and need updating; and (ii) evaluation -the
+			<lb/>
+			performance of existing methods must be investigated. Another important point, also
+			<lb/>
+			mentioned in the paper, lies in the fact that insufficient use has been made of the huge
+			<lb/>
+			amount of data that has been collected. There are many reasons for this. First, in order to
+			<lb/>
+			analyse health and demographic surveillance system (HDSS) data effectively, efficient
+			<lb/>
+			working groups must exist, consisting of biostatisticians, database managers and
+			<lb/>
+			computer scientists, and epidemiologists -the first, to decide on statistical methods and
+			<lb/>
+			correctly apply them; the second, to efficiently and accurately organise the databases, and
+			<lb/>
+			the third, to identify questions of interest and to interpret the findings.
+			<lb/>
+		</p>
+		
+		<p>In that respect, I may add some personal experiences with data from one particular HDSS,
+			<lb/>
+			in Nouna, Burkina Faso. This HDSS has existed since 1992 and fully-functioned since
+			<lb/>
+			1993, and it has grown from covering a population of about 30,000 individuals to a current
+			<lb/>
+			population under surveillance of about 70,000. More villages have been included, and
+			<lb/>
+			methods for collecting and organising the data have become more sophisticated over the
+			<lb/>
+			years. How was that done, who was financially involved and have the data been used
+			<lb/>
+			appropriately? Regarding the latter, Fottrell comments &quot;That the value of data lies in their
+			<lb/>
+			use, not in their collection, does not always seem to be appreciated by surveillance
+			<lb/>
+			systems&quot;. However, I think it is not so much a lack of appreciation, but more of a lack of
+			<lb/>
+			availability of trained personnel. There is also a direct correlation with lack of funding, as
+			<lb/>
+			noted below, but in the case of the Nouna DSS it proved difficult to attract good local
+			<lb/>
+			statisticians to a working place in the periphery of the country when they could get better
+			<lb/>
+			paid jobs in the capital city. So in our case the funding of a large collaborative research
+			<lb/>
+			programme by the German Research Foundation since 1999 has allowed us to be more
+			<lb/>
+			active in collaboratively analysing HDSS data collected over the years, and a number of
+			<lb/>
+			scientific publications have emerged, as summarized in a monograph <ref type="biblio">(4)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Financing mechanisms for HDSSs is an important point that was not covered in Fottrell&apos;s
+			<lb/>
+			paper. In the case of the Nouna HDSS, financing has always been a critical issue, as
+			<lb/>
+			described by Diesfeld <ref type="biblio">(5)</ref>. Data quality and financial support are highly correlated, as can
+			<lb/>
+			be seen in the data of the Nouna HDSS during the 1990s, when percentages of missing
+			<lb/>
+			values increased at times when sufficient financial support was lacking. The situation
+			<lb/>
+			improved after the research grant from the German Research Foundation in 1999
+			<lb/>
+			facilitated better surveillance procedures. Thus the Nouna HDSS, and most others, are
+			<lb/>
+			constantly working to find sustainable means of guaranteeing uninterrupted, high-quality
+			<lb/>
+			surveillance of their respective populations, and the INDEPTH network has contributed
+			<lb/>
+			greatly to achieving high quality standards in the sites linked to the network. Funding
+			<lb/>
+			agencies are increasingly acknowledging this fact, but still it is an on-going challenge to
+			<lb/>
+			get long-term funding for the basic maintenance of the surveillance process.
+			<lb/>
+		</p>
+		
+		<p>In the early days of most HDSS sites, overall mortality was the main outcome of interest,
+			<lb/>
+			and only over time has more effort been put into assessing causes of death. The first
+			<lb/>
+			INDEPTH monograph reported total mortality, mortality by age and life expectancy only.
+			<lb/>
+			Verbal autopsy has developed in the meantime and became the method of choice for
+			<lb/>
+			cause-of-death statistics in developing countries. Limitations of the verbal autopsy method
+			<lb/>
+			are obvious, although refinement of the method over the years has led to increases in
+			<lb/>
+			sensitivity and specificity. Further developments, for example using the InterVA method,
+			<lb/>
+			have yielded further improvements <ref type="biblio">(6-8)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The recent advances in cause of death statistics, however, appear to have been focussed
+			<lb/>
+			more towards communicable diseases. Given recent projections on cause of death
+			<lb/>
+			distributions in Africa, deaths due to non-communicable diseases will become more
+			<lb/>
+			frequent, and verbal autopsy based methods may have serious limitations here. More
+			<lb/>
+			research is needed here -a frequently used but still correct phrase. The author of the
+			<lb/>
+			paper to which this Commentary pertains, and his collaborators, certainly have sufficient
+			<lb/>
+			fields for future investigations.
+		</p>
+	
+	
+	</text>
+</tei>

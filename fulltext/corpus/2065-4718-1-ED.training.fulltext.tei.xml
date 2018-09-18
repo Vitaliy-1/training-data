@@ -1,0 +1,353 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Despite increasing media coverage around the theme of African peoples&apos; potential
+			<lb/>
+			vulnerability to actual and predicted changes in climate at the global level, detailed
+			<lb/>
+			scientific evidence remains scanty. Much existing work has looked at the effects of
+			<lb/>
+			climate on specific diseases, without making clear connections to overall changes in
+			<lb/>
+			population health. A simple search of the PubMed database, undertaken on 26 June
+			<lb/>
+			2009, using the keywords &quot;health&quot;, &quot;Africa&quot; and &quot;climate change&quot;, revealed the
+			<lb/>
+			number of hits shown in <ref type="figure">Figure 1</ref>. Despite almost two million scientific citations
+			<lb/>
+			matching one or another of these terms, the intersection between all three contained a
+			<lb/>
+			mere 31 citations (0.002%), some of which were brief comments or related to
+			<lb/>
+			veterinary health. Even though this was a somewhat simplistic search, deliberately
+			<lb/>
+			intended not to include disease-specific studies which did not explore more general
+			<lb/>
+			implications for population health, the paucity of results in the intersection is striking.
+			<lb/>
+			Nevertheless, the oldest of these 31 citations was published as far back as 1991
+			<ref type="biblio">[1]
+				<lb/>
+			</ref>
+			and one therefore has to ask questions about what has or has not happened in terms of
+			<lb/>
+			progressing the scientific understanding of climate change and population health in
+			<lb/>
+			Africa over the past two decades.
+			<lb/>
+		</p>
+		
+		<p>The aim of this review article is to highlight some of the important points that emerge
+			<lb/>
+			from the relatively scant literature on climate change and health in Africa, with a view
+			<lb/>
+			to both identifying some of the key issues that have been documented and revealing
+			<lb/>
+			some of the possible gaps where further scientific research is urgently needed.
+			<lb/>
+		</p>
+		
+		<head>The literature on climate change and health in Africa
+			<lb/>
+		</head>
+		
+		<p>Ramin and McMichael <ref type="biblio">[2]</ref>, acknowledging the paucity of evidence-based results,
+			<lb/>
+			present five hypothetical case studies illustrating what they believe to be the major
+			<lb/>
+			issues. These are concerned with the interaction between HIV and rain-fed food
+			<lb/>
+			production capacity; impact of drought on child nutrition; disease impact of floods;
+			<lb/>
+			changing patterns of malaria transmission; and the impact of natural disasters.
+			<lb/>
+		</p>
+		
+		<p>However, these but serve as examples of scenarios which are all too rarely
+			<lb/>
+			documented in detail with a basis in reliable data.
+			<lb/>
+		</p>
+		
+		<p>Much more attention has been given to global and regional estimates, using multiple
+			<lb/>
+			data sources and models, of possible changes in climate and, in some cases, their
+			<lb/>
+			potential health consequences. The Stern Report <ref type="biblio">[3]</ref> paints a gloomy picture for
+			<lb/>
+			Africa, concluding that &quot;The poorest will be hit earliest and most severely. In many
+			<lb/>
+			developing countries, even small amounts of warming will lead to declines in
+			<lb/>
+			agricultural production because crops are already close to critical temperature
+			<lb/>
+			thresholds. The human consequences will be most serious and widespread in Sub-<lb/>Saharan Africa, where
+			millions more will die from malnutrition, diarrhoea, malaria
+			<lb/>
+			and dengue fever, unless effective control measures are in place.&quot; This is also
+			<lb/>
+			reflected in the recent UCL Lancet Commission report <ref type="biblio">[4]</ref>, which suggests that the
+			<lb/>
+			highest regional burden of climate change is likely to be borne by sub-Saharan Africa,
+			<lb/>
+			with 34% of the global DALYs (disability adjusted life years) attributable to climate
+			<lb/>
+			change located there. Since sub-Saharan Africa only contains 11% of the world&apos;s
+			<lb/>
+			population <ref type="biblio">[5]</ref>, this reflects a 3-fold population-based risk for adverse effects of
+			<lb/>
+			climate change among Africans compared with the global population.
+			<lb/>
+		</p>
+		
+		<p>A review of likely impacts of climate change on food insecurity <ref type="biblio">[6]</ref> concludes that
+			<lb/>
+			current estimates of climate change will probably lead to greater risk of hunger,
+			<lb/>
+			particularly in Africa, but without going on to consider the likely population health
+			<lb/>
+			impacts of such hunger. Changes in land use, either forced by climate change or in
+			<lb/>
+			response to environmental pressures, may also impact on food security <ref type="biblio">[7]</ref>.
+			Infectious
+			<lb/>
+			diseases tend to be considered first when contemplating the effects of climate change
+			<lb/>
+			on health <ref type="biblio">[1]</ref> but these may not be the only or even the major factor; impacts such
+			as
+			<lb/>
+			the physiological effects of heat may be equally important <ref type="biblio">[8]</ref>, particularly on the
+			<lb/>
+			African continent where large proportions of people are regularly exposed to extremes
+			<lb/>
+			of high temperature.
+			<lb/>
+		</p>
+		
+		<p>A review of cholera seasonality globally from 1974 to 2005 <ref type="biblio">[9]</ref> suggests that climate
+			<lb/>
+			change may well lead to less predictable patterns of cholera outbreaks; within Africa
+			<lb/>
+			this is likely to be seen more in northern and western areas rather than in the
+			<lb/>
+			equatorial zone. Detailed analyses of diarrhoeal disease patterns in Benin <ref type="biblio">[10]</ref> have
+			<lb/>
+			established expected relationships between risks of diarrhoea and lack of good-quality
+			<lb/>
+			water supplies. These authors go on to suggest that the consequences of future climate
+			<lb/>
+			change scenarios, leading to large scale population displacements, may be predicated
+			<lb/>
+			on considerations such as the availability of resources such as water supply at
+			<lb/>
+			migratory destinations.
+			<lb/>
+		</p>
+		
+		<p>Whilst changes in climate may have impacts on distributions of vector-borne diseases
+			<lb/>
+			as a direct consequence of ecological pressure on vectors, it is also important to take
+			<lb/>
+			into account changes in host factors, such as exposure and immunity, in considering
+			<lb/>
+			health consequences <ref type="biblio">[11]</ref>. Furthermore, the disease manifestations of longer-term
+			<lb/>
+			epidemiological changes driven by climate may be masked by adaptational
+			<lb/>
+			mechanisms in human populations <ref type="biblio">[12]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Malaria is probably the most documented single disease in relation to climate change.
+			<lb/>
+			Part of this seems to derive from concerns that the global range of malaria may be
+			<lb/>
+			extended as territories outside current endemic zones become wetter and warmer,
+			<lb/>
+			rather than concerns about Africa per se, even if these concerns may in some cases
+			<lb/>
+			have been overstated <ref type="biblio">[13]</ref>. Detailed climatic analyses suggest that patterns of
+			malaria
+			<lb/>
+			transmission in Africa may well change as a result of climate changes <ref type="biblio">[14]</ref>. These
+			<lb/>
+			changes are modulated by altitude, and the interactions between climate, altitude and
+			<lb/>
+			vector behaviour <ref type="biblio">[15]</ref>. The general notion that climate is changing, alongside
+			<lb/>
+			observations of changes in malaria disease patterns, do not, however, necessarily
+			<lb/>
+			constitute a cause and effect relationship between climate change and malaria <ref type="biblio">[16]</ref>.
+			<lb/>
+			The importance of carrying through climate modelling into vector dynamics
+			<lb/>
+			modelling has been stressed <ref type="biblio">[17]</ref>. Some predictions suggest that the main effect of
+			<lb/>
+			climate change on malaria in Africa will be geographic shifts of transmission within
+			<lb/>
+			the continent, rather than overall changes <ref type="biblio">[18]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Examples of local impacts on overall population health in Africa as a consequence of
+			<lb/>
+			climate change are relatively rare, not least because of the relative scarcity of detailed
+			<lb/>
+			health data from the African continent in the first place <ref type="biblio">[19]</ref>. After a series of
+			<lb/>
+			debilitating rainfall failures in northern Ethiopia, a microdam construction programme
+			<lb/>
+			was initiated in the 1990s to harvest rain water. As well as being a response to climate
+			<lb/>
+			variability, these new reservoirs generated their own microclimates, often including
+			<lb/>
+			nearby villages, and one consequence was a 7-fold increase in childhood malaria
+			<lb/>
+			incidence near the dams <ref type="biblio">[20]</ref>. In one district of Burkina Faso, detailed connections
+			<lb/>
+			have been made between temperature, rainfall, mosquitoes and malaria, resulting in a
+			<lb/>
+			local-level model relating climate to malaria transmission <ref type="biblio">[21]</ref>. In central
+			Ethiopia,
+			<lb/>
+			links have been made between erratic seasonal patterns of rainfall and disease
+			<lb/>
+			epidemics which gave rise to a 2.5-fold increase in local overall population mortality
+			<lb/>
+			over a two-year period <ref type="biblio">[22]</ref>.
+			<lb/>
+		</p>
+		
+		<head>Discussion
+			<lb/>
+		</head>
+		
+		<p>Scientific evidence connecting climate change and population health in Africa
+			<lb/>
+			remains scanty, both because of the lack of clear understanding of the progress and
+			<lb/>
+			nature of climate change, and the widespread lack of community-based health data.
+			<lb/>
+			By contrast, the heatwave experienced in western Europe in 2003 was immediately
+			<lb/>
+			identified as an unusual meteorological event and shortly afterwards analyses of
+			<lb/>
+			resultant excess mortality were available, using data from routine systems <ref type="biblio">[23]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Although the dominance of malaria in the literature linking climate change and health
+			<lb/>
+			in Africa might lead one to suppose that it is the major issue, in fact other effects that
+			<lb/>
+			are relatively under-documented may turn out to have numerically greater impacts as
+			<lb/>
+			time passes. It may simply be the case that malaria has been the most researched issue
+			<lb/>
+			in relation to climate thus far. However, if predictions of changing epidemic patterns
+			<lb/>
+			of malaria within Africa are borne out <ref type="biblio">[18]</ref>, then the effects of new or increased
+			<lb/>
+			endemicity among relatively less-immune populations could be severe, affecting all
+			<lb/>
+			sectors within populations.
+			<lb/>
+		</p>
+		
+		<p>Apart from situations where interventions for other purposes facilitate the
+			<lb/>
+			investigation of climate impacts (such as the Ethiopian microdams <ref type="biblio">[20]</ref>), most
+			<lb/>
+			research into the effects of climate change on population health has to essentially
+			<lb/>
+			follow a process of making retrospective connections between meteorological data
+			<lb/>
+			and health outcomes. Population groups cannot be randomised to different kinds of
+			<lb/>
+			natural climate change, and hence drawing causal inferences between observed
+			<lb/>
+			climatic variations and disease patterns is difficult to achieve with certainty. Settings
+			<lb/>
+			where prospective longitudinal population surveillance is in place, such as Indepth
+			<lb/>
+			Network sites <ref type="biblio">[24]</ref>, are likely to be particularly valuable for analysing the
+			population
+			<lb/>
+			effects of climate change in Africa, since it is usually too late to collect health
+			<lb/>
+			outcome data once a particular climate phenomenon has been observed. Routine
+			<lb/>
+			collection of meteorological data at such sites should be regarded as normative in the
+			<lb/>
+			current era of climate change, as well as routinely geo-referencing population health
+			<lb/>
+			data in order to make connections with external meteorological data <ref type="biblio">[25]</ref>. Even
+			within
+			<lb/>
+			such surveillance sites, prompt routine review procedures for incoming data are very
+			<lb/>
+			important if major health-related events at the population level that might be climate-<lb/>linked are to be
+			spotted promptly <ref type="biblio">[26]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Perhaps the lack of potential for experimental study design in relating climate change
+			<lb/>
+			to health in Africa, as well as the practical difficulties of obtaining the necessary data,
+			<lb/>
+			have led to the relative lack of detailed scientific output in the intersection between
+			<lb/>
+			health and climate change in Africa. The relatively weak research infrastructure in
+			<lb/>
+			many African settings is a contributory problem, but, more importantly, cross-<lb/>disciplinary work
+			(between climatology and health in this instance) is not common in
+			<lb/>
+			Africa and needs to be actively promoted. Expertise in applying global climate
+			<lb/>
+			models regionally is very scarce in Africa <ref type="biblio">[27]</ref>, against the inevitable background
+			of
+			<lb/>
+			the world&apos;s most sophisticated climatological research centres being northern-based.
+			<lb/>
+			Thus stronger links and capacity-building collaborations need to be forged between
+			<lb/>
+			these global resources in the North and African health and climate research groups, if
+			<lb/>
+			meaningful and useful scientific connections are going be made between climate
+			<lb/>
+			change and health in Africa.
+			<lb/>
+		</p>
+		
+		<p>Despite the dearth of research on the ground in Africa so far, it seems clear from
+			<lb/>
+			major global-level considerations of climate change and their possible effects on
+			<lb/>
+			population health <ref type="biblio">[3,4]</ref> that, yet again, Africa and her people stand to come out
+			worst
+			<lb/>
+			from the likely changes in the world&apos;s weather patterns. This has to be seen against a
+			<lb/>
+			background of food and water security which is already at marginal levels in many
+			<lb/>
+			places. This therefore constitutes a major challenge to governments in terms of future
+			<lb/>
+			policy making, and hence to universities and other research centres for generating the
+			<lb/>
+			necessary evidence base. Thus there are compelling reasons to promote and facilitate
+			<lb/>
+			good quality and detailed research on climate change and population health in Africa,
+			<lb/>
+			in much larger quantities than heretofore.
+		</p>
+	
+	
+	</text>
+</tei>

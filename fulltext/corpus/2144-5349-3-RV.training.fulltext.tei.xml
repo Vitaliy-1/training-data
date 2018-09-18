@@ -1,0 +1,523 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Infection due to Candida species and other fungi have increased dramatically in recent years
+			<lb/>
+			and are of particular importance because of rising number of Immuno-compromised patients
+			<lb/>
+			<ref type="biblio">[1]</ref>. Although Candida albicans remains the most common cause of human Candidiasis,
+			the
+			<lb/>
+			frequency of infection attributed to other member of the genus is also increasing <ref type="biblio">[2,
+				3]</ref>. This
+			<lb/>
+			is primarily due to the increase in the number of at risk individuals, particularly those with
+			<lb/>
+			impaired immunity, such as transplant recipients, cancer patients, receiving chemotherapy
+			<lb/>
+			and human Immunodeficiency virus-infected patients <ref type="biblio">[4, 5, 6, 7, and 8]</ref>. In the 1980&apos;s
+			<lb/>
+			Candida albicans accounted for more than 80% of all candidal isolates recovered from
+			<lb/>
+			nosocomial yeast infection <ref type="biblio">[9]</ref>. Now, Candida albicans accounts for more than 80% of
+			all
+			<lb/>
+			Candida blood isolates in a recent review <ref type="biblio">[10]</ref>.The emergence of Candida species
+			other than
+			<lb/>
+			Candida albicans is a matter of concern in several major institutions <ref type="biblio">
+				[11,12,2,13,14,3]</ref>. These
+			<lb/>
+			species are also shown to have reduced susceptibility to antifungal agents. The frequency of
+			<lb/>
+			isolation of Candida krusei, Candida glabrata, Candida tropicalis, Candida prapsilosis is
+			<lb/>
+			steadily, increasing globally<ref type="biblio">[15,16]</ref>.Fungal infections particularly caused by
+			Candida species
+			<lb/>
+			are being detected more frequently in clinical laboratories<ref type="biblio">[17]</ref>.Changing Candida
+			<lb/>
+			epidemiology and availability of newer antifungal drugs, with different antifungal spectrum
+			<lb/>
+			means that physician can no longer make therapeutic decision based on broad identification
+			<lb/>
+			of fungi as yeast and mold<ref type="biblio">[18]</ref>.The conventional methods of yeast identification
+			which
+			<lb/>
+			mainly consist of assimilation and fermentation characteristic are reported to be cumbersome
+			<lb/>
+			and beyond the expertise range available in local laboratories. In non-specialized clinical
+			<lb/>
+			laboratories <ref type="biblio">[19]</ref>, especially with resource limited settings, identification of
+			yeast and yeast
+			<lb/>
+			like organisms requires evaluation of microscopic morphology, and biochemical studies.
+			<lb/>
+			Some unusual yeast may require unique morphological and biochemical studies for
+			<lb/>
+			identification, occasionally requiring up to 21 days of incubation<ref type="biblio">[20]</ref>.Effective
+			treatment
+			<lb/>
+			requires both, an early diagnosis and facilitates prompt initiation of therapy against fungal
+			<lb/>
+			infection<ref type="biblio">[21]</ref>.As the traditional methods are tedious and time consuming to perform
+			in the
+			<lb/>
+			routine laboratories, numerous isolation media are available in the market that can identify
+			<lb/>
+			pathogen within 4-72 hours, depending upon the system<ref type="biblio">[22,,23,24,25,26]</ref>.Several
+			brands of
+			<lb/>
+			Chromogenic media are available for rapid identification of yeast. These special media yield
+			<lb/>
+			microbial colonies with varying pigmentation secondary substrates that react with enzyme
+			<lb/>
+			secreted by micro organism <ref type="biblio">[27]</ref>.These media are species specific allowing the
+			organisms to
+			<lb/>
+			be identified to the species level by their color and colonial characteristics. The manufacturer
+			<lb/>
+			of CHROMagar Candida currently advertise its product as able to detect and differentiate
+			<lb/>
+			three species, Candida albicans by growth as light to medium green colonies, Candida
+			<lb/>
+			tropicalis by growth as steel blue colonies accompanied by purple pigmentation diffused into
+			<lb/>
+			surrounding agar and Candida krusei by growth as large fuzzy; rose colored colonies with
+			<lb/>
+			white edges, after incubation of 48 hours at 37•C as also reported in several other studies
+			<lb/>
+			<ref type="biblio">[28,29,30,31,32]</ref>.Detection of Candida on CHROMagar Candida from poly fungal
+			specimen
+			<lb/>
+			also allow direct and more rapid and specific identification of Candida albicans and other
+			<lb/>
+			spp. <ref type="biblio">[29, 32, 33]</ref>, that could specifically decrease the time required to obtain
+			results. Use of
+			<lb/>
+			chromogenic media in clinical microbiology laboratory for the isolation and presumptive
+			<lb/>
+			identification of important candida species is easy to perform, requires less time and is cost
+			<lb/>
+			effective too. In this study our goal was to evaluate the usefulness of CHROMagar Candida
+			<lb/>
+			for detection and identification of major Candida species with accuracy to reduce the time of
+			<lb/>
+			identification and its characterization from poly fungal specimens, especially in developing
+			<lb/>
+			countries with resource limited settings.
+			<lb/>
+		</p>
+		
+		<head>Material and Methods:
+			<lb/>
+		</head>
+		
+		<head>Period of Study:</head> April 2006 to September 2009<lb/>
+		
+		
+		<head>Clinical Isolates:
+			<lb/>
+		</head>
+		
+		<p>A total of 487 yeast strains, including Candida albicans(n=201),Candida tropicalis(n=140),
+			<lb/>
+			Candida prapsilosis(n=32),Candida krusei(n=30),Candida glabrata(n=21),Candida
+			<lb/>
+			lusitaniae(n=21),Candida guilliermondii(n=21)and Candida famata (n=21), were isolated
+			<lb/>
+			from various clinical specimens (n=435) after direct plating on CHROMagar Candida (109
+			<lb/>
+			urine,1l blood ,81 sputum,22 wound,91vaginal secretion, and 21 peritoneal fluid).
+			<lb/>
+		</p>
+		
+		<head>Strain and Media:
+			<lb/>
+		</head>
+		
+		<p>Quality control strains of Candida albicans (ATCC90029), Candida prapsilosis (ATCC
+			<lb/>
+			2201) and Candida krusei(ATCC6258) taken from ATCC (American type culture collection)
+			<lb/>
+			and IIDRL lab, Department of Microbiology, University of Karachi. These control strains
+			<lb/>
+			were first confirmed by using conventional methods including germ tube formation test, and
+			<lb/>
+			morphological characteristics which includes macroscopic features (morphology, color, size,
+			<lb/>
+			texture) on SDA, Corn Meal agar with tween 80 and CHROMagar Candida (CHROMagar
+			<lb/>
+			Candida, France).
+			<lb/>
+		</p>
+		
+		<p>CHROMagar Candida medium comprised per liter peptone (10gm), glucose (20g), agar
+			<lb/>
+			(15g), and Chloramphenicol (0.5g), and Chromogenic ix. (2g), PH6.1.This medium was
+			<lb/>
+			prepared according to the manufacturer&apos;s instructions, does not require autoclaving and
+			<lb/>
+			dispensed into Petri plates after cooling. Culture was inoculated and incubation was done at
+			<lb/>
+			37°C, the colonial appearance including color, size and textures on CHROMagar Candida
+			<lb/>
+			were analyzed.
+			<lb/>
+		</p>
+		
+		<head>Identification Methods:
+			<lb/>
+		</head>
+		
+		<p>All samples were first plated on SDA and CHROMagar for 48 hour at 37°C, the production
+			<lb/>
+			of colour and morphology as described by the manufacturer were recorded and the
+			<lb/>
+			photographs were taken for the record to follow, for candida albicans the germ tube test was
+			<lb/>
+			also performed to differentiate between candida albicans and non albicans candida. The
+			<lb/>
+			colonies from CHROMagar and SDA were plated on Cornmeal agar with tween 80 for
+			<lb/>
+			colonial morphological feature observed for the production of chlamydospores, blastospores,
+			<lb/>
+			true hyphae and branched pseudohyphae. The result were again compared with the colonies
+			<lb/>
+			that were grown on CHROMagar, these colonies from SDA were subjected to Biochemical
+			<lb/>
+			analysis by API 20C Aux (Biomuriex). Finally the results were again compared with the
+			<lb/>
+			cultural result and speciation was done. The data suggested that species which were identified
+			<lb/>
+			by CHROMagar and Cornmeal-tween 80 agar were the same as were confirmed by API 20C
+			<lb/>
+			Aux. It means that in the presence of CHROMagar it is not necessary to perform germ tube
+			<lb/>
+			test for candida albicans to confirm, also reported by odds <ref type="biblio">[31]</ref>.
+			<lb/>
+		</p>
+		
+		<head>Results:
+			<lb/>
+		</head>
+		
+		<p>We evaluated 487 yeast isolates from 435 clinical specimens during April 2006 to September
+			<lb/>
+			2009 (Table1). These samples were directly plated on CHROMagar Candida (CHROMagar
+			<lb/>
+			Candida, France) SDA (Oxoid), corn meal agar (Oxoid) with tween 80 and on CHROMagar
+			<lb/>
+			Candida and SDA. Colonial growth was observed after 24 hours and 48 hours of incubation.
+			<lb/>
+			The development of the colony color was noted on CHROMagar Candida, and we observed
+			<lb/>
+			that the medium better differentiated the color of colonies after 48 hours of incubation, while
+			<lb/>
+			after 72 hours of incubation a distinct deep color of the colonies was observed. It was also
+			<lb/>
+			noted that colonial colors of isolated strain were deepened with passage of time and
+			<lb/>
+			persistence of pigment was also observed on CHROMagar plates after more than 15 days,
+			<lb/>
+			also reported by Pfaller, Houston and Coffmann <ref type="biblio">[32]</ref>.
+			<lb/>
+		</p>
+		
+		<p>The yeast cells were identified according to morphology, and color of colony on CHROM
+			<lb/>
+			agar Candida. Germ tube formation for Candida albicans was done with microscopic
+			<lb/>
+			morphology on Corn meal tween-80 agar and confirmed by API 20C Aux yeast identification
+			<lb/>
+			panel (Biomuriex, France), based on assimilation of carbohydrates.
+			<lb/>
+		</p>
+		
+		<p>The distribution of colony color on CHROMagar Candida was similar as given by the
+			<lb/>
+			manufacturer i.e., green colonies of Candida albicans as indicated in(Figure1 C,D), steel
+			<lb/>
+			blue colonies of Candida tropicalis <ref type="figure">(Figure1-A,B)</ref> accompanied by purple pigmentation
+			<lb/>
+			which diffuses into surrounding agar by growth, large fuzzy; rose colored colonies with white
+			<lb/>
+			edges of Candida krusei , slightly white pale pink edges and Small pink to purple colonies of
+			<lb/>
+			Candida guilliermondii, can easily differentiated from Candida norvegensis which also
+			<lb/>
+			produces purple color colonies .The edges of the all colored colonies were paler and dark
+			<lb/>
+			centered and the colonial size was in between 1-5 µm in diameter, also described by Odds
+			<lb/>
+			and Bernaerts <ref type="biblio">[31]</ref> . The smooth white to light pink colonies of Candida glabrata
+			which later
+			<lb/>
+			become pink <ref type="figure">(Figure 6)</ref> and others spp. of Candida appears off white which includes
+			<lb/>
+			Candida lusitaniae, Candida famata, Candida Prapsilosis, and Candida rugosa.
+			<lb/>
+			Ccomparative specificity and sensitivity of CHROMagar Candida (CHROMagar Candida,
+			<lb/>
+			France) in terms of colonial growth showed maximum sensitivity and specificity with 95%
+			<lb/>
+			Confidence level in the range of 95.3% -100 % <ref type="table">(Table 2)</ref>.
+			<lb/>
+		</p>
+		
+		<p>CHROMagar Candida correctly identify 99% of Candida albicans,98%Candida
+			<lb/>
+			tropicalis100%,Candida krusei,94% of Candida glabrata with accuracy, but for other
+			<lb/>
+			Candida species other tools of identification for e.g. API 20C Aux along with CHROMagar
+			<lb/>
+			Candida (CHROMagar Candida, France) should be used for the correct identification.
+			For
+			<lb/>
+			example conventional methods which includes macroscopic / microscopic characteristic, and
+			<lb/>
+			biochemical profile by API system of identification (gold standard) to facilitate the diagnosis
+			<lb/>
+			with efficiency and accuracy, should be possible simultaneously so that the identification
+			<lb/>
+			should be accomplished.
+			<lb/>
+		</p>
+		
+		<head>Discussion:
+			<lb/>
+		</head>
+		
+		<p>In resource limited countries, lack of training, availability of proper reagents, supplies and
+			<lb/>
+			equipment makes detection and rapid presumptive identification of yeast species quite
+			<lb/>
+			difficult. In order to reduce the financial burden of the poor patients, these Laboratories do
+			<lb/>
+			not go beyond the germ tube test and limit their diagnosis to Candida albicans or Non
+			<lb/>
+			albicans Candida (NAC). The biochemical assimilation and fermentation tests are not used in
+			<lb/>
+			these laboratories due to lack of resources, expertise and the time required for these tests
+			<lb/>
+			which increases the cost of mycology cultures <ref type="biblio">[32]</ref>. As a result direct selection of
+			appropriate
+			<lb/>
+			agents for antifungal therapy or prophylaxis becomes almost impossible.
+			<lb/>
+		</p>
+		
+		<p>In resource limited countries clinicians have little confidence in the accuracy and quality of
+			<lb/>
+			laboratory test results. They continue to prescribe costly antifungals without knowing the
+			<lb/>
+			exact antifungal profile of the infectious agent; thereby they increase the economic burden of
+			<lb/>
+			the society which also contributes to the emergence of resistant Candida spp. in the
+			<lb/>
+			environment.
+			<lb/>
+		</p>
+		
+		<p>Without diagnostic tools, safe and effective drug treatment, prevention of resistance to
+			<lb/>
+			antimicrobial therapy, and monitoring of resistance are not possible. In this setting there is
+			<lb/>
+			always a need of a medium which helps not only in the isolation but also in the identification
+			<lb/>
+			of the agent at specie level which was confirmed by PCR .The CHROMagar Candida
+			<lb/>
+			medium was selected as primary culture medium along with SDA and we found it as an
+			<lb/>
+			appropriate and affordable diagnostics medium in resource limiting setting. The reason is that
+			<lb/>
+			an approximate cost per culture for complete identification of Candida using SDA, Corn
+			<lb/>
+			meal agar, and API 20C Aux in Pakistan is around U.S. $15(Pak-Rs.1200), while
+			<lb/>
+			CHROMagar Candida costs around US $ 3(Pak-Rs.250) per specimen culture, thus it is more
+			<lb/>
+			economical.
+			<lb/>
+		</p>
+		
+		<p>We also found that CHROMagar Candida, France easily identifies several species of
+			<lb/>
+			Candida on the basis of colonial color and morphology and accurately differentiates between
+			<lb/>
+			the three most common species of Candida i.e., Candida albicans, Candida tropicalis, and
+			<lb/>
+			Candida krusei , this has been also reported by C K Murray and M L Beckius et al <ref type="biblio">
+				[20]</ref>. this
+			<lb/>
+			medium easily facilitate the detection of more than two species in a single specimen, by
+			<lb/>
+			giving different colored colonies on a plate at a time, and it was also observed that if the
+			<lb/>
+			specimen was heavily inoculated, it was difficult to differentiate between mixtures of yeast
+			<lb/>
+			species on single agar plate because of the different color reaction <ref type="figure">(Figure 5)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The specificity and sensitivity of CHROMagar Candida for green color colony of Candida
+			<lb/>
+			albicans calculated as 99%, for blue colonies with dark center surrounded by grey halo of
+			<lb/>
+			Candida tropicalis calculated as 98%, and for pink rough and spreading colonies with broad
+			<lb/>
+			white edges of Candida krusei it is 100%.The CHROMagar Candida (CHROMagar Candida,
+			<lb/>
+			France) can be used as culture medium for the primary isolation and for presumptive
+			<lb/>
+			identification of organism in cases where early diagnosis of infections is needed, without
+			<lb/>
+			doing PCR albicans has also been discussed by odds and Bernaerts <ref type="biblio">[31]</ref> .CHROMagar
+			Candida
+			<lb/>
+			(CHROMagar Candida, France) can also support the growth of fungi, in some cases where
+			<lb/>
+			the causative agent might be a mold as reported by Beck-Sague et al <ref type="biblio">[9]</ref> .This has
+			also been
+			<lb/>
+			observed in our study that some time we found the mixture of yeast and mold in a single
+			<lb/>
+			specimen, so this property of medium to support the growth of mold can easily utilized in the
+			<lb/>
+			laboratory setting.
+			<lb/>
+		</p>
+		
+		<head>Conclusion:
+			<lb/>
+		</head>
+		
+		<p>On the whole it is observed that as the CHROMagar Candida (CHROMagar Candida, France)
+			<lb/>
+			gives a presumptive identification within 48 hours, preliminary antifungal treatment can be
+			<lb/>
+			administered with confidence while the confirmed identification is being obtained. In
+			<lb/>
+			resource limited settings availability of this type of media not only facilitate the provision of
+			<lb/>
+			rapid patient care, but may also assist to control the rise in antifungal agent resistance by
+			<lb/>
+			reducing the time taken for presumptive identification of the organism at species level to start
+			<lb/>
+			the therapeutic regime, by the clinicians as a result CHROMagar directly help the patient.
+			<lb/>
+			We can conclude that use of fast and accurate diagnostic methods can help in rapid treatment
+			<lb/>
+			and fast therapeutic management of patients.
+			<lb/>
+		</p>
+		
+		<figure>Fig # 1(A) Candida tropicalis bluish purple colonies(B)the appearance of C.tropicalis
+			<lb/>
+			after 72 hours of incubation on CHROMagar at 37°C. (C) Apple green color colonies
+			<lb/>
+			of Candida albicans grown for 48 h on CHROMagar Candida at 37°C.(D) isolated
+			<lb/>
+			A
+			<lb/>
+			B
+			<lb/>
+			C
+			<lb/>
+			D
+			<lb/>
+			E
+			<lb/>
+			F
+			<lb/>
+		</figure>
+		
+		<figure type="table">TABLE
+			<lb/>
+			2.Comparat
+			<lb/>
+			ive
+			<lb/>
+			Specificity
+			<lb/>
+			and
+			<lb/>
+			Sensitivity
+			<lb/>
+			of 03
+			<lb/>
+			different
+			<lb/>
+			cultural
+			<lb/>
+			media for
+			<lb/>
+			Candida
+			<lb/>
+			Spp.
+			<lb/>
+			Name of
+			<lb/>
+			Media
+			<lb/>
+			Specificity
+			<lb/>
+			(N=487)
+			<lb/>
+			Sensitivity
+			<lb/>
+			(N=487)
+			<lb/>
+			95%
+			<lb/>
+			Confidence
+			<lb/>
+			Level
+			<lb/>
+			P
+			<lb/>
+			Value
+			<lb/>
+			SDA
+			<lb/>
+			464(95.3%) 467
+			<lb/>
+			(95.9%)
+			<lb/>
+			94.5% -<lb/>100%
+			<lb/> &lt;0.05
+			<lb/>
+			CHROMagar
+			<lb/>
+			Candida
+			<lb/>
+			479(98.4%) 478
+			<lb/>
+			(98.2%)
+			<lb/>
+			95.3% -<lb/>100%
+			<lb/> &lt;0.05
+			<lb/>
+			Corn meal
+			<lb/>
+			Agar with
+			<lb/>
+			Tween 80
+			<lb/>
+			470(96.5%) 463
+			<lb/>
+			(95.0%)
+			<lb/>
+			92% -99.4% &lt;0.05
+		</figure>
+	
+	
+	</text>
+</tei>

@@ -1,0 +1,336 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>The burden of chronic non-communicable diseases (NCD), especially heart disease,
+			<lb/>
+			stroke, hypertension, diabetes, cancer and chronic respiratory disease, is rising in low-<lb/>and
+			middle-income countries, particularly in Asia <ref type="biblio">1</ref>. NCD deaths account for 60% of
+			<lb/>
+			all deaths in the world and one in two deaths in the Asian region Prevention
+			<lb/>
+			programs and policies are in their infancy in this region <ref type="biblio">2</ref> and struggle to achieve
+			<lb/>
+			priority because of the more established and pressing needs of infectious disease
+			<lb/>
+			control; the recent outbreaks of Avian and H1N1 influenza are immediate examples <ref type="biblio">3</ref> .
+			<lb/>
+			Comprehensive prevention programmes are underpinned by an understanding of the
+			<lb/>
+			population levels of the major NCD risk factors which explain the occurrence of the
+			<lb/>
+			vast majority of new episodes of NCD in all regions of the world.
+			<lb/>
+		</p>
+		
+		<p>The papers in this Supplement on NCD risk factor distributions in nine Health and
+			<lb/>
+			Demographic Surveillance System (HDSS) sites of the INDEPTH Network
+			<lb/>
+			(www.indepth-network.org) in five countries in Asia (Bangladesh, India, Indonesia,
+			<lb/>
+			Thailand and Vietnam) are welcome. The surveillance sites have been described as
+			<lb/> &quot;…vibrant hotbeds, grounded in high quality research and training&quot; <ref type="biblio">4</ref> , and these papers
+			<lb/>
+			mark a notable shift from the traditional emphasis on communicable diseases in rural
+			<lb/>
+			populations in low-and middle-income countries to the growing problem of NCD.
+			<lb/>
+			The series begins with a description of the methodology used in the multi-site cross-<lb/>sectional study <ref type="biblio">5</ref>
+			and the following papers provide strong support for public health
+			<lb/>
+			efforts to reduce the harmful effects of tobacco <ref type="biblio">6</ref> , alcohol <ref type="biblio">7</ref> , low fruit and vegetable
+			<lb/>
+			intake <ref type="biblio">8</ref> , and physical inactivity <ref type="biblio">9</ref> . The series continues with a focus on blood pressure <ref type="biblio">10</ref> ,
+			<lb/>
+			obesity <ref type="biblio">11</ref> , the way in which many of the risk factors cluster <ref type="biblio">12</ref> , and ends with an
+			<lb/>
+			example of how one of the HDSS sites has used the surveillance process to stimulate
+			<lb/>
+			actions at a broader societal level <ref type="biblio">13</ref> .
+			<lb/>
+		</p>
+		
+		<p>Ongoing surveillance of changes in population levels of the major NCD risk factors is
+			<lb/>
+			crucial if we are to understand the success or otherwise of preventive efforts. Many
+			<lb/>
+			countries embark on a one off survey, often with their own definitions, which are not
+			<lb/>
+			designed to measure secular trends. To address this problem, WHO developed a
+			<lb/>
+			STEPwise approach to Surveillance (WHO STEPS) of a few key modifiable risk
+			<lb/>
+			factors suitable for use in low
+			-and middle-income settings <ref type="biblio">14, 15</ref> ; this methodology is
+			<lb/>
+			used in this series of papers. The WHO STEPS approach offers standard methods and
+			<lb/>
+			measures, as well as accompanying detailed manuals and training materials to ensure
+			<lb/>
+			that age and sex trends can be addressed adequately, as well as to guide quality
+			<lb/>
+			control <ref type="biblio">16</ref> . Above all, the WHO STEPS approach establishes a baseline against which
+			<lb/>
+			trends in these key risk factors can be measured through repeated cross sectional
+			<lb/>
+			surveys drawn from the same populations.
+			<lb/>
+		</p>
+		
+		<p>WHO STEPS had its origins in the WHO MONICA Project (Monitoring the Trends
+			<lb/>
+			and Determinants of Cardiovascular Disease) which, during the 1980s and early
+			<lb/>
+			1990s, monitored the trends and determinants of cardiovascular disease by developing
+			<lb/>
+			ongoing population based heart disease and stroke registers as well as three risk factor
+			<lb/>
+			surveys in the same populations at the beginning, middle and end of the duration of
+			<lb/>
+			the disease registers <ref type="biblio">17</ref> . This was essentially a research project to understand the
+			<lb/>
+			changes in incidence and case fatality of heart disease and stroke to the changing
+			<lb/>
+			profile of risk factors. Because the restrictive nature of case finding methods required
+			<lb/>
+			access to vital statistics and clinical records, most of the 38 collaborating centres of
+			<lb/>
+			the MONICA project were based in Europe; only one centre, Beijing, was in a
+			<lb/>
+			developing country. Even so, the WHO MONICA project was the largest of its kind,
+			<lb/>
+			monitoring the risk factor profile (tobacco use, serum cholesterol, blood pressure, and
+			<lb/>
+			body mass index) of over 100,000 adults 35-64 years of age. In the process it trained a
+			<lb/>
+			large group of epidemiologists.
+			<lb/>
+		</p>
+		
+		<p>In building on the MONICA experience, WHO STEPS placed the focus on obtaining
+			<lb/>
+			data on a few key risk factors in adults 25-64 years of age which would predict trends
+			<lb/>
+			in disease incidence, rather than focussing on disease incidence. One of the features
+			<lb/>
+			of WHO STEPS is that it is designed to ensure the inclusion of core items into
+			<lb/>
+			existing surveillance systems in an attempt to move towards encouraging the
+			<lb/>
+			reporting of core indicators in a standardised manner. For example, national health
+			<lb/>
+			surveys in India, Thailand, Iran, Philippines, Chile, USA, France and Singapore and
+			<lb/>
+			Indonesia, now incorporate selected items from WHO STEPS; 77 countries have
+			<lb/>
+			completed at least one baseline national survey, 16 have completed the second survey,
+			<lb/>
+			and two have completed the third survey.
+			<lb/>
+		</p>
+		
+		<p>The INDEPTH Network was formed in 1998 and formally constituted in 2002 to
+			<lb/>
+			bring together HDSS sites in low-and middle-income countries. Today, INDEPTH
+			<lb/>
+			has a membership of 34 HDSS sites in 17 countries. The sites had been developed in
+			<lb/>
+			many countries in Africa and Asia to address the lack of vital statistics and lack of
+			<lb/>
+			representative data at the population level <ref type="biblio">18</ref> . Many of these HDSS have monitored
+			<lb/>
+			population dynamics on a continuous basis over decades and together they represent a
+			<lb/>
+			unique public health resource Error: Reference source not found. One of INDEPTH&apos;s
+			<lb/>
+			strengths is that although originally developed to monitor infectious disease and
+			<lb/>
+			maternal and child health trends in selected populations, the population data base
+			<lb/>
+			enables the generation of random samples of the adult population with relative ease in
+			<lb/>
+			order to examine hitherto neglected measures of NCD risk <ref type="biblio">19</ref> .
+			<lb/>
+		</p>
+		
+		<p>The series of papers in this supplement of Global Health Action is a testimony to the
+			<lb/>
+			collaboration, cooperation and coordination of a large number of people, ranging from
+			<lb/>
+			the field workers and data collectors, to the principal investigators in each INDEPTH
+			<lb/>
+			Asian HDSS, as well as the leadership offered by the Centre for Epidemiology and
+			<lb/>
+			Global Health, a WHO Collaborating Centre in Surveillance and Public Health
+			<lb/>
+			Training at Umeå University, Sweden. Over 18,000 adults were included in the nine
+			<lb/>
+			site survey. The financial support of the INDEPTH Network and the technical support
+			<lb/>
+			by WHO through materials provided on the WHO web site (http://who.int/chp/steps)
+			<lb/>
+			made this collaborative exercise possible. The core set of indicators now available in
+			<lb/>
+			summary form for each of the different HDSS, offer an important resource for
+			<lb/>
+			generating hypotheses for further analyses, as well acting as a repository of the
+			<lb/>
+			baseline data against which future changes in these indicators can be measured.
+			<lb/>
+			Further surveys might explore the use of electronic data collection systems which
+			<lb/>
+			further simplify the collection of STEPS information, both in terms of acceptability of
+			<lb/>
+			the methods and accuracy of the data <ref type="biblio">20</ref> .
+			<lb/>
+		</p>
+		
+		<p>As would be expected, the results present an intriguing pattern of risk factors in these
+			<lb/>
+			widely divergent settings; however, each indicator is related to a sub population,
+			<lb/>
+			comparisons and explanations are limited. The main results raise issues which will
+			<lb/>
+			inevitably require further exploration, including with the use of qualitative studies.
+			<lb/>
+			Tobacco use, whether smoked or chewed, was common across all sites with some
+			<lb/>
+			notable variations. Few women smoked tobacco daily in any of the sites. However,
+			<lb/>
+			women, especially older women, were more likely to chew tobacco than men in all
+			<lb/>
+			sites. Only four of the five countries involved in this multi-site study have ratified the
+			<lb/>
+			WHO Framework Convention on Tobacco Control, and even then, implementation is
+			<lb/>
+			uneven.
+			<lb/>
+		</p>
+		
+		<p>Low levels of physical activity were recorded across the sites with over one in four
+			<lb/>
+			men and one in three women physically inactive. Contextual issues related to
+			<lb/>
+			urbanisation and the working environment need to be explored to explain these
+			<lb/>
+			patterns; the two HDSS in Vietnam are in an excellent position to further explore
+			<lb/>
+			differences in alcohol consumption and physical activity patterns. Fruit and vegetable
+			<lb/>
+			intake may be a simple marker of a healthy food pattern for useful monitoring of
+			<lb/>
+			changes in food patterns. However, the surprisingly low intake suggests that this
+			<lb/>
+			marker of nutrition may need to be supplemented with other more relevant local
+			<lb/>
+			foods. Measures of salt intake are cumbersome in the context of surveys, but
+			<lb/>
+			reduction in population salt levels has been shown to be the most cost effective
+			<lb/>
+			population based intervention, because of its association with blood pressure <ref type="biblio">21</ref> , and
+			<lb/>
+			some measure may need to be included in future surveys <ref type="biblio">22</ref> . This is especially
+			<lb/>
+			important because even in these rural populations, the mean levels of systolic blood
+			<lb/>
+			pressure are already greater than the optimal levelsError: Reference source not found
+			<lb/>
+			and individual based solutions are not likely to be cost-effective.
+			<lb/>
+		</p>
+		
+		<p>Experience from these nine INDEPTH HDSS is a cause for optimism which will be
+			<lb/>
+			fully realised when surveillance becomes an integral and funded component of
+			<lb/>
+			national prevention programmes and when the data from these surveys are used to
+			<lb/>
+			inform policy and evaluate the outcome of the resulting actions. There is now
+			<lb/>
+			sufficient evidence upon which to base prevention programmes. The focus should be
+			<lb/>
+			on population-wide measures, especially tobacco control and salt reductionError:
+			<lb/>
+			Reference source not found, but individually-based risk approaches will also be
+			<lb/>
+			important in the presence of a functioning primary health care system <ref type="biblio">23</ref> .
+			<lb/>
+		</p>
+		
+		<p>The papers in this Supplement represent only a first step. Many of the comparisons of
+			<lb/>
+			the core indicators require deeper exploration including further analyses of exposures
+			<lb/>
+			and the inclusion of additional contextual factors in the sites concerned. In addition,
+			<lb/>
+			qualitative studies addressing barriers to implementation of policy and local control
+			<lb/>
+			measures are required. The key challenge is to translate research into action. The
+			<lb/>
+			paper by Anand et al concludes that most of the sites are only in the early stage of this
+			<lb/>
+			process; assessing the size of the problem and making recommendations to address
+			<lb/>
+			the burden, is only a beginningError: Reference source not found . Many of the
+			<lb/>
+			suggested solutions are dependent on policies and changes in environments which
+			<lb/>
+			will require political leadership to implement evidence based interventions.
+			<lb/>
+			Ballabgarh, the HDSS site in India offers a hopeful example of the possibility of
+			<lb/>
+			successfully integrating surveillance with prevention. The critical success factors
+			<lb/>
+			identified in the Indian HDSS -involvement of a premier medical institution, pre-<lb/>existing links to
+			policy makers and program managers, strong commitment of the
+			<lb/>
+			HDSS team, and adequate human resource capacity -may not be available in all
+			<lb/>
+			settings. Even so, it is clear that all INDEPTH HDSS sites now need to strengthen
+			<lb/>
+			their links to health systems at different levels and enhance their capacity to engage
+			<lb/>
+			different stakeholders in order to benefit the health of the population they serve.
+			<lb/>
+		</p>
+		
+		<p>The extent to which there is national capacity to prevent and control NCDs in these
+			<lb/>
+			countries has not been addressed. However, this series of papers has demonstrated
+			<lb/>
+			that collaboration between surveillance sites in very different populations is possible
+			<lb/>
+			and, at least within the context of the INDEPTH network, there is capacity to continue
+			<lb/>
+			surveillance of these risk factors. Building the capacity to turn the information into
+			<lb/>
+			policy and programmes is the next critical step. Failure to do so would be a lost
+			<lb/>
+			opportunity; success would ensure that national policies are set in place to forestall an
+			<lb/>
+			increase in these modifiable risk factors which would hold back the growing NCD
+			<lb/>
+			pandemic in these countries. At its 10 th anniversary in 2008, the INDEPTH Network
+			<lb/>
+			reaffirmed its commitment to develop its capacity and strengthen its effort to move
+			<lb/>
+			from knowledge generation to improved health policy and practiceError: Reference
+			<lb/>
+			source not found. The information from this multi-site study should stimulate the
+			<lb/>
+			INDEPTH Network to assume a stronger leadership role in using its unique status to
+			<lb/>
+			promote policies, especially tobacco control, for the prevention of chronic NCD in
+			<lb/>
+			low-and middle-income countries.
+			<lb/>
+		</p>
+		
+		<head>References</head>
+	
+	
+	</text>
+</tei>

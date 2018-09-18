@@ -1,0 +1,637 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>INTRODUCTION
+			<lb/>
+		</head>
+		
+		<p>
+			Prevention of Mother to Child Transmission (PMTCT) as part of HIV programmes was
+			<lb/>
+			introduced in 2001 and has since then been adopted by various countries in Africa and
+			<lb/>
+			elsewhere (<ref type="biblio">Druce and Nolan, 2007</ref>). Mother to child transmission of HIV (MTCT) can
+			<lb/>
+			occur during pregnancy, labour, delivery and breastfeeding. Without treatment, around
+			<lb/>
+			15-30% of babies born to HIV-positive women will become infected with HIV during
+			<lb/>
+			pregnancy and delivery. A further 5-20% will become infected through breastfeeding
+			<lb/>
+			<ref type="biblio">(De Cock et al., 2000; Newell, 2006; Coovadia et al., 2007)</ref>.
+			<lb/>
+		</p>
+		
+		<p>To optimize the effectiveness of PMTCT, WHO promotes a four-pronged comprehensive
+			<lb/>
+			approach, aimed at improving maternal and child health in the context of an HIV
+			<lb/>
+			epidemic. This approach promotes routine HIV testing and counselling for pregnant
+			<lb/>
+			women. If a woman found to be HIV positive wants to continue her pregnancy, she
+			<lb/>
+			should receive clinical management and Highly Active Antiretroviral Therapy (HAART)
+			<lb/>
+			for herself, if eligible, or at least ARV prophylaxis during labour. For those who want to
+			<lb/>
+			terminate their pregnancy, safe abortion should be offered where available. Pregnant
+			<lb/>
+			women should also receive counselling on safe infant feeding choices and appropriately
+			<lb/>
+			referred for continued care for themselves and their children after delivery (
+			<ref type="biblio">Manzi et al.,
+				<lb/>
+				2005; WHO, 2006
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>When PMTCT was first introduced, the &quot;opt-in&quot; strategy for HIV testing was generally
+			<lb/>
+			the way counselling and testing was offered. The &quot;opt-in&quot; strategy is an approach
+			<lb/>
+			whereby all clients are encouraged to undergo counselling and testing if they so wish
+			<lb/>
+			<ref type="biblio">(Perez et al., 2006)</ref>. Later, an &quot;opt-out&quot; strategy was adopted by many
+			countries in sub-<lb/>Saharan Africa <ref type="biblio">(CDC, 2004)</ref>. The aim was to enable all pregnant women to be screened
+			<lb/>
+			for HIV infection. Testing should then occur after a woman is notified that HIV screening
+			<lb/>
+			is recommended for all pregnant women and that she will receive an HIV test as part of
+			<lb/>
+			the routine panel of prenatal tests unless she declines <ref type="biblio">(Bajunirwe and Muzoora,
+				2005)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The overall coverage of PMTCT services in sub-Saharan Africa according to WHO
+			<lb/>
+			(2007) is 11% with a range of 8% -54%, reflecting varying levels of implementation
+			<lb/>
+			within each country. The numbers of HIV-infected children in sub-Saharan Africa
+			<lb/>
+			continue to grow though at different levels <ref type="biblio">(ANECCA, 2008)</ref>. This is because of the
+			<lb/>
+			many challenges that are faced during the implementation of the PMTCT programmes.
+			<lb/>
+			The challenges include large proportions of home deliveries, shortages of personnel,
+			<lb/>
+			inadequate supplies of test kits, varying distribution and availability of PMTCT service
+			<lb/>
+			delivery points, lack of supplementary feeds for women who may opt for non-breast
+			<lb/>
+			feeding for their infants, and logistical and social implications after testing HIV positive,
+			<lb/>
+			such as a lack of spousal support and sometimes violence
+			<ref type="biblio">(Castethon et al., 2000;
+				<lb/>
+				Beauregard et al., 2005;Doherty et al., 2006; Perez et al., 2006; Kasenga et al,
+				<lb/>
+				2007;Thorsen et al., 2008)
+			</ref>
+			.
+			<lb/>
+		</p>
+		
+		<p>Malawi has an estimated 900,000 people living with HIV/AIDS and the prevalence rate is
+			<lb/>
+			14%, almost twice as high as the overall prevalence rate in the sub-Saharan African
+			<lb/>
+			region <ref type="biblio">(MDHS, 2004; Tarwireyi, 2004; UNAIDS/WHO, 2004; MOHP, 2005)</ref>. Life
+			<lb/>
+			expectancy at birth in Malawi has fallen below 40 years as a consequence of the
+			<lb/>
+			HIV/AIDS epidemic. HIV/AIDS is now the leading cause of death among people aged
+			<lb/>
+			20-49 in Malawi <ref type="biblio">(UNAIDS/WHO, 2004)</ref>. HIV prevalence among pregnant women in
+			<lb/>
+			Malawi ranges from 15-19% and PMTCT was initiated in 2003 <ref type="biblio">(MOHP, 2003; UNICEF,
+			<lb/>
+				2008)</ref>. Furthermore, in 2006, WHO (2007) estimated Malawi&apos;s PMTCT coverage to be
+			<lb/>
+			27%.
+			<lb/>
+		</p>
+		<p>
+			The implementation of PMTCT services in Malawi began in a few pilot projects where
+			<lb/>
+			individual projects used different models, which became difficult to monitor and evaluate
+			<lb/>
+			in terms of effectiveness of interventions. Subsequently national and local PMTCT
+			<lb/>
+			guidelines and policies were developed and introduced into the health care system to
+			<lb/>
+			guide health workers in planning, implementing and evaluating PMTCT services.
+			<lb/>
+			This paper describes the experiences of a PMTCT programme during 2005-2007 in rural
+			<lb/>
+			Malawi and explores how the demand for ANC, HIV testing and hospital delivery was
+			<lb/>
+			influenced by policy changes during the period.
+			<lb/>
+		</p>
+		
+		<head>METHODS
+			<lb/>
+		</head>
+		
+		<head>Study Area
+			<lb/>
+		</head>
+		
+		<p>
+			Malamulo mission hospital belongs to the Seventh Day Adventist (SDA) Church which is
+			<lb/>
+			located in southern region, in rural Malawi, 65km south east of Blantyre City in Thyolo
+			<lb/>
+			District. It was established in 1902 and remains the headquarters of the SDA Church in
+			<lb/>
+			Malawi. The hospital has 15 mobile sites with 2 health centres and collaborates with non-<lb/>governmental
+			organizations (NGOs) in the district as well as Thyolo District Hospital. To
+			<lb/>
+			complement the efforts of the Government of Malawi, through the Ministry of Health and
+			<lb/>
+			Population, in fighting against poverty, disease and ignorance, Malamulo implements a
+			<lb/>
+			comprehensive HIV/AIDS Prevention Programme. This study was done within the area
+			<lb/>
+			covered by this programme.
+			<lb/>
+		</p>
+		
+		<head>PMTCT in the study area
+			<lb/>
+		</head>
+		
+		<p>
+			<lb/>
+			Public and faith-based health facilities co-ordinated by the District Health office (DHO)
+			<lb/>
+			through Medicins Sans Frontieres (MSF) are the PMTCT implementing agencies in the
+			<lb/>
+			area. PMTCT and ART at Malamulo hospital were introduced in July and October 2004
+			<lb/>
+			respectively. In 2004, PMTCT was not widely available. Service providers in both public
+			<lb/>
+			and faith-based health facilities were trained in PMTCT with support from MSF, the
+			<lb/>
+			Ministry of Health and various NGOs. Following capacity building, all the health centres
+			<lb/>
+			were upgraded to offer a minimal PMTCT package. The minimal package in this context
+			<lb/>
+			comprised HIV testing, counselling on feeding options and support for mothers.
+			<lb/>
+			Malamulo hospital remains the referral centre for full fledged delivery of PMTCT
+			<lb/>
+			services in the area. The full fledged services include the minimal package, provision of
+			<lb/>
+			ART prophylaxis to mothers and their babies, follow ups and long-term ART. HIV
+			<lb/>
+			infected mothers in the health centres are referred to the full fledged PMTCT services.
+			<lb/>
+		</p>
+		
+		<head>Data collection tools
+			<lb/>
+		</head>
+		
+		<p>Three hospital registers were used for data collection from 2005-2007. These were
+			<lb/>
+			general ANC, delivery and PMTCT registers. Policy changes made during the period
+			<lb/>
+			were also documented.
+			<lb/>
+		</p>
+		
+		<head>Data analysis
+			<lb/>
+		</head>
+		
+		<p>Data were analysed descriptively based on the three year period covered by the study.
+			<lb/>
+			Documentation of polices introduced during the study period were studied carefully and
+			<lb/>
+			related to the trends in demand for ANC and HIV testing.
+			<lb/>
+		</p>
+		
+		<head>Ethical clearance
+			<lb/>
+		</head>
+		
+		<p>Permission to conduct the study was obtained from National Health Sciences Research
+			<lb/>
+			Committee in the Ministry of Health, Malawi. Further, consent was obtained from
+			<lb/>
+			Malamulo Hospital Administrative Council.
+			<lb/>
+		</p>
+		
+		<head>RESULTS
+			<lb/>
+		</head>
+		
+		<head>
+			Integration of voluntary counselling and testing (VCT) in the ANC unit
+			<lb/>
+		</head>
+		
+		<p>Malamulo hospital offered ANC long before HIV testing and counselling services. When
+			<lb/>
+			VCT services were introduced, the services were offered through one central point, the
+			<lb/>
+			out-patient department (OPD), with the VCT unit using an opt-in approach. In many
+			<lb/>
+			cases, mothers were lost to follow-up between the ANC unit and the VCT unit. As a local
+			<lb/>
+			initiative, in March 2005, HIV testing and counselling services were integrated within
+			<lb/>
+			ANC. In June 2005, management of STIs was also integrated into ANC.
+			<lb/>
+		</p>
+		
+		<head>Opt-out strategy in PMTCT
+			<lb/>
+		</head>
+		
+		<p>The opt-out strategy was introduced in January 2006 in Malamulo SDA Hospital PMTCT
+			<lb/>
+			Programme. This was a Malawi Government initiative and was adopted by public and
+			<lb/>
+			faith-based health facilities such as Malamulo. The purpose was to minimise the number
+			<lb/>
+			of HIV infected women who might transmit HIV infection to their babies. When the opt-<lb/>in policy was used
+			in PMTCT services, counsellors did one-to-one pre-and post-test
+			<lb/>
+			counselling, since the client uptake was low. With the introduction of the opt-out
+			<lb/>
+			strategy, the counsellors&apos; work load increased. Therefore, the counsellors now conduct
+			<lb/>
+			the pre-test phase using group counselling, to cope with the growing demand for HIV
+			<lb/>
+			testing. However, post-test counselling continues to be provided on a one-to-one basis.
+			<lb/>
+		</p>
+		
+		<head>Introduction of free maternity services
+			<lb/>
+		</head>
+		
+		<p>In October 2006, free maternity services were introduced at Malamulo hospital to cater
+			<lb/>
+			for its surrounding 15 villages. The move was part of a strategy aimed at reducing
+			<lb/>
+			maternal and infant mortality rates in Malawi. The Ministry of Health and Population
+			<lb/>
+			(MOHP), through respective district health offices (DHOs) in the country, is responsible
+			<lb/>
+			for supporting the strategy. The approach has been extended to faith-based health
+			<lb/>
+			facilities, as well as public hospitals. International agencies such as UNICEF, UNDP,
+			<lb/>
+			MSF and others positively support the strategy. The Government of Malawi, through
+			<lb/>
+			MOHP, is using funds from the UK Department for International Development (DFID)
+			<lb/>
+			together with tax revenue to manage the continuity of this strategy.
+			<lb/>
+		</p>
+		
+		<head>Demand for ANC and HIV testing
+			<lb/>
+		</head>
+		
+		<p><ref type="figure">Figure 1</ref> illustrates women&apos;s increasing uptake of maternity services as policy changes to
+			<lb/>
+			increase access were introduced. A total of 4,528 pregnant women accessed ANC at
+			<lb/>
+			Malamulo hospital from January 2005 to December 2007.
+			<lb/>
+		</p>
+		
+		<p>
+			Before the integration of HIV testing within ANC in March 2005, 196 pregnant mothers
+			<lb/>
+			accessed ANC, 103 (52.6%) of them underwent HIV testing and 17 (16.5%) tested
+			<lb/>
+			positive. After March 2005, when HIV testing was integrated within ANC, ANC
+			<lb/>
+			attendance and the proportion accessing HIV testing generally increased. In this period,
+			<lb/>
+			1,063 pregnant mothers accessed ANC, 837 (78.7%) took an HIV test and 148 (17.7%)
+			<lb/>
+			tested positive. In January 2006, routine (opt-out) HIV testing was introduced within
+			<lb/>
+			ANC and this again increased both ANC attendance and uptake of HIV testing. 992
+			<lb/>
+			women attended ANC, of whom 879 (88.6%) took an HIV test and 137 (15.6%) tested
+			<lb/>
+			positive. In October 2006, free maternity services were introduced. In this period, 2,277
+			<lb/>
+			pregnant mothers accessed ANC, 2,249 (98.8%) took an HIV test and 333 (14.8%) tested
+			<lb/>
+			positive. The average monthly rates of ANC attendance, HIV testing and HIV positive
+			<lb/>
+			results are shown in <ref type="table">Table 1</ref>.
+			<lb/>
+		</p>
+		<p>
+			A steady increase in hospital deliveries, including those among HIV infected mothers and
+			<lb/>
+			associated with acceptance of NVP, together with increasing numbers of delivery by
+			<lb/>
+			Caesarean section were also observed as these various policy changes were made, as also
+			<lb/>
+			shown in <ref type="figure">Figure 1</ref>. A total of 2,645 ANC attendees had hospital deliveries during the
+			<lb/>
+			study period. Among the HIV positive women, there were caesarean sections that were
+			<lb/>
+			carried out in a relatively small proportion (&lt;1%).
+			<lb/>
+		</p>
+		<p>
+			In the pre-intervention period, 117 mothers delivered in the hospital of whom 13 (11.1%)
+			<lb/>
+			were HIV positive and 12 (92.3%) accepted NVP. After the integration of opt-in HIV
+			<lb/>
+			testing within ANC, 468 deliveries occurred in the hospital of whom 70 (15%) were HIV
+			<lb/>
+			positive and 68 (97.1%) took NVP. After routine (opt-out) HIV testing was introduced,
+			<lb/>
+			549 mothers had hospital deliveries of whom 67 (12.2%) were HIV positive and 59
+			<lb/>
+			(88.1%) took NVP. Finally, free maternal services resulted in 1,511 hospital deliveries of
+			<lb/>
+			whom 219 (14.5%) were HIV positive and 194 (88.6%) mothers took NVP. The
+			<lb/>
+			corresponding average monthly rates for these figures are also shown in <ref type="table">Table 1</ref>.
+			<lb/>
+		</p>
+		
+		<p>The overall ratio of hospital deliveries to ANC attendees was 0.50:1 before free delivery
+			<lb/>
+			was introduced, increasing to 0.66:1 with free delivery. Similarly, in the earlier period the
+			<lb/>
+			ratio of HIV-positive hospital deliveries to ANC HIV test positives was 0.50:1, rising to
+			<lb/>
+			0.58:1 with free delivery. However, the ratios of HIV-negative hospital deliveries to
+			<lb/>
+			ANC HIV test negatives were 0.65:1 and 0.67:1 respectively.
+			<lb/>
+		</p>
+		
+		<head>DISCUSSION
+			<lb/>
+		</head>
+		
+		<p>This study was designed as a descriptive analysis of programme-based activities. It would
+			<lb/>
+			neither have been feasible nor ethical to incorporate any kind of randomisation to the
+			<lb/>
+			introduction of the various, potentially life-saving, policy changes implemented within
+			<lb/>
+			this PMTCT programme, and consequently it is not possible in absolute terms to attribute
+			<lb/>
+			effects on service utilisation to those policy changes. Nevertheless, the increasing
+			<lb/>
+			availability and correspondingly larger uptake of services provided within this period are
+			<lb/>
+			likely to be linked. Since similar interventions were also implemented elsewhere in
+			<lb/>
+			Malawi, it is not likely that our findings reflect artefacts such as movement of women
+			<lb/>
+			across catchment areas.
+			<lb/>
+		</p>
+		
+		<p>Our study firstly suggests that integrating HIV testing within ANC increased HIV test
+			<lb/>
+			acceptance from 52.6% to 78.7%. A similar finding was shown in a study from Barbados.
+			<lb/>
+		</p>
+		
+		<p>In that study, after integrating HIV testing in ANC, HIV test acceptance among ANC
+			<lb/>
+			attendees increased to 95.8% <ref type="biblio">(Kumar et al., 2004)</ref>. This may reflect issues such the
+			<lb/>
+			integrated approach being convenient, as well as time-saving and hence cost-effective for
+			<lb/>
+			women, as well as possibly reducing stigma and discrimination since women are not
+			<lb/>
+			singled out as they access separate HIV services. This implies that comprehensive
+			<lb/>
+			services in resource-poor settings are necessary to facilitate proper utilisation of the
+			<lb/>
+			resources and prevent knock-on effects on other public programmes.
+			<lb/>
+		</p>
+		
+		<p>The study further revealed that acceptance of HIV testing and counselling among the
+			<lb/>
+			ANC attendees increased from 78.7% to 98.8% after changing from opt-in to opt-out
+			<lb/>
+			testing. This increase corresponds with a Zimbabwean study in which 99.9% of ANC
+			<lb/>
+			attendees accepted HIV testing offered on an opt-out basis (during an initial 6-month
+			<lb/>
+			period), compared with 65% women during the last 6 months of opt-in testing
+			<lb/>
+			<ref type="biblio">(Chandisarewa et al, 2007)</ref>. Thus policies that favour inclusive approaches to
+			testing may
+			<lb/>
+			increase subsequent access to health services by disadvantaged groups, such as women in
+			<lb/>
+			PMTCT programmes. Both in Zimbabwe and Botswana, women were satisfied with
+			<lb/>
+			counselling services within opt-out testing and most (89%) stated that offering HIV
+			<lb/>
+			testing routinely was helpful <ref type="biblio">(Perez et al., 2006;Chandisarewa et al, 2007)</ref>.
+			<lb/>
+		</p>
+		
+		<p>However, it is important to remember that being tested may bring conflict to women
+			<lb/>
+			whose partners have not consented to it, as found by previous studies
+			<ref type="biblio">(Chandrasekaran et
+				<lb/>
+				al., 2007; El-Bassel et al., 2007)
+			</ref>
+			. This suggests a need to involve male partners and the
+			<lb/>
+			wider family in PMTCT programmes to overcome barriers. The criticism of PMTCT
+			<lb/>
+			services is that they are too female-focused and this has greatly limited their effectiveness
+			<lb/>
+			and progress. It is also important to remember that male involvement in various aspects
+			<lb/>
+			of reproductive health care and couple counselling may reduce the challenges women
+			<lb/>
+			face while accessing maternity services, as has been found in Burkina Faso and Côte
+			<lb/>
+			d&apos;Ivoire <ref type="biblio">(Sarker, 2007; Desgrées du Loû, 2007)</ref>.
+			<lb/>
+		</p>
+		
+		<p>It is also important to remember that HIV infection in pregnancy raises many difficult
+			<lb/>
+			ethical, legal and human rights issues as interventions to limit MTCT move beyond
+			<lb/>
+			delivery. This may leave women in difficult dilemmas or with little choice but to
+			<lb/>
+			succumb to prevailing situations. It is not easy to conceive and implement standards for
+			<lb/>
+			protecting reproductive autonomy, as established in previous studies including missing
+			<lb/>
+			data in the uptake of services such as NVP as was also the case in this study and before
+			<lb/>
+			<ref type="biblio">(Ghosh and Kalipeni , 2005;Charles et al., 2008)</ref>. HIV-positive women experience
+			<lb/>
+			difficult choices about whether to become pregnant, remain pregnant and manage
+			<lb/>
+			pressures from partners in the presence of gender inequality. Additionally, families,
+			<lb/>
+			communities, health care providers and the state may hold different views about the
+			<lb/>
+			nature of the policies relating to HIV-positive women and their children, with the
+			<lb/>
+			objective of maintaining health in the context of HIV/AIDS. On the other hand,
+			<lb/>
+			individual women&apos;s rights have to be respected.
+			<lb/>
+		</p>
+		
+		<p>Our study also showed that the current response to women&apos;s needs in this era of AIDS
+			<lb/>
+			remains inadequate. Although ANC attendance rates and hospital delivery rates more
+			<lb/>
+			than doubled over the period of the study, one-third of ANC attendees still did not deliver
+			<lb/>
+			in hospital, even given the opportunity of free delivery care. In addition, we cannot know
+			<lb/>
+			from this study how many pregnant women in the Malamulo catchment area never sought
+			<lb/>
+			ANC in the first place, nor what the HIV status of that group might be. The PMTCT
+			<lb/>
+			strategy as the principal framework under which women are easily able to access HIV
+			<lb/>
+			services reinforces and at times exacerbates the larger challenges they face in accessing
+			<lb/>
+			much-needed sexual and reproductive health services, including maternal care. PMTCT
+			<lb/>
+			frameworks require shifts towards ensuring that women&apos;s rights and needs, as defined by
+			<lb/>
+			and enshrined in several global agreements, are more appropriately and adequately met
+			<lb/>
+			<ref type="biblio">(WHO/UNAIDS, 2007)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Our study suggests that the introduction of free maternity services is of considerable
+			<lb/>
+			benefit to resource-poor communities such as Malawi, where the majority of women are
+			<lb/>
+			likely to experience economic difficulties, as also studied elsewhere
+			<ref type="biblio">(Witter and Adjei,
+				<lb/>
+				2007; Witter et al., 2007; Jacobs et al., 2007)
+			</ref>
+			. These studies showed that, after
+			<lb/>
+			introducing free maternity services, more women accessed ANC as well as delivery
+			<lb/>
+			services. ANC uptake doubled in a Nigerian study, in which women who knew that
+			<lb/>
+			delivery care would be free of charge were 4.6 times more likely to use ANC services
+			<lb/>
+			<ref type="biblio">(Mills et al., 2007)</ref>. Additionally, hospital deliveries increased from 42.9% to
+			57.1% after
+			<lb/>
+			introducing free maternity services. Figures from our study show that, after free delivery
+			<lb/>
+			was introduced, the ratio of HIV-positive hospital deliveries to ANC HIV-positive test
+			<lb/>
+			results increased, although there were still large numbers of HIV-positive women who
+			<lb/>
+			did not access free delivery in hospital. This probably reflects both economic and other
+			<lb/>
+			kinds of barriers faced by HIV-positive women in this setting. The NVP uptake during
+			<lb/>
+			hospital delivery should reach 100%, this is not the case in our study. However we
+			<lb/>
+			observed that in 19 cases no information was given on NVP in the routine register and
+			<lb/>
+			therefore conclude that we might underestimate the uptake.
+			<lb/>
+		</p>
+		
+		<p>The long-term sustainability of such free delivery policies has to be considered, as has
+			<lb/>
+			been done in Ghana, where it was found that the main constraint was inadequate funding
+			<lb/>
+			as a result of inter-sectoral haggling over resources
+			<ref type="biblio">(Witter and Adjei, 2007; James et al.,
+				<lb/>
+				2006)
+			</ref>
+			. This may be a difficult issue that has to be considered further by programme
+			<lb/>
+			implementers and policy makers.
+			<lb/>
+		</p>
+		
+		<p>This study suggests that opt-out HIV testing, integrated with ANC, plus free maternity
+			<lb/>
+			services, all led to greater numbers of HIV-positive pregnancies being delivered in
+			<lb/>
+			hospital and more doses of antiretroviral prophylaxis being given. However, these
+			<lb/>
+			increases were achieved alongside similar increases in service uptake by HIV-negative
+			<lb/>
+			women. This latter effect is likely to be beneficial to maternal health in general, but at the
+			<lb/>
+			same time carries very considerable resource implications. If complete coverage of at-risk
+			<lb/>
+			groups by PMTCT programmes implies, as a pre-requisite, a policy of universal ANC
+			<lb/>
+			and free hospital delivery, then it is clear that many resource-poor settings will simply not
+			<lb/>
+			have the capacity (in terms of hospitals, staff, and consumables) for implementation on
+			<lb/>
+			this scale in the near future. Effective implementation of PMTCT may, therefore, become
+			<lb/>
+			in effect an argument for a major expansion of health services, rather than developing
+			<lb/>
+			PMTCT within dedicated, vertical programmes. Barriers to accessing PMTCT services
+			<lb/>
+			are otherwise likely to be numerous
+			<ref type="biblio">(Manzi et al., 2005; Lindgren et al., 2005 Kasenga et
+				<lb/>
+				al., 2007)
+			</ref>
+			.
+			<lb/>
+		</p>
+		
+		<p>We therefore conclude that PMTCT programmes need to be strengthened by investing
+			<lb/>
+			more generally in maternal health services, as well as intensifying education on
+			<lb/>
+			HIV/AIDS, safe delivery and infant feeding practices, as means of averting HIV/AIDS-<lb/>related stigmas.
+			Ways of reaching and supporting HIV positive women who continue to
+			<lb/>
+			deliver at home may also be required to further increase coverage of PMTCT services,
+			<lb/>
+			but in ways that preserve privacy. Involving families, communities and service providers
+			<lb/>
+			in designing and maintaining appropriate PMTCT service delivery strategies will be
+			<lb/>
+			essential.
+		</p>
+	
+	
+	</text>
+</tei>

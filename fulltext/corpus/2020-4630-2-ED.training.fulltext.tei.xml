@@ -1,0 +1,353 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Viewpoint
+			<lb/>
+		</head>
+		
+		<p>Climate change may affect the spread of zoonotic infectious diseases in several ways. The
+			<lb/>
+			geographic distribution and thereby the population at risk as well as the transmission of these
+			<lb/>
+			diseases may increase due to climate factors such as temperature, humidity and precipitation
+			<lb/>
+			<ref type="biblio">(1)</ref>. The group of zoonotic infectious diseases includes large and increasing and number of
+			<lb/>
+			bacterial, viral and parasitic infections, each with its specific characteristics, reservoir host
+			<lb/>
+			and mode of transmission <ref type="biblio">(2-6)</ref>. Several of these infections are recognized as emerging
+			<lb/>
+			diseases and pose a serious threat to human public health <ref type="biblio">(7)</ref>. These diseases are most
+			<lb/>
+			commonly transmitted to humans either directly from animals (e.g., rodents) <ref type="biblio">(4)</ref> or by vectors
+			<lb/>
+			(e.g., mosquitoes and ticks) <ref type="biblio">(2, 3, 8)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Hantaviruses are globally spread hemorrhagic fever viruses carried by various rodents <ref type="biblio">(9)</ref>.
+			<lb/>
+			These viruses are frequently transmitted to humans globally and are recognized as emerging
+			<lb/>
+			viral diseases. Hantaviruses can cause two febrile illnesses in humans: hemorrhagic fever with
+			<lb/>
+			renal syndrome (HFRS) in Asia and Europe and hantavirus cardiopulmonary syndrome
+			<lb/>
+			(HCPS) in the Americas, depending on the species of hantavirus <ref type="biblio">(9)</ref>. HFRS accounts for more
+			<lb/>
+			than 200,000 cases and thousands of deaths annually, whereas HCPS is much less frequent
+			<lb/>
+			although more severe with a mortality rate above 40% <ref type="biblio">(9)</ref>. Severe forms of HFRS are
+			<lb/>
+			prevalent in China and Korea (Haantan virus) and the Balkans (Dobrava virus) and a milder
+			<lb/>
+			form, nephropathia epidemica (NE), is most prevalent in Russia, Finland, Sweden, Germany,
+			<lb/>
+			France, Belgium and Norway. NE is caused by Puumala virus (PUUV) and is transmitted to
+			<lb/>
+			humans via inhalation of infectious aerosols containing rodent saliva, urine and/or faeces from
+			<lb/>
+			bank voles (Myodes glareolus) <ref type="biblio">(10)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The bank vole is one of the most abundant mammal species in Europe. Variations in
+			<lb/>
+			availability of plants and berries due to climate variations affect the vole populations, and in
+			<lb/>
+			Central Europe these abundance peaks are often related to high tree seed production, which is
+			<lb/>
+			supposedly triggered by specific weather conditions <ref type="biblio">(11, 12)</ref>. In northern Fennoscandia the
+			<lb/>
+			bank vole population shows pronounced seasonal and multi-annual fluctuations in population
+			<lb/>
+			density <ref type="biblio">(13)</ref>. The cyclic activity of the population dynamics has been explained by
+			variations
+			<lb/>
+			in predator populations and availability of food <ref type="biblio">(14)</ref>. The voles serve as prey for several
+			<lb/>
+			predators, making them an important part in the ecological web in Fennoscandia <ref type="biblio">(15)</ref>. The
+			<lb/>
+			bank vole population peaks coincide with increased number of human cases of hantavirus
+			<lb/>
+			infections <ref type="biblio">(16)</ref>. In contrast to humans, rodent reservoirs become persistently infected showing
+			<lb/>
+			no signs of disease or clinical pathology. In humans, after exposure to PUUV there is a 1-5
+			<lb/>
+			week incubation period before the NE disease symptoms appear. The disease is characterized
+			<lb/>
+			by acute onset of high fever, headache, backache, myalgia and abdominal pain <ref type="biblio">(17)</ref>. Renal
+			<lb/>
+			impairment is common and there is increasing evidence for a correlation between previous
+			<lb/>
+			PUUV infection and later chronic renal affection and hypertension. One-third of the patients
+			<lb/>
+			in Sweden have hemorrhagic symptoms and severe bleedings may occur. Some patients with
+			<lb/>
+			more severe forms of HFRS (5-10%) die from hypotensive shock or bleeding.
+			<lb/>
+		</p>
+		
+		<p>During the last days of December 2006 and the first months of 2007, northern Sweden
+			<lb/>
+			experienced a sudden and large outbreak of NE with high numbers of NE patients that
+			<lb/>
+			resulted in a considerable burden on public health services <ref type="biblio">(18)</ref>. According to the Swedish
+			<lb/>
+			Communicable Disease Act, NE must be reported and records show that the outbreak peaked
+			<lb/>
+			during the first three months of 2007 (<ref type="figure">Fig. 1</ref>). In Sweden during 2007 and during
+			2008, a
+			<lb/>
+			record-breaking 2195 NE cases were recorded and more NE cases were diagnosed although
+			<lb/>
+			not in the similar frequencies as in early 2007. The incidence in one of the most endemic
+			<lb/>
+			areas -Västerbotten County for 2007 -was 313 recognized cases/100,000 inhabitants. In
+			<lb/>
+			Sweden during the peak (January-March 2007), 972 cases were recorded, 474 cases in
+			<lb/>
+			Västerbotten County alone. The NE patients showed all the classical HFRS symptoms and
+			<lb/>
+			displayed the whole spectra from mild to severe disease requiring hospitalization and
+			<lb/>
+			occasionally intensive care. Of the diagnosed patients, 30% were hospitalized and three
+			<lb/>
+			known fatalities (0.24% case fatality) were recorded in the two most northern counties in
+			<lb/>
+			Sweden during 2007. Previous NE peaks in 1999 (73/100,000), 2002 (38/100,000) and 2005
+			<lb/>
+			(61/100,000) had much lower incidence compared to the record year 2007 (313/100,000) (Fig.
+			<lb/>
+			1) even though the bank vole prevalence was similar <ref type="biblio">(18, 19)
+			</ref>
+			.
+			<lb/>
+		</p>
+		
+		<p>One important factor that influences hantavirus transmission to humans is the increased
+			<lb/>
+			exposure of humans to infected rodent excreta. Several reports from inhabitants in areas
+			<lb/>
+			where bank voles normally dwell indicated that more bank voles were found in traps inside
+			<lb/>
+			houses than normal (18). This lead to an investigation regarding the weather conditions during
+			<lb/>
+			this period: Interestingly, December 2006 was exceptional with respect to the mild weather
+			<lb/>
+			with no or very little snow and hard ice-cover in the coastal area of northern Sweden
+			<ref type="figure">(Fig.
+				<lb/>
+				2A
+			)</ref>
+			. During two previous NE peak periods (2001-02 and 2004-05), when records of snow
+			<lb/>
+			cover were available, the ground was already covered in early winter <ref type="figure">(Fig 2A)</ref>. In
+			December
+			<lb/>
+			2006, Sweden experienced an average temperature 4.5°C-9.5°C warmer than normal and in
+			<lb/>
+			the most endemic region, Västerbotten County, the average temperature for December was
+			<lb/>
+			6.0°C-9.0°C warmer than normal <ref type="figure">(Fig. 2B)</ref>. In previous peak years (December 2001-02
+			and
+			<lb/>
+			2004-05), the average temperature was normal <ref type="biblio">(18)</ref>.
+			<lb/>
+		</p>
+		
+		<p>In Sweden during 2007, the NE outbreak seemed to have at least two main determinants, a
+			<lb/>
+			peak year for bank voles and an extreme climate in the affected regions with a record
+			<lb/>
+			breaking warm winter that registered temperatures 6-9°C above normal. The number of NE
+			<lb/>
+			cases depends on the size of the vole population, which peaks every third to fourth year
+			<ref type="biblio">(16,
+				<lb/>
+				20)</ref> and an increase in the bank vole population was reported in northern Sweden in the
+			<lb/>
+			autumn of 2006, similar to the preceding autumn of two NE peaks (1998-1999 and 2004-05)
+			<lb/>
+			<ref type="biblio">(19)</ref>. Thus the bank vole population was high, but not more than previous peak years and
+			<lb/>
+			could not alone explain the very high number of NE cases in early 2007.
+			<lb/>
+		</p>
+		
+		<p>Snow cover, an important factor for bank vole survival, provides insulation from the cold,
+			<lb/>
+			protection from predators and access to food below the snow <ref type="biblio">(13)</ref>. Lately, the winters in the
+			<lb/>
+			regions in northern Sweden where most cases of NE occur have been unusually mild <ref type="biblio">(21)</ref>.
+			<lb/>
+			They have been characterised by late snowfall, periods with no snow and sometimes rain
+			<lb/>
+			followed by freezing temperatures <ref type="biblio">(21)</ref> destroying the protective effect of the snow
+			cover.
+			<lb/>
+			These extreme climate conditions with absence of the snow cover in northern Sweden during
+			<lb/>
+			December 2006 and January 2007 probably contributed to the transmission of PUUV from
+			<lb/>
+			bank voles to humans. The number of NE cases among humans as well as the PUUV
+			<lb/>
+			prevalence among bank voles is linked to variables favouring the survival of the virus in the
+			<lb/>
+			environment, such as indirect transmission facilitated by low winter temperatures <ref type="biblio">(22)</ref>. The
+			<lb/>
+			increased PUUV transmission in northern Sweden seemed to be facilitated by more frequent
+			<lb/>
+			contact between bank voles and humans. It is conceivable that during December 2006, when
+			<lb/>
+			there was no snow cover for a long period, bank voles sought refuge in barns and houses and
+			<lb/>
+			other buildings, a behaviour that increased the exposure for humans. In 2007 and 2008, there
+			<lb/>
+			were still rather high numbers of diagnosed NE patients (<ref type="figure">Fig. 2</ref>), but these
+			increases most
+			<lb/>
+			probably were related to the bank vole population peak during this period <ref type="biblio">(23)</ref>. Furthermore,
+			<lb/>
+			the food availability for bank voles could also be affected by climate conditions. In Belgium,
+			<lb/>
+			the relationship between tree seed production, climate and NE incidence has been analyzed
+			<lb/>
+			and NE epidemics are preceded by abundant tree seed production <ref type="biblio">(24)</ref>. Moreover, a direct
+			<lb/>
+			link between climate and NE incidence was found, with high summer and autumn
+			<lb/>
+			temperatures, two years and one year respectively before NE occurrence, related to high NE
+			<lb/>
+			incidence <ref type="biblio">(24)</ref>. Of course, another possible factor for the outbreak could be that the virus itself
+			<lb/>
+			has mutated and to study this we have compared the PUUV genome from 2007 with previous
+			<lb/>
+			years. Virus RNA from three patient samples were sequenced and revealed that the obtained
+			<lb/>
+			sequences were highly homologous to previous rodent PUUV isolates from the area <ref type="biblio">(18, 25)</ref>.
+			<lb/>
+		</p>
+		
+		<p>The bank vole and other rodents play an important role as reservoir for many pathogens that
+			<lb/>
+			may cause disease in humans and domestic animals <ref type="biblio">(26)</ref>. Many of these pathogens are
+			<lb/>
+			recognized as emerging zoonotic infections <ref type="biblio">(7)</ref>. Climatic changes may greatly affect the
+			<lb/>
+			rodent population size and behaviour, increasing the risk for transmission of several human
+			<lb/>
+			pathogens <ref type="biblio">(1, 4)</ref>. Similarly, other vector borne infections may increase due to climate change
+			<lb/>
+			<ref type="biblio">(1, 2, 5, 8)</ref>. To minimize threats to public health and to maximize preparedness and
+			proper
+			<lb/>
+			actions, surveillance of reservoirs, vectors and pathogens are of the greatest importance.
+			<lb/>
+			Attempts to forecast disease outbreaks have focused on the impact of climate variability on
+			<lb/>
+			infectious diseases <ref type="biblio">(27)</ref>. Using El Niño/Southern Oscillation related climate anomalies,
+			<lb/>
+			vector-borne infections -such as Dengue fever, malaria, Rift Valley fever, West Nile fever
+			<lb/>
+			and hantavirus disease -have been predicted to occur in several parts of the world <ref type="biblio">(28)</ref>. For
+			<lb/>
+			the vector-borne Rift Valley fever virus, the risk-mapping model using these climate data
+			<lb/>
+			predicted areas where outbreaks of Rift Valley fever in humans and animals were expected
+			<lb/>
+			and occurred in the Horn of Africa from December 2006 to May 2007 <ref type="biblio">(29)</ref>.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>A combination of a mild climate at the beginning of winter, loss of protective snow cover and
+			<lb/>
+			high rodent reservoir numbers likely caused the sudden and dramatic increase of NE cases in
+			<lb/>
+			the winter 2006/07 in northern Sweden. The globally spread, rodent-borne hantaviruses
+			<lb/>
+			should be regarded as an increasing threat to health since future climate change scenarios
+			<lb/>
+			predict higher temperatures.
+			<lb/>
+		</p>
+		<head>
+			Figure legends
+			<lb/>
+		</head>
+		<p>
+			Figure 1
+			<lb/>
+			Annual incidence of human hantavirus infection in Sweden and Västerbotten County from
+			<lb/>
+			1999 through 2008
+			<lb/>
+		</p>
+		<p>
+			Figure 2
+			<lb/>
+			Climate conditions December 1999-2007 in the NE outbreak area of Västerbotten County.
+			<lb/>
+			The figures show number of days with snow cover (A) and the average temperature (B).
+			<lb/>
+			Snow cover was defined as snow depth &gt; 0 cm. The measurements were made in locations
+			<lb/>
+			approximately 30 kilometres from the coast.
+			<lb/>
+		</p>
+		
+		<figure>Figure 1
+			<lb/>
+			0
+			<lb/>
+			500
+			<lb/>
+			1000
+			<lb/>
+			1500
+			<lb/>
+			2000
+			<lb/>
+			2500
+			<lb/>
+			1 9 9 9
+			<lb/>
+			2 0 0 0
+			<lb/>
+			2 0 0 1
+			<lb/>
+			2 0 0 2
+			<lb/>
+			2 0 0 3
+			<lb/>
+			2 0 0 4
+			<lb/>
+			2 0 0 5
+			<lb/>
+			2 0 0 6
+			<lb/>
+			2 0 0 7
+			<lb/>
+			2 0 0 8
+			<lb/>
+			Year
+			<lb/>
+			NE cases
+			<lb/>
+			Sweden
+			<lb/>
+			Västerbotten
+			<lb/>
+			County
+			<lb/>
+		</figure>
+	
+	</text>
+</tei>

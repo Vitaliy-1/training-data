@@ -1,0 +1,320 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>
+			The Arctic, has warmed substantially over last few decades. A recent study shows
+			<lb/>
+			that temperatures over the last century warmed almost three times faster in the Arctic
+			<lb/>
+			than elsewhere in the Northern Hemisphere, reversing a 2000 year cooling trend, and
+			<lb/>
+			outpacing current climate model predictions <ref type="biblio">(Kaufman et al., 2009)</ref>. This rapid warming
+			<lb/>
+			trend is anticipated to continue into the next century with temperature increases
+			<lb/>
+			exceeding those predicted in the rest of the Northern Hemisphere and will result in
+			<lb/>
+			accelerated loss of land and sea ice, an increased rate of sea level rise, with global
+			<lb/>
+			consequences. These changes are already impacting local communities who have
+			<lb/>
+			observed profound changes in their local environments, and is leading to significant
+			<lb/>
+			economic and cultural upheaval particularly for the indigenous peoples of the Arctic
+			<lb/>
+			<ref type="biblio">(ACIA 2005)</ref>. Because climate change is more advanced in the Arctic than other
+			regions
+			<lb/>
+			of the world, the Arctic can play a vital role in preparing the world for what is to come.
+			<lb/>
+		</p>
+		
+		<p>Resident indigenous populations of the Arctic are uniquely vulnerable to climate change
+			<lb/>
+			because of their close relationship with, and dependence on, the land, sea and natural
+			<lb/>
+			resources for their well being <ref type="biblio">(Hess, et al., 2008)</ref>. Direct health threats from
+			climate
+			<lb/>
+			change include morbidity and mortality resulting from increasing extreme events (storms,
+			<lb/>
+			floods, increased heat and cold) and an increased incidence of injury and mortality
+			<lb/>
+			associated with unpredictable ice and storm conditions. Indirect effects include increased
+			<lb/>
+			mental and social stress related to changes in environment and loss of traditional lifestyle;
+			<lb/>
+			potential changes in bacterial and viral diseases; and decreased access to quality water
+			<lb/>
+			sources <ref type="biblio">(Parkinson IOM 2008; Parkinson and Berner 2009)</ref>. Some regions are at risk
+			for
+			<lb/>
+			increasing illness due to failing sanitation infrastructure resulting from changes in
+			<lb/>
+			permafrost and storm surge. Some regions will also experience changes in diet resulting
+			<lb/>
+			from changes in subsistence species distribution and accessibility <ref type="biblio">(Vors and Boyce 2009)</ref>.
+			<lb/>
+			This may result in a shift away from a traditional subsistence diet to a more western diet.
+			<lb/>
+			While this shift may be beneficial, providing a more varied and reliable diet, however the
+			<lb/>
+			increased accessibility to processed foods, high in saturated fats and sugar, may result in
+			<lb/>
+			an increase the incidence of obesity, diabetes, cardiovascular disease and cancer (
+			<ref type="biblio">(Orr
+				<lb/>
+				1994; Bjerragaard 2004)
+			</ref>
+			. Projected warming, will affect the transport, distribution and
+			<lb/>
+			behavior of contaminants, further threatening the safety of the traditional food supply and
+			<lb/>
+			potentially increasing human exposure <ref type="biblio">(Kramer and Berner 2005)</ref>. Higher temperatures
+			<lb/>
+			at lower latitudes will increase volatization of contaminants resulting in increased
+			<lb/>
+			delivery of contaminants to the Arctic. As precipitation increases over land, river flow
+			<lb/>
+			will increase resulting in greater delivery of contaminants to the coasts and oceans.
+			<lb/>
+		</p>
+		
+		<p>These health impacts are taking place in the context of ongoing cultural and
+			<lb/>
+			socioeconomic changes occurring in Arctic communities. Climate change represents
+			<lb/>
+			another of many sources of stress on these northern societies and cultures as it affects the
+			<lb/>
+			relationship between the people and the land and environment, which will further stress
+			<lb/>
+			communities and individual psychosocial health. The potential impact on human health
+			<lb/>
+			will differ from place to place depending on regional, even local differences in climate
+			<lb/>
+			change as well as variations in health status and adaptive capacity of different
+			<lb/>
+			populations <ref type="biblio">(Hess et al., 2008)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Arctic populations have a long history of both endemic and epidemic infectious diseases
+			<lb/>
+			<ref type="biblio">(Parkinson et al., 2008)</ref>. Despite advances in antimicrobial therapy, and
+			availability of
+			<lb/>
+			vaccines, high rates of invasive diseases caused by Streptococcus pneumoniae,
+			<lb/>
+			Haemophilus influenzae and Mycobacterium tuberculosis persist. Sharp seasonal
+			<lb/>
+			epidemics of viral respiratory infections also commonly occur. The over-use of
+			<lb/>
+			antimicrobial drugs in some regions has lead to the emergence of multi-resistant S.
+			<lb/>
+			pneumoniae, Helicobacter pylori, and methicillin-resistant Staphylococcus aureus..
+			<lb/>
+		</p>
+		
+		<p>The impact of climate on the incidence of these existing infectious disease challenges is
+			<lb/>
+			unknown. However it is known that inadequate housing and sanitation are already
+			<lb/>
+			important determinants of infectious disease transmission in many Arctic regions.
+			<lb/>
+			Damage to the sanitation infrastructure by melting permafrost or flooding may therefore
+			<lb/>
+			result in increased rates of hospitalization among children for respiratory infections, as
+			<lb/>
+			well as an increased rate of skin infections, and diarrheal diseases caused by bacterial,
+			<lb/>
+			viral, and parasitic pathogens <ref type="biblio">(Hennessy et al., 2008)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Some infectious diseases are unique to the Arctic and lifestyles of the indigenous
+			<lb/>
+			populations, and may increase in a warming Arctic. For example, many Arctic residents
+			<lb/>
+			depend on subsistence hunting, fishing and gathering for food and a predictable climate
+			<lb/>
+			for food storage. Food storage methods often include above ground air-drying of fish and
+			<lb/>
+			meat at ambient temperature, below ground cold storage on or near the permafrost, and
+			<lb/>
+			fermentation. Changes in climate may prevent the drying of fish or meat, resulting in
+			<lb/>
+			spoilage. Similarly loss of the permafrost may result in spoilage of food stored below
+			<lb/>
+			ground. Outbreaks of food-borne botulism occur sporadically in communities in the
+			<lb/>
+			Arctic and is caused by ingestion of improperly prepared fermented traditional foods
+			<lb/>
+			<ref type="biblio">(Sobel et al., 2004; Proulx 1997; Sorensen et al., 1993)</ref>. Because germination of
+			<lb/>
+			Clostridium botulinum spores and toxin production occurs at temperatures above 4C, it is
+			<lb/>
+			possible that warmer ambient temperatures in these regions associated with climate
+			<lb/>
+			change may result in an increase the rates of food-borne botulism. Out breaks of Vibrio
+			<lb/>
+			parahemolyticus gastroenteritis are commonly associated with sea water temperatures
+			<lb/>
+			above 15C. An outbreak of gastroenteritis caused by Vibrio. parahemolyticus was
+			<lb/>
+			documented among cruise ship passengers consuming raw oysters in Prince William
+			<lb/>
+			Sound, Alaska <ref type="biblio">(McLaughlin et al., 2005)</ref>, and provides direct evidence of an
+			association
+			<lb/>
+			between rising sea water temperature and onset of illness. In order to prevent further
+			<lb/>
+			oyster farm outbreaks, a water temperature monitoring and shell-fish testing program has
+			<lb/>
+			been recommended. No additional outbreaks have been reported.
+			<lb/>
+		</p>
+		
+		<p>Warmer temperatures may allow an infected host animal species to survive winters in
+			<lb/>
+			larger numbers, increase in population and expand their range of habitation and thus
+			<lb/>
+			increase the opportunity to pass infections to humans. For example the climate related
+			<lb/>
+			northern expansion of the boreal forest in Alaska and northern Canada has favored the
+			<lb/>
+			steady northward advance of the beaver, extending the range of Giardia lamblia, a
+			<lb/>
+			parasitic infection of beaver that can infect other mammals, including humans who use
+			<lb/>
+			untreated surface water <ref type="biblio">(ACIA 2005)</ref>. Similarly warmer temperatures in the Arctic
+			and
+			<lb/>
+			sub-Arctic regions could support the expansion of the geographical range and populations
+			<lb/>
+			of foxes and voles, common carriers of Echinococcus multilocularis and the cause of
+			<lb/>
+			alveolar echinococcus in humans <ref type="biblio">(Rausch 2003; Castrodale et al 2002)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Climate change may influence the density and distribution of animal hosts and mosquito
+			<lb/>
+			vectors which could result in an increase in human illness or a shift in the geographical
+			<lb/>
+			range of disease caused by these agents. West Nile virus entered the US in 1999, and in
+			<lb/>
+			subsequent years infected human, horse, mosquito and bird populations across the US
+			<lb/>
+			and as far north as northern Manitoba <ref type="biblio">(Parkinson and Butler 2005)</ref>. In the Russian
+			<lb/>
+			Federation infected birds and humans have been detected as far north as the region of
+			<lb/>
+			Novosibirsk <ref type="biblio">(Revich 2008)</ref>. In Sweden the incidence of tick-borne encephalitis (TBE)
+			<lb/>
+			has substantially increased since the mid-1980s . This increase corresponds to a trend of
+			<lb/>
+			milder winters and an earlier onset of spring resulting in an increase in the tick population
+			<lb/>
+			(Ixodes ricinus) that carries the virus responsible for TBE and other potential pathogens.
+			<lb/>
+			Similarly in Northeastern Canada, climate change is projected to result in a northward
+			<lb/>
+			shift in the range of Ixodes scapularis,a tick that carries Borrellia borgdoreri the etiologic
+			<lb/>
+			agent of Lyme disease <ref type="biblio">(Ogden et al., 2005)</ref>. Major increases in the prevalence of
+			<lb/>
+			hantavirus and tick borne infections in human populations in northern Europe and central
+			<lb/>
+			Asia during the last decade have been associated with rodent population irruptions linked
+			<lb/>
+			to a series of exceptionally warm winters <ref type="biblio">(Pettersson et al., 2008; Gray et al.,
+				2009)</ref>. In
+			<lb/>
+			the unexpected outbreak of Puumula virus (a Hanta virus) in northern Sweden in 2007 the
+			<lb/>
+			incidence was found to be 313/100.000 inhabitants in Vasterbotten County. The increase
+			<lb/>
+			in the rodent population, milder weather and less snow cover were probably contributing
+			<lb/>
+			factors <ref type="biblio">(Pettersson et al., 2008)</ref>. Similar outbreaks have been noted in the Russian
+			<lb/>
+			Federation <ref type="biblio">(Revich, 2008)</ref>. Whether or not disease in humans is a result of these
+			climate-<lb/>induced alterations of vector range depends on many other factors, such as land-use
+			<lb/>
+			practices, human behavior, human population density, and adequacy of the public health
+			<lb/>
+			response.
+			<lb/>
+		</p>
+		
+		<p>The public health response to these emerging microbial threats should be focused
+			<lb/>
+			regionally include enhancing the public health capacity to monitor diseases with
+			<lb/>
+			potentially large public health impacts, including respiratory diseases in children, skin
+			<lb/>
+			infections, and diarrheal diseases, particularly in communities being undermined by
+			<lb/>
+			melting permafrost that is damaging water and sewage systems. Monitoring certain
+			<lb/>
+			vector borne diseases, such as West Nile virus, Lyme disease, TBE and Puumla virus
+			<lb/>
+			should be priorities in areas at the margins of focal regions known to support both animal
+			<lb/>
+			and insect vectors and where climate change may promote the geographic expansion of
+			<lb/>
+			vectors .
+			<lb/>
+		</p>
+		
+		<p>Because Arctic populations are relatively small and widely dispersed region-specific
+			<lb/>
+			detection of significant trends in emerging climate related infectious diseases may be
+			<lb/>
+			delayed. This difficulty may be overcome by linking regional monitoring systems for the
+			<lb/>
+			purposes of sharing standardized information on climate sensitive infectious diseases of
+			<lb/>
+			mutual concern over larger areas. Efforts should be made to harmonize notifiable disease
+			<lb/>
+			registries, laboratory methods and clinical surveillance definitions across administrative
+			<lb/>
+			jurisdictions to allow comparable disease reporting and analysis. An example of such a
+			<lb/>
+			network is the International Circumpolar Surveillance system for emerging infectious
+			<lb/>
+			diseases. This network links hospital and public health laboratories together for the
+			<lb/>
+			purposes of monitoring invasive bacterial diseases and tuberculosis in Arctic populations
+			<lb/>
+			<ref type="biblio">(Parkinson et al., 2008)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Public health capacity should be enhanced to promptly respond to infectious disease
+			<lb/>
+			food-and waterborne outbreaks (botulism, or gastroenteritis caused by Giardia lamblia,
+			<lb/>
+			Cryptosporidium or Vibro parahemolyticus). Public health research is needed to
+			<lb/>
+			determine the baseline prevalence of potential climate sensitive infectious diseases (e.g.,
+			<lb/>
+			West Nile virus, Puumla virus, Borrellia borgdoferi, Brucella spp., Echinococcus spp.,
+			<lb/>
+			Toxoplasma spp, and intestinal protozoa) in both human and animal hosts in regions
+			<lb/>
+			where emergence may be expected. Such studies can be used to accumulate additional
+			<lb/>
+			evidence of the effect of climate change or weather on infectious disease emergence, to
+			<lb/>
+			guide early detection and public health intervention strategies, and to provide science
+			<lb/>
+			based support for public health actions on climate change.
+		</p>
+	
+	
+	</text>
+</tei>

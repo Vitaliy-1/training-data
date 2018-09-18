@@ -1,0 +1,1082 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>INTRODUCTION
+			<lb/>
+		</head>
+		
+		<p>The level of alcohol consumption in a population, is an important determinant of health and social
+			<lb/>
+			well-being <ref type="biblio">[1]</ref>. Widespread and increasing use of alcohol is drawing attention to
+			the health
+			<lb/>
+			consequences of alcohol consumption. Alcohol abuse ranks fifth among the 10 leading causes of
+			<lb/>
+			death globally <ref type="biblio">[2]</ref>. It is causally related to more than 60 International
+			Classification of Diseases
+			<lb/>
+			codes <ref type="biblio">[3]</ref>. Worldwide, alcohol abuse is estimated to account for 1.8 million deaths
+			and 4% of the
+			<lb/>
+			burden of disease, slightly less than the damage caused to society by tobacco use (4.1%) and high
+			<lb/>
+			blood pressure (4.4%) <ref type="biblio">[4, 5]</ref>. Excessive consumption of alcohol was considered to be
+			a cause of
+			<lb/>
+			many liver diseases including cirrhosis, and mortality from alcoholic liver disease closely follows
+			<lb/>
+			the per capita alcohol consumption <ref type="biblio">[6]</ref>.
+			<lb/>
+			According to a WHO report, about one half of the total adult population worldwide used alcohol.
+			<lb/>
+			The proportion of users varied across countries, from 18% to 90% among males, and from 1% to
+			<lb/>
+			81% among adult females <ref type="biblio">[7]</ref>.
+			<lb/>
+			Recent WHO literature indicates that while the percentage of alcohol consumption per capita in
+			<lb/>
+			the population is declining in wealthy countries, it is rising in low and middle-income countries
+			<lb/>
+			<ref type="biblio">[8]</ref>. A study from India showed that the highest prevalence of individuals ever to
+			use alcohol was
+			<lb/>
+			among Christians (61.2%) and the lowest prevalence was among Muslims (9.4%). When
+			<lb/>
+			considering educational level, the prevalence of individuals ever to use alcohol was 26% and
+			<lb/>
+			27.1% among illiterates and those with primary education respectively <ref type="biblio">[9]</ref>.
+			<lb/>
+		</p>
+		
+		<p>In a recent study on alcohol consumption in Vietnam, about one third of respondents had had at
+			<lb/>
+			least one drink of alcohol per week and about 18% were classified as drinking alcohol to excess
+			<lb/>
+			<ref type="biblio">[10-12]</ref>. However, limited data on drinking patterns and socio-demographic factors
+			is a challenge
+			<lb/>
+			in raising awareness in communities and for policy makers.
+			<lb/>
+		</p>
+		
+		<p>A chronic disease risk factor study carried out in nine health and demographic surveillance sites
+			<lb/>
+			(HDSS) within the INDEPTH network offered an opportunity to investigate the patterns of alcohol
+			<lb/>
+			use as part of the broader risk factor study. The largely rural sites were not only diverse in terms of
+			<lb/>
+			economic development, but also in terms of religious and cultural characteristics.
+			<lb/>
+		</p>
+		
+		<head>MATERIALS AND METHODS
+			<lb/>
+		</head>
+		
+		<p>The cross sectional survey was conducted in nine Health and Demographic Surveillance Sites
+			<lb/>
+			(HDSS) -all part of the INDEPTH Network -located in five Asian countries in 2005. These
+			<lb/>
+			HDSS included Matlab (Bangladesh), Mirsarai and Abhoynagar (Bangladesh), WATCH
+			<lb/>
+			(Bangladesh), Kanchanaburi (Thailand), Filabavi (Vietnam), Chililab (Vietnam), Vadu (India) and
+			<lb/>
+			Purworejo (Indonesia) .
+			<lb/>
+		</p>
+		
+		<head>Methodology and Data Source
+			<lb/>
+		</head>
+		
+		<p>The methodology followed the WHO STEPwise approach to Surveillance (WHO STEPS) <ref type="biblio">[13]</ref>.
+			<lb/>
+			Briefly, in each HDSS, a representative sample of 2000 men and women aged 25-64 years
+			<lb/>
+			(approximately 250 individuals in each sex and 10-year age group) were selected using the
+			<lb/>
+			sampling frame developed from the surveillance system. Data was collected through face to face
+			<lb/>
+			interviews at a household level, and was conducted by trained field workers. Data quality was
+			<lb/>
+			controlled in the field by supervisors as well as by the investigators of this study.
+			<lb/>
+		</p>
+		
+		<head>Survey instrument and measurement
+			<lb/>
+		</head>
+		
+		<p>A structured questionnaire &quot;STEPS Instrument for NCD risk factors&quot; was adapted to collect
+			<lb/>
+			information major NCD risk factors as well as socio-demographic information <ref type="biblio">[13]</ref>.
+			All
+			<lb/>
+			interviewers were trained on how to ask the respondents about their alcohol consumption. Cards
+			<lb/>
+			from the STEPS manual were used as a reference for respondents to visualize a standard drink size
+			<lb/>
+			and standard drinks were also estimated for locally derived forms of alcohol.
+			<lb/>
+		</p>
+		
+		<p>Alcohol use was defined as consumption of any alcoholic drink, including beer, wine, spirits, as
+			<lb/>
+			well as other local drinks such as arak or tuak in Indonesia, ruou gao in Vietnam, sonti in India,
+			<lb/>
+			and Satoh, Ou and Krauche in Thailand; many of these drinks could be classified as a form of rice
+			<lb/>
+			vodka. Alcohol consumption was categorized into two groups: Non drinkers were defined as those
+			<lb/>
+			who had never drunk a single glass of beer or wine in the past; Drinker: were identified according
+			<lb/>
+			to the answers to the question asked about number of standard drinks of beer, wine and or spirit,
+			<lb/>
+			fermented cider, and other alcoholic drinks drunk the week before interview. Drinkers were further
+			<lb/>
+			categorized into two groups <ref type="biblio">[11]</ref>: Moderate drinkers included those who drank less
+			than or equal
+			<lb/>
+			to 4 standard drinks per day for women and 5 for men, and at-risk drinkers: were defined as those
+			<lb/>
+			who consumed, during the week preceding the time of interview, a large amount of alcohol (5 or
+			<lb/>
+			more standard drinks per day among men and 4 or more standard drinks per day among women)
+			<lb/>
+			<ref type="biblio">[11]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Information on socio-demographic status of study subjects included educational level, gender and
+			<lb/>
+			age. Educational level was classified into 4 levels: level I: No schooling and not graduated from
+			<lb/>
+			primary school; Level II: graduated from primary school; Level III: graduated from secondary
+			<lb/>
+			school; Level IV: graduated from high school or university.
+			<lb/>
+		</p>
+		
+		<head>Statistical Methods
+			<lb/>
+		</head>
+		
+		<p>A standardized data entry program using EPIDATA software was used in each site for data entry
+			<lb/>
+			to ensure uniform database structure across sites. STATA software version 8 was used to perform
+			<lb/>
+			descriptive statistics on variables of interest, including socio-demographic variables and health
+			<lb/>
+			risk factors (alcohol consumption). Due to the differences of sample populations among the sites,
+			<lb/>
+			sampling weights were applied in data analysis.
+			<lb/>
+		</p>
+		
+		<p>Logistic regression modeling was performed to examine the association between alcohol
+			<lb/>
+			consumption and sex, age groups, and education levels. A conventional significance level of
+			<lb/>
+			p&lt;0.05 was used.
+			<lb/>
+		</p>
+		
+		<head>RESULTS
+			<lb/>
+		</head>
+		
+		<p>A great variation in the pattern of alcohol consumption was observed among the six sites in
+			<lb/>
+			Bangladesh (Matlab, Mirsarai and Abhoynagar), India (Watch, Vadu), Indonesia (Purworejo) in
+			<lb/>
+			comparison to the other three sites in Vietnam (Filabavi, Chililab) and Thailand (Kanchanaburi)
+			<lb/>
+			As shown in <ref type="table">Table 1</ref>, in the four sites in Bangladesh, alcohol consumption was very
+			rare. The
+			<lb/>
+			highest prevalence found in these sites was 4.0% in men; no women were identified as drinkers in
+			<lb/>
+			these sites. In Vadu and Purowjero, male drinker prevalence was 17.3% and 11.5% respectively).
+			<lb/>
+		</p>
+		
+		<p>When stratified by sex, the highest proportion of men who consumed alcohol was found in both
+			<lb/>
+			sites in Vietnam, Chililab and Filabavi (85.8% and 84.7%, respectively). The proportion of women
+			<lb/>
+			who consume alcohol was less than men; it was highest in Chililab (29.4%), second in
+			<lb/>
+			Kanchanaburi (28.4%); in Vadu -India, Matlab and Mirsarai -Bangladesh no women were
+			<lb/>
+			reported as alcohol drinkers.
+			<lb/>
+			As shown in <ref type="table">table 1</ref> and <ref type="figure">figure 1</ref>, among men, the proportion of at-risk drinkers was highest in
+			<lb/>
+			Filabavi (31.4%), second in Chililab ( 17.3%), and the moderate drinker prevalence was highest in
+			<lb/>
+			Chililab and in Kanchanaburi (68.5% and 63.2%, respectively). Among women, proportion of at-<lb/>risk
+			drinkers was highest in Kanchanaburi, then in Filabavi (3.5% and 0.4%, respectively); while
+			<lb/>
+			for moderate drinker category, its prevalence was highest in Chililab and in Kanchanaburi (29.1%
+			<lb/>
+			and 24.9%, respectively).
+			<lb/>
+		</p>
+		
+		<p>
+			Table 1 and Figure 1 about here
+			<lb/>
+		</p>
+		<p>
+			The patterns of alcohol consumption stratified by sex and education in four selected HDSS are
+			<lb/>
+			shown in <ref type="table">Table 2</ref>. Among men, the highest proportion of men who consume alcohol were
+			found in
+			<lb/>
+			the group who completed secondary education in both sites in Vietnam (87.3% in Filabavi and
+			<lb/>
+			87.2 in Chililab) and the lowest proportion was found in the group who graduated from high
+			<lb/>
+			school or university in Vadu (13%). Among women, the highest proportion of women who
+			<lb/>
+			consume alcohol was found at the Kanchanaburi site in the group who did not go to school and did
+			<lb/>
+			not complete primary school (34.9%).
+			<lb/>
+		</p>
+		
+		<p>Table 2 about here
+			<lb/>
+		</p>
+		
+		<p>The mean level of alcohol consumption in the four sites in which drinkers were found to be more
+		<lb/>
+		prevalent (Chililab, Filabavi, Kanchanaburi and Vadu) are presented in <ref type="table">Table 3</ref>. As shown
+		in
+		<lb/>
+		<ref type="table">Table 3</ref>, among men who were identified as drinkers, the average number of standard drinks
+		<lb/>
+		consumed per day were highest in Filabavi (5.3 standard drinks) and lowest in Vadu (1.6 standard
+		<lb/>
+		drinks). Among women, average number of drinks consumed per day was highest in Kanchanaburi
+		<lb/>
+		(2.5 standard drinks) and lowest in Chililab (1.4 standard drinks). The mean number of standard
+		<lb/>
+		drinks consumed per day did not differ significantly with educational level. Among men, the
+		<lb/>
+		highest mean number of standard drinks consumed per day (6.0 standard drinks) was found in the
+		<lb/>
+		group who graduated from high school or university in Filabavi. The lowest mean number of
+		<lb/>
+		standard drinks consumed per day was also found in the group who graduated from high school or
+		<lb/>
+		university in Vadu (1.3 standard drinks). Among women, the highest mean number of standard
+		<lb/>
+		drinks consumed was also found in the group who graduated from high school or university at the
+		<lb/>
+		Kanchanaburi site (3.1 standard drinks).
+		<lb/>
+		</p>
+		
+		<p>Table 3 about here
+			<lb/>
+		</p>
+		
+		<p>Results from the logistic regression analyses, measuring associations between at -risk drinking
+			<lb/>
+			and sex, age and education levels in the four sites having highest proportions of alcohol drinkers
+			<lb/>
+			are presented in table 4. Overall, men were more likely to drink than women in all three selected
+			<lb/>
+			sites. There appears to be strong association between the highest level of alcohol consumption (at-<lb/>risk
+			drinker) and sex; men in Filabavi were 100 times (95%CI: 39.9-313.5) more likely to be
+			<lb/>
+			labeled as at-risk-drinkers than women, and were about 90 times (95%CI: 26.9-298.5) in Chililab
+			<lb/>
+			and 3.7 times (95%CI: 2.5-5.5) in Kanchanaburi. A weaker association between at-risk drinker and
+			<lb/>
+			education levels taking into account the difference in gender and age was found only in Chililab.
+			<lb/>
+			In this site, people who were less educated (did not go to school or who had not completed
+			<lb/>
+			primary school) were 2.4 times more likely to drink than people who graduated from high school
+			<lb/>
+			or university (OR: 2.4, 95%CI: 1.2-4.6).
+			<lb/>
+		</p>
+		
+		<p type="table">Table 4 about here
+			<lb/>
+		</p>
+		
+		<head>DISCUSSION
+			<lb/>
+		</head>
+		
+		<p>This multi-site study illustrates that the prevalence of people who reported drinking was very low
+			<lb/>
+			in five HDSS sites including Matlab, Mirsarai and Abhoynagar in Bangladesh, Vadu in India and
+			<lb/>
+			Purwojero in Indonesia. Almost no women in these sites reported drinking alcohol. In the three
+			<lb/>
+			selected sites (two in Vietnam, one in Thailand), the prevalence of alcohol consumption in men
+			<lb/>
+			was higher in comparison with the findings from another study in South East Asia where 45%
+			<lb/>
+			adult men were identified as alcohol drinkers <ref type="biblio">[14]</ref>. The prevalence of at risk
+			drinking was higher
+			<lb/>
+			in the two sites in Vietnam, especially in Filabavi where prevalence of at-risk drinking was 31.4%
+			<lb/>
+			and mean level of alcohol consumption was 5.3 standard drinks per day, in comparison with other
+			<lb/>
+			7 sites in the study. This finding appears to be larger than the results of summary alcohol use from
+			<lb/>
+			the data base at the World Health Organization; in Russia, South Africa, and Bolivia, it was 3.6,
+			<lb/>
+			3.2 and 3.1 standard drinks respectively <ref type="biblio">[15]</ref>.
+			<lb/>
+		</p>
+		
+		<p>The huge differences in drinking patterns among nine sites in the study may be due to the
+			<lb/>
+			differences in the degree of religious beliefs and cultural practices in the studied populations or the
+			<lb/>
+			data collection time may, by chance alone, for example in the case of Vietnam sites, have
+			<lb/>
+			overlapped with special events in the communities where alcohol drinking is used as a means for
+			<lb/>
+			strengthening friendship and sharing <ref type="biblio">[16]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Even though the prevalence of women who consume alcohol was not high in this study in
+			<lb/>
+			comparison to men, it should be noted that in Kachanaburi, the prevalence of women who may be
+			<lb/>
+			at risk to the adverse effects of alcohol was higher in comparison with women in other sites in the
+			<lb/>
+			study. This could be of concern, as women are more vulnerable to the effects of alcohol because of
+			<lb/>
+			their smaller physical build <ref type="biblio">[17]</ref>.
+			<lb/>
+		</p>
+		
+		<p>A moderate and significant association between heavy drinking status and education levels among
+			<lb/>
+			study subjects, taking into account the differences in age and gender was observed only in
+			<lb/>
+			Chililab. People having lower education levels were more likely to be at risk of heavy drinking in
+			<lb/>
+			comparison with people having high school and university education. The same pattern of
+			<lb/>
+			association was observed in other studies conducted in Rotterdam and in China <ref type="biblio">[18,
+				19]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Since our study utilized a cross-sectional design a temporal relationship between the independent
+			<lb/>
+			and dependent variables can not be established. It is possible that the very act of participating in
+			<lb/>
+			the study may color the participants&apos; answers to the interview questions. We were concerned about
+			<lb/>
+			the possible effects of social desirability bias, in which the interviewee responds with an answer
+			<lb/>
+			which is considered to be more socially acceptable. Because we did not directly measure the
+			<lb/>
+			possible existence of these potential biases, we cannot discount their potential effect on our results
+			<lb/>
+			and we therefore recommend caution in interpreting the study findings.
+			<lb/>
+		</p>
+		
+		<p>Due to cultural differences related to the means of containing alcohol used for drinking (different
+			<lb/>
+			serving sizes), as well as difficulties in estimating the alcohol concentration of different types of
+			<lb/>
+			alcoholic beverages among sites in the study, there would be a limitation on how to pose and
+			<lb/>
+			measure the &quot;standard drinks&quot; consistently across sites.
+			<lb/>
+		</p>
+		
+		<p>Health promotion and information on alcohol harm should address the whole population with an
+			<lb/>
+			emphasis on men and groups of individuals with a lower level of education in Viet Nam and
+			<lb/>
+			Thailand sites. There is a need for follow up of trends in alcohol use in these HDSS. In addition,
+			<lb/>
+			qualitative studies may help shed light on factors influencing alcohol consumption level in order to
+			<lb/>
+			design appropriate interventions on alcohol consumption, particularly the HDSS in Vietnam.
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Prevalence of alcohol user (sex and age-adjusted) in 9 Asian HDSS
+			<lb/>
+			1
+			<lb/>
+			0
+			<lb/>
+		</figure>
+		
+		<figure type="table">Table 1. Prevalence (% and 95% CI) of alcohol use adjusted by age in 9 Asian HDSS,
+			stratified by sex
+			<lb/>
+			Alcohol use
+			<lb/>
+			category
+			<lb/>
+			Bangladesh
+			<lb/>
+			India
+			<lb/>
+			Vietnam
+			<lb/>
+			Indonesia
+			<lb/>
+			Thailand
+			<lb/>
+			Matlab
+			<lb/>
+			Mirsarai
+			<lb/>
+			Abhoynagar
+			<lb/>
+			WATCH
+			<lb/>
+			Vadu
+			<lb/>
+			Chililab
+			<lb/>
+			Filabavi
+			<lb/>
+			Purworejo
+			<lb/>
+			Kanchanaburi
+			<lb/>
+			Men
+			<lb/>
+			Non-drinker
+			<lb/>
+			96
+			<lb/>
+			(94.4-97.1)
+			<lb/>
+			96.3
+			<lb/>
+			(94.9-97.3)
+			<lb/>
+			98.3
+			<lb/>
+			(97.1-99.0)
+			<lb/>
+			97.1
+			<lb/>
+			(95.6-98.1)
+			<lb/>
+			82.7
+			<lb/>
+			(80.2-85.0)
+			<lb/>
+			14.2
+			<lb/>
+			(12.2-.16.5)
+			<lb/>
+			15.3
+			<lb/>
+			(13.2-17.8)
+			<lb/>
+			88.5
+			<lb/>
+			(86.3-90.4)
+			<lb/>
+			25.1
+			<lb/>
+			(22.5-.27.9)
+			<lb/>
+			Moderate drinker
+			<lb/>
+			4
+			<lb/>
+			(2.9-5.6)
+			<lb/>
+			3.3
+			<lb/>
+			(2.4-4.7)
+			<lb/>
+			1.7
+			<lb/>
+			(1.0-2.9)
+			<lb/>
+			2.8
+			<lb/>
+			(1.8-4.3)
+			<lb/>
+			17.2
+			<lb/>
+			(14.9-19.7)
+			<lb/>
+			68.5
+			<lb/>
+			(65.5-71.3)
+			<lb/>
+			53.2
+			<lb/>
+			(50.0-56.5)
+			<lb/>
+			11.3
+			<lb/>
+			(9.5-13.5)
+			<lb/>
+			63.2
+			<lb/>
+			(60.1-66.1)
+			<lb/>
+			At-risk drinker
+			<lb/>
+			0
+			<lb/>
+			0.4
+			<lb/>
+			(0.1-1.1)
+			<lb/>
+			0
+			<lb/>
+			0.1
+			<lb/>
+			(0.01-0.6)
+			<lb/>
+			0.1
+			<lb/>
+			(0.01-0.6)
+			<lb/>
+			17.3
+			<lb/>
+			(15.1-19.8)
+			<lb/>
+			31.4
+			<lb/>
+			(28.5-34.6)
+			<lb/>
+			0.2
+			<lb/>
+			(0.01-0.9)
+			<lb/>
+			11.7
+			<lb/>
+			(9.8-14.0)
+			<lb/>
+			Women
+			<lb/>
+			Non-drinker
+			<lb/>
+			100
+			<lb/>
+			100
+			<lb/>
+			99.9
+			<lb/>
+			(99.0-99.9)
+			<lb/>
+			100
+			<lb/>
+			100
+			<lb/>
+			70.7
+			<lb/>
+			(67.8-73.3)
+			<lb/>
+			85.6
+			<lb/>
+			(83.3-87.7)
+			<lb/>
+			98.0
+			<lb/>
+			(96.9-98.8)
+			<lb/>
+			71.7
+			<lb/>
+			(68.8-74.4)
+			<lb/>
+			Moderate drinker
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0.2
+			<lb/>
+			(0.01-1.03)
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			29.1
+			<lb/>
+			(26.4-31.9)
+			<lb/>
+			14..0
+			<lb/>
+			(11.9-16.3)
+			<lb/>
+			1.9
+			<lb/>
+			(0.1-3.0)
+			<lb/>
+			24.9
+			<lb/>
+			(22.3-27.6)
+			<lb/>
+			At-risk drinker
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0.3
+			<lb/>
+			(0.01-0.8)
+			<lb/>
+			0.4
+			<lb/>
+			(0.2-1.1)
+			<lb/>
+			0.1
+			<lb/>
+			(0.01-0.6)
+			<lb/>
+			3.5
+			<lb/>
+			(2.5-4.8`)
+			<lb/>
+		</figure>
+		
+		<p>Note: Moderate drinker = less than 4 standard drink in a day when consumed alcohol; At-risk drinker = 4
+			standard drink or more in a day when consumed alcohol.
+			<lb/>
+		</p>
+		
+		<head>1
+			<lb/>
+			1
+			<lb/>
+		</head>
+		
+		<figure type="table">Table 2. Prevalence of alcohol user adjusted by age in 4 Asian HDSS, stratified by sex and
+			education group
+			<lb/>
+			% consuming any alcohol in the last 12
+			<lb/>
+			months (95% CI)
+			<lb/>
+			India
+			<lb/>
+			Vietnam
+			<lb/>
+			Thailand
+			<lb/>
+			Vadu
+			<lb/>
+			Chililab
+			<lb/>
+			Filabavi
+			<lb/>
+			Kanchanaburi
+			<lb/>
+			Men
+			<lb/>
+			No schooling and not graduated from
+			<lb/>
+			primary school
+			<lb/>
+			24.4 (19.3-29.4)
+			<lb/>
+			77.7 (66.5-88.9)
+			<lb/>
+			84.5 (76.1-93)
+			<lb/>
+			75.4 (70.4-80.3)
+			<lb/>
+			Primary education
+			<lb/>
+			20 (12.7-27.2)
+			<lb/>
+			85.2 (79.1-91.3)
+			<lb/>
+			81.4 (75.2-87.7)
+			<lb/>
+			72.4 (68.4-76.4)
+			<lb/>
+			Secondary education
+			<lb/>
+			15.7 (10.5-20.8)
+			<lb/>
+			87.2 (84-90.3)
+			<lb/>
+			87.3 (84.6-90.1)
+			<lb/>
+			79.8 (72-87.6)
+			<lb/>
+			graduated from high school or
+			<lb/>
+			university
+			<lb/>
+			13 (9.6-16.5)
+			<lb/>
+			85.6 (82.2-89)
+			<lb/>
+			79.5 (73.2-85.8)
+			<lb/>
+			77.7 (71-84.4)
+			<lb/>
+			TOTAL
+			<lb/>
+			17.3 (14.9-19.7)
+			<lb/>
+			85.8 (83.7-87.9)
+			<lb/>
+			84.7 (82.4-87)
+			<lb/>
+			74.9 (72.2-77.6)
+			<lb/>
+			Women
+			<lb/>
+			No schooling and not graduated from
+			<lb/>
+			primary school
+			<lb/>
+			0 (0-0)
+			<lb/>
+			26.9 (19.7-34.1)
+			<lb/>
+			17.8 (11.6-23.9)
+			<lb/>
+			34.9 (30.2-39.6)
+			<lb/>
+			Primary education
+			<lb/>
+			0 (0-0)
+			<lb/>
+			25.4 (19.4-31.3)
+			<lb/>
+			13.1 (8.4-17.7)
+			<lb/>
+			24.3 (20.3-28.2)
+			<lb/>
+			Secondary education
+			<lb/>
+			0 (0-0)
+			<lb/>
+			30.2 (25.8-34.6)
+			<lb/>
+			13.2 (10.2-16.2)
+			<lb/>
+			23.1 (12-34.1)
+			<lb/>
+			graduated from high school or
+			<lb/>
+			university
+			<lb/>
+			0 (0-0)
+			<lb/>
+			31.7 (26.3-37.1)
+			<lb/>
+			18 (11.4-24.7)
+			<lb/>
+			23.9 (15-32.7)
+			<lb/>
+			TOTAL
+			<lb/>
+			0 (0-0)
+			<lb/>
+			29.4 (26.6-32.1)
+			<lb/>
+			14.4 (12.2-16.6)
+			<lb/>
+			28.3 (25.5-31.1)
+			<lb/>
+		</figure>
+		
+		<figure type="table">
+			1<lb/>Table 3. Mean level of alcohol consumption (average number standard drinks consumed per day on the
+			last 7 days)
+			<lb/>
+			by sex and education group
+			<lb/>
+			Average number of standard drink
+			<lb/>
+			consumed in the last 7 days (95% CI)
+			<lb/>
+			India
+			<lb/>
+			Vietnam
+			<lb/>
+			Thailand
+			<lb/>
+			Total
+			<lb/>
+			Vadu
+			<lb/>
+			Chililab
+			<lb/>
+			Filabavi
+			<lb/>
+			Kanchanaburi
+			<lb/>
+			Men
+			<lb/>
+			No schooling and not graduated
+			<lb/>
+			from primary school
+			<lb/>
+			1.7 (1.4-2)
+			<lb/>
+			4.9 (3.3-6.4)
+			<lb/>
+			4.6 (3.7-5.6)
+			<lb/>
+			3.8 (3.3-4.2)
+			<lb/>
+			4 (3.6-4.4)
+			<lb/>
+			Primary education
+			<lb/>
+			1.5 (1-2)
+			<lb/>
+			4.5 (3.7-5.3)
+			<lb/>
+			5 (4.4-5.6)
+			<lb/>
+			3.9 (3.4-4.5)
+			<lb/>
+			4.3 (3.9-4.7)
+			<lb/>
+			Secondary education
+			<lb/>
+			1.7 (1.3-2.1)
+			<lb/>
+			3.3 (3-3.7)
+			<lb/>
+			5.3 (4.7-5.8)
+			<lb/>
+			5.2 (4.1-6.3)
+			<lb/>
+			4.4 (4.1-4.7)
+			<lb/>
+			graduated from high school or
+			<lb/>
+			university
+			<lb/>
+			1.3 (1-1.5)
+			<lb/>
+			2.9 (2.6-3.1)
+			<lb/>
+			6 (4.9-7.2)
+			<lb/>
+			3.9 (3.3-4.5)
+			<lb/>
+			3.6 (3.3-3.9)
+			<lb/>
+			TOTAL
+			<lb/>
+			1.6 (1.4-1.7)
+			<lb/>
+			3.4 (3.2-3.6)
+			<lb/>
+			5.3 (4.9-5.7)
+			<lb/>
+			4 (3.7-4.4)
+			<lb/>
+			4.1 (3.9-4.3)
+			<lb/>
+			Women
+			<lb/>
+			No schooling and not graduated
+			<lb/>
+			from primary school
+			<lb/>
+			-<lb/>1.4 (0.9-1.9)
+			<lb/>
+			1.2 (0.9-1.4)
+			<lb/>
+			2.8 (2.2-3.4)
+			<lb/>
+			2.4 (2-2.9)
+			<lb/>
+			Primary education
+			<lb/>
+			-<lb/>1.1 (0.9-1.
+			2)
+			<lb/>
+			1.1 (0.9-1.2)
+			<lb/>
+			2.1 (1.6-2.7)
+			<lb/>
+			1.7 (1.4-2.1)
+			<lb/>
+			Secondary education
+			<lb/>
+			-<lb/>1.5 (0.7-2.3)
+			<lb/>
+			2 (1.4-2.6)
+			<lb/>
+			2.2 (1.2-3.3)
+			<lb/>
+			1.7 (1.1-2.2)
+			<lb/>
+			graduated from high school or
+			<lb/>
+			university
+			<lb/>
+			-<lb/>1.3 (0.8-1.9)
+			<lb/>
+			1.9 (1-2.8)
+			<lb/>
+			3.1 (0.7-5.6)
+			<lb/>
+			1.8 (1.1-2.5)
+			<lb/>
+			TOTAL
+			<lb/>
+			-<lb/>1.4 (0.9-1.8)
+			<lb/>
+			1.7 (1.4-2.1)
+			<lb/>
+			2.5 (2.1-2.9)
+			<lb/>
+			1.9 (1.6-2.2)
+			<lb/>
+			Respondents were asked about number of standard drink they consumed on each day (Monday-Sunday) during the
+			last 7 days, and we calculated an average
+			<lb/>
+			number of standard drinks consumed per day by taking arithmetic average of number of drinks on available
+			days. For respondents who drank only on two days
+			<lb/>
+			during the last week, an average of number of standard drink during these two days was calculated. This
+			average number (variable called ALCSTD in the dataset) is
+			<lb/>
+			used and presented in Table 3.
+			<lb/>
+		</figure>
+		
+		<figure type="table">Table 4. Strength of association between demographic variables and at-risk alcohol user
+			(and its 95% CI) in 4 HDSS sites
+			<lb/>
+			Variables
+			<lb/>
+			Vietnam
+			<lb/>
+			Thailand
+			<lb/>
+			Chililab
+			<lb/>
+			Filabavi
+			<lb/>
+			Kanchanaburi
+			<lb/>
+			Sex
+			<lb/>
+			Men
+			<lb/>
+			89.6 (26.9-298.5)
+			<lb/>
+			111.8 (39.9-313.5)
+			<lb/>
+			3.7 (2.5-5.5)
+			<lb/>
+			Women
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			Age groups (years)
+			<lb/>
+			25 -34
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			35 -44
+			<lb/>
+			0.9 (0.6-1.5)
+			<lb/>
+			1.1 (0.7-1.6)
+			<lb/>
+			0.7 (0.5-1.1)
+			<lb/>
+			45 -54
+			<lb/>
+			0.8 (0.5-1.3)
+			<lb/>
+			0.9 (0.6-1.3)
+			<lb/>
+			0.6 (0.3-0.9)
+			<lb/>
+			55 -64
+			<lb/>
+			0.5 (0.3-0.9)
+			<lb/>
+			0.7 (0.4-1)
+			<lb/>
+			0.3 (0.2-0.6)
+			<lb/>
+			Highest education levels
+			<lb/>
+			No schooling and not graduated from primary school
+			<lb/>
+			2.4 (1.2-4.6)
+			<lb/>
+			1 (0.5-1.8)
+			<lb/>
+			1 (0.6-1.8)
+			<lb/>
+			Graduated from primary school
+			<lb/>
+			1.6 (1-2.7)
+			<lb/>
+			1.4 (0.9-2.4)
+			<lb/>
+			0.8 (0.5-1.3)
+			<lb/>
+			Graduated from secondary school
+			<lb/>
+			1.3 (0.9-1.8)
+			<lb/>
+			1.4 (0.9-2.1)
+			<lb/>
+			1.6 (0.9-2.9)
+			<lb/>
+			Graduated from high school or university
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			4
+		</figure>
+	
+	
+	</text>
+</tei>

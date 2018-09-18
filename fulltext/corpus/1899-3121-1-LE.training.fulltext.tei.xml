@@ -1,0 +1,430 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>The second decade
+			<lb/>
+		</head>
+		
+		<p>The challenges in global health have always been complex and multifaceted. They will be
+			<lb/>
+			even more so in the next ten years. Disease patterns will continue to evolve, new and re-<lb/>emerging
+			diseases will combine with shifting demographics and changing lifestyles to
+			<lb/>
+			raise substantial questions about how to protect and promote people&apos;s health and how to
+			<lb/>
+			care for them when they are sick. In this changing environment INDEPTH will need to
+			<lb/>
+			make strategic choices around four issues:
+			<lb/>
+		</p>
+		
+		<list>
+			<item>1. Identifying and moving forward priority research areas
+				<lb/>
+			</item>
+			<item>
+				2. Building research capacities
+				<lb/>
+			</item>
+			<item>
+				3. Developing and implementing research standards
+				<lb/>
+			</item>
+			<item>
+				4. Translating research results into action
+				<lb/>
+			</item>
+		</list>
+		
+		<head>1. Identifying and moving forward priority research areas
+			<lb/>
+		</head>
+		
+		<p>INDEPTH&apos;s longitudinal health and demographic surveillance, in some sites dating back
+			<lb/>
+			several decades, is unique in public health. In considering its options for the next ten
+			<lb/>
+			years, INDEPTH should strive to exploit the full range of research possibilities provided
+			<lb/>
+			by this ongoing, comprehensive compilation of data. A structure for classifying research
+			<lb/>
+			priorities is provided by the World Health Organization (WHO) research priorities
+			<lb/>
+			framework, which identifies five types of research that are pertinent to any given health
+			<lb/>
+			need (<ref type="figure">Figure 1</ref>).
+			<lb/>
+		</p>
+		
+		<p>The five research axes describe a continuous cycle, comprising:
+			<lb/>
+		</p>
+		<list>
+			<item>
+				i. Measuring the dimensions and nature of health problems
+				<lb/>
+			</item>
+			
+			<item>
+				<lb/>
+				ii. Understanding the causes of problems; the determinants of health and ill-<lb/>health
+				<lb/>
+			</item>
+			
+			<item>
+				<lb/>
+				iii. Developing solutions to address the problems
+				<lb/>
+			</item>
+			
+			<item>
+				<lb/>
+				iv. Translating the actions and delivering solutions
+				<lb/>
+			</item>
+			
+			<item>
+				<lb/>
+				v. Evaluating the effectiveness of the solutions.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Using this framework, we can identify a number of priority research areas to which
+			<lb/>
+			HDSS sites are uniquely placed to contribute.
+			<lb/>
+		</p>
+		
+		<p>Measuring the dimensions and nature of health problems: − One of the most
+			<lb/>
+			significant gaps in public health information is the limited availability and poor quality of
+			<lb/>
+			data on mortality patterns, trends and causes. Without such data, continuously, over time,
+			<lb/>
+			for all population groups, there can be no evidence-based public health decision-making.
+			<lb/>
+			The uniqueness of the HDSS sites is that they are able to generate such data in settings
+			<lb/>
+			with no other comparable source of information on births, deaths and causes of death.
+			<lb/>
+			INDEPTH should deepen and extend its collaboration with WHO, Health Metrics
+			<lb/>
+			Network and other agencies in the Monitoring Vital Events Initiative. The skills and
+			<lb/>
+			capacities in vital statistics monitoring accumulated in the HDSS sites can serve as the
+			<lb/>
+			nucleus of country-wide capacities for better vital statistics. While most HDSS sites are
+			<lb/>
+			currently located in rural areas, migration patterns and increasing urbanisation call for
+			<lb/>
+			increased demographic surveillance in urban slums in order to better understand the
+			<lb/>
+			health challenges facing the more than 50% of the world&apos;s population now urbanized.
+			<lb/>
+			At the same time, HDSS at the district level is needed to enable decentralization to be
+			<lb/>
+			underpinned by clear evidence on district level needs and the impact of interventions.
+			<lb/>
+		</p>
+		
+		<p>Understanding the causes of problems; the determinants of health and ill-health: −
+			<lb/>
+			Understanding the etiology and determinants of ill-health requires long-term longitudinal
+			<lb/>
+			cohort studies that can elucidate multifactorial underlying determinants such as socio-<lb/>economic status,
+			environmental, biological, and behavioural risk factors. The inclusion of
+			<lb/>
+			clinical measures and bio-markers in HDSS will greater enhance our understanding of
+			<lb/>
+			disease patterns and causation. More studies are needed on the determinants of inequities
+			<lb/>
+			in health and how to overcome them.
+			<lb/>
+		</p>
+		
+		<p>Developing solutions to address the problems: − The HDSS sites are well placed when it
+			<lb/>
+			comes to testing innovative solutions to existing and emerging health challenges, offering
+			<lb/>
+			possibilities for scientific evaluation of the effectiveness of new products, interventions,
+			<lb/>
+			or packages of interventions such as Integrated Management of Adult Illnesses (IMAI).
+			<lb/>
+			They also permit the evaluation of health systems such as the impact of incentives for
+			<lb/>
+			health workers in terms of health worker recruitment and retention.
+			<lb/>
+		</p>
+		
+		<p>Translating the actions and delivering solutions: − Perhaps the most important
+			<lb/>
+			contribution that the HDSS sites can make is in the area of the implementation of
+			<lb/>
+			interventions in &quot;real&quot; settings where contextual factors have a strong influence on
+			<lb/>
+			results, moving from demonstrations of efficacy to evidence of effectiveness. Examples
+			<lb/>
+			of the kinds of research questions that could be answered in INDEPTH settings include:
+			<lb/>
+		</p>
+		
+		<list>
+			<item> Assessing the interface between global health initiatives and the strengthening of
+				<lb/>
+				health systems -are there synergies to be found?
+				<lb/>
+			</item>
+			<item>
+				 Defining the delivery requirements for chronic diseases -can HIV services be used as
+				<lb/>
+				an entry point for chronic disease prevention and treatment?
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Evaluating the effectiveness of the solutions: − A particularly important opportunity
+			<lb/>
+			provided by the HDSS sites is in the area of the evaluation of interventions and programmes,
+			<lb/>
+			especially in relation to scaling up, health system performance and system-wide interventions.
+			<lb/>
+			INDEPTH could tap into the substantial resources available from global health funds, the Global
+			<lb/>
+			Fund to fight AIDS, Tuberculosis and Malaria (GFATM) and the Global Alliance for
+			<lb/>
+			Vaccines and Immunisation (GAVI), by developing monitoring and evaluation proposals
+			<lb/>
+			as part of national proposals to these global funds. INDEPTH could also &quot;retail&quot; solid
+			<lb/>
+			baselines as a basis for assessing and attributing changes from interventions; currently
+			<lb/>
+			baselines are largely absent in most evaluation efforts.
+			<lb/>
+		</p>
+		
+		<p>Health system strengthening: − Cutting across each of these research streams, is the
+			<lb/>
+			issue of how to strengthen health systems in order to enable the successful scaling up of
+			<lb/>
+			interventions. There is mounting evidence that health systems that can deliver services
+			<lb/>
+			equitably and efficiently are critical to the achievement of national and global health
+			<lb/>
+			goals, both in terms of communicable diseases and maternal and perinatal health, but
+			<lb/>
+			also, critically, for the prevention and management of chronic and non communicable
+			<lb/>
+			diseases. Global health initiatives now incorporate attention to health systems
+			<lb/>
+			strengthening into the support provided to countries. However, there is an urgent need for
+			<lb/>
+			research on all aspects of health system performance, from understanding the dimensions
+			<lb/>
+			and nature of health system constraints, to developing innovative strategies for
+			<lb/>
+			strengthening health systems, translating these into action on the ground and evaluating
+			<lb/>
+			to assure continuous improvement, enhanced efficiency and effectiveness. The HDSS
+			<lb/>
+			sites should engage in research on improving performance across each of the health
+			<lb/>
+			system building blocks -service delivery, health workforce, health information systems,
+			<lb/>
+			medical products, vaccines and technologies, financing and governance (<ref type="figure">Figure 2</ref>).
+			The
+			<lb/>
+			availability of solid data on health status generated through the HDSS surveillance will
+			<lb/>
+			permit an evaluation of health system performance in terms of improved health
+			<lb/>
+			outcomes, enhanced responsiveness, improved efficiency and social and financial risk
+			<lb/>
+			protection.
+			<lb/>
+		</p>
+		
+		<head>2. Building research capacities
+			<lb/>
+		</head>
+		
+		<p>The INDEPTH Network and the HDSS sites have an unrivalled reputation in terms of
+			<lb/>
+			building capacities for research in developing countries. As its embarks on its second
+			<lb/>
+			decade, there is much that INDEPH can do to build upon and further strengthen its
+			<lb/>
+			achievements in this area:
+			<lb/>
+			Building capacities among individual researchers: − INDEPTH should establish more
+			<lb/>
+			formal links for &quot;researcher&quot; training and faculty appointments with schools of public
+			<lb/>
+			health around the world. It should also consider setting up an &quot;INDEPTH Fellows&quot;<lb/>
+			programme, tapping into resources from donor institutions that actively support capacity-<lb/>building such
+			as Fogarty, the Swedish International Development Cooperation Agency
+			<lb/>
+			(Sida), the Rockefeller Foundation, and the International Development Research Centre
+			<lb/>
+			(IDRC). Such capacity-building should address the range of skills relevant to research,
+			<lb/>
+			not only with regard to study design, data collection and statistical analysis but also in the
+			<lb/>
+			management, archiving and curation of the large and complex data sets amassed by the
+			<lb/>
+			HDSS sites.
+			<lb/>
+		</p>
+		<p>
+			Extending the network: − There are a number of opportunities for INDEPTH to reach
+			<lb/>
+			out beyond its traditional links to the research community in developing countries. For
+			<lb/>
+			example, INDEPTH should link to the fast growing &quot;observatories&quot; movement to which
+			<lb/>
+			it can bring scientific and statistical rigour and insight. The Network should also look into
+			<lb/>
+			establishing explicit linkages with longitudinal surveillance sites in Organisation for
+			<lb/>
+			Economic Cooperation and Development (OECD) countries, such as Framingham. Such
+			<lb/>
+			collaboration would be particularly beneficial as the HDSS sites focus more on tracking
+			<lb/>
+			the epidemiological transition and the growing prevalence of non-communicable diseases
+			<lb/>
+			in developing countries. In addition, INDEPTH should seize the opportunity to position
+			<lb/>
+			itself as a key partner in the emerging global collaboration on health metrics and
+			<lb/>
+			evaluation. The HDSS sites generate data on vital events which, although not
+			<lb/>
+			representative of the population as a whole, can provide important information on levels
+			<lb/>
+			of mortality by age and sex. Moreover, the HDSS sites are helping to build the skills for
+			<lb/>
+			demographic surveillance required for sustainable civil registration.
+			<lb/>
+		</p>
+		
+		<head>3. Developing and implementing research standards
+			<lb/>
+		</head>
+		
+		<p>INDEPTH continues to be instrumental in developing and applying high standards in the
+			<lb/>
+			conduct of research across its sites. There is scope for further standard-setting innovative
+			<lb/>
+			work in methods and measurement strategies, for example:
+			<lb/>
+		</p>
+		<list>
+			<item>
+				 Development and testing of small area sampling and survey tools, for example for
+				<lb/>
+				use at neighbourhood and sub-district levels, in order to generate population data
+				<lb/>
+				on coverage and health status that district level managers need;
+				<lb/>
+			</item>
+			<item>
+				 Development of real-time, multi-site, evaluation methods;
+				<lb/>
+			</item>
+			<item>
+				 Building &quot;interoperability&quot; between population-based HDSS surveillance records
+				<lb/>
+			</item>
+			<item>
+				and individual electronic medical records.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>INDEPTH should also continue to contribute to setting and implementing standards of
+			<lb/>
+			research conduct, such as the ethics of data management, protecting privacy and
+			<lb/>
+			confidentiality while promoting public access to data. INDEPTH sites have to grapple
+			<lb/>
+			with incentive structures in epidemiological research that put private and institutional
+			<lb/>
+			interests at odds with the public good. They have to deal with chronic under-investment
+			<lb/>
+			in data management and analysis skills and need to push for more realistic &quot;overheads&quot;<lb/>
+			from donors to support real costs of research infrastructure.
+			<lb/>
+		</p>
+		
+		<head>4. Translating research results into action
+			<lb/>
+		</head>
+		
+		<p>Translating the results of research into action at scale is critically dependent on effective
+			<lb/>
+			communication with those in a position to bring about change, namely policy makers and
+			<lb/>
+			all those with power of resource allocation, many of whom are not located within the
+			<lb/>
+			health sector. At the beginning of this paper we argued that INDEPTH needs to do more
+			<lb/>
+			to document and publicize its achievements over the first decade. As it embarks on its
+			<lb/>
+			second decade, increased and targeted advocacy and communication must become a core
+			<lb/>
+			part of INDEPTH&apos;s work. INDEPTH needs to develop and nurture relationships not only
+			<lb/>
+			with the research and public health communities but also with politicians, policy-makers,
+			<lb/>
+			practitioners and the general public. Sharing of research findings should be a core
+			<lb/>
+			component in every site and advocacy and communications skills should be considered
+			<lb/>
+			alongside statistical and epidemiological skills as central to INDEPTH&apos;s mission.
+			<lb/>
+		</p>
+		
+		<p>One way of encouraging increased access to the products of HDSS research would be by
+			<lb/>
+			establishing an INDEPTH Virtual Library with on-line access to publications, papers, and
+			<lb/>
+			data sets. But it is important to ensure that the results of research are appropriately
+			<lb/>
+			packaged and transmitted to different audiences who will be key to INDEPTH&apos;s ongoing
+			<lb/>
+			success and, indeed, survival. Even when data have been gathered and summarised to
+			<lb/>
+			high standards, further analysis-of what is both reported and missing-is usually needed
+			<lb/>
+			before the information can be disseminated and communicated to non-technical
+			<lb/>
+			audiences and used as the basis for policymaking. Information can be conveyed directly
+			<lb/>
+			to policymakers or indirectly through secondary audiences, such as academics,
+			<lb/>
+			researchers, health professionals, parliamentarians, the media or advocacy groups, who
+			<lb/>
+			are in a position to affect policymakers. INDEPTH should use an array of communication
+			<lb/>
+			channels including seminars, peer-reviewed journals, special events, national and
+			<lb/>
+			international meetings, and policy briefs. Links to open access journals such as Global
+			<lb/>
+			Health Action should be vigorously pursued.
+			<lb/>
+		</p>
+		
+		<head>Legends to Figures
+			<lb/>
+		</head>
+		
+		<figure>Fig 1: WHO research priorities framework
+			<lb/>
+			Fig 2: Health system building blocks
+		</figure>
+	
+	
+	</text>
+</tei>

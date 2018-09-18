@@ -1,0 +1,1020 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>INTRODUCTION
+			<lb/>
+		</head>
+		
+		<p>Decompressive craniectomy (DC) refers to the
+			<lb/>
+			removal of an area of skull in order to enhance
+			<lb/>
+			the potential volume of the intracranial
+			<lb/>
+			compartment. It was first described by Kocher
+			<lb/>
+			in the treatment of post-traumatic brain
+			<lb/>
+			oedema which was refractory to conventional
+			<lb/>
+			medical treatment in 1901 <ref type="biblio">[1]</ref>. Since then,
+			<lb/>
+			interest in the procedure has either increased
+			<lb/>
+			or decreased at various times. At present,
+			<lb/>
+			however, it is commonly accepted as a means
+			<lb/>
+			of rapidly relieving intracranial hypertension
+			<lb/>
+			associated with a number of clinical conditions.
+			<lb/>
+			The procedure however remains controversial
+			<lb/>
+			owing to unresolved issues <ref type="biblio">[2]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Despite the renewed interest in DC during the
+			<lb/>
+			last decade, there are as yet no clear-cut
+			<lb/>
+			guidelines regarding the indications for, or
+			<lb/>
+			optimal timing of the procedure <ref type="biblio">[3,4]</ref>.
+			<lb/>
+		</p>
+		
+		<p>In this paper, we briefly review aspects of DC
+			<lb/>
+			including: its documented benefits, the
+			<lb/>
+			outcome determinants and the associated
+			<lb/>
+			complications using the following search
+			<lb/>
+			terms: &quot;decompressive craniectomy&quot;,
+			<lb/>
+			&quot;outcome of&quot;, &quot;complications of&quot;, &quot;indications
+			<lb/>
+			for&quot;, &quot;infarction&quot;, &quot;brain injury&quot; and
+			<lb/>
+			&quot;cranioplasty&quot;.
+			<lb/>
+		</p>
+		
+		<head>CEREBRAL OEDEMA AND INTRACRANIAL
+			<lb/>
+			HYPERTENSION
+			<lb/>
+		</head>
+		
+		<p>Cerebral oedema and intracranial
+			<lb/>
+			hypertension are among the most fundamental
+			<lb/>
+			pathophysiological processes occurring in
+			<lb/>
+			several neurologic conditions including:
+			<lb/>
+			subarachnoid haemorrhage (SAH), traumatic
+			<lb/>
+			brain injury (TBI), cerebral infarction, cerebral
+			<lb/>
+			blood flow abnormalities, inadequate oxygen
+			<lb/>
+			delivery and energy failure. The impaired
+			<lb/>
+			cerebral perfusion resulting from the increased
+			<lb/>
+			pressure precipitates further increases and
+			<lb/>
+			accounts for the vicious cycle leading to cell
+			<lb/>
+			injury and death. A major goal in the treatment
+			<lb/>
+			of these patients is, therefore, the interruption
+			<lb/>
+			of the vicious cycle by controlling the brain
+			<lb/>
+			swelling and maintaining the intracranial
+			<lb/>
+			pressure (ICP) below target. Failure to
+			<lb/>
+			interrupt this cycle is thought to be a significant
+			<lb/>
+			contributor to poor outcome in the patients -<lb/>many of whom will either die or survive with
+			<lb/>
+			severe disability (with mortality exceeding 80%
+			<lb/>
+			being reported in some series) <ref type="biblio">[5]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Several modes of intervention have been
+			<lb/>
+			applied in cases of intracranial hypertension.
+			<lb/>
+			Most of them are effective and include
+			<lb/>
+			therapies like the use of osmotic diuretics
+			<lb/>
+			(such as mannitol or hypertonic saline),
+			<lb/>
+			sedation, high-dose barbiturates, mild
+			<lb/>
+			hyperventilation, moderate hypothermia,
+			<lb/>
+			maintenance of oxygenation and drainage of
+			<lb/>
+			cerebrospinal fluid by ventriculostomy <ref type="biblio">[5]</ref>.
+			<lb/>
+			Clinical evidence, however, shows that these
+			<lb/>
+			measures are not always effective, and as a
+			<lb/>
+			result the vicious cycle continues to propagate.
+			<lb/>
+			In such situations, more aggressive methods
+			<lb/>
+			of treatment are indicated. Furthermore, some
+			<lb/>
+			of the conventional measures have been
+			<lb/>
+			associated with significant side effects. For
+			<lb/>
+			example, whereas mannitol is known to cause
+			<lb/>
+			adverse effects like pulmonary congestion,
+			<lb/>
+			convulsions, rebound intracranial
+			<lb/>
+			hypertension, paradoxical increase in
+			<lb/>
+			intracranial pressure <ref type="biblio">[3]</ref> as well as fluid and
+			<lb/>
+			electrolyte disorders; barbiturates have been
+			<lb/>
+			reported to cause hypotension and depressed
+			<lb/>
+			cardiac function while rebound increase in
+			<lb/>
+			intracranial pressure has been known to occur
+			<lb/>
+			following hyperventilation.
+			<lb/>
+		</p>
+		
+		<p>Decompressive craniectomy is thought to be a
+			<lb/>
+			potential option in these instances <ref type="biblio">[5]</ref>, with the
+			<lb/>
+			decision to intervene preferably being based
+			<lb/>
+			on invasive monitoring of the intracranial
+			<lb/>
+			pressure <ref type="biblio">[6,7]</ref>.
+			<lb/>
+		</p>
+		
+		<head>
+			DECOMPRESSIVE CRANIECTOMY
+			<lb/>
+		</head>
+		
+		<p>
+			Surgical decompression as a means of
+			<lb/>
+			relieving intracranial pressure is an old
+			<lb/>
+			neurosurgical concept <ref type="biblio">[3]</ref>. Mainly, it involves
+			<lb/>
+			raising a bone flap, duraplasty, cerebrospinal
+			<lb/>
+			fluid drainage and removal of any intracranial
+			<lb/>
+			mass lesions. The modern concept of
+			<lb/>
+			decompression for traumatic brain injury (TBI)
+			<lb/>
+			was introduced by Harvey Cushing in the early
+			<lb/>
+			twentieth century <ref type="biblio">[8]</ref>. Decompressive
+			<lb/>
+			craniectomy (DC) refers to the removal of an
+			<lb/>
+			area of skull bone with the aim of converting
+			<lb/>
+			the &apos;closed&apos; intracranial compartment into an
+			<lb/> &apos;open&apos; one.
+			<lb/>
+		</p>
+		
+		<p>Interest in the procedure has fluctuated
+			<lb/>
+			through the years partly due to a number of
+			<lb/>
+			unresolved issues including: whether the
+			<lb/>
+			results justify the treatment as well as the
+			<lb/>
+			associated complications (such as the
+			<lb/>
+			increased tendency of brain injury to occur at
+			<lb/>
+			the craniectomy site) <ref type="biblio">[9]</ref>. There has also been
+			<lb/>
+			concern about the functional outcome in
+			<lb/>
+			surviving patients. Nevertheless, there has
+			<lb/>
+			been a revival of interest during the last couple
+			<lb/>
+			of decades; and it has come to gain wide
+			<lb/>
+			acceptance as a salvage procedure in the
+			<lb/>
+			treatment of refractory intracranial
+			<lb/>
+			hypertension in a number of clinical conditions
+			<lb/>
+			which are accompanied by massive oedema
+			<lb/>
+			and brain swelling <ref type="biblio">[10-12]</ref>. The adverse effects
+			<lb/>
+			of intracranial hypertension are due to
+			<lb/>
+			compression of the brain as well as
+			<lb/>
+			impairment of cerebral blood flow.
+			<lb/>
+			Decompressive craniectomy reduces this
+			<lb/>
+			pressure and enhances blood flow; and it has
+			<lb/>
+			been shown that the larger the craniectomy,
+			<lb/>
+			the greater the reduction of the ICP [L, T].
+			<lb/>
+		</p>
+		
+		<p>Clinical data show that DC is a safe and
+			<lb/>
+			effective primary surgical procedure. Its role in
+			<lb/>
+			the treatment of patients with intracranial
+			<lb/>
+			hypertension associated with post-traumatic
+			<lb/>
+			brain swelling is, however, still controversial
+			<lb/>
+			<ref type="biblio">[3,12]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Even though the optimum size of the
+			<lb/>
+			craniectomy is still a subject of controversy,
+			<lb/>
+			clinical evidence shows that sub-optimal bone
+			<lb/>
+			windows increase the chances of brain injury
+			<lb/>
+			and thereby contribute to poor outcome. A
+			<lb/>
+			craniectomy of at least 12cm is recommended
+			<lb/>
+			<ref type="biblio">[I]</ref>. However, the size of the bone flap should
+			<lb/>
+			be tailored to meet the individual need. In their
+			<lb/>
+			retrospective study of 263 patients with severe
+			<lb/>
+			traumatic brain injury that were treated with
+			<lb/>
+			large decompressive craniectomy (135
+			<lb/>
+			patients) or routine decompressive
+			<lb/>
+			craniectomy (128 patients), Li et al compared
+			<lb/>
+			the treatment outcome and postoperative
+			<lb/>
+			complications of the two treatment methods
+			<lb/>
+			during a 6-month follow-up period. They found
+			<lb/>
+			that whereas large decompressive
+			<lb/>
+			craniectomy is superior to routine
+			<lb/>
+			decompressive craniectomy in improving the
+			<lb/>
+			outcome of severe TBI and effectively
+			<lb/>
+			reducing the chances of reoperation, it is also
+			<lb/>
+			associated with a higher incidence of delayed
+			<lb/>
+			complications such as intracranial haematoma
+			<lb/>
+			and contralateral subdural effusion [L].
+			<lb/>
+		</p>
+		
+		<p>Other controversial aspects of DC include: the
+			<lb/>
+			functional outcome following the procedure as
+			<lb/>
+			it relates to patient selection criteria as well as
+			<lb/>
+			surgical timing; its benefits in the treatment of
+			<lb/>
+			patients with massive infarction of the territory
+			<lb/>
+			of the middle cerebral artery (MCA) territory
+			<lb/>
+			<ref type="biblio">[S]</ref>; whether the craniectomy should be
+			<lb/>
+			unilateral or bilateral; and whether or not
+			<lb/>
+			durotomy or duraplasty should be performed
+			<lb/>
+			[R, U].
+			<lb/>
+		</p>
+		
+		<p>Despite the controversies, several studies
+			<lb/>
+			have documented beneficial effects due to its
+			<lb/>
+			performance. The advantages DC has over
+			<lb/>
+			more conservative approaches to ICP control
+			<lb/>
+			are thought to be due to the rapid and
+			<lb/>
+			generally permanent decline in ICP,
+			<lb/>
+			maintenance of neurologic status and the
+			<lb/>
+			ability to obtain a neurologic examination after
+			<lb/>
+			it is performed <ref type="biblio">[8]</ref>. Some studies have found
+			<lb/>
+			that decompressive craniectomy also improves
+			<lb/>
+			cerebral perfusion pressure and cerebral blood
+			<lb/>
+			flow in head injured patients <ref type="biblio">[19]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Clinical data also indicate that DC reduces
+			<lb/>
+			mortality, improves functional recovery,
+			<lb/>
+			reduces duration of stay in intensive care unit
+			<lb/>
+			and improves the Barthel Index Score,
+			<lb/>
+			especially when it is performed early <ref type="biblio">[3,19-30]</ref>.
+			<lb/>
+			Guerra et al reported that up to 65% of their
+			<lb/>
+			patients who underwent DC for diffuse brain
+			<lb/>
+			swelling refractory to medical management
+			<lb/>
+			made a good recovery at 1 year <ref type="biblio">[1]</ref>. In
+			<lb/>
+			experimental models of TBI and ischaemic
+			<lb/>
+			stroke, it has been demonstrated that DC
+			<lb/>
+			minimises post-traumatic ICP increase,
+			<lb/>
+			improves cerebral perfusion, significantly
+			<lb/>
+			reduces secondary brain damage and
+			<lb/>
+			improves survival and functional outcome.
+			<lb/>
+			These effects are thought to be the result of
+			<lb/>
+			increases in collateral circulation, reductions in
+			<lb/>
+			tissue oedema and improvements in
+			<lb/>
+			oxygenation and energy metabolism in injured
+			<lb/>
+			tissues <ref type="biblio">[9,31]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Children: Studies have shown that the
+			<lb/>
+			majority of severely brain injured children in
+			<lb/>
+			whom early DC was performed benefited from
+			<lb/>
+			the procedure as demonstrated by the prompt
+			<lb/>
+			control of the intracranial pressure,
+			<lb/>
+			improvement in radiological findings and good
+			<lb/>
+			neurological recovery. It is suggested that the
+			<lb/>
+			procedure has advantage over non-surgical
+			<lb/>
+			methods of treatment amongst children
+			<ref type="biblio">[32-<lb/>35]
+			</ref>
+			.
+			<lb/>
+		</p>
+		
+		<head>INDICATIONS
+			<lb/>
+		</head>
+		
+		<p>In spite of the fact that there are numerous
+			<lb/>
+			reports in the literature supporting good clinical
+			<lb/>
+			outcome after decompressive craniectomy,
+			<lb/>
+			there are no clearly defined indications for, or
+			<lb/>
+			optimal timing of the procedure <ref type="biblio">[3,4,9]</ref>. DC has
+			<lb/>
+			most commonly been performed in patients
+			<lb/>
+			with traumatic brain injury <ref type="biblio">[5,36]</ref> and cerebral
+			<lb/>
+			infarction <ref type="biblio">[37]</ref> associated with intractable
+			<lb/>
+			intracranial hypertension. Other indications,
+			<lb/>
+			which have mostly been described in single
+			<lb/>
+			case reports or small case series, include
+			<lb/>
+			meningitis <ref type="biblio">[38]</ref>, subdural empyema,
+			<lb/>
+			encephalitis <ref type="biblio">[39]</ref>, acute disseminated
+			<lb/>
+			encephalomyelitis <ref type="biblio">[40]</ref>, encephalopathy due to
+			<lb/>
+			Reye syndrome <ref type="biblio">[41]</ref>, toxoplasmosis <ref type="biblio">[42]</ref> and
+			<lb/>
+			cerebral venous and dural sinus thrombosis
+			<lb/>
+			<ref type="biblio">[43]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Various workers have based their decision to
+			<lb/>
+			operate on different premises. Reddy et al, for
+			<lb/>
+			example, based their decision to perform DC
+			<lb/>
+			on the presence of mass effect with midline
+			<lb/>
+			shift on neuroimaging and the impairment of
+			<lb/>
+			consciousness to GCS of 12 and below <ref type="biblio">[3]</ref>.
+			<lb/>
+			Albanèse et al, on the other hand, performed
+			<lb/>
+			early DC (within 24 hours) among their head
+			<lb/>
+			injured patients, if they had a GCS score of
+			<lb/>
+			less than 6 and showed clinical signs of
+			<lb/>
+			cerebral herniation (which were correlated with
+			<lb/>
+			abnormalities on computed tomography scan -<lb/>such as the presence of haematoma or brain
+			<lb/>
+			swelling). Similarly, they used as indications
+			<lb/>
+			for &apos;late&apos; decompression (i.e. more than 24
+			<lb/>
+			hours) an intractable intracranial hypertension
+			<lb/>
+			-with intracranial pressure of above 35 mm
+			<lb/>
+			Hg, absence of pupillary reflexes and CT
+			<lb/>
+			abnormalities <ref type="biblio">[12]</ref>.
+			<lb/>
+		</p>
+		
+		<head>
+			OUTCOME DETERMINANTS
+			<lb/>
+		</head>
+		
+		<p>Clinical data show that outcome in many of the
+			<lb/>
+			survivors of decompressive craniectomy is
+			<lb/>
+			acceptable <ref type="biblio">[44-47]</ref>. Using the Glasgow
+			<lb/>
+			Outcome Score Extended (GOSE), functional
+			<lb/>
+			outcome was generally adjudged as good in
+			<lb/>
+			several studies. Evidence from some of these
+			<lb/>
+			studies indicates that one of the most
+			<lb/>
+			important determinants of outcome is the
+			<lb/>
+			timing of the procedure: with good outcome
+			<lb/>
+			correlating with early surgery (generally within
+			<lb/>
+			48 hours). Younger patients generally fare
+			<lb/>
+			better, with age greater than 50 years being
+			<lb/>
+			associated with a poorer outcome. Glasgow
+			<lb/>
+			Coma Scale (GCS) score of 8 and above is
+			<lb/>
+			associated with favourable outcome, while
+			<lb/>
+			mortality rates and the incidence of residual
+			<lb/>
+			disabilities are much higher in patients with
+			<lb/>
+			admission GCS of 5 and below <ref type="biblio">[3,5,48,49]</ref>.
+			<lb/>
+			See <ref type="table">Table 1</ref>.
+			<lb/>
+		</p>
+		
+		<p>Other factors that have been associated with
+			<lb/>
+			poor outcome include: polytrauma and
+			<lb/>
+			significant pupillary abnormalities (anisocoria
+			<lb/>
+			or mydriasis). It is, however, believed that of all
+			<lb/>
+			these factors, the only one that is statistically
+			<lb/>
+			related to bad prognosis is GCS at the time of
+			<lb/>
+			admission.
+			<lb/>
+		</p>
+		
+		<head>PITFALLS AND COMPLICATIONS
+			<lb/>
+		</head>
+		
+		<p>Despite the documented benefits of
+			<lb/>
+			decompressive craniectony, a number of
+			<lb/>
+			workers have expressed concern as to
+			<lb/>
+			whether the procedure has always been
+			<lb/>
+			performed only on patients that actually
+			<lb/>
+			needed it, or whether it has also been
+			<lb/>
+			performed in cases that probably would have
+			<lb/>
+			benefited from medical treatment alone. This is
+			<lb/>
+			pertinent in view of the fact that the risk of
+			<lb/>
+			complications following the procedure is
+			<lb/>
+			comparatively high, with some studies
+			<lb/>
+			reporting as much as 50% complication rate
+			<lb/>
+			postoperatively <ref type="biblio">[50]</ref>.
+			<lb/>
+		</p>
+		
+		<figure type="table">Table
+			1: Decompressive craniectomy following brain injury: factors and considerations in patient
+			<lb/>
+			selection that have been found to be important to patient outcome.
+			<lb/>
+			1. Failed pharmacotherapeutic
+			<lb/>
+			intervention
+			<lb/>
+			Sustained intracranial hyper-tension which does not
+			<lb/>
+			respond to conservative strategies carries a bad prognosis,
+			<lb/>
+			with mortality exceeding 80% being reported in some
+			<lb/>
+			series. Decompressive craniectomy is often performed as a
+			<lb/>
+			final option in the treatment of such cases <ref type="biblio">[1,5]</ref>.
+			<lb/>
+			2. Timing
+			<lb/>
+			Early decompressive craniectomy (within 48 hours of
+			<lb/>
+			injury) has been associated with good functional outcome.
+			<lb/>
+			Reports
+			<lb/>
+			indicate
+			<lb/>
+			that
+			<lb/>
+			neurological
+			<lb/>
+			recovery
+			<lb/>
+			is
+			<lb/>
+			comparatively inferior among patients in whom surgery was
+			<lb/>
+			delayed
+			<ref type="biblio">[26,61].
+				<lb/>
+			</ref>
+			3. Brain herniation
+			<lb/>
+			DC should be performed before the development of
+			<lb/>
+			neurological features of brain herniation. Evaluation of the
+			<lb/>
+			functional recovery of patients, using the Glasgow
+			<lb/>
+			Outcome Scale and Barthel Index, showed that patients
+			<lb/>
+			who underwent DC before the occurrence of brain
+			<lb/>
+			herniation had comparatively more satisfactory outcome
+			<lb/>
+			than those in whom the procedure was performed after
+			<lb/>
+			onset of herniation <ref type="biblio">[62,63]</ref>.
+			<lb/>
+			4. Glasgow Coma Scale (GCS)
+			<lb/>
+			score
+			<lb/>
+			Score should be at least 8. Lower GCS scores appear to
+			<lb/>
+			be associated with a poorer outcome. Studies indicate that
+			<lb/>
+			most of the mortalities were among patients that had GCS
+			<lb/>
+			of 4 to 6 at the time of craniectomy; whereas the
+			<lb/>
+			overwhelming majority of the survivors were those who had
+			<lb/>
+			higher GCS scores (8 and above). Reddy et al reported
+			<lb/>
+			88% survival among their patients who had a preoperative
+			<lb/>
+			GCS of 8 and above, and 27% survival among those with
+			<lb/>
+			GCS less than 8 [3,5,18,58].
+			<lb/>
+			5. Patient&apos;s age
+			<lb/>
+			Should be less than 50 years. Age is perhaps one of the
+			<lb/>
+			key factors in taking the decision whether or not to perform
+			<lb/>
+			DC. Patients in younger age groups tend to do better after
+			<lb/>
+			surgery, with age greater than 50 years being associated
+			<lb/>
+			with a poorer outcome. The incidence of complications is
+			<lb/>
+			also higher above this age <ref type="biblio">[1,18,32,58,64,66</ref>].
+			<lb/>
+			6. Primary brainstem injury
+			<lb/>
+			There should be no primary brainstem injury. The chances
+			<lb/>
+			of survival following DC in patients with primary brainstem
+			<lb/>
+			injury are greatly reduced and as such several authors
+			<lb/>
+			consider this a contraindication to this form of intervention
+			<lb/>
+			[1,66].
+			<lb/>
+			7. Abnormal pupillary findings.
+			<lb/>
+			Clinical data show that recurrent or persistent absence of
+			<lb/>
+			pupil reflexes indicates a poor neurological outcome <ref type="biblio">[5,18]</ref>.
+			<lb/>
+			8. Intracranial pressure
+			<lb/>
+			Should preferably be less than 40 mm Hg at the time of
+			<lb/>
+			decompression. Clinical data show that patients with
+			<lb/>
+			sustained ICP of more than 40 mm Hg did comparatively
+			<lb/>
+			poorly after DC as compared to those whose ICP was
+			<lb/>
+			lower at the time of surgery <ref type="biblio">[26]</ref>.
+			<lb/>
+			9. Midline shift
+			<lb/>
+			The degree of midline shift in the initial computed
+			<lb/>
+			tomography has been found to correlate well with the
+			<lb/>
+			quality of outcome following DC. Preoperative midline shift
+			<lb/>
+			greater than 1 cm is believed to be a significant predictor of
+			<lb/>
+			poor outcome <ref type="biblio">[18,65]</ref>.
+			<lb/>
+		</figure>
+		
+		<p>A very important drawback of DC is the
+			<lb/>
+			increased risk of brain injury. Honeybul reports
+			<lb/>
+			the case of a middle aged man who had a DC
+			<lb/>
+			following TBI as a result of a fall. The patient
+			<lb/>
+			was reported to be making good recovery
+			<lb/>
+			when he fell a second time and injured the
+			<lb/>
+			unprotected craniectomy site. As a result, he
+			<lb/>
+			suffered further cerebral injury and
+			<lb/>
+			subsequently died <ref type="biblio">[51]</ref>. The case highlights
+			<lb/>
+			the need to view these patients as particularly
+			<lb/>
+			high risk and emphasises the importance of
+			<lb/>
+			measures aimed at protecting the brain after
+			<lb/>
+			the procedure.
+			<lb/>
+		</p>
+		
+		<p>The fact that a minimum of two surgical
+			<lb/>
+			procedures are required -the first being the
+			<lb/>
+			actual removal of the bone flap and the second
+			<lb/>
+			to repair the defect (cranioplasty) -is also a
+			<lb/>
+			potential cause of concern <ref type="biblio">[8,52]</ref> since the
+			<lb/>
+			latter has also been associated with a number
+			<lb/>
+			of complications.
+			<lb/>
+		</p>
+		
+		<p>A major specific complication that has been
+			<lb/>
+			associated with DC is the syndrome of sinking
+			<lb/>
+			skin flap described by Yamaura and Makino. It
+			<lb/>
+			is characterised by progressive neurological
+			<lb/>
+			deterioration with the depression of the skin at
+			<lb/>
+			the site of the cranial defect, and develops
+			<lb/>
+			within a few weeks to several months after
+			<lb/>
+			large external cerebral decompression. These
+			<lb/>
+			authors opine that the neurological
+			<lb/>
+			deterioration may be due solely to the effect of
+			<lb/>
+			the concavity of the skin flap with consequent
+			<lb/>
+			distortion of the underlying brain which is
+			<lb/>
+			subjected to the atmospheric pressure through
+			<lb/>
+			it <ref type="biblio">[2]</ref>.
+			<lb/>
+		</p>
+		
+		<p>Other reported complications of DC include:
+			<lb/>
+			contralateral subdural effusions <ref type="biblio">[53]</ref>, infections
+			<lb/>
+			(such as meningitis or brain abscess) and
+			<lb/>
+			hydrocephalus <ref type="biblio">[10]</ref>. Persistent vegetative state
+			<lb/>
+			is probably one of the most devastating
+			<lb/>
+			outcomes following decompressive
+			<lb/>
+			craniectomy <ref type="biblio">[54]</ref>. It is thus necessary that in
+			<lb/>
+			taking the decision to operate, the risk of
+			<lb/>
+			complications should be weighed against the
+			<lb/>
+			potential benefits of the procedure in the
+			<lb/>
+			context of the life-threatening circumstances.
+			<lb/>
+		</p>
+		
+		<p>Cranioplasty, which is commonly indicated for
+			<lb/>
+			large cranial defects following DC, is also
+			<lb/>
+			associated with several complications
+			<lb/>
+			including extradural haematoma, infections
+			<lb/>
+			and instability of the implant <ref type="biblio">[52,55,56]</ref>, among
+			<lb/>
+			others. Cranioplasty is generally performed 3
+			<lb/>
+			months after the decompressive craniectomy.
+			<lb/>
+			Clinical data, however, reveal that the rate of
+			<lb/>
+			complications is reduced when it is performed
+			<lb/>
+			early. Thus, there is at present, a tendency to
+			<lb/>
+			perform it within 5 to 8 weeks of the
+			<lb/>
+			craniectomy <ref type="biblio">[57]</ref>.
+			<lb/>
+		</p>
+		
+		<head>
+			ONGOING TRIALS
+			<lb/>
+		</head>
+		
+		<p>There are at present two prospective
+			<lb/>
+			randomised controlled trials aimed at providing
+			<lb/>
+			Class I evidence on the role of DC in the
+			<lb/>
+			treatment of intracranial hypertension following
+			<lb/>
+			severe TBI. The DECRA Trial
+			<lb/>
+			(DECompressive CRAniectomy Trial) is a
+			<lb/>
+			multi-centre prospective randomised trial
+			<lb/>
+			designed to evaluate the effect of early
+			<lb/>
+			decompressive craniectomy on neurological
+			<lb/>
+			function in patients with severe TBI. It is based
+			<lb/>
+			on the theory that early decompressive
+			<lb/>
+			craniectomy can improve long term
+			<lb/>
+			neurological outcome in patients with severe
+			<lb/>
+			traumatic brain injury and intracranial
+			<lb/>
+			hypertension which is refractory to
+			<lb/>
+			conventional management <ref type="biblio">[58]</ref>. RESCUEicp
+			<lb/>
+			(Randomised Evaluation of Surgery with
+			<lb/>
+			Craniectomy for Uncontrollable Elevation of
+			<lb/>
+			intracranial pressure) is another prospective,
+			<lb/>
+			randomised international multi-centre trial
+			<lb/>
+			aimed at providing class 1 evidence as to
+			<lb/>
+			whether DC is effective for the management of
+			<lb/>
+			patients with refractory intra-cranial
+			<lb/>
+			hypertension following TBI as compared with
+			<lb/>
+			medical management alone <ref type="biblio">[59]</ref>.
+			<lb/>
+		</p>
+		
+		<p>A major limitation of this review is that
+			<lb/>
+			standard data meta-analysis techniques could
+			<lb/>
+			not be applied; and like several other
+			<lb/>
+			publications on decompressive craniectomy in
+			<lb/>
+			the literature, it tended to be biased in favour
+			<lb/>
+			of publications with good outcome. There was
+			<lb/>
+			nonuniformity in several aspects of the studies
+			<lb/>
+			evaluated, many of which were based on
+			<lb/>
+			uncontrolled retrospective data and small case
+			<lb/>
+			series. Some of the areas of variation in the
+			<lb/>
+			reports were the differences in detail in the
+			<lb/>
+			surgical procedures performed as well as their
+			<lb/>
+			indications: e.g., the choice of
+			<lb/>
+			hemicraniectomy instead of bilateral
+			<lb/>
+			craniectomy, durotomy or duraplasty, Glasgow
+			<lb/>
+			Coma Scale score that was deemed
+			<lb/>
+			acceptable, etc -all of which without doubt
+			<lb/>
+			impacted (at least to some extent) the
+			<lb/>
+			interpretation of the results.
+			<lb/>
+		</p>
+		
+		<head>
+			CONCLUSION
+			<lb/>
+		</head>
+		
+		<p>Decompressive craniectomy is commonly
+			<lb/>
+			performed as an empiric lifesaving measure in
+			<lb/>
+			an attempt to protect the brain from the
+			<lb/>
+			damaging effects of propagating oedema and
+			<lb/>
+			intracranial hypertension <ref type="biblio">[60]</ref>. Improving
+			<lb/>
+			patient selection and optimising timing of the
+			<lb/>
+			procedure may be expected to further improve
+			<lb/>
+			outcome in severely brain injured patients. An
+			<lb/>
+			important way of achieving this is to have
+			<lb/>
+			clearly defined guidelines that may be applied
+			<lb/>
+			in every case for which the procedure is
+			<lb/>
+			envisaged. <ref type="table">Table 1</ref> shows factors and
+			<lb/>
+			considerations in patient selection and timing
+			<lb/>
+			of decompressive craniectomy that have been
+			<lb/>
+			found to be important to patient outcome.
+			<lb/>
+		</p>
+		
+		<head>CORRESPONDING AUTHOR:
+			<lb/>
+		</head>
+		
+		<p>Eghwrudjakpor PO, e-mail: patejakpor@yahoo.com
+		</p>
+	
+	
+	</text>
+</tei>
