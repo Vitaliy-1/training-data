@@ -1,0 +1,1437 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Il existe essentiellement deux façons de faire si l&apos;on souhaite adopter un enfant
+			<lb/>
+			domicilié au Québec : soit on s&apos;inscrit sur une liste d&apos;attente pour l&apos;adoption
+			<lb/>
+			régulière, soit on entreprend les démarches pour devenir une famille d&apos;accueil de type
+			<lb/>
+			Banque-mixte. Dans le premier cas, il faut s&apos;armer de patience, puisque très peu de
+			<lb/>
+			bébés naissants sont confiés à l&apos;adoption par leurs parents d&apos;origine, si bien que
+			<lb/>
+			l&apos;attente dure de nombreuses années. C&apos;est pourquoi la majorité des quelque
+			<lb/>
+			300 adoptions qui sont réalisées chaque année au Québec (<ref type="biblio">Association des Centres
+			<lb/>
+				jeunesse du Québec, 2013</ref>) sont des adoptions faites dans le cadre du programme
+			<lb/>
+			Banque-mixte.
+			<lb/>
+		</p>
+		
+		<p>Devenir une famille d&apos;accueil de type Banque-mixte signifie que l&apos;on accepte
+			<lb/>
+			de s&apos;occuper d&apos;un enfant dont la situation a été prise en charge par la Direction de la
+			<lb/>
+			protection de la jeunesse (DPJ). Cet enfant est considéré à « haut risque d&apos;abandon »,
+			<lb/>
+			que ce soit parce que ses parents n&apos;assument plus les soins, l&apos;éducation et l&apos;entretien à
+			<lb/>
+			son égard, ou parce que ses parents présentent de graves lacunes qui altèrent leur rôle
+			<lb/>
+			parental et qu&apos;ils ne seront jamais en mesure de les surmonter (<ref type="biblio">Goubau, 1994</ref>).
+			Au
+			<lb/>
+			moment où l&apos;enfant arrive dans la famille, il n&apos;est pas encore admissible à l&apos;adoption
+			<lb/>
+			et les parents Banque-mixte n&apos;ont aucune garantie qu&apos;il le deviendra un jour. C&apos;est
+			<lb/>
+			donc dire que ces parents qui accueillent un enfant avec le fort désir de l&apos;adopter
+			<lb/>
+			doivent gérer, pour une durée indéterminée, l&apos;incertitude quant à la possibilité que cet
+			<lb/>
+			enfant devienne le leur ainsi que la probabilité, minime mais réelle, qu&apos;il puisse
+			<lb/>
+			retourner dans son milieu familial d&apos;origine si la situation de ses parents change
+			<lb/>
+			suffisamment pour que sa sécurité et son développement ne soient plus compromis
+			<lb/>
+			(<ref type="biblio">Goubau &amp; Ouellette, 2006; Ouellette, Méthot, &amp; Paquette, 2003</ref>). De plus,
+			en tant
+			<lb/>
+			que famille d&apos;accueil, les postulants au programme Banque-mixte sont obligés
+			<lb/>
+			d&apos;accompagner l&apos;enfant à des visites supervisées hebdomadaires avec ses parents
+			<lb/>
+			d&apos;origine, ce qui leur rappelle régulièrement que l&apos;enfant n&apos;est pas le leur et que
+			<lb/>
+			malgré leurs difficultés à assumer leurs responsabilités parentales, les parents
+			<lb/>
+			d&apos;origine demeurent les seuls détenteurs de l&apos;autorité parentale et donc de tous les
+			<lb/>
+			droits sur l&apos;enfant.
+			<lb/>
+		</p>
+		
+		<p>C&apos;est de ce contexte unique de transition vers la parentalité qu&apos;a émergé
+			<lb/>
+			l&apos;intérêt de réaliser une étude centrée sur le sentiment de filiation des parents qui
+			<lb/>
+			accueillent un enfant en vue de l&apos;adopter dans le cadre du programme Banque-mixte.
+			<lb/>
+			La méthodologie de la théorisation enracinée (MTE) a guidé chacune des étapes de la
+			<lb/>
+			démarche de réalisation de cette recherche, tant au niveau de la définition du cadre
+			<lb/>
+			conceptuel, de la précision de l&apos;objectif de recherche, de la procédure de collecte et
+			<lb/>
+			d&apos;analyse des données que de la rédaction du rapport de recherche. Le présent article
+			<lb/>
+			a pour but de décrire le chemin parcouru pour réaliser cette étude. Il trace notre
+			<lb/>
+			parcours en tant que jeune chercheuse qui n&apos;avait aucune expérience préalable de
+			<lb/>
+			l&apos;utilisation de cette méthodologie, afin de voir comment nous avons concrètement
+			<lb/>
+			mis en application les principes de la MTE.
+			<lb/>
+		</p>
+		
+		<head>1. Quelques principes de la MTE
+			<lb/>
+		</head>
+		
+		<p>Avant de se lancer dans le vif du sujet, il semble pertinent de rappeler certains
+			<lb/>
+			principes de la MTE afin de mieux situer la suite de nos propos.
+			<lb/>
+		</p>
+		
+		<p>Selon ses fondateurs, la MTE est une approche inductive. À l&apos;inverse d&apos;une
+			<lb/>
+			approche hypothético-déductive, elle vise la construction d&apos;un cadre théorique à partir
+			<lb/>
+			des données recueillies sur le terrain plutôt que de chercher à insérer ces données à
+			<lb/>
+			l&apos;intérieur d&apos;un cadre théorique préexistant (<ref type="biblio">Glaser &amp; Strauss, 1967</ref>).
+			Pour certains,
+			<lb/>
+			comme <ref type="biblio">Glaser (1992)</ref>, cela signifie qu&apos;aucune recension des écrits ne devrait
+			être
+			<lb/>
+			faite avant la collecte de données afin d&apos;éviter de se laisser influencer par des
+			<lb/>
+			conceptions déjà établies. D&apos;autres auteurs (p. ex.
+			<ref type="biblio">Corbin &amp; Strauss, 2008; Strauss &amp;<lb/>
+				Corbin, 1990, 1994, 1998, 2004; Suddaby, 2006
+			</ref>
+			) nuancent la position de Glaser en
+			<lb/>
+			prétendant que le chercheur ne doit pas nécessairement s&apos;abstenir de recenser les
+			<lb/>
+			écrits pertinents avant de commencer sa collecte de données, puisque les
+			<lb/>
+			connaissances scientifiques et professionnelles du chercheur lui permettent
+			<lb/>
+			d&apos;augmenter sa sensibilité théorique, c&apos;est-à-dire sa capacité à déceler les subtilités et
+			<lb/>
+			les nuances à l&apos;intérieur des données qui peuvent influencer le sens qui leur est
+			<lb/>
+			accordé (<ref type="biblio">Corbin &amp; Strauss, 2008</ref>). De plus, selon <ref type="biblio">Wuest (2000)</ref>, la connaissance
+			que
+			<lb/>
+			le chercheur acquiert en consultant les écrits théoriques, pratiques et scientifiques est
+			<lb/>
+			un apport dans le processus circulaire de collecte et d&apos;analyse des données qui permet
+			<lb/>
+			d&apos;adapter la théorie existante aux données récoltées. En tant que chercheuse ayant
+			<lb/>
+			traversé une première expérience de MTE, nous sommes plutôt de l&apos;avis des auteurs
+			<lb/>
+			s&apos;inscrivant dans la logique straussienne, c&apos;est-à-dire selon laquelle il est pertinent de
+			<lb/>
+			réaliser une recension des écrits au préalable, sans nécessairement qu&apos;elle soit
+			<lb/>
+			exhaustive, entre autres afin de s&apos;assurer que la démarche entreprise permettra
+			<lb/>
+			l&apos;acquisition de connaissances nouvelles. Malgré les divergences d&apos;opinions, tous
+			<lb/>
+			s&apos;entendent pour dire que la recension des écrits ne doit pas contraindre l&apos;analyse; la
+			<lb/>
+			théorisation doit d&apos;abord s&apos;enraciner à même les données recueillies (
+			<ref type="biblio">Deslauriers &amp;<lb/>
+				Kérisit, 1997; Wuest, 2000
+			</ref>
+			). D&apos;ailleurs, pour cette raison, certains chercheurs
+			<lb/>
+			préfèrent recenser les écrits après avoir fait la collecte et l&apos;analyse des données
+			<lb/>
+			(<ref type="biblio">Guillemette &amp; Luckerhoff, 2009</ref>). Dans le cas de la présente étude, la
+			recension des
+			<lb/>
+			écrits aura été un processus continu qui a commencé au moment de l&apos;élaboration
+			<lb/>
+			d&apos;une première version du cadre conceptuel et qui s&apos;est poursuivi pendant la collecte
+			<lb/>
+			et l&apos;analyse des données ainsi qu&apos;au moment de la rédaction du rapport de recherche.
+			<lb/>
+		</p>
+		
+		<p>Une autre particularité de la MTE est son échantillonnage qui se réalise de
+			<lb/>
+			manière à favoriser l&apos;émergence d&apos;une théorie ou à atteindre une certaine
+			<lb/>
+			représentativité sémantique, c&apos;est-à-dire relative au sens des mots ou des concepts à
+			<lb/>
+			l&apos;étude, plutôt que de manière à atteindre une représentativité statistique (
+			<ref type="biblio">Guillemette
+				<lb/> &amp; Luckerhoff, 2009; Laperrière, 1997b
+			</ref>
+			). C&apos;est ce qui s&apos;appelle l&apos;échantillonnage
+			<lb/>
+			théorique (<ref type="biblio">Charmaz, 2006; Glaser &amp; Strauss, 1967; Pires, 1997</ref>). Ainsi, les
+			éléments
+			<lb/>
+			qui constituent l&apos;échantillon sont sélectionnés en fonction de leur capacité à nourrir la
+			<lb/>
+			construction de la théorie.
+			<lb/>
+		</p>
+		
+		<p>Comme le soulignent <ref type="biblio">Guillemette et Luckerhoff (2009)</ref>, même si elle est issue
+			<lb/>
+			des données, la théorie n&apos;apparaît pas de manière naturelle à la suite d&apos;un simple coup
+			<lb/>
+			d&apos;oeil aux propos des participants à l&apos;étude. Au contraire, elle se construit en utilisant
+			<lb/>
+			les données brutes pour valider les concepts créés par le chercheur et les énoncés
+			<lb/>
+			théoriques qu&apos;il formule à la suite de la catégorisation de ces concepts (
+			<ref type="biblio">Laperrière,
+				<lb/>
+				1997a; Suddaby, 2006
+			</ref>
+			). Ce principe, que l&apos;on nomme emergent-fit et qu&apos;il est
+			<lb/>
+			difficile de traduire fidèlement en français, est unique à la MTE. <ref type="biblio">Guillemette et
+			<lb/>
+			Luckerhoff (2009)</ref> ajoutent que ce principe influence également toutes les étapes de
+			<lb/>
+			la recherche, par exemple le choix des outils de collecte de données, de même que la
+			<lb/>
+			manière d&apos;analyser puis de présenter les résultats. Ainsi, selon ce principe, il peut être
+			<lb/>
+			difficile pour un chercheur d&apos;élaborer tous les aspects méthodologiques de son étude
+			<lb/>
+			avant de commencer la collecte de données puisque l&apos;analyse des données peut
+			<lb/>
+			l&apos;inciter à prendre une direction plutôt qu&apos;une autre et ainsi l&apos;amener à développer de
+			<lb/>
+			nouveaux outils de collecte de données. Cette rigueur dans le processus d&apos;élaboration
+			<lb/>
+			de la théorie permet d&apos;en assurer une plus grande pertinence puisque le fait de
+			<lb/>
+			confronter la théorie à la réalité empirique permet d&apos;en assurer la validité (
+			<ref type="biblio">Laperrière,
+				<lb/>
+				1997b
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Finalement, la dernière particularité de la MTE qui doit être mentionnée ici est
+			<lb/>
+			le principe de la circularité. Elle permet de décrire le mouvement de va-et-vient entre
+			<lb/>
+			la collecte et l&apos;analyse des données (
+			<ref type="biblio">Glaser, 2001; Glaser &amp; Strauss, 1967;
+				<lb/>
+				Guillemette &amp; Luckerhoff, 2009; Suddaby, 2006
+			</ref>
+			). Ainsi, les deux opérations se
+			<lb/>
+			réalisent de manière simultanée plutôt que de manière séquentielle. Cela place donc le
+			<lb/>
+			chercheur dans une perspective constructiviste et exige que la méthodologie soit
+			<lb/>
+			suffisamment flexible pour s&apos;adapter au fur et à mesure que l&apos;échantillonnage
+			<lb/>
+			théorique se précise (<ref type="biblio">Charmaz, 2006</ref>).
+			<lb/>
+		</p>
+		
+		<p>À la suite de la présentation de ces principes, il faut comprendre que leur
+			<lb/>
+			existence accorde à la MTE la rigueur qui lui permet d&apos;être considérée comme une
+			<lb/>
+			démarche scientifique, particulièrement aux yeux de certains détracteurs des
+			<lb/>
+			méthodes de recherche qualitative en général (<ref type="biblio">Laperrière, 1997a</ref>). Toutefois, il ne
+			faut
+			<lb/>
+			pas confondre rigueur et rigidité (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009</ref>). Ainsi, la
+			MTE a
+			<lb/>
+			également la particularité d&apos;être flexible (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>), ce
+			qui permet au
+			<lb/>
+			chercheur de mettre en place certaines adaptations lorsque le champ de recherche le
+			<lb/>
+			requiert. D&apos;ailleurs, le présent article permet d&apos;illustrer la manière dont les principes
+			<lb/>
+			de la MTE ont été ajustés dans le cas particulier de cette recherche sur le sentiment de
+			<lb/>
+			filiation. Pour ce faire, les étapes de la démarche méthodologique sont maintenant
+			<lb/>
+			présentées, à savoir l&apos;élaboration du cadre conceptuel, la précision de l&apos;objectif de
+			<lb/>
+			recherche, la collecte et l&apos;analyse des données, puis la rédaction du rapport de
+			<lb/>
+			recherche. Il est important de noter que ces étapes se sont chevauchées dans le temps
+			<lb/>
+			et se sont influencées les unes et les autres.
+			<lb/>
+		</p>
+		
+		<head>2. L&apos;élaboration d&apos;un cadre conceptuel
+			<lb/>
+		</head>
+		
+		<p>La première étape pour réaliser cette étude a été de délimiter un champ conceptuel
+			<lb/>
+			qui permettrait de cibler plus particulièrement un aspect pertinent à étudier de
+			<lb/>
+			l&apos;expérience de la parentalité dans le contexte de la Banque-mixte. L&apos;élaboration d&apos;un
+			<lb/>
+			cadre conceptuel permet de définir les concepts qui servent de modèle afin
+			<lb/>
+			d&apos;appréhender un phénomène ou une réalité particulière ainsi que les relations entre
+			<lb/>
+			ces concepts (<ref type="biblio">Fortin &amp; Côté, 1996</ref>). Pour <ref type="biblio">Strauss et Corbin (2004)</ref>, l&apos;élaboration
+			d&apos;un
+			<lb/>
+			cadre conceptuel permet au chercheur d&apos;entrer en contact avec le terrain en ayant à
+			<lb/>
+			l&apos;esprit une représentation globale des concepts afin d&apos;observer la manière dont leurs
+			<lb/>
+			propriétés et leurs dimensions se modifient sous différentes conditions. À la suite
+			<lb/>
+			d&apos;un premier survol des écrits existants repérés dans des bases de données comme
+			<lb/>
+			PsycInfo, Social Services Abstracts et Francis, il a semblé pertinent de distinguer les
+			<lb/>
+			concepts de filiation, de liens familiaux et d&apos;attachement lorsqu&apos;il était question de la
+			<lb/>
+			relation entre l&apos;enfant adopté et ses deux paires de parents, soit ses parents adoptifs et
+			<lb/>
+			ses parents d&apos;origine. La lecture de certains écrits de cliniciens et de chercheurs
+			<lb/>
+			européens a été déterminante puisqu&apos;elle nous a permis de prendre connaissance de
+			<lb/>
+			l&apos;importance de la dimension psychique de la filiation dans l&apos;établissement d&apos;une
+			<lb/>
+			relation significative et durable entre le parent et l&apos;enfant qu&apos;il adopte (
+			<ref type="biblio">Goubier-<lb/>Boula, 2005; Lévy-Soussan, 2002; Rosnati, 2005; Soulé &amp; Lévy-Soussan,
+				2002
+			</ref>
+			). En
+			<lb/>
+			effet, cette dimension de la filiation se développe grâce à l&apos;expérience d&apos;une
+			<lb/>
+			proximité relationnelle vécue au quotidien entre un parent et un enfant ainsi que par
+			<lb/>
+			la constitution d&apos;une histoire commune (<ref type="biblio">Soulé &amp; Lévy-Soussan, 2002</ref>). Elle
+			est issue
+			<lb/>
+			de la rencontre entre le désir du parent d&apos;avoir un enfant et le désir de l&apos;enfant d&apos;avoir
+			<lb/>
+			des parents, ainsi que de l&apos;acceptation mutuelle que le parent et l&apos;enfant développent.
+			<lb/>
+			Ainsi, la filiation psychique s&apos;établit à partir du moment où le parent s&apos;identifie
+			<lb/>
+			comme le père ou la mère de cet enfant en particulier, et où l&apos;enfant s&apos;identifie
+			<lb/>
+			comme le fils ou la fille de ce parent en particulier (
+			<ref type="biblio">Lévy-Soussan, 2002; Rosnati,
+				<lb/>
+				2005
+			</ref>
+			). Ce concept est devenu la pierre d&apos;assise de tout le travail qui a suivi. Nous
+			<lb/>
+			considérons que le processus de théorisation a débuté avec cette première recension
+			<lb/>
+			des écrits concernant la filiation psychique. Il est à noter que la recension réalisée ne
+			<lb/>
+			fut pas menée en profondeur afin de faciliter une plus grande ouverture d&apos;esprit au
+			<lb/>
+			moment de la collecte et de l&apos;analyse des données, tel que le mentionnent certains
+			<lb/>
+			auteurs (<ref type="biblio">Deslauriers &amp; Kérisit, 1997; Wuest, 2000</ref>). Rappelons que la recension
+			des
+			<lb/>
+			écrits a constitué un processus continu tout au long de la démarche de recherche et
+			<lb/>
+			s&apos;est poursuivie même au-delà de la collecte de données.
+			<lb/>
+		</p>
+		
+		<p>Dans le cadre du développement d&apos;un devis de recherche en vue de présenter
+			<lb/>
+			une demande de certification éthique, il était nécessaire de présenter le cadre
+			<lb/>
+			conceptuel qui guiderait la réalisation de l&apos;étude. Cela a représenté tout un défi, et ce,
+			<lb/>
+			pour deux raisons. Premièrement, ce n&apos;est pas dans l&apos;esprit de la MTE d&apos;élaborer un
+			<lb/>
+			cadre conceptuel rigide avant de procéder à la collecte de données. Toutefois, pour le
+			<lb/>
+			bien de l&apos;exercice, il fallait que le cadre conceptuel soit suffisamment complet pour
+			<lb/>
+			justifier les décisions méthodologiques et satisfaire les membres du comité d&apos;éthique
+			<lb/>
+			qui, ultimement, accorderaient le droit de réaliser l&apos;étude. Ce genre d&apos;incompatibilité
+			<lb/>
+			entre les principes de la MTE et les exigences des comités d&apos;évaluation a d&apos;ailleurs
+			<lb/>
+			déjà été documenté (<ref type="biblio">Luckerhoff &amp; Guillemette, 2012</ref>).
+			<lb/>
+		</p>
+		
+		<p>Deuxièmement, le concept de filiation psychique n&apos;avait jamais fait l&apos;objet
+			<lb/>
+			d&apos;une étude empirique avant cette thèse. Il a donc fallu opérationnaliser ce concept
+			<lb/>
+			pour être en mesure de développer un canevas d&apos;entrevue qui amènerait les
+			<lb/>
+			participants à émettre des propos qui divulgueraient l&apos;essence de leur sentiment d&apos;être
+			<lb/>
+			(ou non) le parent. Pour ce faire, des écrits de diverses natures (théoriques, cliniques,
+			<lb/>
+			empiriques) ont été lus afin de trouver différents indices de l&apos;expression du sentiment
+			<lb/>
+			d&apos;être ou non le parent lorsqu&apos;on se retrouve en situation d&apos;adoption. À la suite de ces
+			<lb/>
+			lectures, il a été décidé de rebaptiser le concept de filiation psychique pour parler
+			<lb/>
+			plutôt de « sentiment de filiation », afin de nous détacher de la conception strictement
+			<lb/>
+			psychanalytique des auteurs qui nous ont précédée et de construire un concept qui
+			<lb/>
+			rend compte de l&apos;expérience concrète des parents adoptants.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, le cadre conceptuel permettant de se faire une première représentation du
+			<lb/>
+			sentiment de filiation et qui a été élaboré avant de commencer la collecte de données
+			<lb/>
+			a permis d&apos;identifier deux types d&apos;éléments, soit :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>
+				des indicateurs du sentiment de filiation, tels que l&apos;inscription de l&apos;enfant dans
+				<lb/>
+				son histoire familiale, la constitution d&apos;une histoire commune, le sentiment
+				<lb/>
+				d&apos;appartenance, l&apos;identification à l&apos;enfant, le sentiment de légitimité, le degré
+				<lb/>
+				de confort dans l&apos;exercice du rôle parental, l&apos;engagement, le lien d&apos;attachement;
+				<lb/>
+			</item>
+			
+			<item>
+				des conditions pouvant favoriser ou inhiber l&apos;apparition du sentiment de
+				<lb/>
+				filiation, tels que l&apos;âge de l&apos;enfant au moment de son arrivée dans la famille, le
+				<lb/>
+				sexe du parent, la probabilité que l&apos;enfant puisse retourner dans son milieu
+				<lb/>
+				familial d&apos;origine dans le contexte du programme Banque-mixte, le fait que la
+				<lb/>
+				filiation est perçue en Occident comme un lien d&apos;exclusivité.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Parmi ces conditions, certaines ont été prises en considération lors de la
+			<lb/>
+			sélection des participants à l&apos;étude afin d&apos;atteindre une plus grande diversification (les
+			<lb/>
+			caractéristiques de l&apos;échantillon seront présentées plus loin) alors que d&apos;autres ont été
+			<lb/>
+			utilisées comme cadre d&apos;analyse pour éclairer la compréhension de certaines parties
+			<lb/>
+			du discours des participants. Par exemple, le fait de reconnaître que la filiation est
+			<lb/>
+			considérée comme étant exclusive dans la conception occidentale du lien parent-<lb/>enfant nous a permis d&apos;analyser
+			plus finement la manière dont les participants se
+			<lb/>
+			positionnaient par rapport aux parents d&apos;origine de l&apos;enfant, à la lumière de cette
+			<lb/>
+			conviction que l&apos;enfant ne peut avoir qu&apos;une seule paire de parents.
+			<lb/>
+		</p>
+		
+		<p>Enfin, ce cadre conceptuel a également servi à l&apos;élaboration d&apos;une première
+			<lb/>
+			ébauche du canevas d&apos;entrevue. En effet, il a permis de délimiter sept grands thèmes,
+			<lb/>
+			soit le processus de placement et d&apos;adoption, les motivations sous-jacentes à
+			<lb/>
+			l&apos;adoption, les réactions de l&apos;entourage par rapport au projet d&apos;adopter dans le cadre
+			<lb/>
+			du programme Banque-mixte, la perception des parents d&apos;origine, la relation avec
+			<lb/>
+			l&apos;enfant, l&apos;expérience de parentalité et l&apos;ouverture par rapport à l&apos;adoption (c&apos;est-à-
+			<lb/>
+			dire le sentiment d&apos;aise que ressent le participant à parler avec l&apos;enfant de son
+			<lb/>
+			adoption). Une question de départ a été formulée pour chacun de ces thèmes, avec
+			<lb/>
+			deux à cinq sous-thèmes à développer pour chaque question. Par exemple, en ce qui a
+			<lb/>
+			trait aux réactions de l&apos;entourage, la question de départ était : « Comment votre
+			<lb/>
+			entourage a-t-il réagi lorsque vous leur avez annoncé que vous vouliez adopter? »
+			<lb/>
+			Dans ce thème, le participant était amené à préciser les réactions que les différents
+			<lb/>
+			membres de l&apos;entourage pouvaient avoir par rapport à l&apos;enfant ainsi que sa perception
+			<lb/>
+			de leur sentiment d&apos;appartenance à cet enfant. Comme entrée en matière en début
+			<lb/>
+			d&apos;entrevue, chaque participant a été invité à décrire sa famille, ce qui permettait de
+			<lb/>
+			voir à quel système familial il s&apos;identifiait de manière instinctive (selon qu&apos;il fait
+			<lb/>
+			référence à sa famille d&apos;origine -ses propres parents, sa fratrie -ou à sa famille
+			<lb/>
+			actuelle -son conjoint ou sa conjointe, ses enfants) ainsi que les personnes faisant
+			<lb/>
+			partie de ce système (p. ex. est-ce que l&apos;enfant accueilli par le biais du programme
+			<lb/>
+			Banque-mixte était d&apos;emblée considéré comme un membre de la famille?). Les
+			<lb/>
+			différents thèmes étaient ensuite abordés sans chronologie précise, en fonction de ce
+			<lb/>
+			que le participant abordait, afin de l&apos;amener à détailler son propos. Par exemple, le
+			<lb/>
+			participant pouvait être invité à préciser ses motivations à adopter s&apos;il avait d&apos;abord
+			<lb/>
+			parlé de l&apos;historique de son couple. Tout au long de l&apos;entrevue, le parent était
+			<lb/>
+			encouragé à partager ses perceptions, son expérience, ses émotions. L&apos;entrevue se
+			<lb/>
+			terminait en demandant au participant d&apos;énoncer un conseil qu&apos;il souhaiterait donner
+			<lb/>
+			à des amis qui pourraient être intéressés par le programme Banque-mixte.
+			<lb/>
+		</p>
+		
+		<head>3. La précision de l&apos;objectif de recherche
+			<lb/>
+		</head>
+		
+		<p>L&apos;objectif principal initial de l&apos;étude était de mieux comprendre la manière dont les
+			<lb/>
+			parents Banque-mixte développent leur sentiment de filiation par rapport à l&apos;enfant
+			<lb/>
+			qu&apos;ils accueillent en vue de l&apos;adopter. Toutefois, la réalisation de la collecte et de
+			<lb/>
+			l&apos;analyse des données nous a amenée à juger pertinent de préciser l&apos;objectif général
+			<lb/>
+			par l&apos;ajout de deux objectifs spécifiques, soit : 1) comprendre la manière dont les
+			<lb/>
+			parents Banque-mixte s&apos;identifient et perçoivent leur rôle par rapport à l&apos;enfant et
+			<lb/>
+			2) identifier les façons dont le contexte dans lequel ils sont plongés favorise ou inhibe
+			<lb/>
+			leur sentiment de filiation, en raison de la place importante que ces éléments
+			<lb/>
+			occupaient dans le discours des participants. À notre avis, cet exercice de précision de
+			<lb/>
+			l&apos;objectif de recherche représente un bel exemple du principe de circularité de la
+			<lb/>
+			MTE. En effet, par le mouvement de va-et-vient et l&apos;interaction entre la collecte et
+			<lb/>
+			l&apos;analyse des données que plusieurs auteurs décrivent (
+			<ref type="biblio">Glaser, 2001; Glaser &amp;<lb/>
+				Strauss, 1967; Guillemette &amp; Luckerhoff, 2009; Suddaby, 2006
+			</ref>
+			), il nous semble
+			<lb/>
+			logique que ce processus puisse également amener le chercheur à revoir la
+			<lb/>
+			formulation de ses objectifs de recherche.
+			<lb/>
+		</p>
+		
+		<head>4. La procédure de collecte et d&apos;analyse de données
+			<lb/>
+		</head>
+		
+		<p>La manière la plus cohérente d&apos;atteindre l&apos;objectif de la recherche était de réaliser des
+			<lb/>
+			entrevues avec les principaux intéressés, soit des parents Banque-mixte. Il a été
+			<lb/>
+			décidé de les rencontrer avant que l&apos;enfant soit légalement adopté parce que c&apos;est
+			<lb/>
+			justement dans cette période où l&apos;enfant n&apos;est pas légalement lié à eux qu&apos;il est
+			<lb/>
+			intéressant de comprendre ce qui leur permet ou non de se sentir le parent. De plus,
+			<lb/>
+			cela permettait de rencontrer des parents qui auraient accueilli un enfant sans pouvoir
+			<lb/>
+			l&apos;adopter parce que ce dernier serait retourné dans son milieu familial d&apos;origine. Tout
+			<lb/>
+			en ne minimisant pas que l&apos;expérience de la perte d&apos;un enfant est douloureuse, l&apos;accès
+			<lb/>
+			à de tels récits pouvait permettre d&apos;atteindre une compréhension plus globale de ce
+			<lb/>
+			phénomène par l&apos;analyse de cas contrastés (<ref type="biblio">Pires, 1997</ref>).
+			<lb/>
+		</p>
+		
+		<p>Après avoir obtenu la certification éthique, le recrutement des participants a pu
+			<lb/>
+			commencer. L&apos;intention initiale, afin de respecter les principes de la MTE, était de
+			<lb/>
+			procéder à l&apos;analyse des données par le codage des verbatim d&apos;entrevues en même
+			<lb/>
+			temps que se déroulait la collecte. Par contre, la réalité fut tout autre. Contre toute
+			<lb/>
+			attente, une quarantaine de parents Banque-mixte ont répondu à l&apos;appel et un total de
+			<lb/>
+			25 parents ont été rencontrés sur une période de seulement six mois. Considérant le
+			<lb/>
+			temps de transcription et de codage, s&apos;il avait fallu attendre que chaque entrevue soit
+			<lb/>
+			entièrement codée avant de réaliser la suivante, la collecte de données aurait
+			<lb/>
+		</p>
+		
+		<p>facilement pu s&apos;étendre sur un an, peut-être plus. Or, faire attendre de potentiels
+			<lb/>
+			participants pendant aussi longtemps risquait d&apos;occasionner une perte de sujets. Nous
+			<lb/>
+			ne voulions pas courir ce risque. C&apos;est pourquoi nous avons opté pour la rédaction de
+			<lb/>
+			mémos pour entamer le processus d&apos;analyse, soit une prise de notes systématique
+			<lb/>
+			permettant de colliger toute idée qui nous passe par la tête au sujet de l&apos;analyse des
+			<lb/>
+			données. Dans le cadre d&apos;une démarche de MTE, la rédaction de mémos est
+			<lb/>
+			essentielle parce qu&apos;elle permet au chercheur de s&apos;impliquer rapidement dans
+			<lb/>
+			l&apos;analyse et de s&apos;élever à un niveau supérieur d&apos;abstraction (<ref type="biblio">Charmaz, 2006</ref>) afin
+			<lb/>
+			d&apos;éviter de demeurer à un niveau purement descriptif. Cette
+			rédaction de mémos peut
+			<lb/>
+			se réaliser à n&apos;importe quel moment dans le processus d&apos;analyse et constitue un
+			<lb/>
+			complément essentiel au codage du matériel d&apos;entrevue.
+			<lb/>
+		</p>
+		
+		<p>Concernant la sélection des participants, au début de la collecte, tous les
+			<lb/>
+			volontaires ont été rencontrés sans qu&apos;il y ait de sélection particulière. Toutefois,
+			<lb/>
+			après cinq entrevues, la manière dont il serait nécessaire d&apos;orienter la sélection des
+			<lb/>
+			participants en raison des nouvelles questions et des hypothèses qui se dessinaient
+			<lb/>
+			devenait plus claire. En effet, pour trois des cinq premiers participants rencontrés,
+			<lb/>
+			l&apos;accueil de l&apos;enfant se déroulait sans heurt puisqu&apos;il y avait un abandon clair de la
+			<lb/>
+			part des parents d&apos;origine. Or, cette expérience n&apos;est pas représentative des attentes
+			<lb/>
+			que l&apos;on peut se faire de l&apos;accueil d&apos;un enfant dans le contexte du programme
+			<lb/>
+			Banque-mixte. En effet, tel que mentionné en introduction du présent article, sur le
+			<lb/>
+			plan juridique, les familles Banque-mixte possèdent le statut de famille d&apos;accueil.
+			<lb/>
+			Ainsi, à moins que cela n&apos;aille à l&apos;encontre de l&apos;intérêt de l&apos;enfant, les intervenants
+			de
+			<lb/>
+			la protection de la jeunesse doivent prévoir le maintien de contacts entre l&apos;enfant et
+			<lb/>
+			ses parents d&apos;origine lors d&apos;un placement. Pour cette raison, il semblait pertinent de
+			<lb/>
+			fournir un effort supplémentaire pour rencontrer des parents Banque-mixte qui
+			<lb/>
+			accompagnent l&apos;enfant à des visites régulières avec ses parents d&apos;origine afin de
+			<lb/>
+			contraster leur expérience avec celles de nos premiers participants. Nous avons tout
+			<lb/>
+			de même continué à rencontrer tous les volontaires par la suite parce que ces derniers
+			<lb/>
+			se présentaient tranquillement un à un, jusqu&apos;à ce que le recrutement dans un centre
+			<lb/>
+			jeunesse soit si fructueux qu&apos;il n&apos;était ni réaliste, ni nécessaire, de rencontrer tout le
+			<lb/>
+			monde. Ainsi, avec l&apos;aide des intervenants et lors du premier contact téléphonique
+			<lb/>
+			avec les parents intéressés, il a été décidé de procéder à une sélection afin de cibler
+			<lb/>
+			des candidats dont l&apos;expérience contrastait sur des points précis avec celle des
+			<lb/>
+			participants qui avaient déjà été rencontrés.
+			<lb/>
+		</p>
+		
+		<p>L&apos;échantillon final était composé de 25 participants provenant de 20 familles
+			<lb/>
+			différentes et recrutés dans cinq régions du Québec. La majorité des participants sont
+			<lb/>
+			des femmes (18 sur 25), a une moyenne de 40 ans, proviennent de couples
+			<lb/>
+			hétérosexuels (17 sur 25) et ont au minimum une scolarité de premier cycle au niveau
+			<lb/>
+			universitaire (19 sur 25). Certaines caractéristiques, comme l&apos;âge de l&apos;enfant au
+			<lb/>
+			moment de son arrivée dans la famille Banque-mixte ou le fait de prendre ou non le
+			<lb/>
+			congé parental 1 pour s&apos;occuper de l&apos;enfant, sont apparues comme étant importantes à
+			<lb/>
+			prendre en considération au fur et à mesure de l&apos;avancement de la démarche de
+			<lb/>
+			conceptualisation et d&apos;analyse des données afin d&apos;analyser l&apos;expérience des
+			<lb/>
+			participants de manière contrastée.
+			<lb/>
+		</p>
+		
+		<p>Même si la majeure partie du codage des verbatim s&apos;est effectuée après la
+			<lb/>
+			réalisation des entrevues, il a tout de même été possible de commencer l&apos;analyse dès
+			<lb/>
+			le départ par la rédaction de mémos (<ref type="biblio">Charmaz, 2006; Corbin &amp; Strauss, 2008</ref>). En
+			<lb/>
+			effet, en plus de permettre la prise de notes sur le contexte dans lequel se sont
+			<lb/>
+			déroulées les entrevues, les mémos ont aussi servi à colliger nos premières
+			<lb/>
+			impressions analytiques à la suite de chacune des rencontres. Ainsi, après les cinq
+			<lb/>
+			premières entrevues, comme il s&apos;est passé une période d&apos;environ six semaines sans
+			<lb/>
+			que de nouveaux participants se manifestent, nous avons pris un peu de recul pour
+			<lb/>
+			tenter de comprendre ce qui ressortait de ces données. Les premiers constats furent à
+			<lb/>
+			propos de la difficulté à bien capter les manifestations du sentiment de filiation dans
+			<lb/>
+			le discours des participants puisqu&apos;il s&apos;agit d&apos;un concept plutôt abstrait qui ne peut
+			<lb/>
+			faire l&apos;objet d&apos;une observation. Également, l&apos;analyse sommaire des premières
+			<lb/>
+			entrevues a permis l&apos;identification de la prédominance de certaines conditions
+			<lb/>
+			pouvant influencer le sentiment de filiation, telles que la manière dont se déroulent
+			<lb/>
+			les contacts avec les parents d&apos;origine et l&apos;intensité perçue du « risque » que l&apos;enfant
+			<lb/>
+			puisse retourner dans son milieu familial d&apos;origine. Aussi, quelques ajustements ont
+			<lb/>
+			été apportés au canevas d&apos;entrevue pour ajouter de nouveaux thèmes qui n&apos;étaient pas
+			<lb/>
+			présents dans les écrits, mais qui ont été abordés par les premiers participants
+			<lb/>
+			rencontrés, comme l&apos;influence du lien qui se développe entre l&apos;enfant et les autres
+			<lb/>
+			membres de la famille sur le développement d&apos;un sentiment de filiation chez le
+			<lb/>
+			participant. Ce deuxième canevas n&apos;a subi aucune autre modification majeure jusqu&apos;à
+			<lb/>
+			la fin de la collecte de données. Toutefois, il a été utilisé avec flexibilité à chacune
+			<lb/>
+			des entrevues, si bien que même si tous les thèmes ont été abordés avec tous les
+			<lb/>
+			participants, leur approfondissement pouvait dépendre de l&apos;expérience des
+			<lb/>
+			participants et de l&apos;avancement des réflexions concernant l&apos;analyse des données.
+			<lb/>
+		</p>
+		
+		<p>Concernant le codage des données, seule la première entrevue a été codée avant
+			<lb/>
+			que toutes les entrevues soient terminées, ce qui fait que le codage des autres
+			<lb/>
+			entrevues s&apos;est faite de manière subséquente à la réalisation des entrevues. Ceci ne
+			<lb/>
+			signifie pas pour autant que la collecte et l&apos;analyse des données ont été réalisées de
+			<lb/>
+			manière linéaire ou successive. En plus de la rédaction de mémos, tout au long de
+			<lb/>
+			l&apos;analyse des données, de nombreuses informations ont été recueillies en provenance
+			<lb/>
+			d&apos;autres sources, par exemple lors d&apos;échanges avec des intervenants du centre
+			<lb/>
+			jeunesse (tant les intervenants du service adoption, qui assurent le suivi avec les
+			<lb/>
+			familles Banque-mixte, que les intervenants de l&apos;application des mesures, qui
+			<lb/>
+			s&apos;occupent de l&apos;enfant et de ses parents d&apos;origine), avec des membres d&apos;organisations
+			<lb/>
+			qui viennent en aide aux parents adoptifs et avec des collègues chercheurs. D&apos;autres
+			<lb/>
+			informations ont également été recueillies par la poursuite de la lecture d&apos;écrits
+			<lb/>
+			scientifiques, théoriques et cliniques tout au long du processus de collecte et
+			<lb/>
+			d&apos;analyse, de même que lors de participations à des colloques sur l&apos;adoption et la
+			<lb/>
+			filiation et d&apos;échanges avec certains des auteurs clés qui produisent des écrits sur le
+			<lb/>
+			concept de filiation psychique. Tel que le mentionne <ref type="biblio">Glaser (1998)</ref>, en MTE toutes
+			<lb/>
+			les sources de données sont valables et peuvent contribuer à générer de la théorie,
+			<lb/>
+			pourvu que le chercheur s&apos;engage à recueillir ces données de manière rigoureuse.
+			<lb/>
+			Dans le cas présent, toutes ces informations n&apos;ont pas été codées de manière
+			<lb/>
+			systématique comme l&apos;ont été les verbatim d&apos;entrevues; par contre, elles sont
+			<lb/>
+			considérées comme des données valables puisqu&apos;elles ont nourri notre réflexion et ont
+			<lb/>
+			fait partie intégrante des mémos d&apos;analyse, en plus d&apos;être confrontées à l&apos;analyse des
+			<lb/>
+			données provenant des verbatim d&apos;entrevues.
+			<lb/>
+		</p>
+		
+		<p>Il est certain que, comme le codage des entrevues n&apos;était pas très avancé lorsque
+			<lb/>
+			la décision a été prise de cesser de faire de nouvelles entrevues, ce n&apos;est pas l&apos;analyse
+			<lb/>
+			des données provenant de ces entrevues qui a permis de constater que la saturation
+			<lb/>
+			théorique avait été atteinte. En fait, jusqu&apos;à la dernière entrevue nous avons eu le
+			<lb/>
+			sentiment que chaque participant rencontré apportait des éléments nouveaux et
+			<lb/>
+			pertinents pour l&apos;enrichissement de l&apos;analyse et il est probable que si quelques
+			<lb/>
+			entrevues supplémentaires avaient été réalisées, elles auraient également contribué,
+			<lb/>
+			chacune à leur manière, à nourrir la réflexion. Toutefois, la décision d&apos;arrêter de
+			<lb/>
+			réaliser des entrevues a été prise parce qu&apos;il semblait plus important, à ce stade, de se
+			<lb/>
+			concentrer sur l&apos;analyse des données. Par ailleurs, afin de se laisser une certaine
+			<lb/>
+			marge de manoeuvre, la possibilité de réaliser des entrevues supplémentaires, que ce
+			<lb/>
+			soit auprès de nouvelles personnes ou encore auprès des parents qui avaient déjà été
+			<lb/>
+			rencontrés, a toujours existé. Ce n&apos;est que lorsque l&apos;analyse des données et la mise en
+			<lb/>
+			forme de cette analyse pour présenter les résultats ont été terminées qu&apos;il a été
+			<lb/>
+			possible de conclure que la saturation théorique avait été atteinte, puisque la théorie
+			<lb/>
+			qui a émergé pouvait s&apos;appliquer à chacune des entrevues réalisées.
+			<lb/>
+		</p>
+		
+		<p>La manière de coder les données a évolué au fur et à mesure de l&apos;avancement
+			<lb/>
+			de l&apos;analyse. Ainsi, les 12 premières entrevues ont fait l&apos;objet d&apos;un codage ouvert afin
+			<lb/>
+			de déconstruire les données en unités de sens pour en faire émerger des concepts et
+			<lb/>
+			des catégories, puis d&apos;un codage axial afin d&apos;établir des relations entre les concepts et
+			<lb/>
+			les catégories pour ainsi reconstruire les données en un tout cohérent (
+			<ref type="biblio">Charmaz, 2006;
+				<lb/>
+				Corbin &amp; Strauss, 2008; Laperrière, 1997a; Saldaña, 2009
+			</ref>
+			). De manière plus
+			<lb/>
+			concrète, un arbre de codage, composé de 23 concepts regroupés en 4 catégories, a
+			<lb/>
+			été réalisé à l&apos;aide du logiciel d&apos;analyse qualitative QSR NVivo. Cet arbre est
+			<lb/>
+			présenté dans le <ref type="table">Tableau 1</ref>.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 1
+			<lb/>
+			Arbre de codification après 12 entrevues
+			<lb/>
+			1. La transition à la parentalité
+			<lb/>
+			a) Représentations de la maternité/paternité
+			<lb/>
+			b) Désir de maternité/paternité
+			<lb/>
+			c) Définition de la famille
+			<lb/>
+			d) Rôle parental
+			<lb/>
+			2. L&apos;expérience de l&apos;adoption
+			<lb/>
+			a) Acceptation/rejet de la différence
+			<lb/>
+			b) Ouverture par rapport à l&apos;adoption
+			<lb/>
+			c) Représentations de l&apos;enfant comme adopté
+			<lb/>
+			d) Lien de sang versus lien adoptif
+			<lb/>
+			3. L&apos;expérience du programme
+			<lb/>
+			Banque-mixte
+			<lb/>
+			a) Processus préadoption
+			<lb/>
+			b) Rencontre avec l&apos;enfant
+			<lb/>
+			c) Programme Banque-mixte
+			<lb/>
+			d) Relations avec les intervenants
+			<lb/>
+			e) Statut de famille d&apos;accueil
+			<lb/>
+			f) Parents d&apos;origine
+			<lb/>
+			g) Orientation du dossier
+			<lb/>
+			h) Expérience des autres membres de la famille
+			<lb/>
+			i) Réactions de l&apos;entourage
+			<lb/>
+			4. Le sentiment de filiation
+			<lb/>
+			a) Lien avec l&apos;enfant
+			<lb/>
+			b) Sentiment d&apos;être le parent
+			<lb/>
+			c) Sentiment de ne pas être le parent
+			<lb/>
+			d) Sentiment que l&apos;enfant appartient à la famille
+			<lb/>
+			Banque-mixte
+			<lb/>
+			e) Comment l&apos;enfant identifie le participant
+			<lb/>
+			f) Exclusivité de la filiation
+			<lb/>
+		</figure>
+		
+		<p>Parallèlement, des mémos de synthèse de chaque entrevue ont été rédigés pour
+			<lb/>
+			faire ressortir les principaux concepts abordés par chacun des participants, tout en
+			<lb/>
+			tenant compte des nuances propres à leur situation singulière, et extraire les citations
+			<lb/>
+			les plus pertinentes. Toutefois, au terme de l&apos;analyse de la douzième entrevue, bien
+			<lb/>
+			que les concepts et les catégories reflétaient fidèlement le discours des participants,
+			<lb/>
+			nous avons ressenti une certaine insatisfaction parce que les catégories semblaient
+			<lb/>
+			bloquer l&apos;analyse à un niveau descriptif et il était difficile de l&apos;élever à un niveau plus
+			<lb/>
+			théorique, comme le requiert la MTE. Par conséquent, grâce à la rédaction de mémos
+			<lb/>
+			d&apos;analyse, nous nous sommes recentrée sur l&apos;objectif général et les objectifs
+			<lb/>
+			spécifiques de la recherche, ce qui a permis de procéder à un codage axial et de
+			<lb/>
+			réorganiser et redéfinir certains concepts de manière à élaborer quatre nouvelles
+			<lb/>
+			catégories qui permettaient de répondre plus adéquatement aux objectifs de la
+			<lb/>
+			recherche. La Tableau 2 présente les nouvelles catégories ainsi que les concepts qui y
+			<lb/>
+			sont associés. Les deux premières catégories permettent de répondre au premier
+			<lb/>
+			objectif spécifique qui est de comprendre comment les parents Banque-mixte
+			<lb/>
+			s&apos;identifient et perçoivent leur rôle par rapport à l&apos;enfant alors que les deux autres
+			<lb/>
+			catégories permettent de répondre au deuxième objectif spécifique qui est d&apos;identifier
+			<lb/>
+			les manières dont le contexte influence le sentiment de filiation.
+			<lb/>
+		</p>
+		
+		<p>Dix autres entrevues ont été codées à partir de ce nouvel arbre. Plutôt que de les
+			<lb/>
+			coder dans l&apos;ordre dans lequel elles ont été réalisées, les entrevues ont été codées en
+			<lb/>
+			fonction de leur pertinence pour répondre à l&apos;objectif de la recherche et pour
+			<lb/>
+			compléter la construction de la théorie. Une fois la théorie complétée, elle a été
+			<lb/>
+			confrontée aux trois dernières entrevues. Nous avons pu constater que ces dernières
+			<lb/>
+			entrevues n&apos;apportaient rien de nouveau à notre compréhension du sentiment de
+			<lb/>
+			filiation, ce que nous avons considéré comme un indice que la saturation théorique
+			<lb/>
+			était atteinte.
+			<lb/>
+		</p>
+		
+		<p>La phase de théorisation s&apos;est principalement concrétisée au moment de la
+			<lb/>
+			rédaction du rapport de recherche; c&apos;est pourquoi il en sera question dans la prochaine
+			<lb/>
+			section.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 2
+			<lb/>
+			Arbre de codification après la réorganisation
+			<lb/>
+			1. La définition de soi en tant
+			<lb/>
+			que parent
+			<lb/>
+			a) Se considérer comme le parent
+			<lb/>
+			b) Être parent/la fonction parentale
+			<lb/>
+			c) Plus qu&apos;une « simple » famille d&apos;accueil
+			<lb/>
+			2. La temporalité du sentiment
+			<lb/>
+			de filiation
+			<lb/>
+			a) Se sentir le parent bien avant l&apos;adoption
+			<lb/>
+			b) Au-delà des limites temporelles de l&apos;accueil de
+			<lb/>
+			l&apos;enfant
+			<lb/>
+			c) Le point de non-retour
+			<lb/>
+			d) Se sentir le parent dès le départ versus avec le
+			<lb/>
+			temps
+			<lb/>
+			3. Les relations avec autrui en
+			<lb/>
+			contexte d&apos;exclusivité de la
+			<lb/>
+			filiation
+			<lb/>
+			a) Le lien avec l&apos;enfant
+			<lb/>
+			b) Les relations avec le système de protection
+			<lb/>
+			c) Les relations avec les parents d&apos;origine
+			<lb/>
+			d) L&apos;exclusivité de la filiation
+			<lb/>
+			4. Le rapport à la certitude et à
+			<lb/>
+			l&apos;incertitude dans le contexte du
+			<lb/>
+			programme Banque-mixte
+			<lb/>
+			a) L&apos;expérience de la certitude
+			<lb/>
+			b) L&apos;expérience de l&apos;incertitude
+			<lb/>
+			c) Le besoin ou non que l&apos;adoption se finalise
+			<lb/>
+		</figure>
+		
+		<head>5. La rédaction du rapport de recherche
+			<lb/>
+		</head>
+		
+		<p>Selon <ref type="biblio">Richardson et St-Pierre (2005)</ref>, le processus d&apos;écriture constitue en soi une
+			<lb/>
+			manière de faire de la recherche qualitative. En lien avec la pensée de ces auteures,
+			<lb/>
+			dans le cadre de la présente démarche de recherche, l&apos;écriture (tant de mémos que du
+			<lb/>
+			rapport de recherche) a constitué une étape déterminante du processus d&apos;analyse des
+			<lb/>
+			données afin de permettre l&apos;émergence d&apos;une théorie. À cet effet, il semble pertinent
+			<lb/>
+			d&apos;expliquer plus en détail le processus de rédaction du rapport de recherche. En
+			<lb/>
+			réalité, ce dernier a commencé avant même que l&apos;analyse des données soit terminée.
+			<lb/>
+			Un premier plan de rédaction a été élaboré après le codage des 12 premières
+			<lb/>
+			entrevues dans un effort de commencer à ce moment à structurer l&apos;information
+			<lb/>
+			transmise par les participants de manière cohérente. Dans le cadre de ce processus,
+			<lb/>
+			même la rédaction des premiers chapitres, c&apos;est-à-dire la recension des écrits et la
+			<lb/>
+			présentation du cadre conceptuel, a été influencée par l&apos;analyse des données, en ce
+			<lb/>
+			sens que ce n&apos;est qu&apos;une fois que la théorie a commencé à émerger des données de
+			<lb/>
+			recherche qu&apos;il a été possible de circonscrire de manière plus précise l&apos;orientation à
+			<lb/>
+			privilégier pour la rédaction de ces premiers chapitres. Ainsi, dans le cas présent,
+			<lb/>
+			même si la recension des écrits n&apos;a pas été uniquement réalisée après la collecte de
+			<lb/>
+			données comme ce que privilégient certains chercheurs rencontrés par <ref type="biblio">Guillemette et
+			<lb/>
+			Luckerhoff (2009)</ref>, il n&apos;en demeure pas moins qu&apos;elle a été finalisée et
+			rédigée en
+			<lb/>
+			fonction de l&apos;analyse des données.
+			<lb/>
+		</p>
+		
+		<p>Concernant l&apos;organisation des chapitres de résultats, il a d&apos;abord été convenu de
+			<lb/>
+			s&apos;inspirer de l&apos;arbre de codage réalisé dans QSR NVivo et donc de découper la
+			<lb/>
+			rédaction en quatre sections distinctes, une pour chacune des catégories présentées
+			<lb/>
+			dans le Tableau 2. Toutefois, cette façon de présenter les résultats demeurait encore
+			<lb/>
+			insatisfaisante puisqu&apos;aucune catégorie centrale ne ressortait, alors que la phase de
+			<lb/>
+			théorisation vise justement à intégrer les concepts et les catégories sous un thème
+			<lb/>
+			unificateur (
+			<ref type="biblio">Charmaz, 2006; Corbin &amp; Strauss, 2008; Laperrière, 1997a; Saldaña,
+				<lb/>
+				2009
+			</ref>
+			). En nous recentrant une fois de plus sur l&apos;objectif général et les objectifs
+			<lb/>
+			spécifiques de la recherche, il nous a semblé que la première partie des résultats
+			<lb/>
+			devait présenter les principaux constats émanant des propos des participants
+			<lb/>
+			concernant le coeur de cette étude, à savoir le sentiment de filiation chez les parents
+			<lb/>
+			qui accueillent un enfant en vue de l&apos;adopter. Voilà pourquoi les deux premières
+			<lb/>
+			catégories, soit « la définition de soi en tant que parent » et « la temporalité du
+			<lb/>
+			sentiment de filiation » ont été réunies dans un même chapitre. Les éléments
+			<lb/>
+			regroupés sous ces catégories permettaient de bien cerner les propriétés (c&apos;est-à-dire
+			<lb/>
+			les caractéristiques ou les attributs) et les dimensions (c&apos;est-à-dire les limites du
+			<lb/>
+			concept sur un continuum) du concept de sentiment de filiation, en plus de répondre
+			<lb/>
+			au premier objectif spécifique. Ensuite, les autres éléments de l&apos;analyse, qui
+			<lb/>
+			apportaient des précisions concernant le contexte dans lequel le sentiment de filiation
+			<lb/>
+			se développe, ont été divisés en deux chapitres distincts, soit un sur les particularités
+			<lb/>
+			juridiques et cliniques du programme Banque-mixte et l&apos;autre sur les relations avec le
+			<lb/>
+			milieu familial d&apos;origine de l&apos;enfant. La rédaction d&apos;une première version des
+			<lb/>
+			chapitres de présentation des résultats a donc été réalisée selon ce plan. Cet exercice
+			<lb/>
+			de rédaction s&apos;est révélé indispensable pour avoir une bonne vue d&apos;ensemble de
+			<lb/>
+			l&apos;analyse des données. À ce moment, de nouveaux ajustements ont été apportés qui
+			<lb/>
+			ont nécessité de revoir en entier la présentation des résultats afin de pouvoir lier ces
+			<lb/>
+			derniers de manière cohérente et ainsi faire ressortir le fil conducteur de la théorie
+			<lb/>
+			émergente concernant le développement d&apos;un sentiment de filiation chez les parents
+			<lb/>
+			qui accueillent un enfant en vue de l&apos;adopter. La <ref type="figure">Figure 1</ref> illustre de manière
+			<lb/>
+			schématique la théorie qui a émergée des données recueillies en majeure partie lors
+			<lb/>
+			des entrevues avec les participants à l&apos;étude, mais également à travers les lectures que
+			<lb/>
+			nous avons réalisées et les divers échanges que nous avons eus avec d&apos;autres acteurs
+			<lb/>
+			de l&apos;adoption lorsque nous leur avons présenté nos analyses préliminaires
+			<lb/>
+			(intervenants, représentants d&apos;organismes de soutien pour les parents adoptifs,
+			<lb/>
+			conférenciers). Cette manière d&apos;organiser visuellement les données a émergé au
+			<lb/>
+			moment de l&apos;écriture du rapport de recherche puisque cet exercice exigeait de prendre
+			<lb/>
+			un recul par rapport aux données afin de tenter de raconter, d&apos;une manière cohérente,
+			<lb/>
+			comment le sentiment de filiation se développe chez les parents Banque-mixte.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, notre nouvelle compréhension du développement d&apos;un sentiment de
+			<lb/>
+			filiation chez les parents qui accueillent un enfant en vue de l&apos;adopter s&apos;explique
+			<lb/>
+			comme suit. Au centre de la figure se trouve une flèche qui représente le thème
+			<lb/>
+			unificateur de cette théorie, à savoir que, pour les parents Banque-mixte, le
+			<lb/>
+			développement du sentiment de filiation précède l&apos;établissement de la filiation légale
+			<lb/>
+			(c&apos;est-à-dire que les parents Banque-mixte considèrent l&apos;enfant qu&apos;ils accueillent
+			<lb/>
+			comme le leur AVANT que ce dernier ne soit légalement adopté). Ainsi, la
+			<lb/>
+			finalisation de l&apos;adoption n&apos;est pas tant l&apos;évènement marquant dans leur cheminement
+			<lb/>
+			vers la parentalité; plutôt, il semble que les parents atteignent à un moment ou à un
+			<lb/>
+			autre de leur expérience un « point de non-retour » qui marque leur passage d&apos;un
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Schéma de la théorie concernant le sentiment de filiation chez les parents
+			<lb/>
+			Banque-mixte.
+			<lb/>
+		</figure>
+		
+		<p>statut d&apos;étranger à un statut de parent sur le plan psychologique. Par ailleurs, comme
+			<lb/>
+			les parents Banque-mixte ne peuvent fonder leur sentiment d&apos;être les parents sur le
+			<lb/>
+			fait d&apos;être légalement les parents, ils doivent se rabattre sur d&apos;autres aspects de leur
+			<lb/>
+			expérience qui agissent comme des piliers qui soutiennent leur sentiment de filiation.
+			<lb/>
+			Ces piliers sont leur fort désir d&apos;avoir un enfant, le constat qu&apos;ils exercent seuls le
+			<lb/>
+			rôle de parent par rapport à l&apos;enfant, le fait de développer une relation significative
+			<lb/>
+			avec l&apos;enfant et le fait de sentir qu&apos;ils sont reconnus comme le parent de l&apos;enfant dans
+			<lb/>
+			le regard d&apos;autrui.
+			<lb/>
+		</p>
+		
+		<p>Cette explication du sentiment de filiation se confirme chez tous les participants
+			<lb/>
+			de l&apos;étude. Par contre, ce qui nuance leur expérience est le degré de probabilité que
+			<lb/>
+			l&apos;enfant devienne admissible ou non à l&apos;adoption (représentée dans la figure par le
+			<lb/>
+			cercle bicolore). Ainsi, comme certains parents Banque-mixte ont la « chance »
+			<lb/>
+			d&apos;accueillir un enfant dont l&apos;abandon par ses parents d&apos;origine est clair dès le départ
+			<lb/>
+			ou très rapidement après son arrivée dans la famille, leur sentiment d&apos;être le parent a
+			<lb/>
+			peu de chance d&apos;être remis en question. Ce n&apos;est qu&apos;une question de temps avant que
+			<lb/>
+			l&apos;obtention du jugement d&apos;adoption n&apos;officialise le statut <ref type="biblio">de</ref> parent
+			et ne vienne
+			<lb/>
+			valider ce sentiment. Par contre, lorsqu&apos;il n&apos;est pas clair que l&apos;enfant deviendra bel et
+			<lb/>
+			bien admissible à l&apos;adoption, les parents Banque-mixte vivent plusieurs frustrations et
+			<lb/>
+			ressentent une profonde injustice parce que leur sentiment d&apos;être le parent est invalidé
+			<lb/>
+			lorsqu&apos;ils sont confrontés à la réalité de ne pas être le parent légal de l&apos;enfant et aux
+			<lb/>
+			limites que cela leur impose. Ainsi, le fait de n&apos;avoir aucun pouvoir décisionnel par
+			<lb/>
+			rapport à l&apos;enfant ou encore le fait de ne pas avoir de reconnaissance parce qu&apos;ils sont
+			<lb/>
+			considérés comme de « simples » familles d&apos;accueil leur fait vivre plusieurs
+			<lb/>
+			frustrations, puisque cela les prive de vivre une expérience « normale » de parentalité.
+			<lb/>
+			Par rapport à cette difficulté que les parents Banque-mixte peuvent avoir à gérer
+			<lb/>
+			l&apos;absence de congruence entre leurs représentations (c&apos;est-à-dire se sentir le parent) et
+			<lb/>
+			la réalité (c&apos;est-à-dire ne pas être le parent), les participants rencontrés parlent des
+			<lb/>
+			efforts que les intervenants sociaux semblent déployer dans le but de les rassurer et de
+			<lb/>
+			minimiser leurs inquiétudes liées à la probabilité que l&apos;enfant retourne dans son
+			<lb/>
+			milieu familial d&apos;origine. Ces efforts visent à contribuer à l&apos;installation d&apos;un climat de
+			<lb/>
+			certitude dans le but de favoriser le développement du sentiment de filiation avant
+			<lb/>
+			l&apos;établissement de la filiation légale.
+			<lb/>
+		</p>
+		
+		<p>Finalement, la portion supérieure de la <ref type="figure">Figure 1</ref> représente la relation que les
+			<lb/>
+			parents Banque-mixte établissent avec les parents d&apos;origine de l&apos;enfant. Comme le
+			<lb/>
+			désir d&apos;enfant est souvent très fort chez les personnes qui entreprennent des
+			<lb/>
+			démarches d&apos;adoption, la plupart d&apos;entre elles ressentent le besoin d&apos;avoir une
+			<lb/>
+			filiation qui est exclusive avec l&apos;enfant, c&apos;est-à-dire qu&apos;ils souhaitent avoir un enfant
+			<lb/>
+			qui leur « appartienne » à eux seuls. Or, dans le cadre du programme Banque-mixte,
+			<lb/>
+			ils sont dans un contexte où l&apos;enfant qu&apos;ils souhaitent adopter a d&apos;autres parents, qui,
+			<lb/>
+			de surcroît, ne sont pas nécessairement d&apos;accord avec l&apos;adoption de leur enfant.
+			<lb/>
+			Comme les parents Banque-mixte ne peuvent pas prétendre que l&apos;enfant est sans
+			<lb/>
+			attache, ils font preuve d&apos;une certaine ouverture par rapport aux origines, mais celle-<lb/>ci se
+			limite à ce qu&apos;ils jugent nécessaire pour permettre à l&apos;enfant de développer une
+			<lb/>
+			saine identité (
+			<ref type="biblio">Brodzinsky, 2011; Grotevant &amp; von Korff, 2011; von Korff &amp;<lb/>
+				Grotevant, 2011
+			</ref>
+			). En même temps, pour se permettre la légitimité de se sentir le
+			<lb/>
+			parent de l&apos;enfant qu&apos;ils accueillent sans être envahis par le sentiment de culpabilité
+			<lb/>
+			de prendre l&apos;enfant de quelqu&apos;un d&apos;autre, ils développent des stratégies qui leur
+			<lb/>
+			permettent de mettre les parents d&apos;origine à distance, et ce, même si l&apos;enfant n&apos;a pas
+			<lb/>
+			encore été déclaré admissible à l&apos;adoption.
+			<lb/>
+		</p>
+		
+		<p>En résumé, la théorie que nous proposons est la suivante : les parents qui
+			<lb/>
+			accueillent un enfant en vue de l&apos;adopter n&apos;ont pas besoin d&apos;être le parent légal pour
+			<lb/>
+			se considérer, sur le plan du sentiment de filiation, comme le parent de cet enfant. Ils
+			<lb/>
+			fondent plutôt ce sentiment sur leur fort désir d&apos;avoir un enfant, sur le constat qu&apos;ils
+			<lb/>
+			sont seuls à exercer le rôle parental au quotidien, sur le fait qu&apos;ils ont une relation
+			<lb/>
+			significative avec l&apos;enfant et sur la reconnaissance qu&apos;ils perçoivent chez les gens de
+			<lb/>
+			leur entourage qui les considèrent comme les parents. Plutôt que de se considérer le
+			<lb/>
+			parent au moment où le jugement d&apos;adoption officialise la nouvelle filiation légale de
+			<lb/>
+			l&apos;enfant, le plus déterminant pour le parent d&apos;accueil de type Banque-mixte est
+			<lb/>
+			l&apos;atteinte d&apos;un point de non-retour qui fait en sorte qu&apos;il ne peut plus s&apos;imaginer sa
+			vie
+			<lb/>
+			sans cet enfant, sans SON enfant. Pour lui permettre de vivre une filiation exclusive
+			<lb/>
+			avec l&apos;enfant, le parent d&apos;accueil de type Banque-mixte utilise des stratégies pour
+			<lb/>
+			éloigner le plus possible les parents d&apos;origine de l&apos;entité familiale qu&apos;il essaie de se
+			<lb/>
+			créer avec l&apos;enfant, et ce, même si ce dernier n&apos;est pas encore admissible à l&apos;adoption.
+			<lb/>
+			Enfin, l&apos;expérience du parent d&apos;accueil de type Banque-mixte sera différente selon
+			<lb/>
+			qu&apos;il est confronté ou non à la dualité entre le sentiment d&apos;être le parent et la réalité
+			<lb/>
+			légale de ne pas être le parent.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>L&apos;objectif de cet article était d&apos;illustrer une des manières dont la MTE peut
+			<lb/>
+			s&apos;appliquer en décrivant le processus méthodologique utilisé pour construire une
+			<lb/>
+			meilleure compréhension d&apos;un processus peu étudié, soit le développement d&apos;un
+			<lb/>
+			sentiment de filiation chez les parents qui accueillent un enfant avec le désir de
+			<lb/>
+			l&apos;adopter. En effet, la MTE s&apos;est imposée comme étant tout indiquée pour réaliser
+			<lb/>
+			cette étude. Par contre, cela représentait un grand défi parce qu&apos;il était insécurisant de
+			<lb/>
+			se lancer seule dans une démarche de MTE sans expérience préalable. Ainsi, même
+			<lb/>
+			s&apos;il existe de nombreux ouvrages de référence qui détaillent bien toutes les étapes du
+			<lb/>
+			processus, chaque projet de recherche est unique, ce qui fait que cette démarche
+			<lb/>
+			méthodologique peut s&apos;incarner de manière légèrement différente d&apos;une fois à l&apos;autre.
+			<lb/>
+			Par conséquent, nous avons ressenti plusieurs émotions tout au long de ce parcours,
+			<lb/>
+			tels le doute, le découragement, la panique même par moments. Par exemple, le fait
+			<lb/>
+			de réaliser ce processus seule, c&apos;est-à-dire sans la présence de cochercheurs, fut
+			<lb/>
+			déstabilisant par moments parce que cela aurait été rassurant de pouvoir valider avec
+			<lb/>
+			un ou une collègue l&apos;analyse des données, de pouvoir échanger sur l&apos;atteinte de la
+			<lb/>
+			saturation théorique, etc. Le fait de rédiger des mémos visant à documenter la
+			<lb/>
+			démarche de recherche a permis de pallier, d&apos;une certaine manière, cette difficulté.
+			<lb/>
+		</p>
+		
+		<p>Le présent article rend bien compte du respect des principes fondamentaux de la
+			<lb/>
+			MTE, et ce, tant avec rigueur qu&apos;avec flexibilité. En effet, la recherche a été menée de
+			<lb/>
+			manière inductive, en laissant les données parler d&apos;elles-mêmes et guider l&apos;essentiel
+			<lb/>
+			du processus analytique. La recension des écrits a d&apos;abord été utilisée pour
+			<lb/>
+			développer une conceptualisation préliminaire du concept de sentiment de filiation,
+			<lb/>
+			conceptualisation qui était nécessaire afin d&apos;élaborer une première version d&apos;un
+			<lb/>
+			canevas d&apos;entrevue qui soit pertinent en fonction de l&apos;objet d&apos;étude et afin de diriger
+			<lb/>
+			la sélection des participants dans le but d&apos;atteindre une meilleure diversification et
+			<lb/>
+			une représentativité sur le plan théorique (
+			<ref type="biblio">Guillemette &amp; Luckerhoff, 2009;
+				<lb/>
+				Luckerhoff &amp; Guillemette, 2012
+			</ref>
+			). Par la suite, la poursuite de la recension des écrits
+			<lb/>
+			tout au long du processus de collecte des données, d&apos;analyse et de rédaction du
+			<lb/>
+			rapport de recherche a permis de mettre ces derniers en dialogue avec les résultats de
+			<lb/>
+			recherches antérieures (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009</ref>), entre autres sur la
+			<lb/>
+			parentalité adoptive et l&apos;intégration d&apos;un enfant adopté dans la famille. Finalement,
+			<lb/>
+			les nombreux allers-retours entre la formulation de l&apos;objectif de recherche, la
+			<lb/>
+			réalisation de la recension des écrits, l&apos;élaboration d&apos;un cadre conceptuel, la collecte
+			<lb/>
+			des données, l&apos;analyse et la rédaction des chapitres de résultats ont permis d&apos;assurer
+			<lb/>
+			une cohérence à travers tout le processus de la recherche.
+			<lb/>
+		</p>
+		
+		<head>Note
+			<lb/>
+		</head>
+	
+	</text>
+</tei>

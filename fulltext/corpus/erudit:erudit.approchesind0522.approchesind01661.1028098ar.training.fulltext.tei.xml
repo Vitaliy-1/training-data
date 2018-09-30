@@ -1,0 +1,568 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<p>Ce numéro de la revue Approches inductives illustre quelques-unes des multiples
+			<lb/>
+			voies qu&apos;ont empruntées les chercheurs qui identifient leurs démarches
+			<lb/>
+			méthodologiques à la Grounded Theory. Nous nous sommes expliqués sur les raisons
+			<lb/>
+			qui nous ont amenés à traduire Grounded Theory par « méthodologie de la
+			<lb/>
+			théorisation enracinée » :
+			<lb/>
+		</p>
+		
+		<p>Nous avons choisi de traduire l&apos;expression « Grounded Theory » par
+			<lb/>
+			« Méthodologie de la théorisation enracinée » pour des raisons
+			<lb/>
+			essentiellement sémantiques. Il existe une quinzaine de traductions
+			<lb/>
+			françaises différentes. Une de celles-ci est « théorisation enracinée ». La
+			<lb/>
+			plus répandue est « théorie ancrée ». Nous aurons l&apos;occasion d&apos;expliquer
+			<lb/>
+			plus longuement notre proposition dans une autre publication, mais disons
+			<lb/>
+			seulement ici que la Grounded Theory n&apos;est pas d&apos;abord une théorie, mais
+			<lb/>
+			une approche méthodologique générale de recherche qui permet la
+			<lb/>
+			construction d&apos;une théorie. De plus, bien que le terme « grounded » ait
+			<lb/>
+			plusieurs significations en anglais, jamais il ne signifie « ancré ». Un
+			<lb/>
+			ancrage empêche un bateau (ou une maison, par exemple) de bouger;
+			<lb/>
+			cette symbolique est contraire aux fondements épistémologiques de la
+			<lb/>
+			Grounded Theory. On ne trouve dans aucun texte en anglais sur la
+			<lb/>
+			Grounded Theory le lien synonymique avec « anchored ». Par contre, la
+			<lb/>
+			symbolique de l&apos;enracinement est une façon de nommer le processus que
+			<lb/>
+			constitue cette méthodologie, un processus qui consiste à constamment
+			<lb/>
+			lier construction théorique aux données de terrain, un processus qui n&apos;est
+			<lb/>
+			jamais complètement terminé. Le terme « enracinée » correspond à la
+			<lb/>
+			famille sémantique anglaise des mots « field », « root », « ground », etc
+			<lb/>
+			(<ref type="biblio">Luckerhoff &amp; Guillemette, 2012, p. 7</ref>).
+			<lb/>
+		</p>
+		
+		<p>On sait que la MTE est la méthodologie la plus utilisée en recherche qualitative
+			<lb/>
+			dans les publications anglophones (<ref type="biblio">Birks &amp; Mills, 2011</ref>). Mais de quelle MTE s&apos;agit-
+			<lb/>il? Il y a de nombreuses réponses à cette question. Nous ne contestons évidemment
+			<lb/>
+			pas la diversité qui est riche et légitime. Mais il nous semble que cette diversité
+			<lb/>
+			devrait être avouée, c&apos;est-à-dire que les chercheurs qui s&apos;identifient à la MTE
+			<lb/>
+			devraient être transparents à propos de ce qu&apos;ils font. Il n&apos;est plus possible de
+			<lb/>
+			simplement dire que l&apos;on fait de la MTE, et ce, pour plusieurs raisons. D&apos;abord, pour
+			<lb/>
+			attester la rigueur avec laquelle un chercheur a travaillé, il faut connaître les types de
+			<lb/>
+			méthodes auxquels il se réfère. Aussi, trop de chercheurs citent des auteurs de la
+			<lb/>
+			MTE sans respecter les principes et critères propres à cette approche qui est une
+			<lb/>
+			approche générale et non uniquement une méthode d&apos;analyse. Nous pouvons faire la
+			<lb/>
+			comparaison avec un chercheur qui dirait qu&apos;il fait de la recherche qualitative. Ce
+			<lb/>
+			chercheur doit préciser les procédures qu&apos;il utilise et les méthodes auxquelles il se
+			<lb/>
+			réfère. Un des critères de scientificité de la recherche qualitative est la traçabilité,
+			<lb/>
+			c&apos;est-à-dire l&apos;exigence de préciser avec transparence les démarches et les méthodes
+			<lb/>
+			qu&apos;il a utilisées et les adaptations qu&apos;il a faites de ces démarches et ces méthodes.
+			<lb/>
+		</p>
+		
+		<p>Pour le dire plus simplement, on peut affirmer que depuis la Grounded Theory
+			<lb/>
+			proposée par Glaser et Strauss dans les années 60, et plus particulièrement dans leur
+			<lb/>
+			livre fondateur de 1967, de nombreux chercheurs ont développé plusieurs voies
+			<lb/>
+			spécifiques de la MTE. Glaser et Strauss eux-mêmes ont formulé des propositions
+			<lb/>
+			chacun de leur côté. Glaser a critiqué les approches qui se distinguaient des siennes,
+			<lb/>
+			mais Strauss a reconnu la légitimité des différentes voies développées et des
+			<lb/>
+			différentes adaptations. Strauss et Corbin rappellent toutefois que la légitimité de la
+			<lb/>
+			diversité s&apos;amenuise lorsque les différences sont tellement importantes qu&apos;on ne peut
+			<lb/>
+			plus reconnaître la Grounded Theory dans ses principes essentiels, tels que définis par
+			<lb/>
+			les fondateurs.
+			<lb/>
+		</p>
+		
+		<p>Des écoles de pensée se sont formées entre « glaseriens » et « straussiens ».
+			<lb/>
+			Dans la dernière décennie du XX e siècle, des voies encore plus spécifiques ont été
+			<lb/>
+			développées jusqu&apos;à ce qu&apos;on soit en présence de propositions qui ne sont plus
+			<lb/>
+			cohérentes avec certains principes fondateurs, mais qui continuent à être présentées
+			<lb/>
+			comme de la MTE. Évidemment, chacun a le droit d&apos;appeler son approche avec le
+			<lb/>
+			nom qu&apos;il veut, mais chacun n&apos;est pas légitimé de créer de la confusion en
+			<lb/>
+			n&apos;explicitant pas avec transparence ses choix méthodologiques. On peut avoir
+			<lb/>
+			l&apos;impression, dans certains cas, que les chercheurs veulent profiter de la popularité de
+			<lb/>
+			la MTE, mais qu&apos;ils n&apos;ont pas pris le temps de bien comprendre ce qu&apos;implique le
+			<lb/>
+			choix d&apos;identifier sa démarche à la MTE. Ici comme ailleurs, il n&apos;est pas suffisant de
+			<lb/>
+			dire qu&apos;on fait de la MTE et de donner une référence ou deux.
+			<lb/>
+		</p>
+		
+		<p>Les chercheurs qui ont écrit les articles dans ce numéro ont fourni les précisions
+			<lb/>
+			méthodologiques avec transparence et avec respect de la diversité des approches que
+			<lb/>
+			l&apos;on trouve aujourd&apos;hui chez les chercheurs qui se réclament de la MTE. Par ailleurs,
+			<lb/>
+			on pourra constater dans la diversité des articles une cohérence certaine avec les
+			<lb/>
+			principes épistémologiques et méthodologiques qui se trouvaient aux origines de la
+			<lb/>
+			MTE.
+			<lb/>
+		</p>
+		
+		<p>Rappelons ici que la Grounded Theory est une approche méthodologique qui a
+			<lb/>
+			été expérimentée avant d&apos;avoir été baptisée ainsi. Les principes épistémologiques et
+			<lb/>
+			méthodologiques rassemblés dans le livre de 1967 (où le nom Grounded Theory a été
+			<lb/>
+			lancé pour la première fois) ont été explicités dans des écrits antérieurs. Ces écrits
+			<lb/>
+			dans lesquels Glaser et Strauss explicitent les choix méthodologiques qu&apos;ils ont faits
+			<lb/>
+			pour élaborer leur « nouvelle » approche sont les suivants :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Un article dont l&apos;auteur est uniquement Glaser, mais qui a été revu et corrigé
+				<lb/>
+				pour être publié comme chapitre dans le livre fondateur
+				<ref type="biblio">de Glaser et Strauss
+					<lb/>
+					(1967)
+				</ref>
+				. Le titre de l&apos;article est The constant comparative method of qualitative
+				<lb/>
+				analysis (<ref type="biblio">Glaser, 1965</ref>).
+				<lb/>
+			</item>
+			
+			<item>Un article de Glaser et Strauss dont le titre est Discovery of substantive theory :
+				<lb/>
+				a basic strategy underlying qualitative research (<ref type="biblio">Glaser &amp; Strauss, 1965a</ref>).
+				<lb/>
+			</item>
+			
+			<item>Le livre de Glaser et Strauss dont le titre est Awareness of dying et dans lequel
+				<lb/>
+				ils expliquent leur méthodologie sans l&apos;appeler encore Grounded Theory
+				<lb/>
+				(<ref type="biblio">Glaser &amp; Strauss, 1965b</ref>).
+				<lb/>
+			</item>
+			
+			<item>Un article de Glaser et Strauss dont le titre est The purpose and credibility of
+				<lb/>
+				qualitative research (<ref type="biblio">Glaser &amp; Strauss, 1966</ref>).
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Nous proposons, dans les paragraphes qui suivent, une présentation de
+			<lb/>
+			l&apos;essentiel de ce qu&apos;on peut trouver dans ces écrits antérieurs à 1967 et dans le livre
+			<lb/>
+			fondateur de 1967.
+			<lb/>
+		</p>
+		
+		<p>Comme nous l&apos;avons dit plus haut, la MTE est une approche générale et non
+			<lb/>
+			uniquement une méthode d&apos;analyse. Un chercheur peut certes se servir des
+			<lb/>
+			procédures d&apos;analyse de la MTE pour analyser un corpus de données, mais, ce
+			<lb/>
+			faisant, il ne se trouve pas nécessairement à faire de la MTE. Les propositions de
+			<lb/>
+			procédures d&apos;analyse que l&apos;on trouve dans la MTE ne lui sont effectivement pas
+			<lb/>
+			spécifiques; on les retrouve dans bien d&apos;autres approches méthodologiques de la
+			<lb/>
+			recherche qualitative. La MTE est une façon de faire de la recherche. Sa spécificité se
+			<lb/>
+			trouve davantage sur le plan épistémologique que sur le plan méthodologique. Ainsi,
+			<lb/>
+			quelqu&apos;un peut faire de la MTE sans utiliser les méthodes précises d&apos;analyse
+			<lb/>
+			proposées par Glaser et Strauss. L&apos;important, si l&apos;on veut faire de la MTE, est
+			<lb/>
+			d&apos;adopter une posture épistémologique qui renverse la logique de l&apos;ordre habituel des
+			<lb/>
+			étapes de la recherche. Il s&apos;agit de passer de la logique hypothético-déductive à la
+			<lb/>
+			logique inductive de l&apos;ouverture à ce qui émerge des données.
+			<lb/>
+		</p>
+		
+		<p>Dans la même perspective, il faut rappeler que les principes d&apos;analyse comme
+			<lb/>
+			telle en MTE sont plutôt généraux (codage à différents niveaux d&apos;abstraction,
+			<lb/>
+			catégorisation, organisation logique). C&apos;est pour cette raison que l&apos;on trouve plusieurs
+			<lb/>
+			manières de faire lorsqu&apos;on regarde les procédures d&apos;analyse précises. Glaser et
+			<lb/>
+			Strauss, dans les années 60, proposaient leurs principes avec une grande flexibilité sur
+			<lb/>
+			les manières de les appliquer. Par exemple, dans le livre de 1967 ainsi que dans les
+			<lb/>
+			écrits qui le précèdent, il n&apos;est pas question des distinctions entre les différents types
+			<lb/>
+			de codage.
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, la finalité principale de la MTE est la théorisation et non la
+			<lb/>
+			description des phénomènes étudiés. La théorisation est réalisée d&apos;abord et avant tout,
+			<lb/>
+			et constamment, à partir des données. Cette finalité est distinguée clairement de la
+			<lb/>
+			spéculation théorique où le chercheur n&apos;utilise que des théories pour construire une
+			<lb/>
+			réflexion sur un objet sans enracinement dans des données concrètes.
+			<lb/>
+		</p>
+		
+		<p>L&apos;approche générale est résolument inductive, même si elle aménage des
+			<lb/>
+			phases secondaires de déduction. L&apos;identité même de l&apos;approche est définie en
+			<lb/>
+			contraste avec les approches hypothético-déductives. Les écrits auxquels nous faisons
+			<lb/>
+			référence ici sont plutôt polémiques et apologétiques. La « nouvelle » approche
+			<lb/>
+			défendue par Glaser et Strauss était présentée dans un positionnement critique par
+			<lb/>
+			rapport aux approches traditionnelles en sociologie et par rapport à l&apos;hégémonie des
+			<lb/>
+			approches hypothético-déductives. Le sens premier du mot grounded est
+			<lb/>
+			l&apos;enracinement dans les données. Cet aspect contraste avec les approches où la
+			<lb/>
+			démarche générale consiste à tester des hypothèses qui ont été construites non pas à
+			<lb/>
+			partir des données, mais à partir des théories qui préexistent à la recherche. En MTE,
+			<lb/>
+			le chercheur élabore la théorie à partir des données et non l&apos;inverse. Il théorise pour
+			<lb/>
+			construire une compréhension du phénomène à l&apos;étude. C&apos;est pourquoi Glaser et
+			<lb/>
+			Strauss conseillent, en pratique, de suspendre le recours à des théories et, donc, de ne
+			<lb/>
+			pas faire de recension des écrits au début de la recherche, mais plutôt une fois que
+			<lb/>
+			l&apos;analyse est assez avancée pour qu&apos;on puisse considérer que la théorisation a émergé
+			<lb/>
+			des données. Cette dimension épistémologique de la MTE est en cohérence avec le
+			<lb/>
+			principe de méfiance envers les préjugés, les préconceptions, les précompréhensions;
+			<lb/>
+			c&apos;est le principe fondamental de l&apos;ouverture à la découverte. Ne devrait-on pas
+			<lb/>
+			retrouver ce principe dans toute démarche scientifique?
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, l&apos;induction est réalisée par une interrelation et une certaine
+			<lb/>
+			simultanéité entre la collecte de données, l&apos;analyse des données et la théorisation
+			<lb/>
+			progressive, sans que tout soit fait en même temps dans la confusion. En d&apos;autres
+			<lb/>
+			mots, la MTE propose de ne pas réaliser la séquence habituelle collecte-analyse-<lb/>théorisation, mais de
+			plutôt entrelacer des épisodes de ces différents processus.
+			<lb/>
+		</p>
+		
+		<p>Dans la perspective de l&apos;induction, le principe de l&apos;échantillonnage théorique
+			<lb/>
+			est explicité sans que son appellation soit stable et constante. Il s&apos;agit de sélectionner
+			<lb/>
+			des échantillons de sites où collecter des données au fur et à mesure qu&apos;avance
+			<lb/>
+			l&apos;analyse des données. En d&apos;autres mots, les épisodes d&apos;analyse étant réalisés au fur et
+			<lb/>
+			à mesure des épisodes de collecte de données, les résultats provisoires de ces épisodes
+			<lb/>
+			d&apos;analyse orientent les épisodes suivants de collecte de données, et ainsi de suite dans
+			<lb/>
+			un mouvement circulaire plutôt que séquentiel.
+			<lb/>
+		</p>
+		
+		<p>Dans la même perspective apparaît le principe de saturation théorique, c&apos;est-à-<lb/>dire que la
+			recherche (collecte, analyse, théorisation) continue jusqu&apos;à ce que la
+			<lb/>
+			compréhension du phénomène à l&apos;étude soit suffisamment riche pour un jugement de
+			<lb/>
+			complétude et pour une décision de terminer l&apos;étude. Dans ce contexte, il est toujours
+			<lb/>
+			possible d&apos;atteindre une compréhension plus riche et, donc, il est toujours possible de
+			<lb/>
+			continuer à collecter des données et à les analyser. Le principe de la saturation
+			<lb/>
+			théorique constitue un critère « pratique » pour arrêter la recherche et produire un
+			<lb/>
+			rapport qui est toujours provisoire.
+			<lb/>
+		</p>
+		
+		<p>Ce sont ces principes essentiels que l&apos;on retrouve sous différentes formes dans
+			<lb/>
+			les articles de ce numéro.
+			<lb/>
+		</p>
+		
+		<p>Dans son étude de la transition vers la parentalité et sur le sentiment de filiation
+			<lb/>
+			des parents qui accueillent un enfant en vue de l&apos;adopter dans le cadre du programme
+			<lb/>
+			Banque-mixte, Geneviève Pagé a su mobiliser les outils de la MTE qui l&apos;ont guidée
+			<lb/>
+			dans chacune des étapes de sa démarche alors qu&apos;elle n&apos;avait aucune expérience
+			<lb/>
+			préalable de l&apos;utilisation de cette méthodologie générale. Son article permet donc de
+			<lb/>
+			comprendre comment, concrètement, elle a mis en application les principes de la
+			<lb/>
+			MTE dans l&apos;opération de définition du cadre conceptuel, dans la précision de
+			<lb/>
+			l&apos;objectif de recherche, dans les procédures de collecte et d&apos;analyse des données et
+			<lb/>
+			dans la rédaction du rapport de recherche.
+			<lb/>
+		</p>
+		
+		<p>Marie-Claude Jacques, Denise St-Cyr Tribble et Jean-Pierre Bonin ont fait face
+			<lb/>
+			à des difficultés liées à la recherche sur l&apos;adaptation des personnes atteintes de
+			<lb/>
+			schizophrénie et dont le soutien social est limité ou inexistant, ce qui les a motivés à
+			<lb/>
+			choisir une approche inductive. Ils constataient, dans ce champ de recherche, que les
+			<lb/>
+			écrits scientifiques avaient un impact limité sur la pratique et ne réussissaient pas à
+			<lb/>
+			saisir le processus d&apos;adaptation dans son ensemble. Ces auteurs montrent la richesse
+			<lb/>
+			d&apos;une approche inductive comme la MTE pour étudier les problématiques complexes.
+			<lb/>
+			De plus, ils considèrent que la MTE, à cause de son enracinement dans le vécu des
+			<lb/>
+			participants, constitue une manière de donner une voix à ces personnes qui, ici, sont
+			<lb/>
+			souvent marginalisées et sans valorisation sociale parce qu&apos;elles souffrent de
+			<lb/>
+			schizophrénie.
+			<lb/>
+		</p>
+		
+		<p>Jean-René Lapointe et Jacinthe Dion décrivent un processus de théorisation
+			<lb/>
+			portant sur les conditions de réussite d&apos;une expérience d&apos;inclusion vécue par des
+			<lb/>
+			élèves en troubles d&apos;apprentissage. Leur article fait état d&apos;une recherche participative
+			<lb/>
+			menée selon les principes de la MTE. Des enseignants ont participé à des entretiens
+			<lb/>
+			individuels par courriel et à des entretiens de groupe afin qu&apos;ils partagent leur
+			<lb/>
+			expérience de l&apos;inclusion scolaire telle qu&apos;ils la vivent dans leur milieu de travail. Les
+			<lb/>
+			analyses ont été faites au fur et à mesure des épisodes de collecte de données.
+			<lb/>
+		</p>
+		
+		<p>Maude Hébert, Frances Gallagher et Denise St-Cyr Tribble ont mis en lumière
+			<lb/>
+			un processus interne, qui est aussi un processus social, qui consiste en la transition
+			<lb/>
+			entre les perceptions de santé et de maladie chez les femmes diagnostiquées d&apos;un
+			<lb/>
+			cancer du sein. Les auteures ont ainsi proposé une modélisation de la transition des
+			<lb/>
+			perceptions de l&apos;état de santé de ces femmes. Les chercheures avaient remarqué que
+			<lb/>
+			les études sur les femmes atteintes d&apos;un cancer du sein portent sur différentes phases
+			<lb/>
+			du vécu de cette maladie : la période d&apos;attente avant de recevoir le diagnostic officiel,
+			<lb/>
+			la période de choc à la suite du diagnostic et pendant les interventions, la phase
+			<lb/>
+			d&apos;adaptation liée à la chronicité et, finalement, pendant la récidive ou les soins
+			<lb/>
+			palliatifs. Par contre, peu d&apos;attention est portée sur les perceptions de l&apos;état de santé.
+			<lb/>
+			Leur étude permet de mieux comprendre ce que ces femmes vivent entre le moment
+			<lb/>
+			où elles sont en santé et le diagnostic d&apos;une maladie grave. Ces auteures nous
+			<lb/>
+			rappellent la pertinence de la MTE pour des études sur des objets non explorés et
+			<lb/>
+			aussi pour des études qui visent la compréhension de processus sociaux.
+			<lb/>
+		</p>
+		
+		<p>Marie-Claude Richard décrit des procédures de collecte et d&apos;analyse de données
+			<lb/>
+			utilisées dans le cadre d&apos;une recherche en service social. Le projet vise à mieux
+			<lb/>
+			comprendre l&apos;expérience du passage à la vie adulte en contexte de vulnérabilité. Elle
+			<lb/>
+			propose de nommer « démarche d&apos;analyse par théorisation enracinée (TE) » sa propre
+			<lb/>
+			compréhension de l&apos;analyse par TE et de son appareillage conceptuel, forgée à la fois
+			<lb/>
+			par les lectures répétées d&apos;auteurs clés et par la mise en application concrète de cette
+			<lb/>
+			démarche complexe et féconde sur ses données de recherche. Elle présente les divers
+			<lb/>
+			aspects méthodologiques de sa démarche et détaille notamment le processus de
+			<lb/>
+			codage et d&apos;analyse à l&apos;aide d&apos;exemples tirés de ses recherches.
+			<lb/>
+		</p>
+		
+		<p>Karine St-Denis s&apos;est intéressée à la profession des pompiers du Québec dans
+			<lb/>
+			une démarche inductive et mixte inspirée de la MTE. Cette profession étant peu
+			<lb/>
+			étudiée, l&apos;induction a été une nécessité plus qu&apos;une position épistémologique relevant
+			<lb/>
+			d&apos;une inclination personnelle. L&apos;induction qualitative aura servi à construire des
+			<lb/>
+			questionnaires quantitatifs. L&apos;article de Karine St-Denis s&apos;ajoute donc à un petit
+			<lb/>
+			nombre de textes qui portent sur les méthodes mixtes inductives ou sur les méthodes
+			<lb/>
+			quantitatives inductives.
+			<lb/>
+		</p>
+		
+		<p>Sophie Éthier, Suzanne Garon et Anne-Marie Boire-Lavigne proposent une
+			<lb/>
+			illustration de la MTE pour comprendre l&apos;engagement des aidants dans le traitement
+			<lb/>
+			pharmacologique de la maladie d&apos;Alzheimer (MA) de leur proche. Elles présentent le
+			<lb/>
+			paradigme épistémologique dans lequel se situe la MTE pour ensuite présenter en
+			<lb/>
+			détail les étapes du codage et le processus de construction de la théorisation. Il s&apos;agit
+			<lb/>
+			d&apos;un texte qui permet d&apos;apprendre comment faire de la recherche selon la MTE en
+			<lb/>
+			expliquant tout le cheminement à l&apos;aide d&apos;exemples concrets. Elles montrent
+			<lb/>
+			clairement que l&apos;interprétation des données qualitatives doit se faire de façon
+			<lb/>
+			rigoureuse. Un chercheur qui génère du sens à partir du sens que donnent les
+			<lb/>
+			participants à leur expérience doit le faire de façon méthodique et doit pouvoir
+			<lb/>
+			expliquer ses procédures.
+			<lb/>
+		</p>
+		
+		<p>Lionel Garreau s&apos;intéresse à la tension vécue par le chercheur entre créativité et
+			<lb/>
+			rigueur méthodologique, deux aspects qu&apos;il considère comme nécessaires pour
+			<lb/>
+			parvenir à la compréhension d&apos;un phénomène. Les retours d&apos;expérience, les
+			<lb/>
+			commentaires de type éditorial et les revues critiques de la MTE mettent en évidence
+			<lb/>
+			les risques de non-innovation dans le processus de théorisation. Il considère que la
+			<lb/>
+			rigueur et la créativité, nécessaires pour innover, semblent naturellement
+			<lb/>
+			combinatoires dans les manuels. Cependant, dans la pratique, il serait plutôt difficile
+			<lb/>
+			de les conjuguer simultanément. L&apos;auteur vise à montrer que plusieurs processus
+			<lb/>
+			généralement présentés comme synchrones peuvent être traités de façon asynchrone,
+			<lb/>
+			c&apos;est-à-dire dans l&apos;alternance sans chevauchement plutôt que dans la simultanéité.
+			<lb/>
+			Son article se fonde sur sa pratique de la MTE et sur l&apos;analyse d&apos;écrits scientifiques
+			<lb/>
+			relatifs à la MTE.
+			<lb/>
+		</p>
+		
+		<p>Les multiples voies de la MTE constituent, à notre avis, une richesse qui est
+			<lb/>
+			cohérente avec la proposition initiale de Glaser et Strauss. Comment pourrait-il en
+			<lb/>
+			être autrement pour des chercheurs qui désirent enraciner leurs analyses et
+			<lb/>
+			théorisations dans les données, qui se montrent ouverts à ce qui peut émerger des
+			<lb/>
+			données et qui sont prêts à re-problématiser en fonction de l&apos;inattendu et du
+			<lb/>
+			surprenant? Le fait que la MTE soit aujourd&apos;hui utilisée dans différentes disciplines,
+			<lb/>
+			qu&apos;elle serve à étudier différents phénomènes et qu&apos;elle soit utilisée avec ouverture et
+			<lb/>
+			flexibilité ne peut faire autrement que d&apos;encourager les chercheurs à faire preuve de
+			<lb/>
+			créativité face à la méthodologie générale elle-même. Puisque la MTE n&apos;est possible
+			<lb/>
+			qu&apos;avec une ouverture à l&apos;interdisciplinarité, que l&apos;interdisciplinarité favorise un
+			<lb/>
+			scepticisme méthodique et que l&apos;interdisciplinarité favorise la référence à des
+			<lb/>
+			perspectives et paradigmes différents, il serait difficile, en MTE, d&apos;avoir une
+			<lb/>
+			approche rigide et conservatrice. Les chercheurs qui voient en la MTE une
+			<lb/>
+			méthodologie novatrice qui valorise l&apos;innovation ne peuvent qu&apos;être d&apos;accord avec les
+			<lb/>
+			chercheurs qui innovent en méthodologie de la recherche.
+		</p>
+	
+	
+	</text>
+</tei>

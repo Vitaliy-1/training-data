@@ -1,0 +1,809 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Au Québec, 21 800 pompiers 1 exercent un rôle primordial pour notre sécurité
+			<lb/>
+			collective. Que ce soit par leur force de frappe ou leur force symbolique, ces
+			<lb/>
+			combattants du feu peuplent notre imaginaire. Par contre, la profession des pompiers
+			<lb/>
+			demeure peu étudiée par les sciences sociales. Bien que quelques écrits sociologiques
+			<lb/>
+			et anthropologiques étrangers soient disponibles (
+			<ref type="biblio">Desmond 2006a, 2006b, 2007;
+				<lb/>
+				Pfefferkorn, 2006; Pudal 2010, 2011a, 2011b; Rétière 1994; Scott &amp; Myers 2002;
+				<lb/>
+				Thompson &amp; Bono 1993; Weick 1993
+			</ref>
+			), les travaux demeurent rares au Québec
+			<lb/>
+			comme au Canada 2 .
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, même s&apos;ils sont habitués de discuter avec les citoyens lors des
+			<lb/>
+			interventions, des visites de prévention et des activités communautaires, la vaste
+			<lb/>
+			majorité des pompiers québécois qui ont participé à nos travaux en étaient à leurs
+			<lb/>
+			premières discussions scientifiques. Il s&apos;agissait d&apos;une première également pour nous,
+			<lb/>
+			anthropologue néophyte des casernes de pompiers et des interventions en sécurité
+			<lb/>
+			incendie.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, la rareté des recherches sociales sur la sécurité incendie et l&apos;étonnement
+			<lb/>
+			réciproque lors des premiers contacts furent les principaux défis du projet de
+			<lb/>
+			recherche intitulé Portrait sociologique de la profession des pompiers du Québec (
+			<ref type="biblio">St-<lb/>Denis, 2012a, 2013a
+			</ref>
+			), dont nous exposerons ici les orientations épistémologiques et
+			<lb/>
+			les démarches méthodologiques. Ce projet fut réalisé dans le cadre d&apos;un mandat
+			<lb/>
+			institutionnel 3 qui a exigé une appropriation rapide du terrain et l&apos;obtention de
+			<lb/>
+			données diversifiées, qualitatives et quantitatives. Sans connaissance préalable du
+			<lb/>
+			milieu et devant les limites des écrits scientifiques sur le sujet, nous avons choisi une
+			<lb/>
+			approche inductive et mixte inspirée de la méthodologie de la théorisation enracinée
+			<lb/>
+			MTE.
+			<lb/>
+		</p>
+		
+		<p>Cet article présente les justifications de notre démarche inductive et mixte et de
+			<lb/>
+			ses principaux apports. Nous montrerons d&apos;abord comment l&apos;induction et l&apos;itération
+			<lb/>
+			de la MTE ont guidé la réalisation des diverses phases de ce projet de recherche. Par
+			<lb/>
+			la suite, la pertinence d&apos;une démarche mixte sera illustrée. Nous nous attarderons
+			<lb/>
+			alors tant à l&apos;apport des données qualitatives pour la construction d&apos;un questionnaire
+			<lb/>
+			de recherche qu&apos;à l&apos;apport mutuel des données qualitatives et quantitatives pour
+			<lb/>
+			l&apos;élaboration de catégories d&apos;analyse et l&apos;atteinte de leur saturation.
+			<lb/>
+		</p>
+		
+		<head>1. Une appropriation de l&apos;induction et de l&apos;itération dans une recherche mixte
+			<lb/>
+		</head>
+		
+		<p>Le projet Portrait sociologique de la profession des pompiers du Québec poursuivait
+			<lb/>
+			deux objectifs : comprendre la profession des pompiers du Québec et promouvoir la
+			<lb/>
+			pertinence de l&apos;étude scientifique des services de sécurité incendie (<ref type="biblio">St-Denis,
+				2012a</ref>).
+			<lb/>
+			En d&apos;autres termes, il nous fallait développer des données inusitées et diversifiées sur
+			<lb/>
+			la profession des pompiers québécois et développer une culture de recherche en
+			<lb/>
+			impliquant les pompiers et les services de sécurité incendie du Québec.
+			<lb/>
+		</p>
+		
+		<p>Ce projet a été réalisé en trois phases. Les première et deuxième phases furent
+			<lb/>
+			accomplies sur une période de dix mois, de 2012 à 2013. Lors de la première phase,
+			<lb/>
+			une analyse de la documentation gouvernementale sur la réforme de la sécurité
+			<lb/>
+			incendie, marquée par la Loi sur la sécurité incendie (<ref type="biblio">Québec, 2000</ref>), a été
+			effectuée.
+			<lb/>
+			La deuxième phase a consisté en une collecte de données auprès des pompiers. Lors
+			<lb/>
+			de cette collecte de données, 103 heures d&apos;observation directe (
+			<ref type="biblio">Burgess, 1984/2007;
+				<lb/>
+				Jaccoud &amp; Mayer, 1997; Laperrière, 2009
+			</ref>
+			) des interventions, de la vie quotidienne en
+			<lb/>
+			caserne de pompiers et des activités de formation ont été réalisées, ainsi que des
+			<lb/>
+			entrevues semi-dirigées (<ref type="biblio">Burgess, 1984/2007; Poupart, 1997</ref>) auprès de 15 pompiers 4
+			.
+			<lb/>
+			La troisième et dernière phase fut réalisée par sondage (
+			<ref type="biblio">Blais &amp; Durand, 2009;
+				<lb/>
+				Gauthier, 2009
+			</ref>
+			). Un questionnaire de recherche, incluant des questions fermées et
+			<lb/>
+			ouvertes, a été diffusé aux services de sécurité incendie québécois et les 109
+			<lb/>
+			répondants proviennent de 15 des 17 régions administratives du Québec 5 .
+			<lb/>
+		</p>
+		
+		<p>L&apos;ensemble de ces démarches méthodologiques a été guidé par l&apos;induction et
+			<lb/>
+			l&apos;itération. Comme nous l&apos;avons annoncé en introduction, les recherches sociales sur
+			<lb/>
+			la sécurité incendie sont peu nombreuses au Québec et au Canada. L&apos;induction a donc
+			<lb/>
+			été une nécessité plus qu&apos;une position épistémologique relevant d&apos;une inclination
+			<lb/>
+			personnelle, comme cela a été le cas dans nos travaux antérieurs (<ref type="biblio">St-Denis, 2012b,
+			<lb/>
+				2012c</ref>) 6 . En raison de la rareté de travaux locaux, il nous fallait construire les outils
+			<lb/>
+			de collecte de données, obtenir des premières données exploratoires sur un petit
+			<lb/>
+			échantillon et poursuivre la clarification de nos catégories d&apos;analyse en couvrant une
+			<lb/>
+			plus grande diversité de services de sécurité incendie et de régions du Québec.
+			<lb/>
+		</p>
+		
+		<p>Inspirée par l&apos;anthropologie (
+			<ref type="biblio">Evans-Pritchard, 1951; Geertz, 1973/2000,
+				<lb/>
+				1974/2002; Malinowski, 1922/2001
+			</ref>
+			) et par la sociologie qualitative, dont les travaux
+			<lb/>
+			de l&apos;École <ref type="biblio">de Chicago (Becker, 1958; Burgess, 1984/2007; Glaser &amp; Strauss,
+			<lb/>
+			1967/2010</ref>) la collecte de données a été réalisée en accordant la priorité au « point de
+			<lb/>
+			vue de l&apos;indigène » afin de saisir « ses rapports avec la vie, de comprendre sa vision
+			<lb/>
+			de son monde » (<ref type="biblio">Malinowski, 1922/2001, p. 81-82</ref>, l&apos;auteur souligne). Les catégories
+			<lb/>
+			d&apos;analyse utilisées lors du codage des documents gouvernementaux, des verbatim
+			<lb/>
+			d&apos;entrevues 7 et des questions ouvertes du questionnaire ont également été élaborées
+			<lb/>
+			par induction, c&apos;est-à-dire qu&apos;elles ont émergé des données.
+			<lb/>
+		</p>
+		
+		<p>L&apos;itération, aussi qualifiée d&apos;analyse par comparaison continue (
+			<ref type="biblio">Glaser &amp;<lb/>
+				Strauss, 1967/2010
+			</ref>
+			), s&apos;est matérialisée par un codage des données dès leur obtention.
+			<lb/>
+			Ainsi, toute nouvelle donnée était comparée aux données antérieures et contribuait
+			<lb/>
+			immédiatement à l&apos;analyse en cours d&apos;élaboration (
+			<ref type="biblio">Glaser &amp; Strauss, 1967/2010;
+				<lb/>
+				Guillemette &amp; Luckerhoff, 2009; Paillé, 1994; Strauss &amp; Corbin, 1990
+			</ref>
+			). Ce codage
+			<lb/>
+			continu a permis de construire et de préciser progressivement le processus de codage
+			<lb/>
+			et, par conséquent, les catégories d&apos;analyse tout au long de la recherche. L&apos;itération a
+			<lb/>
+			également permis d&apos;améliorer les grilles d&apos;observation et d&apos;entrevue tout au long de
+			<lb/>
+			la collecte des données. De plus, et comme nous le verrons en détail dans la section
+			<lb/>
+			suivante, le questionnaire a été élaboré en adaptant la grille d&apos;entrevue.
+			<lb/>
+		</p>
+		
+		<p>Lors de nos travaux antérieurs auprès des policiers du Québec, l&apos;induction et
+			<lb/>
+			l&apos;itération ont favorisé l&apos;établissement d&apos;une relation de confiance et maximisé
+			<lb/>
+			l&apos;appropriation des démarches de recherche par les participants (<ref type="biblio">St-Denis, 2012b</ref>).
+			<lb/>
+			Auprès des pompiers, l&apos;induction et l&apos;itération se sont de nouveau révélées favorables
+			<lb/>
+			à l&apos;ouverture des acteurs sur le terrain et à leur appropriation de la recherche. Les
+			<lb/>
+			pompiers québécois détiennent en majorité une formation générale de niveau
+			<lb/>
+			professionnel ou secondaire (<ref type="biblio">St-Denis, 2013a</ref>). Par conséquent, les devis, méthodes et
+			<lb/>
+			analyses scientifiques leur sont généralement inconnus. Grâce à l&apos;induction et à
+			<lb/>
+			l&apos;itération, nos travaux sont demeurés flexibles et adaptables à une diversité de
+			<lb/>
+			contextes d&apos;observation et d&apos;entrevues. Toutes les démarches de recherche ont été
+			<lb/>
+			vulgarisées, ont fait l&apos;objet de présentations officielles auprès des directeurs de
+			<lb/>
+			service et ont été l&apos;objet de discussions informelles en caserne. Les pompiers
+			<lb/>
+			rencontrés ont ainsi pu s&apos;approprier facilement l&apos;ensemble de la démarche, et ce, dès
+			<lb/>
+			les débuts du projet.
+			<lb/>
+		</p>
+		
+		<p>La relation avec la chercheuse a été comprise et vécue par les pompiers comme
+			<lb/>
+			une insertion d&apos;un nouveau candidat pompier. Les interventions, les équipements et
+			<lb/>
+			les activités des services de sécurité incendie ont ainsi fait l&apos;objet de descriptions et
+			<lb/>
+			de démonstrations similaires à celles offertes lors des premières visites de recrues
+			<lb/>
+			potentielles. Nous avons ainsi expérimenté l&apos;apprentissage des noms des pièces
+			<lb/>
+			d&apos;équipements et les visites détaillées des casernes et des lieux d&apos;entrainement. De
+			<lb/>
+			plus, nous avons assisté à des démonstrations comme le maniement d&apos;outils
+			<lb/>
+			d&apos;infraction 8 et la réalisation d&apos;un parcours de pratique avec port de la tenue intégrale
+			<lb/>
+			de combat d&apos;incendie, incluant l&apos;appareil de protection respiratoire.
+			<lb/>
+		</p>
+		
+		<p>Une remarque s&apos;impose ici. Le recours à l&apos;induction et à l&apos;itération n&apos;invalide
+			<lb/>
+			pas la légitimité d&apos;un usage préalable et continu des écrits scientifiques, à condition
+			<lb/>
+			de ne pas le faire dans une perspective déductive. Nous avons ainsi consulté
+			<lb/>
+			attentivement les ouvrages rendant compte de recherches sociales sur les pompiers.
+			<lb/>
+			Parmi les écrits sur le vécu des pompiers, les travaux ethnographiques
+			<ref type="biblio">de Desmond
+				<lb/>
+				(2006a, 2006b, 2007) et Pudal (2010, 2011a, 2011b
+			</ref>
+			) et les travaux sociologiques
+			<ref type="biblio">de
+				<lb/>
+				Rétière (1994)
+			</ref>
+			nous ont permis de nous familiariser avec le vocabulaire et le
+			<lb/>
+			quotidien de la profession de pompier. Ils ont également servi dans l&apos;enrichissement
+			<lb/>
+			de nos analyses (<ref type="biblio">St-Denis, 2013b</ref>).
+			<lb/>
+		</p>
+		
+		<head>2. Un sondage enraciné dans des données qualitatives
+			<lb/>
+		</head>
+		
+		<p>Comme nous l&apos;avons évoqué précédemment, la réalisation du Portrait sociologique
+			<lb/>
+			de la profession des pompiers du Québec (<ref type="biblio">St-Denis, 2012a</ref>) nous a menée à réaliser
+			<lb/>
+			trois phases de recherche : une analyse documentaire, une collecte qualitative par
+			<lb/>
+			observations et entrevues et, finalement, un sondage. Nous nous attarderons ici plus
+			<lb/>
+			spécifiquement à l&apos;élaboration du sondage et au traitement des données qui en a
+			<lb/>
+			découlé. Nous mettons l&apos;accent sur cette troisième phase de recherche parce que
+			<lb/>
+			l&apos;association de la méthodologie de la théorisation enracinée (MTE) aux méthodes
+			<lb/>
+			qualitatives (<ref type="biblio">Glaser, 2007; Glaser &amp; Holton, 2007</ref>) fait ombrage à la pertinence
+			des
+			<lb/>
+			données quantitatives dans un processus de théorisation. En effet, par cette
+			<lb/>
+			association, la MTE en vient même, à tort, à être confondue avec les méthodes
+			<lb/>
+			qualitatives (<ref type="biblio">Glaser, 2007</ref>). Pourtant, déjà dans leur ouvrage fondateur, <ref type="biblio">Glaser et
+			<lb/>
+				Strauss (1967/2010)</ref> accordent un chapitre entier à la pertinence des données
+			<lb/>
+			quantitatives et affirment que :
+			<lb/>
+		</p>
+		
+		<p>Dans de nombreuses situations, les deux formes de données sont
+			<lb/>
+			nécessaires, non pas pour tester des données qualitatives à partir de
+			<lb/>
+			données quantitatives, mais de façon complémentaire, comme vérification
+			<lb/>
+			réciproque et, le plus important pour nous, comme formes différentes de
+			<lb/>
+			données portant sur le même sujet. Lorsqu&apos;on les compare, chacune
+			<lb/>
+			contribue à produire de la théorie (<ref type="biblio">Glaser &amp; Strauss, 1967/2010, p. 104</ref>,
+			<lb/>
+			les auteurs soulignent).
+			<lb/>
+		</p>
+		
+		<p>Glaser réitère cette position à de nombreuses reprises par sa célèbre formule :
+			<lb/>
+			« all is data » (<ref type="biblio">Glaser, 2007, p. 93; Glaser &amp; Holton, 2007</ref>). À partir de cette
+			position
+			<lb/>
+			de Glaser et Strauss, nous souhaitons ici présenter ce en quoi notre sondage s&apos;inscrit
+			<lb/>
+			dans une démarche inductive et itérative et les justifications légitimant une collecte de
+			<lb/>
+			données quantitatives dans une démarche de recherche inspirée de la MTE.
+			<lb/>
+		</p>
+		
+		<p>Débutons par une mise en contexte. À la fin des deux premières phases de
+			<lb/>
+			recherche, soit l&apos;analyse documentaire et la collecte de données qualitatives, nous
+			<lb/>
+			avions des données partielles obtenues auprès de services de sécurité incendie de
+			<lb/>
+			quatre régions du Québec, sur 17. Bien que fort pertinentes pour une première
+			<lb/>
+			élaboration de catégories d&apos;analyse, ces premières données n&apos;étaient pas suffisantes
+			<lb/>
+			pour permettre une théorisation généralisable à l&apos;ensemble des pompiers québécois, et
+			<lb/>
+			ce, pour deux raisons. Premièrement, tous les pompiers impliqués dans ces premières
+			<lb/>
+			phases provenaient de régions situées à moins de 250 km de Montréal.
+			<lb/>
+			Deuxièmement, en l&apos;absence de données comparatives québécoises ou canadiennes,
+			<lb/>
+			les validités externe et interne de nos résultats demeuraient faibles. Il fallait donc
+			<lb/>
+			trouver un moyen d&apos;interpeller les services de sécurité incendie de l&apos;ensemble des
+			<lb/>
+			régions du Québec 9 et d&apos;augmenter notre échantillon, tant pour hausser la
+			<lb/>
+			représentativité statistique des résultats 10 que pour maximiser la saturation des
+			<lb/>
+			catégories d&apos;analyse.
+			<lb/>
+		</p>
+		
+		<p>Le sondage a été choisi pour sa possibilité de diffusion rapide et efficace sur
+			<lb/>
+			l&apos;ensemble du territoire québécois, et ce, à des coûts minimes (Blais &amp; Durand,
+			<lb/>
+			2009). Le questionnaire a été bâti à partir de la grille d&apos;entrevue utilisée lors de la
+			<lb/>
+			deuxième phase de recherche. Un prétest a été effectué afin d&apos;évaluer la réception du
+			<lb/>
+			questionnaire, la clarté des questions et le temps de réponse (Gauthier, 2009). À la
+			<lb/>
+			suite de ce prétest, des modifications ont été apportées au questionnaire : certaines
+			<lb/>
+			questions ont été précisées, voire reformulées, d&apos;autres ont été supprimées,
+			<lb/>
+			notamment celles portant sur la réforme de la sécurité incendie, et de nouvelles se
+			<lb/>
+			sont ajoutées, par exemple sur les parcours de formation des pompiers. 11 . Attardons-<lb/>nous à ces deux
+			principales modifications.
+			<lb/>
+		</p>
+		
+		<p>Lors des entrevues, nous avons rapidement perçu que les pompiers discutaient
+			<lb/>
+			avec aisance des interventions de leurs services de sécurité incendie et de leur
+			<lb/>
+			parcours professionnel. Par contre, outre les officiers et les directeurs de service, les
+			<lb/>
+			pompiers discutaient plus difficilement de la réforme de la sécurité incendie et des
+			<lb/>
+			répercussions de la Loi sur la sécurité incendie (<ref type="biblio">Québec, 2000</ref>). Ces orientations et
+			<lb/>
+			actions politiques leur étaient même parfois méconnues, voire inconnues. Afin qu&apos;un
+			<lb/>
+			grand nombre de pompiers puissent répondre aisément au questionnaire, nous avons
+			<lb/>
+			décidé d&apos;exclure les questions sur la réforme de la sécurité incendie 12 .
+			<lb/>
+		</p>
+		
+		<p>De plus, lors des entrevues, les pompiers nous ont fait part des divers parcours
+			<lb/>
+			de formation pouvant conduire à l&apos;exercice de leur profession, et ce, sans que notre
+			<lb/>
+			grille d&apos;entrevue initiale comporte de question à ce sujet. La catégorie Formation est
+			<lb/>
+			rapidement apparue indispensable à notre processus de codage et des questions sur ce
+			<lb/>
+			sujet ont été ajoutées aux versions subséquentes de notre grille d&apos;entrevue au
+			<lb/>
+			questionnaire.
+			<lb/>
+		</p>
+		
+		<p>Finalement, afin d&apos;obtenir des données à la fois quantitatives et qualitatives, le
+			<lb/>
+			questionnaire comportait des questions fermées et des questions ouvertes. Les
+			<lb/>
+			réponses aux questions ouvertes ont été codées dans la suite des analyses élaborées
+			<lb/>
+			dans les phases précédentes et de nouveaux thèmes et catégories ont été ajoutés. Les
+			<lb/>
+			données quantitatives ont été compilées en tableaux de fréquences similaires aux
+			<lb/>
+			tableaux de fréquences des catégories et des thèmes pour les données qualitatives.
+			<lb/>
+			Ainsi, nous avons pu entreprendre une analyse mixte des données.
+			<lb/>
+		</p>
+		
+		<head>3. Les apports d&apos;une approche mixte pour l&apos;élaboration et la saturation des
+			<lb/>
+			catégories d&apos;analyse
+			<lb/>
+		</head>
+		
+		<p>L&apos;analyse combinée des données qualitatives et quantitatives obtenues au cours des
+			<lb/>
+			trois phases du projet nous a menée à une saturation des catégories. Les résultats
+			<lb/>
+			mixtes et les analyses qui en ont découlé ont permis d&apos;obtenir, à la fois, de nouveaux
+			<lb/>
+			thèmes et catégories et de préciser les fréquences des faits décrits dans ces thèmes et
+			<lb/>
+			catégories. Afin d&apos;illustrer ces apports, nous examinerons ici la diversification d&apos;une
+			<lb/>
+			catégorie grâce aux données quantitatives et aux résultats sur les fréquences de
+			<lb/>
+			thèmes ayant émergés lors de l&apos;analyse des données qualitatives.
+			<lb/>
+		</p>
+		
+		<p>Lors des entrevues, nous avions notamment questionné les pompiers sur la
+			<lb/>
+			perception sociale de leur profession. Plusieurs pompiers ont alors commencé leur
+			<lb/>
+			narration par une critique de l&apos;image de héros. À titre d&apos;illustration, voici comment un
+			<lb/>
+			pompier d&apos;un service de sécurité incendie à temps plein (extrait 1) et deux pompiers
+			<lb/>
+			d&apos;un service à temps partiel (extrait 2) ont décrit la perception des citoyens.
+			<lb/>
+		</p>
+		
+		<p>Extrait 1 : [Dans les] films, Backdraft ou eh, Échelle 49, c&apos;est des films
+			<lb/>
+			qui contribuent à, à l&apos;aspect si on veut, à l&apos;image de héros. Même les
+			<lb/>
+			événements du 11 septembre, qui sont arrivés pis eh, tout le monde
+			<lb/>
+			sortent en courant, les pompiers arrivent : « Nous autres on va rentrer
+			<lb/>
+			pendant qu&apos;eux y sortent » pis, ainsi de suite. Fait que ça contribue à une
+			<lb/>
+			certaine image […] pompiers, on se voit pas, la plupart du monde qui sont
+			<lb/>
+			pompiers, nous autres on connaît l&apos;envers de la médaille là, tsé. Ben nous
+			<lb/>
+			autres on est, on est technicien. On a une job à faire. On connaît les, les
+			<lb/>
+			risques pis on gère le risque. Dans le fond, on a l&apos;équipement pour faire
+			<lb/>
+			face à la situation. On a les connaissances. On est les mieux placés pour
+			<lb/>
+			intervenir, pour intervenir dans ce milieu-là. On se voit plus un peu
+			<lb/>
+			comme ça. Comme des professionnels si on veut pour faire l&apos;intervention.
+			<lb/>
+			Pis eh, eh, l&apos;image …, on l&apos;a pas, ben pas, on s&apos;en fait pas avec ça, dans le
+			<lb/>
+			sens que, on le sait qu&apos;on n&apos;est pas des héros en tant que tels. (<ref type="biblio">St-Denis,
+			<lb/>
+				2012a, p. 68</ref>).
+			<lb/>
+		</p>
+		
+		<p>Extrait 2 : P1 : C&apos;est rare mettons qu&apos;on va faire des gros sauvetages de
+			<lb/>
+			même. Pis rentrer [dans les] maisons de même.
+			<lb/>
+			P2 : Pis [ils] ont pas d&apos;appareil 13 pis [ils] sortent avec deux personnes
+			<lb/>
+			sous le bras.
+			<lb/>
+			P1 : Ah oui, sont forts! [rire]
+			<lb/>
+			P2 : C&apos;est pas la réalité.
+			<lb/>
+			P1 : Non.
+			<lb/>
+			P2 : Ben souvent [ils], souvent le monde, [ils] pensent que c&apos;est ça après.
+			<lb/>
+			P1 : Pis là on arrive pis : « Qu&apos;est-ce vous faites là? Qu&apos;est-ce vous
+			<lb/>
+			faites? » [Ils] pensent qu&apos;on va rentrer comme ça, sans se préparer. [Ils]
+			<lb/>
+			comprennent pas ça là. (<ref type="biblio">St-Denis, 2012a, p. 69</ref>).
+			<lb/>
+		</p>
+		
+		<p>Ces critiques de l&apos;image de héros ont fait ressortir une discordance entre la
+			<lb/>
+			perception sociale de la profession et les pratiques effectives des pompiers. À l&apos;étape
+			<lb/>
+			du questionnaire, nous avons souhaité obtenir des précisions à propos de cette
+			<lb/>
+			perception de la profession en posant la question ouverte suivante : « Selon vous, que
+			<lb/>
+			faudrait-il expliquer aux citoyens pour mieux faire comprendre la profession des
+			<lb/>
+			pompiers? » La <ref type="figure">Figure 1</ref> illustre la diversité des thèmes issus des réponses et leur
+			<lb/>
+			fréquence obtenues par analyse de contenu thématique. Toutefois, les critiques de
+			<lb/>
+			l&apos;image de héros obtenues lors des entrevues n&apos;ont pas été mentionnées ici 14 . Les
+			<lb/>
+			pompiers ont plutôt mis l&apos;accent sur l&apos;objectif de leur implication, soit le service aux
+			<lb/>
+			citoyens, la diversité de leurs interventions et leur grande disponibilité qui, pour
+			<lb/>
+			plusieurs pompiers à temps partiel, équivaut à une disponibilité en tout temps
+			<lb/>
+			puisqu&apos;ils sont sur appel. Ces nouveaux thèmes ont grandement diversifié le contenu
+			<lb/>
+			initial de la catégorie Perception sociale.
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Fréquence des éléments à expliquer aux citoyens pour faire comprendre la
+			<lb/>
+			profession de pompier (tiré de <ref type="biblio">St-Denis, 2013a, p. 36</ref>).
+			<lb/>
+		</figure>
+		
+		<p>Lors des entrevues, plusieurs pompiers à temps partiel nous ont fait part de leur
+			<lb/>
+			situation de double emploi et de leurs multiples certifications. Ces deux thèmes sont
+			<lb/>
+			rapidement apparus être liés puisqu&apos;un pompier à temps partiel doit occuper un autre
+			<lb/>
+			emploi. Au Québec, 80 % des pompiers sont à temps partiel 15 et vivent donc cette
+			<lb/>
+			situation de double emploi. Parfois peu rémunératrice, voire bénévole, l&apos;implication
+			<lb/>
+			comme pompier à temps partiel est davantage décrite en termes de passion qu&apos;en
+			<lb/>
+			termes de travail rémunérateur :
+			<lb/>
+		</p>
+		
+		<p>En 96, quand [je suis] rentré pompier, je savais même pas qu&apos;[il] y avait
+			<lb/>
+			une paye. À temps partiel, je travaillais à temps partiel, pis quand j&apos;ai eu
+			<lb/>
+			mon premier chèque, c&apos;était quec&apos;chose, c&apos;était pas dans mon idée de
+			<lb/>
+			faire ça pour la paye. C&apos;était pour le service, pour l&apos;implication. Pis quand
+			<lb/>
+			j&apos;ai reçu ma paye, j&apos;étais surpris : « Ah, on est payé pour ça. » [Je suis]
+			<lb/>
+			resté surpris de ça. [Extrait d&apos;une entrevue de groupe auprès de trois
+			<lb/>
+			pompiers québécois, service à temps partiel] (<ref type="biblio">St-Denis, 2012a, p. 68</ref>).
+			<lb/>
+		</p>
+		
+		<p>De plus, certains pompiers à temps partiel nous ont fait mention de leur souhait
+			<lb/>
+			de travailler dans un service à temps plein (<ref type="biblio">St-Denis, 2012a</ref>). Afin de mieux évaluer
+			<lb/>
+			la prédominance de cette préférence professionnelle, nous avons posé la question lors
+			<lb/>
+			du sondage. La <ref type="figure">Figure 2</ref> montre que sur l&apos;ensemble des 109 pompiers qui ont
+			<lb/>
+			répondu au sondage (tous types de service confondus), 71 % d&apos;entre eux (n = 78)
+			<lb/>
+			aimeraient être à temps plein.
+			<lb/>
+		</p>
+		
+		<p>Ce résultat est vraisemblablement à mettre en lien avec l&apos;intérêt des pompiers
+			<lb/>
+			pour leur profession et leur désir d&apos;en faire leur unique occupation professionnelle.
+			<lb/>
+			Cela se reflète aussi dans les parcours personnels de formation des pompiers. En
+			<lb/>
+			effet, il semble que ceux-ci détiennent de multiples certifications afin de se qualifier
+			<lb/>
+			autant pour les concours de recrutement des services à temps partiel qu&apos;à temps plein.
+			<lb/>
+		</p>
+		
+		<p>Par conséquent, la formation devient un thème récurrent dans les discours des
+			<lb/>
+			pompiers. En plus des diplômes dans un domaine autre qu&apos;en sécurité incendie
+			<lb/>
+			obtenus par 87 % (n = 93) des pompiers ayant répondu à notre sondage, plusieurs
+			<lb/>
+			d&apos;entre eux détiennent plusieurs certifications dans le milieu de l&apos;incendie afin de
+			<lb/>
+		</p>
+		
+		<figure>Figure 2. Types de services de sécurité incendie privilégiés si le choix se présentait
+			<lb/>
+			(tiré de <ref type="biblio">St-Denis, 2013a, p. 36</ref>).
+			<lb/>
+		</figure>
+		
+		<p>maximiser leurs possibilités de recrutement par les services à temps plein. La
+			<lb/>
+			<ref type="figure">Figure 3</ref> montre la diversité des certifications obtenues.
+			<lb/>
+		</p>
+		
+		<figure>Figure 3. Certifications obtenues en sécurité incendie par les pompiers (N = 109) (tiré
+			<lb/>
+			de <ref type="biblio">St-Denis, 2013a, p. 29</ref>).
+			<lb/>
+		</figure>
+		
+		<p>Pour interpréter cette dernière figure, certaines précisions sur la formation en
+			<lb/>
+			sécurité incendie doivent être apportées ici. Au Québec, les formations et
+			<lb/>
+			certifications nécessaires à l&apos;exercice de la profession de pompier sont fixées par le
+			<lb/>
+			Règlement sur les conditions pour exercer au sein d&apos;un service de sécurité incendie
+			<lb/>
+			municipal (<ref type="biblio">Québec, 2004</ref>). Ce règlement distingue les services des municipalités de
+			<lb/>
+			moins de 200 000 habitants, en forte proportion à temps partiel ou mixtes 16 , et ceux
+			<lb/>
+			des municipalités de 200 000 habitants et plus, à temps plein. Les formations de
+			<lb/>
+			l&apos;École nationale des pompiers du Québec (ENPQ), dont les formations de base
+			<lb/>
+			pompier 1 et pompier 2, s&apos;adressent prioritairement aux pompiers des services à
+			<lb/>
+			temps partiel ou mixtes. Les diplômes professionnels (DEP) et les techniques (DEC)
+			<lb/>
+			en sécurité incendie s&apos;adressent quant à eux prioritairement aux candidats des
+			<lb/>
+			services à temps plein. La certification des modules 1 à 9 est une adaptation du
+			<lb/>
+			diplôme professionnel offerte antérieurement au règlement et les certifications
+			<lb/>
+			universitaires sont un perfectionnement suivi principalement par les officiers et les
+			<lb/>
+			directeurs de service.
+			<lb/>
+		</p>
+		
+		<p>Des 109 pompiers ayant répondu à notre sondage, 104 (95 %) exerçaient dans
+			<lb/>
+			des services à temps partiel ou des services mixtes. Une forte prévalence des
+			<lb/>
+			formations et certifications de l&apos;École nationale des pompiers du Québec aurait donc
+			<lb/>
+			dû, en fonction du règlement de 2004, se refléter dans la <ref type="figure">Figure 3</ref>. Au contraire, cette
+			<lb/>
+			figure montre une répartition similaire des certifications nécessaires aux pompiers à
+			<lb/>
+			temps partiel (Pompier 1 et Pompier 2) et aux pompiers à temps plein (DEP et DEC).
+			<lb/>
+			Le choix d&apos;occuper un poste à temps plein si la possibilité se présentait peut
+			<lb/>
+			vraisemblablement contribuer à comprendre ce qui amène les pompiers à suivre de
+			<lb/>
+			multiples formations. Le contingentement des services à temps plein dont les
+			<lb/>
+			pompiers nous ont fait part en entrevue et lors du sondage -voir la Figure 1 présentée
+			<lb/>
+			plus haut -peut également aider à comprendre que certains pompiers non recrutés par
+			<lb/>
+			les services à temps plein réorientent leur engagement vers les services à temps
+			<lb/>
+			partiel.
+			<lb/>
+		</p>
+		
+		<p>Ces constats sur les parcours de formation n&apos;auraient pas été possibles sans une
+			<lb/>
+			analyse mixte. Seuls les apports combinés des données qualitatives issues des
+			<lb/>
+			entrevues de recherche et des données quantitatives issues du questionnaire de
+			<lb/>
+			recherche ont permis d&apos;émettre ces hypothèses sur la diversification de la catégorie
+			<lb/>
+			Formation. De plus, comme nous l&apos;avons constaté plus haut, cette combinaison de
+			<lb/>
+			données qualitatives et quantitatives a également permis d&apos;atteindre une plus grande
+			<lb/>
+			diversité de thèmes liés à la catégorie Perception sociale centrée, initialement, sur la
+			<lb/>
+			critique de l&apos;image de héros.
+			<lb/>
+		</p>
+		
+		<head>Conclusion : vers une reconnaissance de la pertinence des données quantitatives
+			<lb/>
+			en méthodologie de la théorisation enracinée
+			<lb/>
+		</head>
+		
+		<p>Réalisé grâce à une analyse documentaire, des observations directes, des entrevues et
+			<lb/>
+			un sondage, le Portrait sociologique de la profession des pompiers du Québec (<ref type="biblio">St-<lb/>Denis, 2012a</ref>) est
+			innovateur tant par ses résultats que par sa méthodologie. En plus
+			<lb/>
+			de répondre à la rareté des recherches sociales sur les services de sécurité incendie
+			<lb/>
+			québécois, il offre une méthodologie mixte, qualitative et quantitative, encore peu
+			<lb/>
+			présente en recherches inductives et en méthodologie de la théorisation enracinée
+			<lb/>
+			MTE 17 , et ce, même si Glaser et Strauss, dans leur ouvrage fondateur publié en 1967,
+			<lb/>
+			avaient déjà consacré un chapitre à la pertinence des données quantitatives en MTE.
+			<lb/>
+			De plus, comme nous avons tenté de le montrer ici, cette combinaison de données et
+			<lb/>
+			d&apos;analyses qualitatives et quantitatives peut respecter l&apos;induction et l&apos;itération chères
+			<lb/>
+			à la MTE et se révéler fort favorable tant au développement et à la saturation des
+			<lb/>
+			catégories qu&apos;à l&apos;atteinte d&apos;une validité externe de la théorisation en élaboration. En
+			<lb/>
+			effet, la collecte et l&apos;analyse de données mixtes ont permis de faire émerger des
+			<lb/>
+			catégories d&apos;analyse dont la discordance entre la perception sociale de la profession et
+			<lb/>
+			les pratiques effectives des pompiers. De plus, elles ont permis d&apos;ajouter des thèmes à
+			<lb/>
+			certaines catégories d&apos;analyse. Par exemples, les thèmes « double emploi » et
+			<lb/>
+			« certifications multiples » ont été ajoutés à la catégorie « Formation ». Le Portrait
+			<lb/>
+			sociologique de la profession des pompiers du Québec (<ref type="biblio">St-Denis, 2012a</ref>) montre ainsi
+			<lb/>
+			que l&apos;induction et l&apos;itération constituent des assises épistémologiques et
+			<lb/>
+			méthodologiques allant au-delà de la nature des données. En d&apos;autres termes, même si
+			<lb/>
+			l&apos;induction et l&apos;itération sont habituellement associées aux données qualitatives, des
+			<lb/>
+			données quantitatives peuvent fort bien être bénéfiques lors de l&apos;emploi de ces
+			<lb/>
+			démarches méthodologiques.
+			<lb/>
+		</p>
+		
+		<p>Nous ne pouvons que souhaiter une augmentation de l&apos;utilisation des données et
+			<lb/>
+			méthodes quantitatives en MTE, et ce, pour deux raisons. Premièrement, une
+			<lb/>
+			utilisation pertinente des données et méthodes quantitatives est une réponse efficace
+			<lb/>
+			pour contrer l&apos;association indue de la MTE aux méthodes qualitatives (<ref type="biblio">Glaser, 2007;
+			<lb/>
+				Glaser &amp; Holton, 2007</ref>). Deuxièmement, l&apos;utilisation des assises épistémologiques et
+			<lb/>
+			méthodologiques de la MTE hors des créneaux habituels de la recherche qualitative
+			<lb/>
+			contribuerait vraisemblablement à la reconnaissance de sa pertinence en recherche
+			<lb/>
+			universitaire (<ref type="biblio">Luckerhoff &amp; Guillemette, 2012</ref>), tout particulièrement auprès des
+			<lb/>
+			scientifiques et décideurs partisans des statistiques sociales et de leur validité externe.
+			<lb/>
+		</p>
+	
+	</text>
+</tei>

@@ -1,0 +1,1261 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>En recherche, il est fréquent d&apos;entendre parler de l&apos;ouverture d&apos;esprit et de la
+			<lb/>
+			flexibilité à avoir, notamment en raison de la nature itérative de la démarche. Le
+			<lb/>
+			chercheur doit plusieurs fois revenir sur ses choix méthodologiques, des choix
+			<lb/>
+			fondamentaux qui en viennent à changer beaucoup l&apos;issue du processus. Ces qualités
+			<lb/>
+			représentent un fil conducteur à considérer dans les pages qui suivent. En effet, la
+			<lb/>
+			recherche qualitative en communication sociale vise bien souvent à appréhender la
+			<lb/>
+			réalité telle qu&apos;elle semble se présenter et à lui attribuer un sens. Ainsi, il importe
+			<lb/>
+			pour le chercheur d&apos;être ouvert aux possibilités de redéfinition de la problématique
+			<lb/>
+			étudiée, empruntant ainsi une « perspective avec laquelle [il] perçoit les données [lui
+			<lb/>
+			permettant] de donner du sens » (<ref type="biblio">Luckerhoff &amp; Guillemette, 2012, p. 3</ref>) à ce qui
+			<lb/>
+			émerge de l&apos;analyse.
+			<lb/>
+		</p>
+		
+		<p>Il n&apos;en demeure pas moins que, de l&apos;intuition de départ jusqu&apos;à la
+			<lb/>
+			compréhension de l&apos;objet étudié, on ne peut ignorer la pertinence d&apos;adopter une
+			<lb/>
+			attitude rigoureuse qui n&apos;autorise pas à prendre pour acquis, à considérer comme vrai
+			<lb/>
+			ce qui est perçu. Plusieurs auteurs s&apos;entendent pour dire qu&apos;il est important d&apos;opérer
+			<lb/>
+			un détachement avec nos présuppositions, ce que Moscovici appelle « les croyances
+			<lb/>
+			existantes », de rompre avec cette intuition qui peut mener « au jugement rapide [de
+			<lb/>
+			ce] qui semble à première vue évident » (<ref type="biblio">Bonneville, Grosjean, &amp; Lagacé, 2007,
+			<lb/>
+			p. 13</ref>), sans pour autant « disqualifier le sens commun ou les savoirs ordinaires [en
+			<lb/>
+			instaurant] une séparation trop stricte entre la &quot;non-science&quot; [...] et la &quot;science&quot; »
+			<lb/>
+			(<ref type="biblio">Quivy &amp; Van Campenhoudt, 2006, p. 18</ref>). En conséquence, supposer que l&apos;approche
+			<lb/>
+			qualitative demande entre autres « l&apos;ouverture, la créativité, la sensibilité théorique et
+			<lb/>
+			la flexibilité méthodologique » (<ref type="biblio">April &amp; Larouche, 2006, p. 145</ref>) implique que
+			le
+			<lb/>
+			chercheur devrait prendre en compte sa position lorsqu&apos;il réalise la collecte des
+			<lb/>
+			données. Cette approche est effectivement liée à l&apos;engagement du chercheur quant à
+			<lb/>
+			son objet, qu&apos;il influence en raison de sa subjectivité personnelle. En ce sens, « les
+			<lb/>
+			recherches qualitatives -en examinant la place du chercheur dans le processus de
+			<lb/>
+			connaissance et la fonction des savoirs qu&apos;il produit -ont contribué au
+			<lb/>
+			renouvellement des questions sur le rapport entre la science et les sujets » (
+			<ref type="biblio">Martineau,
+				<lb/>
+				2007, p. 70
+			</ref>
+			). Ainsi, il nous semblait intéressant d&apos;explorer la manière avec laquelle,
+			<lb/>
+			dans une recherche qualitative en sciences sociales, cette proximité du chercheur avec
+			<lb/>
+			les phénomènes étudiés peut être conjuguée avec les critères de validité scientifique
+			<lb/>
+			de la recherche, dans une perspective inductive.
+			<lb/>
+		</p>
+		
+		<p>Cet article vise d&apos;abord à identifier la place de l&apos;induction autant dans le
+			<lb/>
+			raisonnement et le positionnement du chercheur que dans les conditions mises en
+			<lb/>
+			place pour élaborer la recherche. En ce sens, il nous intéressera d&apos;approfondir
+			<lb/>
+			d&apos;autres approches qui suivent des trajectoires caractérisées par leur « mouvement »
+			<lb/>
+			(<ref type="biblio">Plouffe &amp; Guillemette, 2012</ref>). Nous voulons effectivement illustrer ici la
+			possibilité
+			<lb/>
+			de faire autrement, de sortir du chemin tracé par des protocoles encadrés et
+			<lb/>
+			préconçus. Plus précisément, nous discuterons de la pertinence d&apos;utiliser une
+			<lb/>
+			approche méthodologique telle que la théorisation enracinée (MTE) dans la deuxième
+			<lb/>
+			section de notre article. Ensuite, nous verrons comment elle peut être utilisée pour
+			<lb/>
+			mener une recherche théorique qui vise à considérer les écrits scientifiques comme
+			<lb/>
+			données à analyser. Enfin, nous explorerons comment ces considérations rencontrent
+			<lb/>
+			notre questionnement de recherche qui s&apos;inscrit en communication sociale, dans une
+			<lb/>
+			perspective théorique, dans la mesure où nous nous intéressons principalement à ces
+			<lb/>
+			« processus d&apos;ajustement mutuel et de co-orientation à travers la négociation du
+			<lb/>
+			sens » (<ref type="biblio">Katambwe, 2011, p. 14</ref>). Ultimement, ce texte nous permettra de poursuivre
+			<lb/>
+			notre réflexion théorique qui vise à comprendre des phénomènes sociaux qui ont été
+			<lb/>
+			conceptualisés en sociologie et en science politique notamment, et qui mériteraient
+			<lb/>
+			selon nous d&apos;être rapprochés à l&apos;univers conceptuel de la communication sociale.
+			<lb/>
+		</p>
+		
+		<head>1. L&apos;induction : aux sources du raisonnement et du positionnement du chercheur
+			<lb/>
+		</head>
+		
+		<p>Lorsqu&apos;un chercheur veut amorcer une recherche, il peut le faire en s&apos;appropriant les
+			<lb/>
+			écrits scientifiques à travers une vaste recension lui permettant de dresser les contours
+			<lb/>
+			de l&apos;objet qu&apos;il désire étudier, pour ensuite produire un cadre théorique applicable au
+			<lb/>
+			phénomène qu&apos;il appréhende. Dans cette perspective, il cherche à confirmer ou
+			<lb/>
+			infirmer les théories et concepts déjà mis à l&apos;épreuve, de sorte à en renforcer la portée
+			<lb/>
+			ou à la fragiliser. Il s&apos;agit en effet d&apos;une démarche déductive qui amène le chercheur à
+			<lb/>
+			remanier les cadres théoriques existants. Dans ce type d&apos;approche, « on construit
+			<lb/>
+			spéculativement un cadre théorique à partir de théories existantes et on procède
+			<lb/>
+			déductivement pour appliquer la théorie sur les données empiriques et ainsi expliquer
+			<lb/>
+			les phénomènes observés » (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, p. 5</ref>). Précisons
+			que,
+			<lb/>
+			dans cette partie du texte, notre objectif est de montrer comment ces perspectives
+			<lb/>
+			peuvent enrichir le champ des connaissances. Il ne s&apos;agit donc pas de trancher en
+			<lb/>
+			faveur de l&apos;une ou l&apos;autre de ces perspectives ni de simplement les dichotomiser, mais
+			<lb/>
+			plutôt de montrer leurs particularités.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, afin d&apos;aller plus loin dans la compréhension et de mieux saisir les
+			<lb/>
+			données qui échappent aux catégories prédéfinies, il semble important de pouvoir se
+			<lb/>
+			tourner vers une tradition différente, de nature inductive. En effet, l&apos;objectif d&apos;une
+			<lb/>
+			telle démarche, comme le soulignent
+			<ref type="biblio">Poupart, Deslauriers, Groulx, Laperrière,
+			<lb/>
+				Mayers et Pires (1997)</ref>, « n’est pas d’atteindre l’explication parfaite, mais bien de
+			<lb/>
+			mesurer le progrès accompli grâce aux cas négatifs et à travers les modifications de
+			<lb/>
+			l&apos;explication par rapport à la connaissance initiale » (p. 303). L&apos;approche inductive
+			<lb/>
+			peut donc apparaître sous différents aspects dans un processus de recherche, autant
+			<lb/>
+			sur le plan théorique que sur le plan méthodologique. Cependant, il convient de
+			<lb/>
+			préciser que, selon nous, et suivant <ref type="biblio">Blais et Martineau (2006)</ref>, l&apos;induction se
+			veut
+			<lb/>
+			d&apos;abord une approche qui vise à « &quot;donner un sens&quot; à un corpus de données brutes,
+			<lb/>
+			mais complexes, dans le but de faire émerger [...] de nouvelles connaissances en
+			<lb/>
+			recherche » (p. 2), le sens étant lui-même au coeur de l&apos;analyse.
+			<lb/>
+		</p>
+		
+		<p>En outre, une démarche déductive préconise la formulation d&apos;hypothèses à
+			<lb/>
+			vérifier par l&apos;opérationnalisation empirique. Par ailleurs, il est possible d&apos;utiliser une
+			<lb/>
+			approche qui « vise à ce que le cadre théorique soit généré à partir des données plutôt
+			<lb/>
+			qu&apos;à partir des recherches antérieures » (<ref type="biblio">Guillemette, 2006, p. 36</ref>). Puisque
+			le
+			<lb/>
+			chercheur ne peut se couper entièrement de l&apos;univers théorique qui l&apos;accompagne, il
+			<lb/>
+			va utiliser ses connaissances comme « sources » à partir desquelles il puise ce qui est
+			<lb/>
+			« à assembler [et à considérer] comme théoriquement possible ou probable »
+			<lb/>
+			(<ref type="biblio">St-Denis, 2012, p. 244</ref>). L&apos;idée principale derrière cette dernière approche
+			est plutôt
+			<lb/>
+			d&apos;utiliser « une façon particulière de préciser l&apos;objet de recherche » (
+			<ref type="biblio">Guillemette,
+				<lb/>
+				2006, p. 36
+			</ref>
+			) en suivant des « intuitions » (par une suspension du recours préalable
+			<lb/>
+			aux cadres théoriques). Il s&apos;agit donc de laisser la place à ce qui émerge des données,
+			<lb/>
+			et ce, dès les premiers pas effectués sur le parcours. Fondamentalement, c&apos;est sur
+			<lb/>
+			cette base que le chercheur arrimera les différentes phases de sa recherche. Il est ainsi
+			<lb/>
+			question, encore une fois, de faire preuve d&apos;ouverture et d&apos;oser les retours en arrière,
+			<lb/>
+			dans un « processus d&apos;analyse [...] en interaction avec les données » (
+			<ref type="biblio">April &amp;<lb/>
+				Larouche, 2006, p. 145
+			</ref>
+			), en réalisant les deux opérations (collecte et analyse)
+			<lb/>
+			simultanément et de façon réciproque. Cette perspective demande « la mise entre
+			<lb/>
+			parenthèses des savoirs du chercheur » (<ref type="biblio">Guillemette, 2006, p. 37 et 39)</ref>, en plus de
+			<lb/>
+			« la suspension du recours à des cadres théoriques » (<ref type="biblio">Poupart et al., 1997, p. 311</ref>)
+			afin
+			<lb/>
+			de mettre le processus en branle et d&apos;envisager le phénomène étudié comme un
+			<lb/>
+			« territoire à explorer » (<ref type="biblio">Strauss &amp; Corbin, 1990, p. 25</ref>).
+			<lb/>
+		</p>
+		
+		<p>Insistons ici sur l&apos;intérêt d&apos;une telle position de recherche dans une discipline
+			<lb/>
+			comme la communication sociale. En effet, elle résonne avec la perspective de
+			<lb/>
+			l&apos;interactionnisme symbolique proposée par des chercheurs de l&apos;École de Chicago,
+			<lb/>
+			Blumer et Strauss entre autres, qui ont participé à l&apos;élaboration théorique et
+			<lb/>
+			scientifique en communication sociale. Ces auteurs insistent sur l&apos;importance
+			<lb/>
+			d&apos;ajuster la recherche scientifique à la réalité empirique sans pour autant que cette
+			<lb/>
+			réalité ne s&apos;explique que par sa simple observation. « Les deux auteurs plaident pour
+			<lb/>
+			une validation de l&apos;interprétation par la confrontation avec la concrétude du monde
+			<lb/>
+			empirique, cette validation n&apos;annulant en rien le caractère construit de
+			<lb/>
+			l&apos;interprétation » (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, p. 7</ref>). Ainsi, leur perspective et
+			<lb/>
+			l&apos;approche inductive, en général, répondent aux mêmes critères, soient ceux de
+			<lb/>
+			justifier les découvertes en fonction d&apos;une « observation systématique » et de
+			<lb/>
+			« vérifier l&apos;adéquation des analyses avec les observations » (<ref type="biblio">Guillemette&amp;
+			<lb/>
+			Luckerhoff, 2009, p. 7</ref>).
+			<lb/>
+		</p>
+		
+		<p>Qui plus est, l&apos;approche inductive se réclame d&apos;avoir « recours à [plusieurs]
+			<lb/>
+			traditions de recherche » (<ref type="biblio">Blais &amp; Martineau, 2006, p. 2</ref>) différentes dont la
+			<lb/>
+			théorisation enracinée (<ref type="biblio">Luckerhoff &amp; Guillemette, 2012</ref>), la phénoménologie (
+			<ref type="biblio">Giorgi,
+				<lb/>
+				1997) et l&apos;ethnographie (Latour &amp; Woolgar, 1996
+			</ref>
+			), chacune ayant leurs particularités.
+			<lb/>
+			Bien que nous nous intéressions principalement à la première de celles-ci, nous allons
+			<lb/>
+			maintenant donner quelques précisions concernant les deux autres.
+			<lb/>
+		</p>
+		
+		<p>La phénoménologie peut être définie comme étant « l&apos;étude des structures de la
+			<lb/>
+			conscience » (<ref type="biblio">Giorgi, 1997 p. 342</ref>), autrement dit, de tous les phénomènes qui se
+			<lb/>
+			présentent à la conscience. La phénoménologie constitue une approche inductive
+			<lb/>
+			puisqu&apos;elle ne propose pas la vérification d&apos;hypothèses issues des lacunes d&apos;une
+			<lb/>
+			recension des écrits ni une analyse en fonction de catégories prédéterminées. Elle se
+			<lb/>
+			concentre plutôt sur l&apos;idée de faire « une description exclusive de la façon dont le
+			<lb/>
+			contenu du phénomène se présente tel qu&apos;en lui-même » (<ref type="biblio">Giorgi, 1997, p. 342</ref>).
+			<lb/>
+			Ainsi, il apparaît clairement selon nous que cette approche s&apos;apparente davantage à
+			<lb/>
+			une perspective radicale du constructivisme en raison de son intérêt pour l&apos;expérience
+			<lb/>
+			vécue par la seule conscience de l&apos;individu. Qui plus est, la phénoménologie permet
+			<lb/>
+			une analyse « précisément sous l&apos;angle du sens que ces phénomènes ont pour les
+			<lb/>
+			sujets qui les vivent » (<ref type="biblio">Giorgi, 1997, p. 344</ref>). Le sujet devient ainsi l&apos;objet
+			de
+			<lb/>
+			recherche en soi puisque le chercheur s&apos;intéresse à « la compréhension de la
+			<lb/>
+			signification de sens par l&apos;acteur » (<ref type="biblio">Blais &amp; Martineau, 2006, p. 3</ref>). La
+			finalité
+			<lb/>
+			descriptive de ce type d&apos;approche semble moins rencontrer notre angle de traitement
+			<lb/>
+			et de construction de la science.
+			<lb/>
+		</p>
+		
+		<p>L&apos;ethnographie de son côté peut être considérée comme l&apos;étude des faits
+			<lb/>
+			sociaux en fonction de leur observation systématique, par la prise en considération de
+			<lb/>
+			l&apos;immersion du chercheur dans un contexte où le contenu analysé est produit (
+			<ref type="biblio">Latour
+				<lb/> &amp; Woolgar, 1996
+			</ref>
+			). Cette approche méthodologique permet au chercheur d&apos;observer
+			<lb/>
+			les constructions du réel en fonction de leurs contextes de production. Il s&apos;agit donc
+			<lb/>
+			de « se rendre familier d&apos;un terrain tout en demeurant indépendant et à distance »
+			<lb/>
+			(<ref type="biblio">Latour &amp; Woolgar, 1996, p. 23</ref>). L&apos;ethnographie peut ainsi être considérée
+			comme
+			<lb/>
+			une méthodologie qui utilise l&apos;induction dans la mesure où le chercheur doit faire
+			<lb/>
+			preuve d&apos;un mélange subtil de rigueur et de proximité afin d&apos;être en mesure de
+			<lb/>
+			donner du sens aux données. Cette approche, tout comme l&apos;analyse inductive, « se
+			<lb/>
+			prête particulièrement bien à l&apos;analyse de données portant sur des objets de recherche
+			<lb/>
+			à caractère exploratoire, pour lesquels le chercheur n&apos;a pas accès à des catégories déjà
+			<lb/>
+			existantes dans la littérature » (<ref type="biblio">Blais &amp; Martineau, 2006, p. 4</ref>). Sans vouloir
+			<lb/>
+			minimiser le potentiel de développement, de présentation et de description des
+			<lb/>
+			catégories ayant émergé de l&apos;analyse, une telle méthodologie nous semble peu
+			<lb/>
+			adaptée à notre objectif de théorisation. Effectivement, cette approche ne cadre pas
+			<lb/>
+			avec la volonté d&apos;analyser les écrits scientifiques en tant que données dans le but d&apos;en
+			<lb/>
+			faire la critique et d&apos;en laisser émerger de nouvelles bases théoriques, ce que la
+			<lb/>
+			méthodologie de la théorisation enracinée nous permet de faire.
+			<lb/>
+		</p>
+		
+		<head>2. L&apos;approche de la théorisation enracinée : une méthodologie générale
+			<lb/>
+		</head>
+		
+		<p>Nous considérons que le principal intérêt à utiliser une approche inductive est
+			<lb/>
+			d&apos;appréhender certains objets de recherche dans une démarche souple et adaptée à
+			<lb/>
+			ceux-ci. Ainsi, les pertinences sociale et scientifique de l&apos;objet auront tendance à
+			<lb/>
+			s&apos;éclaircir avec la progression de la recherche, « au fur et à mesure que la démarche
+			<lb/>
+			s&apos;ouvre à de nouveaux champs d&apos;exploration » (<ref type="biblio">Guillemette, 2006, p. 37</ref>). De plus,
+			<lb/>
+			une méthode inductive telle que la méthodologie de la théorisation enracinée (MTE)
+			<lb/>
+			se caractérise par le fait de vouloir rompre avec les savoirs préexistants, ce qui permet
+			<lb/>
+			de laisser parler les données qui émanent de l&apos;objet lui-même en rejetant l&apos;obligation
+			<lb/>
+			d&apos;appliquer un cadre théorique préalable, tel que discuté plus tôt.
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, cette méthodologie générale se veut un dialogue, une interaction
+			<lb/>
+			entre les différentes phases constitutives du parcours. En effet, cette posture refuse
+			<lb/>
+			l&apos;aller simple vers les résultats. <ref type="biblio">Selon Guillemette (2006)</ref>, les « auteurs s&apos;entendent
+			<lb/>
+			sur la circularité des exercices de recueil et d&apos;analyse de l&apos;information » (p. 37). En
+			<lb/>
+			théorisation enracinée, il existe un consensus autour de l&apos;idée que les phases de
+			<lb/>
+			collecte et d&apos;analyse sont réalisées « &quot;ensemble&quot;, [qu&apos;elles sont déployées] &quot;en
+			<lb/>
+			parallèle&quot; [dans un] &quot;processus cyclique&quot; [ou enfin, dans une] &quot;interaction
+			<lb/>
+			continuelle&quot; » (<ref type="biblio">Guillemette, 2006, p. 37</ref>). Plus encore, il s&apos;agit d&apos;une
+			« approche
+			<lb/>
+			circulaire [qui] se distingue de l&apos;approche séquentielle que l&apos;on
+			retrouve
+			<lb/>
+			habituellement dans les processus de recherche » (
+			<ref type="biblio">Guillemette &amp; Luckerhoff, 2009,
+				<lb/>
+				p. 14
+			</ref>
+			). Par la suite, les auteurs vont même ajouter que « l&apos;approche de la MTE
+			<lb/>
+			s&apos;apparente davantage à une trajectoire hélicoïdale (une courbe qui s&apos;enroule autour
+			<lb/>
+			d&apos;un axe en mouvement) » (
+			<ref type="biblio">Luckerhoff &amp; Guillemette, 2012, p. 41; Plouffe &amp;<lb/>
+				Guillemette, 2012
+			</ref>
+			), pour faire référence aux retours sur les étapes préalablement
+			<lb/>
+			entamées par le chercheur, afin d&apos;établir de nouveaux liens théoriques et approfondir
+			<lb/>
+			les connaissances sur le phénomène étudié. Cette façon de faire sous-entend
+			<lb/>
+			vise « à recueillir de l&apos;information sur une situation précise » (
+			<ref type="biblio">Plouffe &amp; Guillemette,
+				<lb/>
+				2012, p. 100
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Enfin, ces considérations mènent le chercheur à ajuster sa réflexion, à la
+			<lb/>
+			peaufiner jusqu&apos;à ce qu&apos;il arrive à un cul-de-sac ne lui permettant plus de défricher
+			<lb/>
+			davantage sa route. C&apos;est le stade qui correspond à la « saturation théorique » (
+			<ref type="biblio">Plouffe
+				<lb/> &amp; Guillemette, 2012, p. 107
+			</ref>
+			). Ce niveau d&apos;avancement dans la démarche indique au
+			<lb/>
+			chercheur qu&apos;il peut cesser la collecte pour entamer la mise en lumière des
+			<lb/>
+			découvertes effectuées (<ref type="biblio">Poupart et al., 1997</ref>). « C&apos;est alors qu&apos;intervient
+			le critère de
+			<lb/>
+			l&apos;emergent-fit [qui] consiste à vérifier si les analyses provenant de l&apos;exploration sont
+			<lb/>
+			cohérentes (ou en adéquation) avec les données empiriques » (<ref type="biblio">Plouffe &amp; Guillemette,
+			<lb/>
+				2012, p. 95</ref>). Autrement dit, le chercheur comparera sa construction empirique pour
+			<lb/>
+			voir si elle fait sens (« fit ») avec les données. S&apos;il n&apos;y a pas de « fit », il devra revoir
+			<lb/>
+			sa démarche pour que les résultats rendent compte de la réalité observée de façon
+			<lb/>
+			systématique.
+			<lb/>
+		</p>
+		
+		<p>Pour nous, la MTE se révèle être une méthodologie intéressante dans la mesure
+			<lb/>
+			où elle permet de « théoriser à partir d&apos;une recherche de terrain en se donnant la plus
+			<lb/>
+			grande liberté possible pour la découverte de nouvelles compréhensions des
+			<lb/>
+			phénomènes » (<ref type="biblio">Guillemette, 2006, p. 35</ref>). Par nouvelles compréhensions, nous
+			<lb/>
+			entendons aussi nouveaux points de vue. L&apos;objet de recherche que nous définissons
+			<lb/>
+			dans le cadre de nos travaux actuels concerne les mouvements sociaux et les
+			<lb/>
+			représentations de l&apos;action collective dans les discours. Plus précisément, ce projet de
+			<lb/>
+			recherche vise à étudier la manière dont les actions politiques sont médiatisées dans
+			<lb/>
+			un contexte où les phénomènes de contestation émergent tant sur le plan local que sur
+			<lb/>
+			le plan international. Les querelles conceptuelles au sujet des mouvements sociaux
+			<lb/>
+			(<ref type="biblio">Blumer, 1995</ref>) et des nouveaux mouvements sociaux (<ref type="biblio">Neveu, 2011</ref>), des répertoires
+			<lb/>
+			d&apos;action collective (<ref type="biblio">Tilly, 2006</ref>) et de structure des opportunités politiques
+			(
+			<ref type="biblio">Tarrow,
+				<lb/>
+				1996
+			</ref>
+			), ou d&apos;espace public oppositionnel (
+			<ref type="biblio">Sagradini, 2009</ref>) et de contre-démocratie
+				<lb/>
+				(<ref type="biblio">Rosanvallon, 2006
+			</ref>
+			), ne semblent pas permettre d&apos;appréhender clairement la
+			<lb/>
+			dynamique de cette réalité sociale. C&apos;est pourquoi, dans notre démarche, la MTE
+			<lb/>
+			devrait constituer une méthodologie générale pertinente en ce sens qu&apos;elle « vise
+			<lb/>
+			d&apos;abord l&apos;élaboration d&apos;une théorie » (<ref type="biblio">Laperrière, 1997, p. 309</ref>).
+			Nous y reviendrons
+			<lb/>
+			au moment de parler des concepts sensibilisateurs.
+			<lb/>
+		</p>
+		
+		<p>Dans ce contexte, il devient intéressant de se demander : comment est-il
+			<lb/>
+			possible de considérer les écrits scientifiques comme des données discursives
+			<lb/>
+			produites dans un contexte social construit? Il s&apos;agirait en effet d&apos;opter pour une
+			<lb/>
+			approche interprétative, dans « une logique de reconstruction constante par une
+			<lb/>
+			intégration des théories émergentes à l&apos;architecture des connaissances dans un champ
+			<lb/>
+			disciplinaire » (<ref type="biblio">Guillemette, 2006, p. 46</ref>).
+			<lb/>
+		</p>
+		
+		<p>Selon nous, la pertinence scientifique d&apos;une telle recherche correspond à notre
+			<lb/>
+			objectif d&apos;interpréter et d&apos;approfondir les connaissances. Ainsi, la liberté offerte par
+			<lb/>
+			l&apos;ouverture à l&apos;émergence des données rend possible la découverte de nouvelles pistes
+			<lb/>
+			de recherche.
+			<lb/>
+		</p>
+		
+		<head>3. La recherche théorique : une démarche interprétative
+			<lb/>
+		</head>
+		
+		<p>Ce qui nous intéresse particulièrement dans cet article est de montrer l&apos;intérêt
+			<lb/>
+			d&apos;utiliser la MTE dans un projet de thèse théorique. Suivant les propositions de
+			<lb/>
+			<ref type="biblio">Guillemette et Luckerhoff (2009)</ref>, nous voulons explorer le fait de considérer les
+			<lb/>
+			écrits scientifiques comme des données produites socialement dans un contexte
+			<lb/>
+			déterminé. En effet, ces chercheurs argumentent que « toutes les sortes de données
+			<lb/>
+			[doivent être] considérées comme potentiellement pertinentes [...]. Le corpus de
+			<lb/>
+			données peut être constitué à partir [notamment] des résultats d&apos;autres recherches
+			<lb/>
+			(même des données quantitatives) » (p. 17).
+			<lb/>
+		</p>
+		
+		<p>Ainsi, il est possible de penser que la recherche de type théorique se révèle
+			<lb/>
+			pertinente en sciences sociales, bien qu&apos;elle semble avoir été graduellement délaissée
+			<lb/>
+			par les chercheurs des différentes disciplines au profit d&apos;approches davantage
+			<lb/>
+			empiriques, ces dernières apparaissant plus formalisées. D&apos;emblée, précisons que la
+			<lb/>
+			recherche théorique ne vise pas à démontrer « à partir d&apos;un &quot;réel&quot; observable et
+			<lb/>
+			mesurable; elle vise plutôt à montrer, à mettre en scène, à peser le pour et le contre, à
+			<lb/>
+			faire des choix et à les soutenir au moyen d&apos;une argumentation » (<ref type="biblio">Martineau, Simard,
+			<lb/>
+			&amp; Gauthier, 2001, p. 4</ref>). Or, des chercheurs en sciences sociales ont vu la
+			nécessité de
+			<lb/>
+			mettre en lumière le caractère scientifique propre aux recherches de type théorique
+			<lb/>
+			(<ref type="biblio">Gohier, 1998; Lacelle, 2009; Raiche &amp; Noël-Gaudreault, 2008</ref>). Certains de ces
+			<lb/>
+			chercheurs ont donc proposé de « classer les types de recherches théoriques en cinq
+			<lb/>
+			catégories selon la fonction que nous désirons leur donner » (
+			<ref type="biblio">Raiche &amp; Noël-<lb/>Gaudreault, 2008
+			, p. 2</ref>). Les types dégagés sont les suivants : l&apos;analyse de pertinence,
+			<lb/>
+			l&apos;analyse conceptuelle, la synthèse des connaissances, l&apos;élaboration de modèles ou de
+			<lb/>
+			théories, ainsi que le développement méthodologique. De leur côté, des chercheurs
+			<lb/>
+			comme <ref type="biblio">Gohier (1998), Martineau, Simard et Gauthier (2001) ou Lacelle (2009)</ref> ont
+			<lb/>
+			plutôt suggéré des définitions de la recherche théorique en sciences sociales, plus
+			<lb/>
+			particulièrement en éducation, et ont voulu envisager une typologie en fonction des
+			<lb/>
+			méthodologies utilisées.
+			<lb/>
+		</p>
+		
+		<p>Retenons que les recherches théoriques visent l&apos;identification des liens
+			<lb/>
+			conceptuels, leurs définitions, leurs constructions ou leurs critiques, la modélisation,
+			<lb/>
+			et la synthèse de théories (<ref type="biblio">Lacelle, 2009</ref>). En effet, à la différence d&apos;une simple
+			<lb/>
+			« recension des écrits qui amène le chercheur à choisir un ancrage théorique » (<ref type="biblio">Quivy
+				<lb/> &amp; Van Campenhoudt, 2006, p. 99</ref>), la recherche théorique cherche à revoir les
+			<lb/>
+			constructions théoriques qui se retrouveraient dans la recension des écrits d&apos;une
+			<lb/>
+			démarche dite traditionnelle ou hypothético-déductive. Ce type de recherche va ainsi
+			<lb/>
+			permettre de faire des liens entre les données recueillies et contextualisées dans un
+			<lb/>
+			ensemble théorique plus large. L&apos;idée est donc de formuler « de nouveaux concepts,
+			<lb/>
+			ou [de donner] un sens nouveau aux anciens » (<ref type="biblio">Quivy
+			&amp; Van Campenhoudt, 2006,
+				<lb/>
+			</ref>
+			p. 100), dans le but précis de produire de la théorie. Qui plus est, les recherches de ce
+			<lb/>
+			type visent
+			<lb/>
+		</p>
+		
+		<p>[…] à produire des énoncés théoriques à partir d&apos;autres énoncés
+			<lb/>
+			théoriques. À l&apos;inverse des recherches de type terrain, elle[s] ne
+			<lb/>
+			travaille[nt] pas à partir de données empiriques; l&apos;écrit, le texte, constitue
+			<lb/>
+			donc la première source de ses énoncés (Van
+			<ref type="biblio">der Maren, 1995)
+				<lb/>
+			</ref>
+			(<ref type="biblio">Martineau, Simard, &amp; Gauthier, 2001, p. 3</ref>).
+			<lb/>
+		</p>
+		
+		<p>Cet intérêt pour le texte permet-il d&apos;établir un lien entre la recherche théorique
+			<lb/>
+			et l&apos;herméneutique?
+			<lb/>
+		</p>
+		
+		<p>On parle d&apos;herméneutique lorsque « le but est l&apos;interprétation de textes [dans
+			<lb/>
+			une approche interprétative qui] se veut objective dans le sens où elle s&apos;intéresse aux
+			<lb/> &quot;structures objectives&quot; du sens dans le texte (par opposition au sens subjectif, à
+			<lb/>
+			l&apos;intentionnalité des acteurs) » (<ref type="biblio">Gerber, 2007, p. 3</ref>). Ainsi, l&apos;« herméneutique générale
+			<lb/>
+			s&apos;efforce à la compréhension des discours qui présentent un savoir et transmettent un
+			<lb/>
+			savoir collectif [...] elle s&apos;intéresse donc par essence à la tradition et à la culture »
+			<lb/>
+			(<ref type="biblio">Berner, 2001, p. 45</ref>). <ref type="biblio">Gerber (2007)</ref> cite des chercheurs comme Oevermann et
+			<lb/>
+			Reichertz et explique « que leur approche était performante pour l&apos;interprétation de
+			<lb/>
+			tous types de données qualitatives » (p. 3). Ainsi, selon Oevermann (<ref type="biblio">1979, dans
+			<lb/>
+				Gerber, 2007</ref>), toute forme de données, si elle est considérée sous forme de texte,
+			<lb/>
+			peut être analysée en fonction de cette approche. Par ailleurs, « [l]a justification
+			<lb/>
+			théorique d&apos;une méthode herméneutique trouve son origine dans une conception de la
+			<lb/>
+			socialisation basée sur le langage, et une conception des sciences sociales tributaires
+			<lb/>
+			de la textualité du monde » (<ref type="biblio">Gerber, 2007, p. 4</ref>). Nous reviendrons sur cette dernière
+			<lb/>
+			observation au moment de discuter des particularités de notre positionnement
+			<lb/>
+			disciplinaire et de notre conception de la communication.
+			<lb/>
+		</p>
+		
+		<p>Pour le moment, retenons qu&apos;herméneutique et recherche théorique poursuivent
+			<lb/>
+			un objectif similaire de compréhension des productions de sens, inscrites dans un
+			<lb/>
+			contexte social. Cependant, l&apos;approche de l&apos;herméneute se penche principalement sur
+			<lb/>
+			le langage comme véhicule du sens qu&apos;il tente de mettre en lumière. Plus encore, il
+			<lb/>
+			« s&apos;intéress[e] non au sens subjectif du locuteur, mais au sens objectif, créé par
+			<lb/>
+			recours aux règles objectives inhérentes à toute action langagière, et observable dans
+			<lb/>
+			toute reproduction textuelle de cette action » (<ref type="biblio">Gerber, 2007, p. 4</ref>), ce qui rompt avec
+			<lb/>
+			notre intérêt de recherche. En effet, pour nous, le sens émerge d&apos;une vision
+			<lb/>
+			fonctionnelle de l&apos;environnement social, qui permet à l&apos;individu ou au groupe de
+			<lb/>
+			rendre intelligibles ses comportements. Dans cette perspective, nous nous inscrivons
+			<lb/>
+			davantage dans la lignée des chercheurs qui envisagent que c&apos;est plutôt dans
+			<lb/>
+			l&apos;intention du locuteur que se situe le sens et non uniquement dans les normes du
+			<lb/>
+			langage qu&apos;il utilise. Le langage, dans cette perspective, est perçu comme un élément
+			<lb/>
+			du contexte social de production du message. Pour nous, le sens se situe dans « [l]es
+			<lb/>
+			choix que font les locuteurs parmi l&apos;ensemble des possibles [pour constituer] la
+			<lb/>
+			structure de sens » (<ref type="biblio">Gerber, 2007, p. 5</ref>). Ces choix relèvent d&apos;influences diverses,
+			<lb/>
+			socialement ancrées. Nous parlerons, en ce sens, de représentations sociales. C&apos;est
+			<lb/>
+			avec ces lunettes que nous appréhendons la compréhension des phénomènes sociaux
+			<lb/>
+			qui nous intéressent. Dans cette optique, Gerber (2007) ajoute qu&apos;« il importe de
+			<lb/>
+			maintenir une nette séparation conceptuelle entre la structure de sens objective d&apos;un
+			<lb/>
+			texte d&apos;une part, et le sens subjectif des sujets qui produisent le texte d&apos;autre part,
+			<lb/>
+			pour s&apos;intéresser uniquement à la première » (p. 5); nous ne pouvons nous ranger
+			<lb/>
+			derrière cette approche. Notre souci de compréhension et de théorisation nous
+			<lb/>
+			amènera en effet à vouloir, entre autres, considérer le sens attribué par les sujets eux-<lb/>mêmes. Dans le
+			cas qui nous occupe, les sujets sont des auteurs d&apos;écrits scientifiques
+			<lb/>
+			que nous analyserons afin de critiquer leur pertinence scientifique et en revoir les
+			<lb/>
+			prérogatives si nécessaire. Ainsi, dans le même sens qu&apos;Habermas
+			<ref type="biblio">(1981, dans
+				<lb/>
+				Ipperciel, 1997
+			</ref>
+			), nous nous intéressons à « un au-delà du langage naturel et du
+			<lb/>
+			contexte dialogique » (<ref type="biblio">Ipperciel, 1997, p. 103</ref>), où se situe un sens construit
+			<lb/>
+			socialement, ce qui sort en soi du cadre de l&apos;herméneutique telle que décrite plus tôt.
+			<lb/>
+		</p>
+		
+		<p>Entre ces deux types de recherches, théorique et herméneutique, il apparaît
+			<lb/>
+			intéressant d&apos;utiliser une méthodologie proprement inductive comme la MTE pour
+			<lb/>
+			circonscrire la communication sociale en tant que discipline. Chacune des voies offre
+			<lb/>
+			une issue intéressante pour parvenir à ce positionnement.
+			<lb/>
+		</p>
+		
+		<p>Pour notre part, le parcours emprunté jusqu&apos;ici nous a amenée à concevoir la
+			<lb/>
+			recherche théorique comme une étape préalable à la recherche empirique, une
+			<lb/>
+			démarche dite traditionnelle qui comporte des actions relativement normalisées
+			<lb/>
+			comme observer, formuler des hypothèses et les vérifier. Dans cette optique, il nous
+			<lb/>
+			apparaît important d&apos;illustrer le sens des écrits théoriques par l&apos;opérationnalisation sur
+			<lb/>
+			le terrain. Par ailleurs, nous avons maintenant été ouverte à les envisager comme deux
+			<lb/>
+			approches imbriquées. Cette vision correspond à la perspective de la MTE dans la
+			<lb/>
+			mesure où elle permet de « s&apos;assurer que [les] résultats d&apos;analyse proviennent des
+			<lb/>
+			données et non de [nos] préconceptions théoriques » (<ref type="biblio">Guillemette &amp; Luckerhoff,
+			<lb/>
+				2009, p. 10</ref>). Dès lors, les écrits scientifiques peuvent être utilisés comme des
+			<lb/>
+			données à analyser, dans l&apos;objectif de participer à la théorisation par leur remise en
+			<lb/>
+			question. En effet, les constructions théoriques existantes peuvent être confrontées
+			<lb/>
+			entre elles afin d&apos;en faire émerger les particularités et les améliorer. En conséquence,
+			<lb/>
+			la pertinence d&apos;une recherche théorique réside dans « la position épistémologique du
+			<lb/>
+			chercheur et les visées fondamentales de la recherche » (<ref type="biblio">Gohier, 1998, p. 270</ref>). Plus
+			<lb/>
+			encore, l&apos;intérêt pour le type de projet proposé par Gohier (1998) résonne avec la
+			<lb/>
+			pertinence d&apos;adopter un angle de traitement nuancé « entre la recherche de faits
+			<lb/>
+			absolus et l&apos;ignorance des phénomènes du monde sensible à laquelle conduit une
+			<lb/>
+			vision interprétative radicale » (p. 270).
+			<lb/>
+		</p>
+		
+		<p>Enfin, notre souci de théorisation rencontre celui des chercheurs de l&apos;École de
+			<lb/>
+			Chicago qui, comme nous l&apos;avons vu, ont travaillé à fonder la discipline de la
+			<lb/>
+			communication sociale à travers la lunette de l&apos;interactionnisme symbolique. Tout
+			<lb/>
+			comme ces derniers, nous pensons que c&apos;est dans la communication qu&apos;il est possible
+			<lb/>
+			d&apos;appréhender les comportements humains, en plus de situer l&apos;intérêt de nos
+			<lb/>
+			recherches dans l&apos;interprétation des rapports qui s&apos;instaurent dans des contextes
+			<lb/>
+			déterminés. Ainsi, « la communication et non le langage doi[t] fournir le cadre de
+			<lb/>
+			référence au sein duquel [...] la société pourra être définie » (<ref type="biblio">
+			Lohisse, 2006, p. 172</ref>).
+			<lb/>
+			C&apos;est donc à cette perspective que nous accorderons de l&apos;importance pour la suite. En
+			<lb/>
+			effet, l&apos;interactionnisme est, de façon générale, un univers théorique qui « considère
+			<lb/>
+			davantage l&apos;individu dans son contexte social [et qui] se préoccupe également
+			de la
+			<lb/>
+			signification du processus d&apos;interaction à travers l&apos;interprétation des actions, gestes et
+			<lb/>
+			comportements » (<ref type="biblio">Audet &amp; Larouche, 1988, p. 12</ref>). L&apos;interactionnisme se
+			rapproche
+			<lb/>
+			des théories interprétatives en raison du subjectivisme qui y est associé. Pour nous,
+			<lb/>
+			cette posture confirme sa pertinence dans le cadre d&apos;une recherche qui vise à explorer
+			<lb/>
+			et à établir des liens théoriques en communication sociale, plus précisément avec le
+			<lb/>
+			concept de représentations sociales. Ce sont justement les éléments que nous
+			<lb/>
+			abordons maintenant.
+			<lb/>
+		</p>
+		
+		<head>4. Notre perspective théorique : communication et représentations sociales
+			<lb/>
+		</head>
+		
+		<p>D&apos;emblée, précisons que nous nous inscrivons dans la lignée des chercheurs qui ont
+			<lb/>
+			jeté les bases théoriques de la communication sociale pour mettre en lumière ses
+			<lb/>
+			caractéristiques fondamentales. Ainsi, nous accordons à la communication une nature
+			<lb/>
+			sociale d&apos;abord en considération de son caractère humain, ensuite en raison de son
+			<lb/>
+			intérêt pour les discours et leur portée, mais surtout parce que nous l&apos;envisageons
+			<lb/>
+			« comme un processus interprétatif (on essaie implicitement de donner ensemble un
+			<lb/>
+			sens, une direction à des faits ou des faits de langage) » (<ref type="biblio">Katambwe, 2008, p. 7</ref>). Il
+			<lb/>
+			s&apos;agit clairement d&apos;une perspective qui permet de comprendre des phénomènes qui
+			<lb/>
+			appartiennent à une réalité construite dans la négociation. Par ailleurs, le contexte
+			<lb/>
+			actuel dans lequel nous évoluons nous invite à accorder une attention particulière à
+			<lb/>
+			l&apos;analyse des relations. Ce sont ces éléments qui sont à la base de notre
+			<lb/>
+			questionnement sur le rôle des médias dans les discours et leur effet sur la dynamique
+			<lb/>
+			sociale. Incidemment, au-delà de la transmission des contenus manifestes, les
+			<lb/>
+			messages révèlent une symbolique qui émerge des interactions, ce qui nous intéresse
+			<lb/>
+			particulièrement. Plus précisément, il s&apos;agit pour nous d&apos;un objectif de
+			<lb/>
+			compréhension et de théorisation par l&apos;interprétation du contexte de production des
+			<lb/>
+			écrits scientifiques et des discours qui se disputent une place dans l&apos;espace public.
+			<lb/>
+		</p>
+		
+		<p>D&apos;ailleurs, l&apos;objet de notre problématique de recherche concerne les interactions
+			<lb/>
+			entre différents acteurs sociaux. En effet, nos sociétés contemporaines semblent
+			<lb/>
+			souffrir d&apos;une montée importante de l&apos;individualisme, bien que la société soit noyée
+			<lb/>
+			dans la multiplication des techniques de diffusion, un des éléments d&apos;une tendance
+			<lb/>
+			qui correspond à ce que nous appellerons crise des représentations. C&apos;est d&apos;ailleurs en
+			<lb/>
+			s&apos;inspirant des observations d&apos;autres chercheurs que nous en arrivons à cette
+			<lb/>
+			proposition. En effet, <ref type="biblio">Rosanvallon (2006)</ref> parle de « l&apos;impolitique » (p. 257), Brin,
+			<lb/>
+			Giasson et <ref type="biblio">Sauvageau (2010)</ref> mettent en lumière ce qu&apos;ils appellent une « crise des
+			<lb/>
+			perceptions » (p. 432), alors que pour <ref type="biblio">Della Porta (2011)</ref> il s&apos;agirait d&apos;une crise des
+			<lb/>
+			conceptions traditionnelle, libérale (représentative) de la démocratie, des critiques qui
+			<lb/>
+			révèlent le même paradoxe, le même malaise social (<ref type="biblio">Nadeau &amp; Giasson, 2003</ref>).
+			<lb/>
+			Effectivement, l&apos;actuel climat de tensions politiques et sociales se caractérise par
+			<lb/>
+			l&apos;incapacité des systèmes politiques à satisfaire l&apos;ensemble des acteurs sociaux et
+			<lb/>
+			ainsi représenter et défendre leurs intérêts. On assisterait alors à la consolidation
+			<lb/>
+			d&apos;espaces de luttes pour l&apos;attention du plus grand nombre, dans lesquels les médias
+			<lb/>
+			agiraient, entre autres, sur la sensibilité du public (Neveu, 2011). Toutes ces questions
+			<lb/>
+			nous amènent à penser que les médias ont une influence sur les opportunités
+			<lb/>
+			discursives des groupes, et en particulier sur les mouvements sociaux, à occuper la
+			<lb/>
+			scène.
+			<lb/>
+		</p>
+		
+		<p>Discuter de ces considérations nous pousse donc à vouloir établir des liens entre
+			<lb/>
+			représentations et discours médiatiques dans nos recherches. Dans la prochaine partie
+			<lb/>
+			de l&apos;article, nous préciserons notre vision du concept de représentations sociales en
+			<lb/>
+			raison de son caractère polysémique et de ses utilisations variées dans les différentes
+			<lb/>
+			disciplines des sciences sociales (<ref type="biblio">Lalancette, 2011</ref>). Ainsi, il nous apparaît
+			important
+			<lb/>
+			d&apos;y prêter une attention particulière pour mieux comprendre de quelle manière ce
+			<lb/>
+			concept peut contribuer à appréhender les phénomènes de production et de réception
+			<lb/>
+			de discours au sein d&apos;une société, plus précisément en ce qui a trait aux mobilisations
+			<lb/>
+			sociales.
+			<lb/>
+		</p>
+		
+		<p>Émile Durkheim est le premier à évoquer la notion de représentation dans ses
+			<lb/>
+			travaux sociologiques sur les religions et les mythes. Il existerait selon lui deux types
+			<lb/>
+			de représentations : individuelles et collectives. La première catégorie relèverait de la
+			<lb/>
+			prise en compte de l&apos;individu, c&apos;est-à-dire de sa conscience et de sa mémoire qui sont
+			<lb/>
+			alimentées de l&apos;extérieur et qui s&apos;influencent mutuellement. La deuxième catégorie
+			<lb/>
+			serait issue de la première et exprimerait une réalité qui lui est propre par
+			<lb/>
+			l&apos;association des consciences individuelles vers la socialisation (<ref type="biblio">Seca, 2010</ref>).
+			<lb/>
+		</p>
+		
+		<p>Par la suite, s&apos;inspirant de Durkheim, les travaux du psychosociologue Serge
+			<lb/>
+			Moscovici vont faire en sorte que le concept de représentation sociale devienne un
+			<lb/>
+			champ d&apos;études à part entière. En effet, plusieurs chercheurs s&apos;inscrivent dans le
+			<lb/>
+			prolongement de ses travaux (<ref type="biblio">Jodelet, Doise et Herzlich, notamment</ref>). Dès le début,
+			<lb/>
+			Moscovici s&apos;efforce de faire ressortir le caractère scientifique et politique de la
+			<lb/>
+			compréhension des pratiques sociales et des perceptions qui en découlent. Il
+			<lb/>
+			s&apos;intéresse aussi à leur transformation dans un processus de dynamique contextuelle.
+			<lb/>
+			C&apos;est à travers l&apos;étude de la représentation de la psychanalyse, alors une science
+			<lb/>
+			nouvelle pour la société française, que Moscovici élabore sa théorie dans le but
+			<lb/>
+			d&apos;expliquer la façon dont les individus construisent leurs rapports à la réalité par la
+			<lb/>
+			rétention de connaissances et l&apos;intégration de comportements aux schèmes de pensée
+			<lb/>
+			préexistants (<ref type="biblio">Seca, 2010</ref>).
+			<lb/>
+		</p>
+		
+		<p>Avec son ouvrage devenu incontournable, La Psychanalyse, son image et son
+			<lb/>
+			public, <ref type="biblio">Moscovici (1961)</ref> donne une nouvelle perspective à l&apos;étude des
+			<lb/>
+			représentations sociales. Il rompt avec la vision durkheimienne classique pour
+			<lb/>
+			emprunter un point de vue plus constructiviste du concept. En effet, les
+			<lb/>
+			représentations sociales ne sont plus en partie préexistantes à l&apos;individu. Selon
+			<lb/>
+			<ref type="biblio">Moscovici (1984)</ref>, les représentations sociales sont des cadres de références qui sont
+			<lb/>
+			partagés à l&apos;intérieur des communautés. Ils constituent des principes qui guident les
+			<lb/>
+			opinions et les perceptions en lien avec des objets spécifiques. Ainsi, les
+			<lb/>
+			représentations sociales peuvent être envisagées comme étant partie prenante de tous
+			<lb/>
+			les rapports sociaux qui s&apos;instaurent quotidiennement. Ces représentations deviennent
+			<lb/>
+			des constructions de sens autour desquelles les membres d&apos;une communauté
+			<lb/>
+			s&apos;entendent et s&apos;y réfèrent de façon commune pour en dégager des significations. Les
+			<lb/>
+			chercheurs envisagent que les représentations sociales seront différentes selon les
+			<lb/>
+			groupes et leurs membres, ces différences s&apos;appréhenderont du point de vue de leurs
+			<lb/>
+			connaissances et de leurs comportements. De ces éléments, retenons principalement
+			<lb/>
+			que les représentations sociales s&apos;élaborent par un processus d&apos;échange et
+			<lb/>
+			d&apos;interaction collective qui fait émerger un sens commun propre à une société, à une
+			<lb/>
+			communauté, en plus de constituer l&apos;ensemble des possibilités de communication
+			<lb/>
+			dans un contexte donné (<ref type="biblio">Moscovici, 1986</ref>). Qui plus est, il est intéressant de voir que,
+			<lb/>
+			selon les travaux de <ref type="biblio">Moscovici (1994)</ref>, les représentations concernent habituellement
+			<lb/>
+			un enjeu public. En effet, l&apos;importance d&apos;une représentation peut notamment être
+			<lb/>
+			alimentée par les médias qui construisent eux aussi des représentations, en
+			<lb/>
+			l&apos;occurrence médiatiques. Par rapport à celles-ci, les acteurs sociaux doivent se
+			<lb/>
+			positionner en faisant appel à ce que Moscovici nomme leurs croyances existantes.
+			<lb/>
+			Lorsqu&apos;elles sont partagées par un grand nombre de personnes au sein d&apos;une société
+			<lb/>
+			donnée, la stabilité des représentations atteint un niveau tel que les opinions sont
+			<lb/>
+			consolidées.
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Suivant Seca (2010)</ref>, il est possible de penser que les représentations sociales
+			<lb/>
+			seraient formalisées dans le discours et que ces discours pourraient concourir à
+			<lb/>
+			modifier les attitudes, les croyances et les façons de concevoir les situations. En ce
+			<lb/>
+			sens, il est intéressant de voir que les représentations évoluent en fonction des
+			<lb/>
+			discours qui sont mis de l&apos;avant dans l&apos;espace public. En plus de mettre en lumière le
+			<lb/>
+			lien entre représentations et pratiques sociales, les travaux
+			<ref type="biblio">de Flament (1994)
+				<lb/>
+			</ref>
+			avancent que les discours s&apos;adaptent à l&apos;évolution des représentations. Ces idées nous
+			<lb/>
+			portent ainsi à réfléchir au rôle des médias dans un contexte d&apos;évolution des discours
+			<lb/>
+			dans une société. En relevant l&apos;exemple de la couverture médiatique des actions
+			<lb/>
+			collectives des mouvements sociaux, le lien se trace entre le discours véhiculé par les
+			<lb/>
+			médias et les représentations ou pratiques sociales en évolution. Dans cette
+			<lb/>
+			perspective, notre intérêt est d&apos;explorer le rôle des médias et leur influence sur les
+			<lb/>
+			discours.
+			<lb/>
+		</p>
+		
+		<p>Par conséquent, dans le prolongement de <ref type="biblio">Lalancette (2011)</ref>, nous sommes
+			<lb/>
+			amenée à porter notre regard sur les stratégies discursives utilisées dans la
+			<lb/>
+			construction des représentations sociales afin d&apos;en appréhender la teneur et
+			<lb/>
+			l&apos;efficacité, pour ainsi être en mesure d&apos;apprécier leur aptitude à influencer le sens,
+			<lb/>
+			son interprétation et celle des comportements en société. Les médias semblent
+			<lb/>
+			contribuer à offrir des représentations positives ou négatives des mouvements
+			<lb/>
+			sociaux. Quels éléments sont mis de l&apos;avant dans les contenus publiés qui pourraient
+			<lb/>
+			contribuer à consolider les significations autour d&apos;objets spécifiques?
+			<lb/>
+		</p>
+		
+		<p>Pour comprendre l&apos;effet des médias sur les stratégies des mouvements, nous
+			<lb/>
+			nous appuyons sur des « concepts sensibilisateurs » tels que proposés par <ref type="biblio">Guillemette
+			<lb/>
+			et Luckerhoff (2006, p. 14</ref>). Ces concepts correspondent aux « perspectives (
+			<ref type="biblio">Glaser &amp;<lb/>
+				Strauss, 1967
+			</ref>
+			) et [aux] points d&apos;inspiration aidant à proposer [des pistes pour] guider
+			<lb/>
+			les premières activités de partage, de collecte des données et d&apos;analyse » (<ref type="biblio">Ben Affana,
+			<lb/>
+				2012, p. 144</ref>). Ils constituent des lunettes qui permettent au chercheur de voir les
+			<lb/>
+			nuances concernant le phénomène étudié. Ainsi, sans avoir la même fonction qu&apos;un
+			<lb/>
+			cadre théorique contraignant, ils influenceront le regard pour lui permettre de décoder
+			<lb/>
+			le sens. C&apos;est en partie grâce à eux que le chercheur est « capable de dépasser
+			<lb/>
+			l&apos;évidence de premier niveau pour découvrir ce qui semble caché au sens commun »
+			<lb/>
+			(<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, p. 13</ref>). Ces concepts sensibilisateurs, par leur
+			<lb/>
+			richesse, guident le chercheur pour lui permettre de reconnaître plus facilement les
+			<lb/>
+			données saillantes qui émergent de l&apos;analyse. « [C]e sont leurs savoirs expérientiels,
+			<lb/>
+			théoriques et culturels » (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, p. 14</ref>) qui vont mener à
+			<lb/>
+			identifier les cohérences, les récurrences et les divergences entre les constructions
+			<lb/>
+			émergentes et les connaissances déjà acquises. Ils amèneront le chercheur à réorienter
+			<lb/>
+			et structurer sa pensée dans le but de constituer un véritable outil de compréhension et
+			<lb/>
+			de prise sur le réel. Ces concepts sensibilisateurs sont donc liés à leurs univers
+			<lb/>
+			théoriques respectifs, ce qui positionne le chercheur qui les utilise. Puisqu&apos;il adopte
+			<lb/>
+			une posture inductive, les concepts sensibilisateurs qui l&apos;accompagnent seront appelés
+			<lb/>
+			à évoluer avec la démarche. En principe, ils participeront à la cohérence de la
+			<lb/>
+			démarche de recherche relativement à l&apos;approche utilisée. En effet, chaque approche
+			<lb/>
+			de recherche rivalise avec d&apos;autres formes de constructions théoriques et empiriques
+			<lb/>
+			de production des connaissances et requiert la possibilité pour quiconque voudrait
+			<lb/>
+			évaluer la pertinence des résultats de pouvoir revenir sur la démarche. C&apos;est de cette
+			<lb/>
+			façon que les résultats d&apos;une recherche qualitative seront acceptés et légitimés par la
+			<lb/>
+			communauté.
+			<lb/>
+		</p>
+		
+		<p>Dans le cadre d&apos;une recherche théorique, il devient possible pour nous de tracer
+			<lb/>
+			les liens conceptuels qui existent entre les différents paradigmes de la communication
+			<lb/>
+			sociale qui s&apos;intéressent à la question de la médiatisation de l&apos;action collective
+			<lb/>
+			protestataire. Pour nous, il s&apos;agirait de réaliser une analyse empirique des écrits
+			<lb/>
+			théoriques afin de dégager des concepts qui s&apos;inscriraient davantage dans la lignée
+			<lb/>
+			disciplinaire de la communication sociale. Ainsi, la MTE constitue une méthode à
+			<lb/>
+			privilégier dans un objectif de théorisation, quand on veut « envisager de nouvelles
+			<lb/>
+			approches théoriques et méthodologiques » (<ref type="biblio">Katambwe, 2011, p. 9</ref>). Par ailleurs, la
+			<lb/>
+			MTE nous permet de prendre une distance par rapport aux auteurs pour approfondir
+			<lb/>
+			la réflexion théorique et comprendre comment le discours scientifique conceptualise
+			<lb/>
+			notre objet et ainsi l&apos;inscrire dans notre discipline. Par l&apos;analyse de contenu des écrits
+			<lb/>
+			scientifiques, nous devrions être capable de faire émerger les fondements de l&apos;état
+			<lb/>
+			actuel des connaissances.
+			<lb/>
+		</p>
+		
+		<p>Comme nous l&apos;avons constaté plus tôt, l&apos;intérêt du champ de la communication
+			<lb/>
+			sociale se situe autant dans l&apos;individuel que dans le collectif, afin d&apos;analyser des
+			<lb/>
+			phénomènes d&apos;interactions qui placent les acteurs et entités en relation. Joindre ces
+			<lb/>
+			questionnements constitue un défi pour le positionnement d&apos;une telle discipline dans
+			<lb/>
+			le champ des sciences sociales. C&apos;est précisément cet objectif que nous visons dans le
+			<lb/>
+			choix des concepts qui vont guider nos analyses futures.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Dans cet article, nous avons tenté de faire valoir l&apos;intérêt de la recherche théorique en
+			<lb/>
+			communication sociale parce qu&apos;elle permet d&apos;explorer, « par son effort de
+			<lb/>
+			conceptualisation et de modélisation [...] à partir de postulats » (<ref type="biblio">Lacelle, 2009, p. 57</ref>),
+			<lb/>
+			et d&apos;élaborer un modèle répondant à plusieurs fonctions : décrire, interpréter,
+			<lb/>
+			prescrire ou prédire (<ref type="biblio">Lacelle, 2009; Sorin, 1996</ref>). La légitimité scientifique d&apos;utiliser
+			<lb/>
+			la MTE comme démarche de recherche se confirme devant
+			<lb/>
+		</p>
+		
+		<p>[…] son opérationnalisation méthodique de l&apos;induction […,] les principes
+			<lb/>
+			de l&apos;exploration et de l&apos;inspection, l&apos;application du critère de l&apos;emergent-<lb/>fit, l&apos;échantillonnage
+			théorique, la manière particulière d&apos;avoir recours
+			<lb/>
+			aux écrits scientifiques, la sensibilité théorique et la circularité de la
+			<lb/>
+			démarche (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, pp. 16-17</ref>).
+			<lb/>
+		</p>
+		
+		<p>Plus encore, notre intérêt pour la question des représentations à l&apos;intérieur de la
+			<lb/>
+			discipline de la communication sociale atteint l&apos;objectif de théorisation propre à la
+			<lb/>
+			MTE. Nous pensons que davantage de recherches inscrites dans cette perspective
+			<lb/>
+			pourraient contribuer plus largement aux champs des connaissances en sciences
+			<lb/>
+			sociales.
+			<lb/>
+		</p>
+		
+		<p>Ultimement, ce texte aura permis d&apos;envisager le fait de considérer les écrits
+			<lb/>
+			scientifiques comme des données à analyser produites dans un contexte socialement
+			<lb/>
+			construit, devenant en soi le corpus d&apos;une recherche scientifique pertinente. Par
+			<lb/>
+			ailleurs, les éléments proposés pourraient certainement nous être utiles dans nos
+			<lb/>
+			recherches personnelles. Avec une telle approche, nous pourrions arriver à identifier
+			<lb/>
+			les stratégies discursives utilisées pour construire les représentations sociales.
+			<lb/>
+			L&apos;induction pourrait certainement nous permettre d&apos;obtenir une compréhension
+			<lb/>
+			approfondie des enjeux contemporains qui nous préoccupent. En effet, une telle
+			<lb/>
+			démarche permet d&apos;entrevoir de nouvelles pistes d&apos;analyse pour explorer toute
+			<lb/>
+			situation qui met en scène des groupes dans leur processus de construction identitaire
+			<lb/>
+			et de socialisation. Analyser les stratégies discursives utilisées pour construire les
+			<lb/>
+			représentations de l&apos;identité des groupes de façon inductive semble être une démarche
+			<lb/>
+			à privilégier afin de faire ressortir les différentes positions qui amènent les débats à
+			<lb/>
+			prendre de l&apos;ampleur dans l&apos;espace public. C&apos;est d&apos;ailleurs dans cette voie que nous
+			<lb/>
+			envisageons de nous diriger dans nos futures recherches.
+			<lb/>
+		</p>
+		
+		<head>Références
+			<lb/>
+		</head>
+	
+	</text>
+</tei>

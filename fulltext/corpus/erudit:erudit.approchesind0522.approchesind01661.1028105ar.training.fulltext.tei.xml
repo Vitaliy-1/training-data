@@ -1,0 +1,2289 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Cet article comporte deux visées principales. Premièrement, expliciter la démarche
+			<lb/>
+			analytique dans la méthodologie de la théorisation enracinée (MTE) afin de permettre
+			<lb/>
+			aux étudiants ou aux chercheurs peu familiarisés avec cette approche d&apos;en suivre le
+			<lb/>
+			cheminement, pas à pas. Deuxièmement, parallèlement, rendre compte des résultats
+			<lb/>
+			d&apos;une étude sur le rôle des aidants dans le traitement pharmacologique 1 de leur proche
+			<lb/>
+			atteint de la maladie d&apos;Alzheimer (MA), pour qui s&apos;intéresse à cet objet d&apos;étude peu
+			<lb/>
+			connu. Pour ce faire, en première et seconde parties de l&apos;article sont posés le contexte
+			<lb/>
+			de l&apos;étude ainsi que le paradigme épistémologique et la méthodologie justifiant le
+			<lb/>
+			choix de la MTE. La troisième partie illustre le processus d&apos;analyse des données :
+			<lb/>
+			description, à l&apos;aide d&apos;exemples concrets, des étapes des codages ouvert et axial; mise
+			<lb/>
+			en relation des propriétés et dimensions; élaboration de schémas propres à la
+			<lb/>
+			théorisation enracinée. La dernière partie sert à détailler, à l&apos;aide des mémos
+			<lb/>
+			théoriques formulés tout au long de l&apos;étude, la manière dont s&apos;est construit l&apos;un des
+			<lb/>
+			deux modèles théoriques enracinés dans les données, soit le processus d&apos;engagement
+			<lb/>
+			des aidants dans le traitement pharmacologique de leur proche atteint de la MA.
+			<lb/>
+		</p>
+		
+		<head>1. Mise en contexte de la recherche
+			<lb/>
+		</head>
+		
+		<p>Cet article traite spécifiquement de l&apos;engagement des aidants dans le traitement
+			<lb/>
+			pharmacologique de leur proche.
+			<lb/>
+		</p>
+		
+		<p>Peu d&apos;écrits abordent la question du rôle des aidants à l&apos;égard du traitement
+			<lb/>
+			pharmacologique de la MA bien qu&apos;il implique quantité de tâches et d&apos;enjeux
+			<lb/>
+			éthiques inhérents au rapport de responsabilité envers l&apos;autre (
+			<ref type="biblio">Éthier, 2012; Hagerty
+				<lb/>
+				Lingler, Martire, &amp; Schultz, 2005; Lindstrom et al., 2006
+			</ref>
+			). En effet, le traitement de
+			<lb/>
+			la MA nécessite la contribution des aidants : ce sont souvent eux qui prennent la
+			<lb/>
+			décision d&apos;y recourir et qui donnent le consentement; ils s&apos;informent également sur
+			<lb/>
+			les différentes options de traitement; ils effectuent la gestion et le suivi de la
+			<lb/>
+			médication; ils gèrent les conséquences des effets indésirables; ils notent les
+			<lb/>
+			améliorations et, le cas échéant, décident de cesser le traitement pour leur proche
+			<lb/>
+			(<ref type="biblio">Brodaty &amp; Green, 2002</ref>). En somme, les aidants occupent une place centrale dans
+			le
+			<lb/>
+			traitement de la MA de leur proche, dès le consentement et lors de plusieurs étapes
+			<lb/>
+			pendant la thérapie. Cependant, peu d&apos;études s&apos;y intéressent, encore moins
+			<lb/>
+			qualitatives, et les études quantitatives sur les améliorations cognitives, fonctionnelles
+			<lb/>
+			ou comportementales du traitement anticholinestérasique contre la MA ne tiennent
+			<lb/>
+			pas compte des facteurs comme l&apos;environnement, la qualité des relations et le bien-<lb/>être de la
+			dyade aidant-aidé. Ces facteurs jouent pourtant un rôle de premier plan dans
+			<lb/>
+			la détérioration ou la stabilisation de la maladie (<ref type="biblio">Post, 2001</ref>).
+			<lb/>
+		</p>
+		
+		<head>2. Le paradigme épistémologique justifiant l&apos;utilisation de la MTE
+			<lb/>
+		</head>
+		
+		<p>Le paradigme épistémologique socioconstructiviste constitue la base de notre étude
+			<lb/>
+			(<ref type="biblio">Vygotsky, 1978</ref>), car il implique des réalités multiples, holistiques et
+			construites à
+			<lb/>
+			partir d&apos;intersubjectivités et d&apos;interactions sociales. L&apos;observateur et l&apos;observé y
+			sont
+			<lb/>
+			inséparables et en constante interaction. En outre, les hypothèses valables sont celles
+			<lb/>
+			qui tiennent compte du contexte dans lequel elles sont formulées. Tous les
+			<lb/>
+			phénomènes sont aussi en interaction de sorte qu&apos;il s&apos;avère impossible de distinguer
+			<lb/>
+			qu&apos;une seule relation de cause à effet. Enfin, cette approche stipule que les valeurs
+			<lb/>
+			des chercheurs comme celle des répondants sont prises en considération dans le
+			<lb/>
+			processus de la recherche (<ref type="biblio">Lincoln &amp; Guba, 1985</ref>).
+			<lb/>
+		</p>
+		
+		<p>Parce qu&apos;il s&apos;agissait de rencontrer des aidants pour comprendre leur
+			<lb/>
+			engagement dans le traitement par leur manière de vivre, de nommer cette expérience
+			<lb/>
+			et de lui donner un sens dans le contexte de leur interaction avec l&apos;aidé et le système
+			<lb/>
+			de santé, l&apos;étude requiert un point de vue épistémologique socioconstructiviste et une
+			<lb/>
+			méthodologie qualitative. La méthodologie qualitative comporte des caractéristiques
+			<lb/>
+			particulières qui la distinguent des recherches quantitatives. La nature des données
+			<lb/>
+			(expérience, perception, sens des phénomènes), le contact direct et constant avec le
+			<lb/>
+			terrain pour y recueillir les données, mais aussi pour y découvrir des questions, et
+			<lb/>
+			enfin, le caractère itératif du processus de recherche qui implique un travail réflexif
+			<lb/>
+			sur le sens qui s&apos;élabore en cours d&apos;analyse fondée sur la confrontation des données
+			<lb/>
+			empiriques et théoriques entre la recension des écrits, la formulation des questions, la
+			<lb/>
+			collecte et l&apos;analyse des données figurent parmi ces caractéristiques (
+			<ref type="biblio">Deslauriers &amp;<lb/>
+				Kérésit, 1997
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Parmi les méthodologies qualitatives à notre disposition, la MTE semblait le
+			<lb/>
+			choix le plus judicieux. D&apos;abord, parce qu&apos;elle implique un degré plus élevé de
+			<lb/>
+			systématisation de la démarche et un objet plus large par rapport aux autres méthodes
+			<lb/>
+			qualitatives (<ref type="biblio">Laperrière, 1982</ref>). Ensuite, l&apos;objet d&apos;étude a été peu exploré. Les études
+			<lb/>
+			qui concernent le traitement pharmacologique de la MA se consacrent essentiellement
+			<lb/>
+			aux effets du traitement sur la personne atteinte et aux impacts indirects sur les
+			<lb/>
+			aidants. Peu de données existent sur le point de vue des aidants à propos de leur
+			<lb/>
+			expérience et de leur implication dans le traitement. La MTE a effectivement
+			<lb/>
+			initialement été élaborée par <ref type="biblio">Glaser et Strauss (1967)</ref> en réaction aux approches
+			<lb/>
+			hypothético-déductives et visait particulièrement à se distancer du behaviorisme et du
+			<lb/>
+			fonctionnalisme (<ref type="biblio">Labelle, Navarro-Flores, &amp; Pasquero, 2012</ref>) dans le but de
+			<lb/>
+			permettre le développement d&apos;une théorie enracinée dans la réalité empirique
+			<lb/>
+			spécialement pour des objets de recherche peu étudiés et relevant de processus
+			<lb/>
+			complexes (<ref type="biblio">Glaser &amp; Strauss, 1967</ref>). La MTE vue par Strauss et Corbin (2004) est
+			<lb/>
+			privilégiée en raison du fait qu&apos;elle s&apos;appuie sur une posture scientifique, qu&apos;elle
+			<lb/>
+			propose une méthode inductive de collecte et d&apos;analyse des données et qu&apos;elle vise la
+			<lb/>
+			construction d&apos;une théorie (<ref type="biblio">Labelle et al., 2012</ref>).
+			<lb/>
+		</p>
+		
+		<p>Anselm Strauss (1916-1996) a grandement été influencé dans l&apos;élaboration de
+			<lb/>
+			la MTE par G. H. Mead, R. Park, W. Thomas, J. Dewey, E. Hugues et H. Blumer,
+			<lb/>
+			tous de l&apos;École de Chicago. La contribution particulière de Strauss consiste en la
+			<lb/>
+			définition des fondements suivants :
+			<lb/>
+		</p>
+		
+		<p>
+			1) le besoin de faire du terrain pour découvrir vraiment ce qui se passe;
+			<lb/>
+			2) la pertinence de la théorie, enracinée dans les données, pour le
+			<lb/>
+			développement de la discipline et pour fonder l&apos;action sociale; 3) la
+			<lb/>
+			complexité et la variabilité des phénomènes et de l&apos;action humaine; 4) la
+			<lb/>
+			croyance dans le fait que les personnes sont des acteurs qui participent
+			<lb/>
+			activement à la résolution des situations problématiques; 5) la découverte
+			<lb/>
+			du fait que les personnes agissent en donnant un sens à leurs actions; 6) la
+			<lb/>
+			compréhension que le sens est défini et redéfini par les interactions;
+			<lb/>
+			7) une sensibilité à la nature évolutive et régressive des événements
+			<lb/>
+			(processus); et 8) la corrélation entre les conditions (structure), les actions
+			<lb/>
+			(processus) et les conséquences (<ref type="biblio">Strauss &amp; Corbin, 2004, p. 27</ref>).
+			<lb/>
+		</p>
+		
+		<p>C&apos;est la posture de chercheuses que nous partageons également.
+			<lb/>
+		</p>
+		
+		<p>Considérant la nature de l&apos;étude, la posture épistémologique des chercheuses et
+			<lb/>
+			le choix de la MTE, l&apos;entrevue semi-structurée a été utilisée pour la collecte des
+			<lb/>
+			données. Elle offre une meilleure connaissance des personnes rencontrées et donne
+			<lb/>
+			accès plus directement à leur vision du monde. Les questions d&apos;entrevue ont été
+			<lb/>
+			modifiées en cours de route suivant la théorie en émergence. Globalement, les
+			<lb/>
+			entrevues comptent cinq parties, dont trois touchent le traitement pharmacologique
+			<lb/>
+			puisque les questions abordent l&apos;histoire du traitement, le contexte de la prise de
+			<lb/>
+			décision, les attentes envers le traitement et ses finalités. Enfin, l&apos;entrevue s&apos;attarde
+			<lb/>
+			aux représentations du traitement et du médicament, au sens du rôle dans le
+			<lb/>
+			traitement et au rapport que les répondants entretiennent avec la médication.
+			<lb/>
+		</p>
+		
+		<head>3. L&apos;analyse des données
+			<lb/>
+		</head>
+		
+		<p><ref type="biblio">Strauss et Corbin (2004)</ref> proposent une manière rigoureuse de traiter les données à
+			<lb/>
+			l&apos;aide d&apos;étapes claires, plus ou moins difficiles à appliquer selon l&apos;expérience du
+			<lb/>
+			chercheur et sa capacité à conceptualiser des idées. La posture interprétative
+			<lb/>
+			s&apos;actualise grâce à l&apos;interaction entre les inductions provenant des données et les
+			<lb/>
+			déductions produites à partir de l&apos;analyse du chercheur. L&apos;analyse comprend les
+			<lb/>
+			différents codages (ouvert, axial et sélectif), les mémos et les schémas, ces phases
+			<lb/>
+			étant produites de manière non linéaire de sorte qu&apos;elles s&apos;interrelient et
+			<lb/>
+			s&apos;entrecroisent. L&apos;analyse implique l&apos;examen minutieux et l&apos;interprétation des
+			<lb/>
+			données. Elle demande de la concentration, oblige l&apos;examen des spécificités des
+			<lb/>
+			données, nécessite de considérer les interprétations des personnes interrogées, invite à
+			<lb/>
+			poser beaucoup de questions, à classifier des événements et des conduites, exige enfin
+			<lb/>
+			de procéder à des comparaisons et de formuler des hypothèses (<ref type="biblio">Strauss &amp; Corbin,
+			<lb/>
+				2004</ref>). Plus spécifiquement, les auteurs suggèrent de procéder d&apos;abord par un codage
+			<lb/>
+			ouvert, lequel consiste à identifier les concepts qui émergent à partir de la
+			<lb/>
+			transcription des entrevues, et ce, ligne par ligne. Il s&apos;agit ensuite de regrouper les
+			<lb/>
+			concepts dans des catégories conceptuelles plus abstraites. Le codage ouvert permet
+			<lb/>
+			de découvrir les propriétés (les caractéristiques d&apos;une catégorie et la délimitation qui
+			<lb/>
+			définit et indique le sens) et les dimensions (l&apos;étendue des variations des propriétés
+			<lb/>
+			d&apos;une catégorie) présentes dans les données. Cette catégorisation permet la réduction
+			<lb/>
+			des données, étape essentielle au travail d&apos;analyse (<ref type="biblio">Strauss &amp; Corbin,
+				2004</ref>).
+			<lb/>
+		</p>
+		
+		<head>3.1 Les codages ouvert, axial et sélectif
+			<lb/>
+		</head>
+		
+		<p>Le codage ouvert a été effectué systématiquement pour les six premières entrevues.
+			<lb/>
+			Le <ref type="table">Tableau 1</ref> en reflète un court exemple.
+			<lb/>
+		</p>
+		
+		<p>Le codage axial s&apos;effectue ensuite autour de l&apos;axe de la catégorie. Plus
+			<lb/>
+			précisément, il s&apos;agit 1) d&apos;exposer les propriétés et dimensions des catégories (débuté
+			<lb/>
+			précédemment pour certaines catégories); 2) d&apos;identifier la variété des conditions, des
+			<lb/>
+			actions/interactions et les conséquences associées au phénomène à l&apos;étude; 3) de
+			<lb/>
+			mettre en relation une catégorie avec ses sous-catégories en formulant les liens; et
+			<lb/>
+			4) de rechercher des indices sur la façon dont les catégories les plus importantes
+			<lb/>
+			peuvent être reliées les unes aux autres (<ref type="biblio">Strauss &amp; Corbin, 2004</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le <ref type="table">Tableau 2</ref> présente un exemple de la première étape du codage axial à partir
+			<lb/>
+			de la catégorie Représentation du traitement. Trois principaux concepts ont émergé en
+			<lb/>
+			début d&apos;analyse : le traitement est perçu comme un processus holiste, une obligation
+			<lb/>
+			et un espoir. Le processus holiste provient du fait que les aidants incluent plusieurs
+			<lb/>
+			éléments dans leur définition du traitement. Ainsi, le type de traitement et sa nature
+			<lb/>
+			en sont devenus les propriétés, lesquelles sont précisées par les médicaments, les
+			<lb/>
+			interventions non pharmacologiques et les produits naturels. Quant au concept
+			<lb/>
+			d&apos;obligation de recourir au traitement, il provient du fait que des aidants soulèvent
+			<lb/>
+			son coût élevé, tout en affirmant qu&apos;ils ne pourraient pas ne pas y recourir. Les
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 1
+			<lb/>
+			Exemple de codage ouvert
+			<lb/>
+			Extrait de l&apos;entrevue avec Albert
+			<lb/>
+			(participant 001)
+			<lb/>
+			Codage
+			<lb/>
+			Ah mon Dieu (soupirs), ça défait toute
+			<lb/>
+			une vie (rires) comme on dit <ref type="biblio">[1]</ref>.
+			<lb/>
+			Comme là, on a tout vendu, même les
+			<lb/>
+			meubles, pour pouvoir s&apos;évader <ref type="biblio">[2]</ref>.
+			<lb/>
+			Oui, ça défait une vie, ça défait dans le
+			<lb/>
+			sens (…) Quelqu&apos;un qui décède, il
+			<lb/>
+			décède, mais Annie décède un peu tous
+			<lb/>
+			les jours, c&apos;est un peu ça qui se passe là
+			<lb/>
+			<ref type="biblio">[3]</ref>. Le vivre (soupirs), c&apos;est… C&apos;est
+			<lb/>
+			d&apos;essayer de combler… Aujourd&apos;hui,
+			<lb/>
+			je le vois de cette façon-là, c&apos;est de
+			<lb/>
+			combler le manque <ref type="biblio">[4]</ref>. Ce que je lui
+			<lb/>
+			dis toujours : si on s&apos;en va sur la route,
+			<lb/>
+			on a de la misère à regarder une carte,
+			<lb/>
+			on s&apos;achète un GPS <ref type="biblio">[5]</ref>. Pour la
+			<lb/>
+			bicyclette, bien là on va acheter un
+			<lb/>
+			tandem <ref type="biblio">[6]</ref>, je suis sûr de ne pas te
+			<lb/>
+			perdre, puis c&apos;est sûr que tu vas
+			<lb/>
+			pouvoir pédaler <ref type="biblio">[</ref>7] (rires)!
+			<lb/>
+			[1] Représentation de la maladie : ça
+			<lb/>
+			défait une vie.
+			<lb/>
+			[2] Besoin de fuir cela, se départir de ces
+			<lb/>
+			choses.
+			<lb/>
+			[3] Deuil quotidien des capacités de sa
+			<lb/>
+			conjointe. Mort symbolique de la
+			<lb/>
+			personne aimée et connue.
+			<lb/>
+			[4] Son rôle : pallier les déficits.
+			<lb/>
+			[5] et [6] Stratégies de compensation des
+			<lb/>
+			pertes de sa conjointe.
+			<lb/>
+			[7] Finalité des stratégies utilisées :
+			<lb/>
+			maintien de la sécurité et préservation de
+			<lb/>
+			l&apos;autonomie.
+			<lb/>
+		</figure>
+		
+		<p>aidants ne mentionnent pas si cela aurait été le choix de leur proche, ils ne se posent
+			<lb/>
+			pas non plus la question sur le choix d&apos;y recourir ou non : c&apos;est quelque chose qu&apos;ils
+			<lb/>
+			doivent faire. D&apos;une part parce que le médecin le recommande (obligation externe),
+			<lb/>
+			d&apos;autre part parce qu&apos;ils croient que c&apos;est ce que leur proche s&apos;attend d&apos;eux
+			<lb/>
+			(obligation interne). Ainsi, la provenance du sentiment d&apos;obligation en est la
+			<lb/>
+			propriété. Quant au concept d&apos;espoir, il se décline selon l&apos;efficacité recherchée
+			<lb/>
+			(stabilisation, ralentissement ou guérison de la maladie), la nature des attentes
+			<lb/>
+			(préventive, symptomatique ou curative) ou encore la cible d&apos;impacts attendus
+			<lb/>
+			(cognitif, fonctionnel ou comportemental).
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 2
+			<lb/>
+			Concepts, propriétés et dimensions
+			<lb/>
+			Catégorie : Représentation du traitement
+			<lb/>
+			Concepts
+			<lb/>
+			Propriétés
+			<lb/>
+			Dimensions
+			<lb/>
+			Processus
+			<lb/>
+			holiste
+			<lb/>
+			Obligation
+			<lb/>
+			Espoir
+			<lb/>
+			Type de
+			<lb/>
+			médicaments
+			<lb/>
+			et nature du
+			<lb/>
+			traitement
+			<lb/>
+			Provenance
+			<lb/>
+			du sentiment
+			<lb/>
+			d&apos;obligation
+			<lb/>
+			Efficacité du
+			<lb/>
+			traitement
+			<lb/>
+			Nature des
+			<lb/>
+			attentes
+			<lb/>
+			Cible
+			<lb/>
+			d&apos;impacts
+			<lb/>
+			attendus
+			<lb/>
+			Médicaments pour symptômes cognitifs et
+			<lb/>
+			comportementaux
+			<lb/>
+			Interventions non pharmacologiques
+			<lb/>
+			Produits naturels
+			<lb/>
+			Ordonnance médicale (locus externe, voir
+			<lb/>
+			la note 2)
+			<lb/>
+			Injonction morale (locus interne, voir la
+			<lb/>
+			note 3)
+			<lb/>
+			Stabilisation / ralentissement / guérison
+			<lb/>
+			Préventive / symptomatique / curative
+			<lb/>
+			Cognitif / fonctionnel / comportemental
+			<lb/>
+		</figure>
+		
+		<p>Une fois les propriétés et dimensions identifiées, il s&apos;agit de les mettre en
+			<lb/>
+			relation (voir l&apos;Encadré 1).
+			<lb/>
+			Enfin, le codage sélectif constitue le processus d&apos;intégration et de peaufinage de
+			<lb/>
+			la théorie. Elle débute avec le choix de la catégorie centrale. Pour être centrale, cette
+			<lb/>
+			catégorie doit répondre à six critères : 1) la catégorie doit relier toutes les autres
+			<lb/>
+		</p>
+		
+		<figure type="box">Les aidants se représentent le traitement d&apos;abord comme une obligation, soit
+			<lb/>
+			médicale, soit morale. C&apos;est la force de la provenance de cette obligation
+			<lb/>
+			(ordonnance médicale, rapport avec le médecin, sentiments envers le proche) qui
+			<lb/>
+			place l&apos;obligation sur le continuum.
+			<lb/>
+			Obligation
+			<lb/>
+			médicale
+			<lb/>
+			morale
+			<lb/>
+			La représentation du traitement est aussi holiste de sorte qu&apos;elle peut varier des
+			<lb/>
+			interventions non pharmacologiques (attitudes, communication, activités
+			<lb/>
+			sociales) aux traitements médicamenteux symptomatiques standards
+			<lb/>
+			(anticholinestérases, antidépresseurs, anxiolytiques). Ce sont les valeurs, les
+			<lb/>
+			croyances et les connaissances qui permettent de situer la représentation sur le
+			<lb/>
+			continuum.
+			<lb/>
+			Approche holistique
+			<lb/>
+			non
+			<lb/>
+			traitements
+			<lb/>
+			pharmacologique
+			<lb/>
+			médicamenteux
+			<lb/>
+			L&apos;espoir entretenu par rapport au traitement varie de la guérison à la stabilisation
+			<lb/>
+			de la maladie.
+			<lb/>
+			Espoir
+			<lb/>
+			stabiliser
+			<lb/>
+			guérir
+			<lb/>
+			L&apos;espoir influence la représentation holiste du traitement, laquelle influencera
+			<lb/>
+			l&apos;engagement dans le traitement. Effectivement, ainsi défini, le traitement
+			<lb/>
+			n&apos;appartient plus seulement à l&apos;univers médical, mais prend place dans l&apos;univers
+			<lb/>
+			social, environnemental et relationnel de leur proche dont les aidants sont partie
+			<lb/>
+			intégrante. Or, cette signification du traitement constitue un ensemble de normes
+			<lb/>
+			partagées par les aidants avec l&apos;aidé, leur médecin, la famille et d&apos;autres. En outre,
+			<lb/>
+			ces symboles font partie intégrante d&apos;un ensemble complexe par lequel l&apos;aidant peut
+			<lb/>
+			ensuite définir son rôle dans le traitement.
+			<lb/>
+			Encadré 1. Exemple de mise en relation des propriétés et dimensions.
+			<lb/>
+		</figure>
+		
+		
+		
+		<p>catégories; 2) la catégorie doit apparaître souvent dans les données; 3) la mise en
+			<lb/>
+			relation des catégories à la catégorie centrale doit être logique et cohérente, mais non
+			<lb/>
+			forcée; 4) la catégorie doit avoir un nom suffisamment abstrait; 5) par son analyse, la
+			<lb/>
+			catégorie centrale doit faire augmenter le pouvoir explicatif et la profondeur de la
+			<lb/>
+			théorie; et enfin 6) la catégorie doit pouvoir expliquer les variations, c&apos;est-à-dire que
+			<lb/>
+			l&apos;explication doit tenir même lorsque les conditions du phénomène varient (
+			<ref type="biblio">Strauss &amp;<lb/>
+				Corbin, 2004
+			</ref>
+			). En somme, il s&apos;agit de faire ressortir avec justesse le processus dans
+			<lb/>
+			lequel prend place le phénomène à l&apos;étude. En voici un exemple à la Figure 1. Dans
+			<lb/>
+			notre étude, la représentation du traitement s&apos;est avérée constituer la catégorie
+			<lb/>
+			centrale du processus d&apos;engagement dans le traitement. Cette représentation, comme
+			<lb/>
+			abordée plus haut, renvoie à un processus holiste, une obligation et un espoir. Mais
+			<lb/>
+			elle émane aussi des connaissances sur la maladie et le traitement, est étroitement liée
+			<lb/>
+			à la nature de l&apos;engagement que prendront les aidants, influence tout en étant
+			<lb/>
+			influencée par les interactions avec le médecin et l&apos;aidé.
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. La représentation du traitement comme catégorie centrale dans
+			<lb/>
+			l&apos;engagement des aidants dans le traitement.
+			<lb/>
+			Représentation
+			<lb/>
+			du traitement
+			<lb/>
+			est liée à la nature
+			<lb/>
+			de lʼengagement
+			<lb/>
+			dans le traitement
+			<lb/>
+			provient des
+			<lb/>
+			connaissances
+			<lb/>
+			préalables et
+			<lb/>
+			acquises sur la
+			<lb/>
+			maladie et le
+			<lb/>
+			traitement
+			<lb/>
+			influence et est
+			<lb/>
+			influencée par les
+			<lb/>
+			interactions avec le
+			<lb/>
+			médecin et lʼaidé
+			<lb/>
+			entretient
+			<lb/>
+			ou tue
+			<lb/>
+			lʼespoir en
+			<lb/>
+			regard du
+			<lb/>
+			traitement
+			<lb/>
+		</figure>
+		
+		<p>Le processus analytique représente un travail rigoureux, de longue haleine, pour
+			<lb/>
+			lequel le chercheur conserve des traces à l&apos;aide de mémos qui varient en type et en
+			<lb/>
+			forme. <ref type="biblio">Strauss et Corbin (2004)</ref> distinguent le compte rendu du codage (qui
+			<lb/>
+			comprend les résultats des codages ouvert, axial et sélectif), le compte rendu
+			<lb/>
+			théorique (qui contient les réflexions et les idées de l&apos;analyste concernant
+			<lb/>
+			l&apos;échantillonnage théorique ou d&apos;autres problématiques) et le compte rendu
+			<lb/>
+			opérationnel (qui comprend les directions procédurales et les rappels). À chaque
+			<lb/>
+			étape de codage correspond un type de mémos. Le principe est de garder des traces
+			<lb/>
+			écrites du processus d&apos;analyse ayant conduit à la théorie (<ref type="biblio">Strauss &amp; Corbin,
+				2004</ref>).
+			<lb/>
+			De la même façon que le codage est essentiel à l&apos;analyse, le mémo est indispensable
+			<lb/>
+			au développement de la théorie (<ref type="biblio">Guillemette &amp; Lapointe, 2012</ref>).
+			<lb/>
+		</p>
+		
+		<head>3.2 Les mémos et les schémas
+			<lb/>
+		</head>
+		
+		<p>Des mémos analytiques (compte rendu de codage) de 15 à 25 pages pour chacune des
+			<lb/>
+			20 entrevues ont été rédigés pour décrire à la fois une interprétation du sens du
+			<lb/>
+			discours des aidants et les catégories émergentes. L&apos;Encadré 2 en illustre un court
+			<lb/>
+			exemple.
+			<lb/>
+		</p>
+		
+		<p>Des mémos théoriques autour des principales catégories identifiées ont
+			<lb/>
+			également été conçus afin de retracer l&apos;ensemble de la démarche de théorisation. Les
+			<lb/>
+			résultats de ces mémos sont présentés dans la section suivante.
+			<lb/>
+		</p>
+		
+		<p>Les schémas permettent de récapituler les informations disponibles et d&apos;illustrer
+			<lb/>
+			les liens entre les concepts pour faciliter la compréhension avant de poursuivre
+			<lb/>
+			l&apos;analyse. Des schémas pour chacune des entrevues ont été réalisés afin de représenter
+			<lb/>
+			le contenu du discours des aidants. Puis, les différents schémas individuels sont
+			<lb/>
+			regroupés de manière à constituer des schémas plus globaux, incluant plusieurs, puis
+			<lb/>
+			toutes les entrevues. Ces schémas sont également présentés plus loin.
+			<lb/>
+		</p>
+		
+		<figure type="box">Ce mémo théorique se concentre sur trois éléments qui sont apparus essentiels et au
+			<lb/>
+			coeur de cette entrevue : le rapport au temps, la responsabilisation de l&apos;aidant et la
+			<lb/>
+			représentation du traitement. Premièrement, j&apos;ai eu l&apos;impression qu&apos;il fallait s&apos;arrêter
+			<lb/>
+			sur le rapport au temps qui semble important dans cette entrevue, car le continuum
+			<lb/>
+			de la maladie comporte des repères temporels différents selon la perspective du
+			<lb/>
+			médecin ou de l&apos;aidant. Alors que pour le médecin qui procède à l&apos;évaluation le
+			<lb/>
+			diagnostic signifie une finalité, un but atteint, il marque pour l&apos;aidant le début de
+			<lb/>
+			quelque chose, et non la fin. Étrangement, même si les symptômes se manifestaient
+			<lb/>
+			depuis un certain temps déjà, pour l&apos;aidant c&apos;est comme si la maladie commençait
+			<lb/>
+			seulement au moment du diagnostic. En fait, parce que le diagnostic officialise la
+			<lb/>
+			maladie, il agit comme un symbole important de la représentation de la maladie pour
+			<lb/>
+			les aidants. Il y a l&apos;avant-diagnostic et l&apos;après-diagnostic. Le diagnostic symbolise
+			<lb/>
+			en quelque sorte la rupture de la vie d&apos;avant. Dans ce rapport au temps est inclus le
+			<lb/>
+			temps nécessaire à l&apos;évaluation : l&apos;aidée cache sa maladie au début; ensuite, le
+			<lb/>
+			médecin croit à une dépression et la traite pour cela, puis, il lui a fallu trouver un
+			<lb/>
+			autre médecin pour obtenir un meilleur diagnostic, lequel demande à son tour un
+			<lb/>
+			second avis. Tout cela prend du temps. L&apos;aidant calcule sans doute ce temps perdu et
+			<lb/>
+			tente de rentabiliser celui qui lui reste. À partir du diagnostic, le temps « compté »
+			<lb/>
+			commence pour l&apos;aidant et il souhaite maintenant l&apos;arrêter. L&apos;aidant ne pense pas au
+			<lb/>
+			futur et a même peur des dernières phases de la maladie. En outre, l&apos;aidant précise
+			<lb/>
+			qu&apos;il ne peut plus désormais envisager sa vie autrement qu&apos;un jour à la fois, dans
+			<lb/>
+			l&apos;instant présent. Le rapport au temps semble donc important de deux manières.
+			<lb/>
+			Premièrement, malgré des symptômes apparents, la maladie commence réellement
+			<lb/>
+			pour l&apos;aidant à partir du diagnostic alors que sa responsabilisation à l&apos;égard du
+			<lb/>
+			traitement commence avant, dans le but d&apos;obtenir ce diagnostic. Deuxièmement,
+			<lb/>
+			avant le diagnostic, on aimerait aller vite, savoir rapidement ce qui se passe. Les
+			<lb/>
+			délais sont perçus comme du temps « perdu », alors qu&apos;une fois le diagnostic
+			<lb/>
+			confirmé, il faudrait que le temps s&apos;arrête, que la maladie ralentisse.
+			<lb/>
+			Encadré 2. Extrait d&apos;un mémo théorique, aidant 003.
+			<lb/>
+		</figure>
+		
+		<head>3.3 L&apos;échantillonnage théorique
+			<lb/>
+		</head>
+		
+		<p>La MTE implique un échantillonnage théorique qui consiste à adapter les critères
+			<lb/>
+			d&apos;inclusion des participants d&apos;après la théorie en émergence. L&apos;objectif n&apos;est pas de
+			<lb/>
+			chercher des participants en mesure de valider la théorie en construction, mais de
+			<lb/>
+			tenter, à l&apos;aide de différents participants, d&apos;en comprendre la complexité, <ref type="biblio">
+				de
+			</ref> faire
+			<lb/>
+			ressortir « des variations parmi les concepts et de densifier les catégories en fonction
+			<lb/>
+			de leurs propriétés et de leurs dimensions » (<ref type="biblio">Strauss &amp; Corbin, 2004, p. 241</ref>). À la
+			<lb/>
+			différence de l&apos;échantillonnage traditionnel qui « porte sur l&apos;expression du même
+			<lb/>
+			phénomène chez plusieurs personnes » (<ref type="biblio">Paillé, 2004, p. 69</ref>), l&apos;échantillonnage
+			<lb/>
+			théorique consiste plutôt à « observer plusieurs aspects d&apos;un même phénomène chez
+			<lb/>
+			une même ou plusieurs personnes » (<ref type="biblio">Paillé, 2004, p. 69</ref>). Ce qui intéresse le
+			<lb/>
+			théoricien enraciné au cours de l&apos;échantillonnage théorique, ce ne sont pas les cas,
+			<lb/>
+			mais bien les concepts à l&apos;étude. L&apos;échantillonnage théorique se construit par étapes.
+			<lb/>
+			Il se précise graduellement avec l&apos;avancement de l&apos;étude et le développement de la
+			<lb/>
+			théorie, visant de plus en plus « des objectifs d&apos;enracinement empirique et de
+			<lb/>
+			raffinement théorique » (<ref type="biblio">Paillé, 2004, p. 70</ref>).
+			<lb/>
+		</p>
+		
+		<p>L&apos;échantillonnage suit les mêmes phases que l&apos;analyse et comprend
+			<lb/>
+			l&apos;échantillonnage ouvert, l&apos;échantillonnage relationnel et de variance puis
+			<lb/>
+			l&apos;échantillonnage discriminant (<ref type="biblio">Strauss &amp; Corbin, 2004</ref>). Ces phases ne sont pas
+			<lb/>
+			forcément linéaires et peuvent se superposer. Ainsi, pendant l&apos;échantillonnage ouvert,
+			<lb/>
+			les participants sont sélectionnés un peu au hasard puisqu&apos;aucun concept n&apos;a encore
+			<lb/>
+			démontré sa pertinence théorique. L&apos;échantillonnage ouvert peut être effectué selon la
+			<lb/>
+			méthode d&apos;échantillonnage par critères, à partir de critères aussi souples que celui
+			<lb/>
+			d&apos;être le conjoint d&apos;une personne atteinte de la MA. Il peut également s&apos;effectuer en
+			<lb/>
+			chaîne ou boule de neige, ce qui consiste à demander aux participants de
+			<lb/>
+			recommander des personnes susceptibles d&apos;être intéressées par l&apos;étude, qui à leur tour
+			<lb/>
+			recommandent des personnes et ainsi de suite (<ref type="biblio">Patton, 2002</ref>).
+			<lb/>
+		</p>
+		
+		<p>L&apos;échantillonnage relationnel et de variance, pour sa part, correspond au codage
+			<lb/>
+			axial de l&apos;analyse (<ref type="biblio">Strauss &amp; Corbin, 2004</ref>). La démarche consiste à
+			chercher des
+			<lb/>
+			éléments qui démontrent l&apos;étendue dimensionnelle d&apos;un concept, sa variance et les
+			<lb/>
+			relations entre les différents concepts. Il s&apos;agit donc de trouver des participants en
+			<lb/>
+			mesure de fournir des informations particulières sur les concepts étudiés.
+			<lb/>
+		</p>
+		
+		<p>L&apos;échantillonnage discriminant correspond au codage sélectif de l&apos;analyse. Il
+			<lb/>
+			s&apos;agit de sélectionner les participants de manière à apporter de la densité et de la
+			<lb/>
+			variation aux catégories identifiées (<ref type="biblio">Strauss &amp; Corbin, 2004</ref>). Dans la phase
+			<lb/>
+			d&apos;échantillonnage discriminant, par exemple, il est possible de recourir à un
+			<lb/>
+			échantillon par cas extrêmes ou déviants (<ref type="biblio">Patton, 2002</ref>). Cela consiste à utiliser des
+			<lb/>
+			cas éloignés de la moyenne, des exemples hors-normes ou inhabituels de succès ou
+			<lb/>
+			d&apos;échecs.
+			<lb/>
+		</p>
+		
+		<p>Bref, parce qu&apos;elle s&apos;adapte à la théorie en construction, la méthode
+			<lb/>
+			d&apos;échantillonnage théorique permet l&apos;utilisation de plusieurs types d&apos;échantillonnages
+			<lb/>
+			différents en cours d&apos;étude. Par conséquent, le type d&apos;échantillonnage ne peut pas être
+			<lb/>
+			déterminé à l&apos;avance. L&apos;échantillonnage théorique s&apos;effectue jusqu&apos;à saturation des
+			<lb/>
+			concepts étudiés. La saturation permet de « produire un savoir riche, adéquat et
+			<lb/>
+			nuancé, intimement rattaché aux contextes à l&apos;intérieur desquels ils [ont] été
+			<lb/>
+			produits » (<ref type="biblio">Savoie-Zajc, 2004, p. 234</ref>). La saturation de l&apos;échantillonnage théorique
+			<lb/>
+			est atteinte lorsqu&apos;aucune donnée nouvelle n&apos;émerge par rapport à une catégorie; que
+			<lb/>
+			la catégorie est solidement développée en fonction de ses propriétés, de ses
+			<lb/>
+			dimensions, qu&apos;elle démontre une variation et que les relations entre les catégories
+			<lb/>
+			sont fortement établies et validées (<ref type="biblio">Strauss &amp; Corbin, 2004</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le recrutement des participants de notre étude s&apos;est effectué en sept phases
+			<lb/>
+			distinctes. Les deux premiers participants ont été recrutés selon un échantillonnage
+			<lb/>
+			ouvert (<ref type="biblio">Strauss &amp; Corbin, 2004</ref>) de sorte que deux seuls critères de recrutement
+			<lb/>
+			étaient retenus : être le conjoint d&apos;une personne atteinte de la MA et pouvoir exprimer
+			<lb/>
+			son expérience par rapport au traitement. Après le codage des transcriptions, quatre
+			<lb/>
+			autres participants ont été recrutés toujours selon un échantillonnage ouvert. En effet,
+			<lb/>
+			les catégories identifiées n&apos;avaient pas émergé suffisamment à partir des deux
+			<lb/>
+			premières entrevues. Néanmoins, pour cette seconde phase, un échantillonnage
+			<lb/>
+			relationnel et de variance (<ref type="biblio">Strauss &amp; Corbin, 2004</ref>) a été employé afin de
+			rencontrer
+			<lb/>
+			des aidants de genre féminin de même que des aidants qui n&apos;étaient pas des conjoints.
+			<lb/>
+			Ce choix a permis d&apos;explorer l&apos;étendue du concept d&apos;expérience relationnelle présent
+			<lb/>
+			dans les premières entrevues.
+			<lb/>
+		</p>
+		
+		<p>À la suite de l&apos;analyse en profondeur des six premières entrevues, la troisième
+			<lb/>
+			phase s&apos;est effectuée selon un recrutement relationnel et de variance dans le but
+			<lb/>
+			d&apos;étendre le concept de représentation du traitement en cherchant des aidants vivant
+			<lb/>
+			des situations différentes : une aidante dont la mère était institutionnalisée dans un
+			<lb/>
+			centre d&apos;hébergement de soins de longue durée lors de l&apos;entrevue et une aidante qui a
+			<lb/>
+			refusé le traitement pharmacologique pour son proche. L&apos;analyse des huit premières
+			<lb/>
+			entrevues fut accompagnée d&apos;une synthèse des catégories émergentes et d&apos;un premier
+			<lb/>
+			essai de schématisation illustrant les liens entre les catégories devenues alors des
+			<lb/>
+			modèles théoriques.
+			<lb/>
+		</p>
+		
+		<p>Pour la quatrième phase de recrutement et de collecte des données, des aidants
+			<lb/>
+			capables d&apos;éclairer les catégories Représentation de la responsabilité et Implication
+			<lb/>
+			dans le traitement ont été recherchés à l&apos;aide d&apos;un échantillonnage relationnel et de
+			<lb/>
+			variance. Le critère de sélection retenu a été l&apos;âge plus avancé afin de tenir compte
+			<lb/>
+			d&apos;un point de vue différent qui pourrait être générationnel. Parmi les participants de
+			<lb/>
+			cette quatrième vague de recrutement, un aidant qui a vécu l&apos;ensemble des étapes du
+			<lb/>
+			processus de traitement, car sa conjointe était décédée au moment de l&apos;entrevue.
+			<lb/>
+			Enfin, une femme aidante dont le proche ne recevait aucun traitement complétait la
+			<lb/>
+			cohorte. Les propos de ces derniers ont permis de documenter les catégories
+			<lb/>
+			Représentation du traitement et Implication dans le traitement et la relation entre les
+			<lb/>
+			deux. Un second travail de synthèse des douze premières entrevues a été réalisé
+			<lb/>
+			menant à la proposition de deux nouveaux schémas théoriques plutôt que trois. Cette
+			<lb/>
+			étape est décrite plus loin.
+			<lb/>
+		</p>
+		
+		<p>Pour les cinquième et sixième phases de recrutement, vu l&apos;état d&apos;avancement de
+			<lb/>
+			la théorie en émergence, l&apos;échantillonnage discriminant a été privilégié (<ref type="biblio">Strauss &amp;<lb/>
+				Corbin, 2004</ref>). Il comprenait des aidants un peu plus âgés que les précédents, une
+			<lb/>
+			aidante dont le proche ne recevait pas de traitement anticholinergique et une aidante
+			<lb/>
+			dont la particularité était de partager la responsabilité de l&apos;accompagnement de son
+			<lb/>
+			père avec ses six frères et soeurs. Il s&apos;avérait intéressant d&apos;entendre son expérience,
+			<lb/>
+			passablement différente des autres. De plus, cette aidante travaillait comme chef de
+			<lb/>
+			projet clinique pour une compagnie pharmaceutique productrice
+			<lb/>
+			d&apos;anticholinestérasiques. Elle était aussi susceptible d&apos;entretenir une opinion
+			<lb/>
+			professionnelle au sujet du traitement de la MA.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse synthèse des 16 premières entrevues qui a suivi a permis de faire
+			<lb/>
+			émerger des modèles théoriques passablement étoffés. Les entrevues suivantes ont
+			<lb/>
+			servi à enrichir et valider les deux modèles théoriques que sont la construction de la
+			<lb/>
+			représentation de la responsabilité d&apos;aidant et l&apos;implication dans le traitement. C&apos;est
+			<lb/>
+			ainsi que les quatre derniers aidants ont été rencontrés au cours de la septième phase
+			<lb/>
+			d&apos;entrevues. Le <ref type="table">Tableau 3</ref> présente l&apos;ensemble de cette procédure d&apos;échantillonnage,
+			<lb/>
+			de collecte et d&apos;analyse des données.
+			<lb/>
+		</p>
+		
+		<head>4. Développement d&apos;un modèle théorique enraciné dans les données
+			<lb/>
+		</head>
+		
+		<p>Afin de saisir la pertinence et le degré d&apos;ancrage dans les données des modèles
+			<lb/>
+			théoriques construits, il s&apos;avère essentiel de décrire la route empruntée pour y arriver.
+			<lb/>
+			Il est apparu dès l&apos;analyse de la première entrevue que la responsabilité à l&apos;égard du
+			<lb/>
+			traitement implique un certain nombre de tâches. Il s&apos;agit spécifiquement du
+			<lb/>
+			diagnostic, de l&apos;ordonnance, de la décision de recourir à la médication, du choix du
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 3
+			<lb/>
+			Procédure d&apos;échantillonnage
+			<lb/>
+			Phase
+			<lb/>
+			Participants
+			<lb/>
+			Caractéristiques de l&apos;échantillonnage
+			<lb/>
+			Phase 1
+			<lb/>
+			001
+			<lb/>
+			002
+			<lb/>
+			Type d&apos;échantillonnage : ouvert
+			<lb/>
+			Première analyse des entrevues : codage ouvert
+			<lb/>
+			Phase 2
+			<lb/>
+			003
+			<lb/>
+			004
+			<lb/>
+			005
+			<lb/>
+			006
+			<lb/>
+			Type d&apos;échantillonnage : ouvert et relationnel et de
+			<lb/>
+			variance
+			<lb/>
+			Étendue de la catégorie : expérience relationnelle
+			<lb/>
+			Aidants recherchés : aidants non conjoints (003, 004)
+			<lb/>
+			et de genre féminin (005 et 006)
+			<lb/>
+			Seconde analyse des entrevues 001-004 : codage ouvert et identification de
+			<lb/>
+			catégories
+			<lb/>
+			Phase 3
+			<lb/>
+			007
+			<lb/>
+			008
+			<lb/>
+			Type d&apos;échantillonnage : relationnel et de variance
+			<lb/>
+			Étendue de la catégorie : représentation du traitement
+			<lb/>
+			Aidants recherchés : aidants dont le proche est
+			<lb/>
+			hébergé (007) et sans traitement (008)
+			<lb/>
+			Première synthèse des entrevues 001 à 008 : production de schémas théoriques
+			<lb/>
+			Phase 4
+			<lb/>
+			009
+			<lb/>
+			010
+			<lb/>
+			011
+			<lb/>
+			012
+			<lb/>
+			Type d&apos;échantillonnage : relationnel et de variance
+			<lb/>
+			Étendue des catégories : représentation de la
+			<lb/>
+			responsabilité et implication dans le traitement
+			<lb/>
+			Aidants recherchés : aidants conjoints âgés (009 à
+			<lb/>
+			012)
+			<lb/>
+			Seconde synthèse des entrevues 001 à 012 : production de schémas théoriques
+			<lb/>
+			Phase 5
+			<lb/>
+			013
+			<lb/>
+			014
+			<lb/>
+			015
+			<lb/>
+			Type d&apos;échantillonnage : discriminant
+			<lb/>
+			Étendue des catégories : représentation de la
+			<lb/>
+			responsabilité et du traitement
+			<lb/>
+			Aidants recherchés : aidants âgés (013, 015) et
+			<lb/>
+			aidants dont le proche est sans traitement (015)
+			<lb/>
+			Phase 6
+			<lb/>
+			016
+			<lb/>
+			Type d&apos;échantillonnage : discriminant
+			<lb/>
+			Étendue des catégories : représentation de la
+			<lb/>
+			responsabilité et du traitement
+			<lb/>
+			Aidant recherché : aidant dont le rapport au
+			<lb/>
+			traitement (intérêt professionnel) et la forme de prise
+			<lb/>
+			en charge (répartition familiale, sans cohabitation)
+			<lb/>
+			sont différents
+			<lb/>
+			Troisième synthèse des entrevues 001 à 016 : production de schémas
+			<lb/>
+			théoriques
+			<lb/>
+			Phase 7
+			<lb/>
+			017
+			<lb/>
+			018
+			<lb/>
+			019
+			<lb/>
+			020
+			<lb/>
+			Échantillonnage ouvert
+			<lb/>
+			Dernière synthèse des entrevues 001 à 020 : analyse et validation des schémas
+			<lb/>
+			théoriques finaux
+			<lb/>
+		</figure>
+		
+		<p>médicament, du suivi du traitement. Certaines de ces responsabilités sont assumées
+			<lb/>
+			par les aidants, notamment les démarches pour l&apos;obtention d&apos;un diagnostic ou la
+			<lb/>
+			gestion quotidienne du traitement, alors nommées autonomisation dans le traitement.
+			<lb/>
+			En parallèle, d&apos;autres rôles au regard du traitement relèvent des médecins, comme le
+			<lb/>
+			diagnostic, le choix du type de médicament prescrit, l&apos;ajustement de dosage. Ainsi, il
+			<lb/>
+			s&apos;agit des différentes étapes du traitement.
+			<lb/>
+		</p>
+		
+		<p>Dès les premières entrevues, il est également ressorti de celles-ci que la
+			<lb/>
+			représentation du traitement s&apos;avère plus inclusive qu&apos;envisagé initialement. Alors
+			<lb/>
+			que pour nous elle englobait les traitements anticholinestérasiques et
+			<lb/>
+			antiglutamatergiques, les aidants y incluaient d&apos;autres médicaments pour le
+			<lb/>
+			soulagement de symptômes reliés à la MA comme des antidépresseurs, des
+			<lb/>
+			antipsychotiques ou des somnifères. Ils y associent également des éléments non
+			<lb/>
+			pharmacologiques comme des attitudes à l&apos;égard du proche, de la stimulation
+			<lb/>
+			physique ou cognitive, des vitamines, des nutriments, des produits naturels et même
+			<lb/>
+			des aliments (huile de poisson, thé, vin rouge). Dès lors, il a fallu tenir compte de la
+			<lb/>
+			vision holiste des aidants au regard du traitement, en dépit du fait que l&apos;objet d&apos;étude
+			<lb/>
+			ciblait au départ les médicaments « officiels » contre la MA.
+			<lb/>
+		</p>
+		
+		<p>À ce premier stade d&apos;analyse, le traitement était constitué de différentes étapes
+			<lb/>
+			et revêtait un sens d&apos;obligation morale : les aidants ne ressentaient pas qu&apos;on leur
+			<lb/>
+			laissait le choix. En outre, ils entretenaient un grand espoir relativement au
+			<lb/>
+			traitement : ils espéraient qu&apos;il contribuerait à une aggravation moins rapide de la
+			<lb/>
+			maladie. L&apos;analyse des données a permis de mettre en lumière les attentes générales
+			<lb/>
+			envers le traitement : une stabilisation de la maladie et des impacts positifs
+			<lb/>
+			perceptibles.
+			<lb/>
+		</p>
+		
+		<p>L&apos;exploration plus en profondeur des catégories s&apos;est avérée nécessaire pour
+			<lb/>
+			saisir l&apos;articulation entre chacune d&apos;elles au cours de la phase suivante de collecte de
+			<lb/>
+			données. Considérant la nature des catégories recensées et la complexité qui
+			<lb/>
+			commençait à poindre, le modèle théorique a été scindé en deux schémas différents,
+			<lb/>
+			mais interreliés : la représentation du traitement et l&apos;implication dans le traitement. La
+			<lb/>
+			poursuite de la collecte de données a servi à réfléchir à cette décision.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, l&apos;analyse des huit premières entrevues a conduit à l&apos;élaboration d&apos;un
+			<lb/>
+			modèle de représentation du traitement comportant trois idées principales : 1) le
+			<lb/>
+			traitement vu comme un processus holiste impliquant des médicaments, des
+			<lb/>
+			interventions non pharmacologiques et des traitements alternatifs; 2) le traitement vu
+			<lb/>
+			comme une prescription (ou obligation) médicale induite par la méconnaissance
+			<lb/>
+			qu&apos;ont les aidants du médicament, la confiance envers le médecin et les attentes par
+			<lb/>
+			rapport aux traitements; et enfin 3) le traitement vu comme une obligation éthique
+			<lb/>
+			envers son proche. L&apos;évaluation positive du traitement, ou la perception d&apos;une
+			<lb/>
+			amélioration ou d&apos;une stabilisation de la maladie, cristallise l&apos;obligation médicale et
+			<lb/>
+			éthique de poursuivre le traitement, car il n&apos;y a pas de raison de ne pas le faire. Par
+			<lb/>
+			ailleurs, l&apos;évaluation négative du traitement, ou le constat d&apos;une stabilisation, voire
+			<lb/>
+			d&apos;une aggravation de la maladie, contribuera soit à sa remise en question, soit à sa
+			<lb/>
+			poursuite, car « ça pourrait être pire ». C&apos;est à partir de ces considérations qu&apos;a été
+			<lb/>
+			construit un premier schéma illustrant les liens entre ces trois principales catégories,
+			<lb/>
+			schéma présenté à la <ref type="figure">Figure 2</ref>.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse des entrevues suivantes a permis de valider la représentation holiste
+			<lb/>
+			du traitement. Les nouveaux aidants partagent aussi cette vision holiste au point de
+			<lb/>
+			suggérer, dans le schéma subséquent, de l&apos;illustrer dans une position qui englobe les
+			<lb/>
+			autres représentations. Par ailleurs, les nouvelles entrevues ont permis de mettre en
+			<lb/>
+			lumière des aspects de la représentation du traitement qui n&apos;étaient pas apparus lors
+			<lb/>
+			des premières entrevues. Par exemple, l&apos;obligation d&apos;accepter le médicament est ici
+			<lb/>
+			comprise comme une prescription (obligation) médicale alimentée par le rapport
+			<lb/>
+			asymétrique avec le médecin. Il s&apos;agit d&apos;un locus de contrôle externe 2 . Enfin, les
+			<lb/>
+			aidants poursuivent le traitement parce qu&apos;il répond aux attentes ou, lorsque ce n&apos;est
+			<lb/>
+			pas le cas, parce qu&apos;ils entretiennent l&apos;espoir que ce sera mieux en le poursuivant.
+			<lb/>
+		</p>
+		
+		<figure>Figure 2. Représentation du traitement. Synthèse des entrevues 001 à 008.
+			<lb/>
+		</figure>
+		
+		<p>Dès lors, dans le prolongement des discours des aidants, le traitement est représenté
+			<lb/>
+			comme une conviction qu&apos;il s&apos;agit de la meilleure solution pour leur proche. Cela
+			<lb/>
+			reflète un locus de contrôle interne 3 alimenté par leurs attentes d&apos;amélioration, une
+			<lb/>
+			appréciation de l&apos;impact positif du traitement, l&apos;espoir d&apos;une détérioration moins
+			<lb/>
+			rapide et leur capacité de payer le médicament. Le second schéma créé est présenté à
+			<lb/>
+			la <ref type="figure">Figure 3</ref>.
+			<lb/>
+		</p>
+		
+		<p>Rappelons le choix effectué plus tôt de construire deux modèles : le premier sur
+			<lb/>
+			la représentation du traitement, lequel vient d&apos;être décrit, et le second sur
+			<lb/>
+			l&apos;implication dans le traitement. En ce qui a trait au second modèle, il avait d&apos;abord
+			<lb/>
+			été construit pour décrire un processus en différentes étapes (diagnostic, choix du
+			<lb/>
+			médicament, modification du dosage, etc.). Or, cela ne permettait pas d&apos;en saisir le
+			<lb/>
+			caractère dynamique. L&apos;idée du processus d&apos;autonomisation a été conservée en
+			<lb/>
+			interprétant les données de manière à en faire ressortir les composantes, lesquelles
+			<lb/>
+		</p>
+		
+		<figure>on ne sait pas si cela fonctionne ou non
+			<lb/>
+			méconnaissance des aidants du médicament,
+			<lb/>
+			confiance envers le médecin,
+			<lb/>
+			attentes par rapport aux traitements
+			<lb/>
+			Anticholinestérasiques, antiglutamatergiques et psychotropes,
+			<lb/>
+			produits naturels, vitamines, nutriments et aliments,
+			<lb/>
+			interventions sociales et communicationnelles
+			<lb/>
+			(1) Traitement holiste
+			<lb/>
+			évaluation négative de
+			<lb/>
+			l&apos;impact du traitement
+			<lb/>
+			(détérioration)
+			<lb/>
+			évaluation positive de
+			<lb/>
+			l&apos;impact du traitement
+			<lb/>
+			(stabilisation)
+			<lb/>
+			remise en question du
+			<lb/>
+			traitement
+			<lb/>
+			poursuite du traitement
+			<lb/>
+			(2) Prescription médicale
+			<lb/>
+			(3) Obligation éthique (morale)
+			<lb/>
+			o
+			<lb/>
+			1, pp. 176-210.
+			<lb/>
+			196
+			<lb/>
+			Figure 3. Représentation du traitement. Synthèse des entrevues 001 à 012.
+			<lb/>
+		</figure>
+		
+		<p>s&apos;avèrent présentes à plusieurs étapes lors du traitement. Cette manière d&apos;envisager
+			<lb/>
+			l&apos;implication dans le traitement permettait en outre d&apos;y inclure la représentation du
+			<lb/>
+			traitement et donc d&apos;éviter de concevoir deux modèles distincts. Voici comment. Les
+			<lb/>
+			huit premières entrevues montrent que l&apos;engagement dans le traitement nécessite des
+			<lb/>
+			conditions facilitantes. Celles-ci comptent les connaissances préalables ou acquises
+			<lb/>
+			des aidants sur la maladie et le traitement, leur perception des compétences requises
+			<lb/>
+			pour s&apos;impliquer dans le traitement et la représentation du traitement. En revanche,
+			<lb/>
+			des conditions qui entravent l&apos;engagement dans le traitement sont aussi présentes :
+			<lb/>
+			des contraintes individuelles (l&apos;absence de connaissances sur la maladie et le
+			<lb/>
+			traitement), des contraintes relationnelles (manque de reconnaissance ressenti par les
+			<lb/>
+			aidants, mauvaise communication ou absence de collaboration du médecin à certains
+			<lb/>
+			moments du traitement) et les contraintes institutionnelles (règles, normes ou
+			<lb/>
+			philosophie des institutions auxquelles les aidants recourent pour être secondés dans
+			<lb/>
+			leur responsabilité ainsi que les délais pour obtenir des rendez-vous ou le diagnostic).
+			<lb/>
+		</p>
+		
+		<figure>Anticholinestérasiques
+			<lb/>
+			Antiglutamatergiques
+			<lb/>
+			Traitement holiste
+			<lb/>
+			Psychotropes
+			<lb/>
+			Interventions sociales et
+			<lb/>
+			communicationnelles
+			<lb/>
+			Produits naturels, vitamines, nutriments et aliments
+			<lb/>
+			Locus de contrôle externe
+			<lb/>
+			Prescription médicale
+			<lb/>
+			Locus de contrôle interne
+			<lb/>
+			Obligation éthique envers le
+			<lb/>
+			proche
+			<lb/>
+			Asymétrie dans le rapport
+			<lb/>
+			médecin/aidant
+			<lb/>
+			Conviction que c&apos;est la meilleure
+			<lb/>
+			décision (attentes, espoir,
+			<lb/>
+			évaluation de l&apos;impact, capacité de
+			<lb/>
+			payer)
+			<lb/>
+		</figure>
+		
+		<p>Il a ainsi été possible de créer une première version d&apos;un modèle illustrant des
+			<lb/>
+			interactions qui permettent l&apos;autonomisation des aidants dans le traitement (voir la
+			<lb/>
+			<ref type="figure">Figure 4</ref>).
+			<lb/>
+		</p>
+		
+		<figure>Figure 4. Autonomisation dans le traitement. Synthèse des entrevues 001 à 008.
+			<lb/>
+		</figure>
+		
+		<p>Le modèle comportait deux limites. D&apos;abord, les liens entre les différentes
+			<lb/>
+			catégories méritaient d&apos;être mieux représentés et articulés. Ensuite, le modèle perdait
+			<lb/>
+			un peu son sens sans les étapes du traitement, lesquelles doivent être mises en valeur.
+			<lb/>
+			Il a fallu trouver une autre façon de présenter à la fois les étapes du traitement
+			<lb/>
+			(diagnostic, gestion de la médication, surveillance des effets secondaires, etc.) et les
+			<lb/>
+			composantes de cette implication (connaissances, compétences, contraintes, etc.). Un
+			<lb/>
+			continuum représentant les différentes étapes et positionné sous le modèle précédent,
+			<lb/>
+			suggérant que les conditions qui facilitent ou entravent l&apos;engagement dans le
+			<lb/>
+		</p>
+		
+		<figure>Compétences
+			<lb/>
+			 devient expert
+			<lb/>
+			 s&apos;en remet à l&apos;expert
+			<lb/>
+			Représentation du TTT
+			<lb/>
+			 holiste
+			<lb/>
+			 prescription médicale
+			<lb/>
+			 obligation éthique
+			<lb/>
+			Conditions entravant
+			<lb/>
+			l&apos;implication dans le TTT
+			<lb/>
+			Connaissances
+			<lb/>
+			 préalables
+			<lb/>
+			 acquises
+			<lb/>
+			 absence de connaissances
+			<lb/>
+			Conditions facilitant
+			<lb/>
+			l&apos;implication dans le TTT
+			<lb/>
+			Contraintes institutionnelles
+			<lb/>
+			 délai pour diagnostic et rendez-<lb/>vous
+			<lb/>
+			 normes, règles, philosophie des
+			<lb/>
+			institutions
+			<lb/>
+			Contraintes relationnelles
+			<lb/>
+			 pas de considération du point de
+			<lb/>
+			vue des aidants
+			<lb/>
+			 manque de communication ou
+			<lb/>
+			de collaboration du médecin
+			<lb/>
+			 S&apos;en remet à l&apos;expert
+			<lb/>
+			Contraintes individuelles
+			<lb/>
+			 absence de connaissances
+			<lb/>
+			Légende
+			<lb/>
+			TTT : traitement
+			<lb/>
+		</figure>
+		
+		<p>traitement s&apos;appliquent à l&apos;ensemble des étapes, a été ajouté. Or, l&apos;implication
+			des
+			<lb/>
+			aidants dans le traitement ne se manifeste pas de la même manière à chacune des
+			<lb/>
+			étapes. La représentation imaginée devenait donc inappropriée. Toutefois, des
+			<lb/>
+			déterminants individuels, relationnels et organisationnels modulent l&apos;implication. Ils
+			<lb/>
+			constituent des conditions reflétant les capacités des aidants à s&apos;impliquer ou non
+			<lb/>
+			dans le traitement de leur proche à chacune des étapes et de manière différente.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, la catégorie Connaissances a été conservée. Les connaissances des
+			<lb/>
+			aidants sur la maladie et le traitement, qu&apos;elles soient antérieures à la maladie de leur
+			<lb/>
+			proche ou acquises par la suite, facilitent l&apos;implication en ce qui concerne le
+			<lb/>
+			diagnostic, la décision de traitement et l&apos;accès aux services. À l&apos;opposé, le manque de
+			<lb/>
+			connaissances favorise le recours au locus de contrôle externe qui consiste à
+			<lb/>
+			envisager le traitement comme une prescription médicale sans implication dans la
+			<lb/>
+			décision de traitement.
+			<lb/>
+		</p>
+		
+		<p>De même, la réflexivité des aidants, utilisée à la place de la catégorie
+			<lb/>
+			Compétences dans le modèle antérieur, se manifeste moins lors de la décision de
+			<lb/>
+			traitement lequel est alors perçu comme une prescription médicale au sens
+			<lb/>
+			d&apos;obligation d&apos;y recourir, et davantage lors du suivi de la médication. Le suivi
+			<lb/>
+			comprend la surveillance de la prise de médicaments, la gestion des effets secondaires
+			<lb/>
+			et la modification du dosage. Il est également présent lors de l&apos;arrêt du traitement.
+			<lb/>
+			Dans certains cas, les étapes sont exclusivement vécues au domicile des aidants, donc
+			<lb/>
+			en l&apos;absence d&apos;interactions quotidiennes et systématiques avec des médecins ou
+			<lb/>
+			professionnels de la santé. Dans d&apos;autres cas, ce sont précisément ces interactions
+			<lb/>
+			avec les professionnels qui permettent la réflexivité des aidants, comme des
+			<lb/>
+			discussions et réflexions sur les effets secondaires. Les interactions avec le médecin,
+			<lb/>
+			identifiées préalablement comme des contraintes relationnelles, agissent ainsi plutôt
+			<lb/>
+			comme des déterminants relationnels susceptibles d&apos;intervenir sur la capacité des
+			<lb/>
+			aidants à s&apos;impliquer ou non dans le traitement du proche. L&apos;interaction positive,
+			<lb/>
+			comme l&apos;échange réciproque, l&apos;écoute, la confiance, permet en effet aux aidants de
+			<lb/>
+			s&apos;impliquer surtout dans la décision de traitement, la gestion des effets secondaires et
+			<lb/>
+			la modification du dosage. En revanche, le fait que les aidants ne soient pas impliqués
+			<lb/>
+			dans les décisions fait en sorte d&apos;alourdir leur tâche, de diminuer leur motivation à
+			<lb/>
+			s&apos;impliquer tout en augmentant leur sentiment d&apos;exclusion à l&apos;égard du traitement.
+			<lb/>
+		</p>
+		
+		<p>Enfin, ajoutons les contraintes institutionnelles susceptibles d&apos;intervenir lors de
+			<lb/>
+			certaines étapes pour entraver ou faciliter l&apos;implication dans le traitement. De fait, les
+			<lb/>
+			contraintes (règles, normes, philosophie, délais d&apos;attente) peuvent motiver l&apos;aidant à
+			<lb/>
+			s&apos;impliquer davantage pour défendre les droits de son proche à recevoir un traitement
+			<lb/>
+			adéquat. En revanche, ces contraintes peuvent aussi freiner les aidants en leur laissant
+			<lb/>
+			un sentiment de dépossession et de perte de pouvoir, notamment aux étapes du
+			<lb/>
+			diagnostic, de la décision de traitement ou de l&apos;hébergement du proche. La <ref type="figure">Figure 5</ref>
+			<lb/>
+			présente le modèle construit pour illustrer les données relatives à l&apos;implication dans le
+			<lb/>
+			traitement provenant des douze premières entrevues. Elle montre comment la
+			<lb/>
+			présence ou l&apos;absence de connaissances, de réflexivité, d&apos;interaction avec le médecin
+			<lb/>
+			et de contraintes facilitent ou non l&apos;implication dans le traitement et à quelles étapes
+			<lb/>
+			cela se produit. Enfin, le modèle met l&apos;accent sur l&apos;impact de l&apos;absence d&apos;implication.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse des entrevues subséquentes, soit l&apos;interprétation des 16 premières
+			<lb/>
+			entrevues, nous a ramenées en arrière. En effet, bien que la représentation du
+			<lb/>
+			traitement soit distincte de l&apos;implication dans le traitement au plan conceptuel, elles
+			<lb/>
+			ne formaient qu&apos;une seule et même idée empirique pour les aidants. La représentation
+			<lb/>
+			du traitement devenait dorénavant une partie intégrante, voire centrale de
+			<lb/>
+			l&apos;implication des aidants dans le traitement. Cette représentation a surtout une
+			<lb/>
+			influence pour la phase de prescription médicale et de réflexion à l&apos;égard du
+			<lb/>
+			traitement. La représentation du traitement est par ailleurs influencée par les
+			<lb/>
+			interactions avec le médecin et les déterminants organisationnels, comme les coûts ou
+			<lb/>
+			l&apos;accès au traitement. Une fois la réflexion effectuée, les aidants internalisent leur
+			<lb/>
+			décision de traitement et l&apos;actualisent en effectuant différentes tâches : surveillance de
+			<lb/>
+			la prise de médicaments et des effets secondaires, ajustement de dosage, etc. La
+			<lb/>
+			gestion quotidienne du traitement aura à son tour une influence sur les interactions
+			<lb/>
+			avec le médecin et le contexte organisationnel dans lequel il s&apos;inscrit. Ainsi, de deux
+			<lb/>
+			modèles, on revient à un seul. Par conséquent, un nouveau schéma, présenté à la
+			<lb/>
+			<ref type="figure">Figure 6</ref>, reflète les données des 16 premières entrevues.
+			<lb/>
+		</p>
+		
+		
+		<figure>Figure 5 : Implication dans le traitement. Synthèse des entrevues 001 à 012.
+			<lb/>
+			-<lb/>+
+			<lb/>
+			-<lb/>+
+			<lb/>
+			Légende
+			<lb/>
+			TTT : traitement
+			<lb/>
+			Étapes implication
+			<lb/>
+			Impacts Étapes
+			<lb/>
+			non-<lb/>implication
+			<lb/>
+			contraintes
+			<lb/>
+			organisation-<lb/>nelles
+			<lb/>
+			réflexivité
+			<lb/>
+			surveillance prise
+			<lb/>
+			médication
+			<lb/>
+			gestion effets
+			<lb/>
+			modification dosage
+			<lb/>
+			décision arrêt TTT
+			<lb/>
+			défense
+			<lb/>
+			des droits
+			<lb/>
+			du proche
+			<lb/>
+			diagnostic
+			<lb/>
+			décision TTT
+			<lb/>
+			cessation TTT
+			<lb/>
+			hébergement
+			<lb/>
+			décision TTT
+			<lb/>
+			TTT perçu
+			<lb/>
+			prescription
+			<lb/>
+			médicale
+			<lb/>
+			perte de pouvoir
+			<lb/>
+			(dépossession)
+			<lb/>
+			+
+			<lb/>
+			+
+			<lb/>
+			+
+			<lb/>
+			interactions
+			<lb/>
+			aidants/médecins
+			<lb/>
+			connaissances
+			<lb/>
+			diagnostic
+			<lb/>
+			décision TTT
+			<lb/>
+			accès aux services
+			<lb/>
+			+
+			<lb/>
+			décision TTT
+			<lb/>
+			cessation TTT
+			<lb/>
+			responsabilité
+			<lb/>
+			générale TTT
+			<lb/>
+			TTT perçu
+			<lb/>
+			prescription
+			<lb/>
+			médicale
+			<lb/>
+			décision TTT
+			<lb/>
+			décision TTT
+			<lb/>
+			modification dosage
+			<lb/>
+			gestion effets
+			<lb/>
+			décision arrêt TTT
+			<lb/>
+			lourdeur tâche
+			<lb/>
+			sentiment exclusion TTT
+			<lb/>
+			baisse motivation à
+			<lb/>
+			s&apos;impliquer
+			<lb/>
+			+
+			<lb/>
+			-<lb/>+
+			<lb/>
+		</figure>
+		
+		<p>Une autre série de quatre entrevues a été effectuée. Les catégories sont
+			<lb/>
+			demeurées les mêmes, permettant de croire à l&apos;atteinte de la saturation. Par contre, le
+			<lb/>
+			modèle s&apos;est quelque peu modifié afin de mieux représenter visuellement les
+			<lb/>
+		</p>
+		
+		<figure>Légende
+			<lb/>
+			TTT : traitement
+			<lb/>
+			6. Interaction
+			<lb/>
+			aidants/MD
+			<lb/>
+			 confiance
+			<lb/>
+			 asymétrie
+			<lb/>
+			d&apos;expertise
+			<lb/>
+			7. Déterminants
+			<lb/>
+			organisationnels
+			<lb/>
+			 organisation des
+			<lb/>
+			services
+			<lb/>
+			 coût TTT
+			<lb/>
+			 écart entre les
+			<lb/>
+			attentes et les
+			<lb/>
+			services reçus
+			<lb/>
+			3. Représentation du traitement
+			<lb/>
+			4. Internalisa-<lb/>tion de la
+			<lb/>
+			décision
+			<lb/>
+			TTT
+			<lb/>
+			2. Réflexion
+			<lb/>
+			recherche
+			<lb/>
+			d&apos;informations
+			<lb/>
+			évaluation des risques
+			<lb/>
+			/bénéfices
+			<lb/>
+			1. Prescription médicale
+			<lb/>
+			s&apos;en remet à l&apos;expert ou à la
+			<lb/>
+			décision de l&apos;aidé/famille
+			<lb/>
+			5. Actualisation du rôle dans le TTT
+			<lb/>
+			 surveillance de la prise de medicament
+			<lb/>
+			 surveillance des effets secondaires
+			<lb/>
+			 ajustement de dosage
+			<lb/>
+			 vérification de l&apos;atteinte des objectifs TTT
+			<lb/>
+			 évaluation des risques/coûts/bénéfices
+			<lb/>
+			o
+			<lb/>
+			1, pp. 176-210.
+			<lb/>
+			202
+			<lb/>
+			Accessibilité
+			<lb/>
+			aux soins et
+			<lb/>
+			services de
+			<lb/>
+			santé
+			<lb/>
+			Interaction aidant-MD
+			<lb/>
+			 reconnaissance réciproque
+			<lb/>
+			des compétences
+			<lb/>
+			 rapport de confiance
+			<lb/>
+			 asymétrie d&apos;expertise
+			<lb/>
+			 absence de considération des
+			<lb/>
+			médecins de l&apos;expérience
+			<lb/>
+			morale
+			<lb/>
+			 des aidants
+			<lb/>
+			Représentation du TTT
+			<lb/>
+			 définition du TTT
+			<lb/>
+			 attentes et croyances
+			<lb/>
+			 impact du TTT
+			<lb/>
+			Actualisation du rôle dans le TTT
+			<lb/>
+			 surveillance de la prise de médicaments
+			<lb/>
+			 surveillance des effets secondaires
+			<lb/>
+			 ajustement de dosage
+			<lb/>
+			 vérification de l&apos;atteinte des objectifs
+			<lb/>
+			TTT
+			<lb/>
+			 évaluation des risques/couts/bénéfices
+			<lb/>
+			Prescription médicale
+			<lb/>
+			Recherche d&apos;informations
+			<lb/>
+			Réflexion et
+			<lb/>
+			internalisation
+			<lb/>
+			de la décision
+			<lb/>
+			Légende
+			<lb/>
+			TTT : traitement
+			<lb/>
+			Figure 6. Implication des aidants dans le traitement pharmacologique de leur proche
+			<lb/>
+			atteint de la MA. Synthèse des entrevues 001 à 016.
+			<lb/>
+		</figure>
+		
+		<p>interactions entre les différentes catégories. Dès lors, la <ref type="figure">Figure 7</ref> représente la
+			<lb/>
+			synthèse finale des 20 entrevues. Elle illustre le processus d&apos;implication des aidants
+			<lb/>
+			dans le traitement. On constate que les phases de prescription médicale, de recherche
+			<lb/>
+			d&apos;informations et de réflexion conduisent à l&apos;actualisation du rôle dans le traitement.
+			<lb/>
+		</p>
+		
+		<p>Toutes ces phases se produisent selon la représentation que les aidants se font
+			<lb/>
+			du traitement et sont influencées par les interactions avec le médecin tout en les
+			<lb/>
+			influençant à leur tour. Enfin, l&apos;implication des aidants dans le traitement s&apos;effectue
+			<lb/>
+			dans le contexte plus global de l&apos;accessibilité aux soins et aux services de santé.
+			<lb/>
+		</p>
+		
+		<p>Ce modèle synthèse permet de mieux comprendre l&apos;expérience des aidants au
+			<lb/>
+			regard du traitement tout en procurant les éléments essentiels au développement de la
+			<lb/>
+			représentation du traitement. Cependant, le modèle a été repris avec trois motivations.
+			<lb/>
+		</p>
+		
+		<figure>Figure 7. Implication des aidants dans le traitement pharmacologique de leur proche
+			<lb/>
+			atteint de la MA. Synthèse des entrevues 001 à 020.
+			<lb/>
+		</figure>
+		
+		<p>Rendre encore plus explicite le processus sous-jacent de l&apos;implication dans le
+			<lb/>
+			traitement; mettre en évidence la catégorie centrale de ce modèle soit la
+			<lb/>
+			représentation du traitement; et mieux faire ressortir le lien qu&apos;elle entretient avec les
+			<lb/>
+			autres catégories. La notion d&apos;implication dans le traitement a aussi été remplacée par
+			<lb/>
+			celle de l&apos;engagement, ce qui paraît plus juste dans la mesure où l&apos;engagement réfère
+			<lb/>
+			davantage à la notion de promesse envers l&apos;autre, plus appropriée dans le contexte de
+			<lb/>
+			cette étude. Ce dernier modèle est illustré à la Figure 8. Les phases sont demeurées
+			<lb/>
+			les mêmes, mais leur interaction est moins linéaire. L&apos;actualisation dans le traitement
+			<lb/>
+			n&apos;est effectivement pas la finalité du processus et ramène constamment les aidants
+			<lb/>
+			vers une recherche d&apos;informations qui demande encore réflexion. Ce dernier modèle
+			<lb/>
+			fait mieux ressortir l&apos;importance de la représentation du traitement dans ce processus
+			<lb/>
+			d&apos;engagement dans la mesure où il englobe les différentes phases de l&apos;engagement.
+			<lb/>
+			Aussi, l&apos;accent est mis sur les phases qui sont influencées par les relations avec le
+			<lb/>
+			médecin. Enfin, il comprend la catégorie centrale du premier modèle théorique de
+			<lb/>
+			cette étude sur la construction de la responsabilité morale (ce modèle n&apos;a pas été
+			<lb/>
+			présenté dans cet article) : les relations aidant-aidé sur lesquelles reposent la réflexion
+			<lb/>
+			sur le traitement et son actualisation.
+			<lb/>
+		</p>
+		
+		<figure>Figure 8 : Engagement des aidants dans le traitement pharmacologique de leur proche
+			<lb/>
+			atteint de la MA. Schéma final des entrevues 001 à 020.
+			<lb/>
+			Légende
+			<lb/>
+			TTT : traitement
+			<lb/>
+			Prescription
+			<lb/>
+			médicale
+			<lb/>
+			Actualisation du
+			<lb/>
+			rôle dans le TTT
+			<lb/>
+			Réflexion et
+			<lb/>
+			internalisation de la
+			<lb/>
+			décision de TTT
+			<lb/>
+			Recherche
+			<lb/>
+			d&apos;informations sur
+			<lb/>
+			la maladie et le TTT
+			<lb/>
+			Représentation du
+			<lb/>
+			TTT
+			<lb/>
+			Accessibilité au TTT
+			<lb/>
+			Relations
+			<lb/>
+			aidant-médecin
+			<lb/>
+			Relations
+			<lb/>
+			aidant-aidé
+			<lb/>
+		</figure>
+		
+		<p>En résumé, ce dernier modèle théorique illustre l&apos;engagement des aidants dans
+			<lb/>
+			le traitement par un processus somme toute assez simple qui pourrait être
+			<lb/>
+			transférable. La transférabilité renvoie à la capacité des résultats de s&apos;étendre à
+			<lb/>
+			d&apos;autres situations. De fait, dans la MTE, les processus sociaux qui sont relevés sont
+			<lb/>
+			considérés comme stables, durables et capables de tenir compte de changements de
+			<lb/>
+			sorte qu&apos;ils peuvent s&apos;appliquer à d&apos;autres situations ou phénomènes (<ref type="biblio">Laperrière,
+				<lb/>
+				1997
+			</ref>
+			). Pour ce faire, on peut spécifier les caractéristiques du contexte et de la
+			<lb/>
+			population à l&apos;étude et diversifier les cas pour permettre de passer d&apos;une théorie
+			<lb/>
+			substantive à une théorie formelle. Ou encore, il suffit d&apos;accentuer la profondeur et
+			<lb/>
+			l&apos;exhaustivité sociosymbolique de l&apos;analyse, autrement dit rechercher une
+			<lb/>
+			représentativité sémiotique; ou de faire ressortir les processus sociaux, c&apos;est-à-dire
+			<lb/>
+			viser une représentativité des processus (
+			<ref type="biblio">Glaser &amp; Strauss, 1967; Laperrière, 1997;
+				<lb/>
+				Lincoln &amp; Guba, 1985
+			</ref>
+			). Dans le cadre de la présente étude, il est envisageable
+			<lb/>
+			d&apos;imaginer que ce processus d&apos;engagement dans le traitement puisse s&apos;appliquer à
+			<lb/>
+			d&apos;autres types d&apos;aidants et à d&apos;autres problématiques que la maladie d&apos;Alzheimer,
+			<lb/>
+			comme certaines maladies psychiatriques ou certaines déficiences intellectuelles.
+			<lb/>
+		</p>
+		
+		<p>Bien que le modèle présente un processus général, il est nécessaire de le décrire
+			<lb/>
+			plus spécifiquement selon les résultats de notre étude. D&apos;abord, les aidants perçoivent
+			<lb/>
+			le traitement comme une prescription médicale, dans son sens d&apos;ordonnance et
+			<lb/>
+			d&apos;obligation, en raison de l&apos;espoir qu&apos;ils entretiennent envers le traitement et de la
+			<lb/>
+			confiance envers le médecin. Ensuite, les aidants entreprennent une recherche
+			<lb/>
+			d&apos;informations sur le traitement qui leur permet de réfléchir puis d&apos;internaliser la
+			<lb/>
+			décision de départ. Certains décideront alors de recourir aux traitements traditionnels,
+			<lb/>
+			d&apos;autres choisiront plutôt les traitements alternatifs (produits naturels, aliments,
+			<lb/>
+			changement d&apos;attitudes envers leur proche) et d&apos;autres adopteront les deux approches
+			<lb/>
+			thérapeutiques. Quoi qu&apos;ils décident, il s&apos;agira par la suite de leur propre décision, et
+			<lb/>
+			non plus celle du médecin, qu&apos;ils vont actualiser au quotidien en réalisant des tâches
+			<lb/>
+			spécifiques, par exemple, surveiller la prise de médicaments (ou de vitamines, de
+			<lb/>
+			produits naturels), être attentifs aux effets secondaires (présents ou absents) ou encore
+			<lb/>
+			ajuster le dosage. Cette implication des aidants nécessite l&apos;interaction avec leur
+			<lb/>
+			médecin, laquelle est présente aux phases de prescription, de recherche
+			<lb/>
+			d&apos;informations et d&apos;actualisation dans le traitement. Ces relations avec le médecin se
+			<lb/>
+			caractérisent de trois façons : elles sont asymétriques en raison des connaissances et
+			<lb/>
+			du statut du médecin; elles sont néanmoins fondées sur une reconnaissance
+			<lb/>
+			réciproque des compétences, c&apos;est-à-dire que les aidants reconnaissent l&apos;expertise du
+			<lb/>
+			médecin en ce qui concerne le diagnostic et le traitement, et les médecins
+			<lb/>
+			reconnaissent les compétences des aidants pour gérer la médication, identifier les
+			<lb/>
+			effets secondaires, modifier les dosages et même pour refuser le traitement
+			<lb/>
+			traditionnel; enfin, ces relations sont marquées par le manque de prise en compte de
+			<lb/>
+			la part des médecins de la responsabilité morale plus globale des aidants à l&apos;égard de
+			<lb/>
+			leur proche. Ceci se manifeste dans la manière expéditive et impersonnelle avec
+			<lb/>
+			laquelle les aidants sont reçus lors de la consultation médicale, dans la façon parfois
+			<lb/>
+			indélicate avec laquelle le diagnostic leur est annoncé ou encore le manque de suivi
+			<lb/>
+			de leur situation de la part du médecin. Les phases de réflexion et d&apos;actualisation dans
+			<lb/>
+			le traitement sont, quant à elles, subordonnées à la relation aidant-aidé. La qualité et
+			<lb/>
+			la nature de la relation avec leur proche (tant celle antérieure à la maladie que
+			<lb/>
+			l&apos;actuelle relation) guident effectivement les choix des aidants dans le quotidien.
+			<lb/>
+			Toutes les phases d&apos;engagement dans le traitement, de la prescription à
+			<lb/>
+			l&apos;actualisation, de même que la relation avec l&apos;aidé et le médecin, façonnent la
+			<lb/>
+			représentation du traitement située au coeur de ce modèle. Rappelons simplement ici
+			<lb/>
+			que les aidants se représentent le traitement comme holiste, stabilisant leur proche et
+			<lb/>
+			empêchant une détérioration rapide. Enfin, l&apos;engagement des aidants exige un
+			<lb/>
+			contexte social plus large d&apos;accès au traitement. Dans notre étude, les aidants ont
+			<lb/>
+			soulevé le fait que les délais d&apos;attente (pour obtenir un diagnostic et des rendez-vous
+			<lb/>
+			médicaux), les politiques d&apos;administration des médicaments en milieu institutionnel
+			<lb/>
+			(le retrait quasi systématique des anticholinestérasiques et antiglutamatergiques lors
+			<lb/>
+			de l&apos;entrée en centre d&apos;hébergement de soins de longue durée sous prétexte qu&apos;ils sont
+			<lb/>
+			devenus futiles et l&apos;augmentation ou l&apos;ajout de somnifères ou de psychotiques pour
+			<lb/>
+			calmer ou mieux contrôler les comportements) et leur coût sont des facteurs
+			<lb/>
+			d&apos;accessibilité au traitement incontournables.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>La perspective interprétative dans le cadre d&apos;une étude qualitative peut recourir à
+			<lb/>
+			différentes formes. L&apos;objectif de « donner sens, de comprendre des phénomènes
+			<lb/>
+			sociaux et humains complexes » (<ref type="biblio">Mukamurera, Lacourse, &amp; Couturier, 2006, p. 111</ref>)
+			<lb/>
+			peut en effet être atteint à l&apos;aide de diverses postures. <ref type="biblio">Malo (2006)</ref> en décrit trois,
+			<lb/>
+			liées à l&apos;interprétation du discours des acteurs : illustrative, restitutive et analytique.
+			<lb/>
+			La première, l&apos;illustrative, affirme que « c&apos;est le chercheur qui donne sens au discours
+			<lb/>
+			des acteurs » (<ref type="biblio">Malo, 2006, p. 67</ref>). Les catégories étant prédéterminées, les entrevues
+			<lb/>
+			semi-dirigées servent à confirmer, à illustrer et à appuyer la pertinence des
+			<lb/>
+			hypothèses du chercheur. Dans cette perspective, « il faut donc réinterpréter les
+			<lb/>
+			catégories du langage ordinaire à la lumière de certaines déterminations dont l&apos;acteur
+			<lb/>
+			n&apos;est pas conscient » (<ref type="biblio">Malo, 2006, p. 68</ref>). L&apos;approche mixte de Miles et Huberman
+			<lb/>
+			recourt à cette posture. Elle appartient en effet à la lignée du réalisme transcendantal
+			<lb/>
+			qui « appelle à la fois une explication causale et des preuves pour montrer que chaque
+			<lb/>
+			entité ou événement est un exemple de cette explication » (<ref type="biblio">Miles &amp; Huberman, 2003,
+			<lb/>
+			p. 17</ref>). Il existe selon les auteurs un monde réel à découvrir qui va au-delà de sa
+			<lb/>
+			constitution dans les esprits mêmes des individus. La vie individuelle sous-tend un
+			<lb/>
+			certain nombre de constructions invisibles, mais néanmoins existantes, qu&apos;il est
+			<lb/>
+			possible de connaître. Tout en reconnaissant le caractère subjectif de la construction
+			<lb/>
+			du monde, le langage, les décisions, les conflits et les hiérarchies s&apos;avèrent autant de
+			<lb/>
+			phénomènes sociaux qui existent objectivement dans le monde et qui exercent une
+			<lb/>
+			influence sur les activités humaines (<ref type="biblio">Miles &amp; Huberman, 2003</ref>).
+			<lb/>
+		</p>
+		
+		<p>Dans la posture restitutive, à l&apos;opposé, le discours de l&apos;acteur comporte la
+			<lb/>
+			totalité du sens : il suffit de favoriser l&apos;expression de cette parole « pour que le sens
+			<lb/>
+			soit livré » (<ref type="biblio">Malo, 2006, p. 68</ref>). Le chercheur revêt un rôle de porte-parole,
+			<lb/>
+			d&apos;intermédiaire qui rend compte de ce sens par la mise en contexte de celui-là. Ainsi,
+			<lb/>
+			les catégories conceptuelles dans cette perspective d&apos;analyse se construisent à partir
+			<lb/>
+			du langage même des acteurs.
+			<lb/>
+		</p>
+		
+		<p>Dans la posture analytique, le sens ne se trouve pas uniquement dans le point de
+			<lb/>
+			vue des acteurs, ni dans celui du chercheur, mais émerge de l&apos;interaction entre les
+			<lb/>
+			deux (<ref type="biblio">Malo, 2006</ref>). Le chercheur interprète le sens du discours exprimé par les
+			<lb/>
+			acteurs en tenant compte du contexte dans lequel il s&apos;inscrit, l&apos;entrevue elle-même
+			<lb/>
+			faisant partie de ce contexte. Plusieurs approches méthodologiques recourent à cette
+			<lb/>
+			posture interprétative analytique, dont la MTE de <ref type="biblio">Strauss et Corbin (2004)</ref> utilisée
+			<lb/>
+			dans cette étude. Dans cette perspective, le chercheur n&apos;est pas séparé de la méthode.
+			<lb/>
+			Il en constitue même un acteur important. La réalité ne peut pas être vraiment connue,
+			<lb/>
+			mais seulement interprétée en se préoccupant du moment et de l&apos;endroit où elle se
+			<lb/>
+			situe. La démarche analytique choisie revêt donc un caractère fondamental dans une
+			<lb/>
+			étude.
+			<lb/>
+		</p>
+		
+		<p>L&apos;interprétation des données qualitatives n&apos;est donc pas un geste anodin : c&apos;est
+			<lb/>
+			générer du sens à partir du sens que donnent les aidants à leur expérience. Cette
+			<lb/>
+			interprétation implique une posture selon laquelle le monde n&apos;est pas donné en soi : il
+			<lb/>
+			doit être interprété pour être compris. Il existe plusieurs types d&apos;analyse qui orientent
+			<lb/>
+			la nature des résultats obtenus. De fait, l&apos;analyse thématique, structurante ou par
+			<lb/>
+			théorisation enracinée ne reflète pas les mêmes niveaux d&apos;analyse. Cet article décrit
+			<lb/>
+			une procédure d&apos;analyse inspirée de la MTE. Cependant, bien au-delà d&apos;une
+			<lb/>
+			introduction à la mécanique de l&apos;analyse, cet article permet de faire ressortir la
+			<lb/>
+			distinction entre le monde objectif de la médecine et celui subjectif de l&apos;aidant qui vit
+			<lb/>
+			la perte de son proche. Cette expérience du rapport au proche et à la médicalisation de
+			<lb/>
+			sa maladie ne saurait être totalement entendue et comprise dans le cadre d&apos;une
+			<lb/>
+			posture positiviste. La MTE donne accès à cette expérience des aidants et permet d&apos;y
+			<lb/>
+			conférer un sens unique. L&apos;engagement des aidants dans le traitement
+			<lb/>
+			pharmacologique de la maladie d&apos;Alzheimer de leur proche est, de toute évidence,
+			<lb/>
+			une expérience riche et complexe explicitée en partie par cette étude.
+			<lb/>
+		</p>
+	
+	
+	</text>
+</tei>

@@ -1,0 +1,1252 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>L&apos;analyse du discours 1 est un « lieu obscur, mal délimité, qui ne recèle pas le Trésor
+			<lb/>
+			caché d&apos;une grande Méthodologie transdisciplinaire, mais où converge cependant un
+			<lb/>
+			immense potentiel de notions et d&apos;approches » (<ref type="biblio">Angenot, 1989, p. 7</ref>). Étant
+			donné
+			<lb/>
+			que chaque discours engendre les critères de sa propre analyse, il n&apos;existe pas une,
+			<lb/>
+			mais bien des méthodes de recherche en analyse du discours (<ref type="biblio">Coulomb-Gully, 2002</ref>);
+			<lb/>
+			vu la difficulté, peu de chercheurs s&apos;attardent à mettre en mots les ellipses
+			<lb/>
+			méthodologiques de cette discipline. Dans les recherches publiées en analyse du
+			<lb/>
+			discours, la méthodologie est d&apos;ailleurs rarement traitée comme un thème en soi. Les
+			<lb/>
+			chercheurs, comme ceux d&apos;autres disciplines en sciences sociales, utilisent
+			<lb/>
+			12
+			<lb/>
+			généralement des méthodes inductives sans les nommer ni les formaliser (
+			<ref type="biblio">Luckerhoff
+				<lb/> &amp; Guillemette, 2012
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Nous tenterons dans cet article de faire la lumière sur des choix
+			<lb/>
+			méthodologiques qui s&apos;imposent lorsque les données recueillies ne cadrent pas avec
+			<lb/>
+			un mode d&apos;emploi préétabli. Pour ce faire, nous revisiterons le parcours effectué dans
+			<lb/>
+			le cadre d&apos;un projet de recherche en analyse du discours (
+			<ref type="biblio">Normand, Laforest, &amp;<lb/>
+				DeMontigny, 2009, 2010
+			</ref>
+			), qui porte sur la construction discursive de l&apos;identité
+			<lb/>
+			paternelle. Ce terrain propice à la réflexivité permet d&apos;analyser ce qui a été fait dans
+			<lb/>
+			la perspective d&apos;une formalisation plus nette de la méthodologie en établissant des
+			<lb/>
+			parallèles avec la méthodologie de la théorisation enracinée (MTE). Le défi consiste
+			<lb/>
+			donc, d&apos;une part, à se pencher sur l&apos;aspect inductif de l&apos;analyse du discours et, d&apos;autre
+			<lb/>
+			part, à faire voir que la théorisation enracinée constitue une méthodologie pertinente
+			<lb/>
+			pour les chercheurs de cette discipline.
+			<lb/>
+		</p>
+		
+		<head>1. Induction et méthodologie de la théorisation enracinée
+			<lb/>
+		</head>
+		
+		<p>Les approches inductives, souvent associées aux recherches exploratoires, ont comme
+			<lb/>
+			principe premier de donner la priorité aux données, à partir desquelles il est possible
+			<lb/>
+			de générer des théories. Les approches inductives nagent à contre-courant des
+			<lb/>
+			démarches fondées sur le raisonnement hypothético-déductif qui prévalent dans la
+			<lb/>
+			très grande majorité des champs de recherche. Avec ces dernières, la recherche
+			<lb/>
+			débute avec une hypothèse et la construction du cadre théorique; c&apos;est l&apos;hypothèse qui
+			<lb/>
+			détermine le corpus, puis l&apos;analyse permet ensuite de vérifier l&apos;hypothèse. L&apos;objectif
+			<lb/>
+			de ces approches est de pouvoir parvenir à des résultats qui seront prédictibles,
+			<lb/>
+			vérifiables et généralisables (<ref type="biblio">Eisner, 1981</ref>).
+			<lb/>
+		</p>
+		
+		<p>Dans les recherches inductives, l&apos;objectif n&apos;est pas de généraliser, mais bien
+			<lb/>
+			d&apos;explorer un phénomène et d&apos;« introduire un pluralisme et un relativisme dans la
+			<lb/>
+			définition des objets et des choses » (<ref type="biblio">Groulx, 1997, p. 58</ref>). La méthodologie
+			retenue
+			<lb/>
+			doit ainsi donner lieu à un processus sensible. La sensibilité, perçue comme une
+			<lb/>
+			antithèse de la scientificité par les tenants des approches hypothético-déductives, est
+			<lb/>
+			plutôt vue comme une alliée dans les méthodes inductives, en ce sens que le
+			<lb/>
+			chercheur appréhende les phénomènes avec sa sensibilité théorique, empreinte de ses
+			<lb/>
+			connaissances antérieures (Guillemette, 2006a).
+			<lb/>
+		</p>
+		
+		<p>Les approches inductives ne sont que rarement formalisées, ce qui constitue la
+			<lb/>
+			raison première des critiques qui leur sont adressées. Selon Van der Maren <ref type="biblio">(1995)</ref>,
+			les
+			<lb/>
+			recherches exploratoires servent à combler un vide et elles sont généralement suivies
+			<lb/>
+			de recherches hypothético-déductives qui visent la confirmation de résultats.
+			<lb/>
+			Toutefois, d&apos;autres chercheurs remettent en question cette pensée et croient à la
+			<lb/>
+			pertinence de mener des recherches inductives qui ne devront pas nécessairement être
+			<lb/>
+			complétées par des recherches hypothético-déductives : « si on met en perspective
+			<lb/>
+			que des recherches inscrites dans un paradigme empirico-inductif peuvent avoir une
+			<lb/>
+			finalité descriptive, explicative ou vérificative, on comprend qu&apos;il existe des
+			<lb/>
+			recherches qualitatives non exploratoires » (<ref type="biblio">Trudel, Simard, &amp; Vonarx, 2007, p.
+				39</ref>).
+			<lb/>
+		</p>
+		
+		<p>La MTE est une approche inductive « dont la finalité est de générer des
+			<lb/>
+			théories » (<ref type="biblio">Corbin, 2012, p. viii</ref>). Elle est organisée de façon à placer les
+			données au
+			<lb/>
+			centre de la démarche afin que les théories qui découlent de la recherche en soient
+			<lb/>
+			imprégnées -de là l&apos;appellation de théorisation « enracinée ». De plus en plus utilisée
+			<lb/>
+			en recherche qualitative, elle est également parfois retenue dans le cadre de
+			<lb/>
+			recherches quantitatives ou mixtes.
+			<lb/>
+		</p>
+		
+		<p>En MTE, nulle hypothèse n&apos;est posée, tout comme on n&apos;impose pas de cadre
+			<lb/>
+			théorique a priori. On commence plutôt par la collecte de données qui se fait de pair
+			<lb/>
+			avec les analyses. Il est important de continuer à collecter des données pendant la
+			<lb/>
+			période d&apos;analyse puisque cela contribue à définir ce qui importe d&apos;être retenu; le
+			<lb/>
+			chercheur qui effectue de multiples allers-retours entre la collecte et l&apos;analyse
+			<lb/>
+			s&apos;assure ainsi que les données collectées s&apos;arriment avec la théorisation. La collecte
+			<lb/>
+			de données se termine lorsqu&apos;il y a saturation théorique, c&apos;est-à-dire que « l&apos;analyste
+			<lb/>
+			considère que la collecte de nouvelles données n&apos;apporterait rien à la
+			<lb/>
+			conceptualisation et à la théorisation du phénomène à l&apos;étude (
+			<ref type="biblio">Holloway &amp; Wheeler,
+				<lb/>
+				2002; Laperrière, 1997; Morse, 1995; Strauss &amp; Corbin, 1998
+			</ref>
+			) » (<ref type="biblio">Guillemette, 2006a,
+			<lb/>
+				p. 41</ref>).
+			<lb/>
+		</p>
+		
+		<p>Par rapport à l&apos;ensemble des approches inductives, la MTE a la particularité
+			<lb/>
+			d&apos;être la plus formalisée. Depuis les articles publiés dans les années 1960 par Glaser
+			<lb/>
+			et Strauss, qui ont à l&apos;époque écrit ce qui était fait informellement depuis plusieurs
+			<lb/>
+			années, de nombreux chercheurs ont poursuivi leur travail afin de faire de cette
+			<lb/>
+			approche un dispositif de travail intellectuel efficace (voir notamment
+			<ref type="biblio">Glaser &amp;<lb/>
+				Strauss, 1967; Luckerhoff &amp; Guillemette, 2012; Strauss, 1987; Strauss &amp; Corbin,
+				<lb/>
+				1998
+			</ref>
+			). Pour cette raison, et puisqu&apos;elle est une méthodologie générale pouvant
+			<lb/>
+			s&apos;appliquer à diverses disciplines, la MTE est aujourd&apos;hui l&apos;une des approches
+			<lb/>
+			inductives les plus citées.
+			<lb/>
+		</p>
+		
+		<head>2. L&apos;analyse du discours
+			<lb/>
+		</head>
+		
+		<p>Le discours n&apos;intéresse pas seulement les chercheurs en sciences du langage, mais
+			<lb/>
+			aussi ceux de diverses disciplines des sciences humaines et sociales. Le discours est
+			<lb/>
+			pour ces chercheurs une porte d&apos;entrée relativement accessible à des données de
+			<lb/>
+			toutes sortes, par exemple, le discours politique, la publicité de voiture, les
+			<lb/>
+			interactions médicales, les textes littéraires et les rapports officiels.
+			<lb/>
+		</p>
+		
+		<p>Bien qu&apos;un grand nombre de chercheurs se réclament de l&apos;analyse du discours,
+			<lb/>
+			ceux-ci prennent généralement appui sur des postures épistémologiques fort
+			<lb/>
+			différentes. S&apos;ils ont en commun quelques procédures d&apos;analyse et des termes
+			<lb/>
+			spécialisés (<ref type="biblio">Cheek, 2004; Wetherell, Taylor, &amp; Yates, 2001</ref>), il demeure qu&apos;ils
+			ne
+			<lb/>
+			perçoivent pas l&apos;analyse du discours de la même façon. Pour les linguistes, elle
+			<lb/>
+			constitue une discipline à part entière, alors que pour les chercheurs d&apos;autres
+			<lb/>
+			disciplines, elle est une méthode parmi d&apos;autres. Ainsi,
+			<lb/>
+			[…] en abordant l&apos;analyse du discours dans toute sa diversité, nous nous
+			<lb/>
+			plaçons par là même dans une situation inconfortable. Si l&apos;on reconnaît
+			<lb/>
+			pour analyse du discours toutes les recherches qui se disent telles, on
+			<lb/>
+			comprend que pour beaucoup cette discipline n&apos;en soit pas une, tant elle
+			<lb/>
+			apparaît hétérogène (<ref type="biblio">Maingueneau, 1995, p. 5</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le survol présenté ici se veut ainsi davantage un aperçu du champ plutôt qu&apos;une
+			<lb/>
+			prise de position quant aux origines et aux regroupements possibles en analyse du
+			<lb/>
+			discours.
+			<lb/>
+		</p>
+		
+		<p>Issue du renouvellement de pratiques d&apos;études de texte très anciennes comme la
+			<lb/>
+			rhétorique, la philologie et l&apos;herméneutique (<ref type="biblio">Maingueneau, 2002</ref>), l&apos;analyse
+			de
+			<lb/>
+			discours est une discipline qui s&apos;est développée en France, en Grande-Bretagne et aux
+			<lb/>
+			États-Unis à partir des années 1960 (<ref type="biblio">Angermüller, 2007; Maingueneau, 2002</ref>),
+			<lb/>
+			formant ainsi des courants plus ou moins distincts. Ces courants rapportent l&apos;analyse
+			<lb/>
+			du discours à la relation texte et contexte -ou encore linguistique et social -, c&apos;est-à-<lb/>dire qu&apos;ils
+			ont en commun un intérêt pour « l&apos;étude de productions transphrastiques,
+			<lb/>
+			orales ou écrites, dont on cherche à comprendre la signification sociale » (<ref type="biblio">Charaudeau
+			<lb/>
+			&amp; Maingueneau, 2002, p. 7</ref>). Ces courants partagent également le postulat selon
+			<lb/>
+			lequel le langage n&apos;est pas un véhicule transparent des idées, en ce sens, que s&apos;il est
+			<lb/>
+			effectivement l&apos;instrument par lequel s&apos;opère la transmission d&apos;informations, il n&apos;en
+			<lb/>
+			demeure pas moins que la façon dont le locuteur construit son discours est tout aussi
+			<lb/>
+			révélatrice que son contenu (<ref type="biblio">McKenzie &amp; Oliphant, 2010</ref>).
+			<lb/>
+		</p>
+		
+		<head>2.1 L&apos;École française
+			<lb/>
+		</head>
+		
+		<p>En France, l&apos;analyse du discours se développe dans les années 1960-1970 et forme un
+			<lb/>
+			courant désigné comme l&apos;« École française ». Celle-ci est souvent perçue comme une
+			<lb/>
+			rencontre entre la tradition scientifique, la pratique scolaire et une conjonction
+			<lb/>
+			intellectuelle originale (<ref type="biblio">Maingueneau, 1991/1997</ref>). L&apos;une des raisons de l&apos;expansion
+			<lb/>
+			de cette branche est la recherche d&apos;une façon de remédier aux lacunes de l&apos;analyse de
+			<lb/>
+			contenu, arrivée une dizaine d&apos;années plus tôt des États-Unis. On souhaite notamment
+			<lb/>
+			aller au-delà de la quantification de l&apos;analyse de contenu qui permet certes de traiter
+			<lb/>
+			des corpus de grande taille, mais qui ne tient pas compte du mode de fonctionnement
+			<lb/>
+			des discours ni des modalités de l&apos;exercice de la parole dans un univers déterminé
+			<lb/>
+			(<ref type="biblio">Têtu, 2002</ref>).
+			<lb/>
+		</p>
+		
+		<p>L&apos;École française est grandement influencée par la linguistique, l&apos;analyse
+			<lb/>
+			littéraire et la psychanalyse. Michel Pêcheux est l&apos;un des auteurs les plus
+			<lb/>
+			représentatifs de ce courant. Avec son analyse automatique de discours, publiée en
+			<lb/>
+			1969, il vise la « description du fonctionnement des idéologies en général et, en
+			<lb/>
+			particulier, de l&apos;obstacle que représente ce fonctionnement à l&apos;établissement d&apos;une
+			<lb/>
+			véritable science sociale » (<ref type="biblio">Helsloot &amp; Hak, 2000, p. 13</ref>).
+			<lb/>
+		</p>
+		
+		<p>La même année, Michel Foucault fait paraître l&apos;Archéologie du savoir qui a une
+			<lb/>
+			influence considérable sur l&apos;analyse du discours -quoiqu&apos;indirectement puisque
+			<lb/>
+			l&apos;auteur y conteste l&apos;importance de la linguistique (<ref type="biblio">Maingueneau, 2012</ref>).
+			Selon
+			<lb/>
+			Foucault, la visée de l&apos;analyse du discours est de
+			<lb/>
+			[…] saisir l&apos;énoncé dans l&apos;étroitesse et la singularité de son événement;
+			<lb/>
+			de déterminer les conditions de son existence, d&apos;en fixer au plus juste les
+			<lb/>
+			limites, d&apos;établir ses corrélations aux autres énoncés qui peuvent lui être
+			<lb/>
+			liés, de montrer quelles autres formes d&apos;énonciation il exclut (1969,
+			<lb/>
+			p. 100).
+			<lb/>
+		</p>
+		
+		<head>2.2 L&apos;approche anglo-saxonne
+			<lb/>
+		</head>
+		
+		<p>Au moment où l&apos;École française émerge en France, se développe aux États-Unis et en
+			<lb/>
+			Grande-Bretagne une autre branche de l&apos;analyse du discours : l&apos;analyse des
+			<lb/>
+			interactions, souvent désignée comme la discourse analysis. Dans cette acception, le
+			<lb/>
+			discours est perçu comme fondamentalement interactionnel; il renvoie à l&apos;agir
+			<lb/>
+			langagier dans une situation de communication donnée (<ref type="biblio">Levinson, 1983</ref>). L&apos;intérêt
+			<lb/>
+			est porté aux règles qui organisent la conversation et plus largement à la façon dont
+			<lb/>
+			les acteurs organisent l&apos;interaction.
+			<lb/>
+		</p>
+		
+		<p>Cette approche des phénomènes communicatifs est essentiellement le fruit de la
+			<lb/>
+			tradition anthropologique, souvent désignée comme l&apos;ethnographie de la
+			<lb/>
+			communication (<ref type="biblio">Gumperz &amp; Hymes, 1964, 1972</ref>), et de divers courants
+			<lb/>
+			sociologiques et linguistiques, dont la sociolinguistique (<ref type="biblio">Labov, 1963</ref>), l&apos;analyse
+			<lb/>
+			conversationnelle (
+			<ref type="biblio">Goffman, 1959/1973, 1967/1974, 1981/1987; Sacks, 1967/1992</ref>)
+				<lb/>
+				et l&apos;ethnométhodologie (<ref type="biblio">Garfinkel, 1967
+			</ref>
+			). On ne peut passer sous silence certains
+			<lb/>
+			travaux, comme la théorie des actes de langage (<ref type="biblio">Austin, 1962; Searle, 1969</ref>), et
+			<lb/>
+			d&apos;autres « domaines voisins » dont l&apos;intérêt porte sur le langage dans son contexte
+			<lb/>
+			social : la psychologie sociale, l&apos;anthropologie et la sociologie (<ref type="biblio">Bachmann,
+			<lb/>
+				Lindenfeld, &amp; Simonin, 1981, p. 16</ref>).
+			<lb/>
+			Catherine Kerbrat-Orecchioni propose de nommer analyse des interactions
+			<lb/>
+			verbales ou analyse du discours en interaction cette branche de l&apos;analyse du discours;
+			<lb/>
+			« ce qui signifie, en dépit du chiasme, à peu près la même chose, la deuxième
+			<lb/>
+			expression présentant toutefois l&apos;avantage de rappeler que les conversations et autres
+			<lb/>
+			formes d&apos;interactions verbales ne sont que des formes particulières de discours »
+			<lb/>
+			(2007, p. 13).
+			<lb/>
+		</p>
+		
+		<head>2.3 Les autres approches
+			<lb/>
+		</head>
+		
+		<p>Bien que les racines française et anglo-saxonne soient généralement reconnues
+			<lb/>
+			comme ayant propulsé l&apos;intérêt pour l&apos;analyse du discours, d&apos;autres approches ont
+			<lb/>
+			également émergé depuis les soixante dernières années. Pensons notamment à
+			<lb/>
+			l&apos;analyse critique du discours (critical discourse analysis) qui vise l&apos;étude discursive
+			<lb/>
+			des formes de pouvoir entre les genres, les races ou les classes sociales
+			<lb/>
+			(<ref type="biblio">Maingueneau, 2002</ref>) et qui s&apos;est développée au tournant du millénaire dans le
+			monde
+			<lb/>
+			anglophone (<ref type="biblio">Fairclough, 2003</ref>) et germanique (<ref type="biblio">Jäger, 1999</ref>). C&apos;est aussi en
+			<lb/>
+			Allemagne que s&apos;est grandement développée la linguistique textuelle (
+			<ref type="biblio">Weinrich,
+				<lb/>
+				1964
+			</ref>
+			), bien que des linguistes français (<ref type="biblio">Adam, 1990; Combettes, 1992</ref>) y aient
+			<lb/>
+			également contribué.
+			<lb/>
+		</p>
+		
+		<p>D&apos;autres linguistes ont tenté d&apos;articuler « la dimension proprement discursive -<lb/>celle du
+			contenu et du positionnement du locuteur vis-à-vis de ce contenu -, et la
+			<lb/>
+			dimension proprement interactionnelle -celle de la gestion de la parole entre les
+			<lb/>
+			interlocuteurs » (<ref type="biblio">Laforest, 2012, p. 91</ref>). L&apos;un des modèles les plus connus à
+			cet effet
+			<lb/>
+			est l&apos;approche modulaire d&apos;Eddy Roulet (1991, 1999), fondateur de l&apos;école
+			genevoise
+			<lb/>
+			d&apos;analyse du discours. Ce modèle rend possible l&apos;analyse des productions langagières
+			<lb/>
+			en tant qu&apos;« ensemble cohérent, interprétable uniquement par la superposition de
+			<lb/>
+			multiples strates d&apos;analyse; un feuilleté fabriqué selon des modes de production
+			<lb/>
+			répétitifs et uniques à la fois, chaque interaction étant vue comme une activité sociale
+			<lb/>
+			structurée et structurante » (<ref type="biblio">Vincent, 2005, p. 165</ref>).
+			<lb/>
+		</p>
+		
+		<p>Alors qu&apos;on associait jadis l&apos;analyse conversationnelle aux Américains et
+			<lb/>
+			l&apos;analyse des discours plus institutionnels aux Français,
+			<lb/>
+		</p>
+		
+		<p>[…] ce partage est progressivement devenu impossible avec l&apos;évolution
+			<lb/>
+			des sciences humaines et sociales. […] L&apos;analyste du discours doit
+			<lb/>
+			prendre acte de la diversité des pratiques langagières, [et l&apos;]activité
+			<lb/>
+			sociale repose sur l&apos;intrication profonde des genres très écrits et
+			<lb/>
+			d&apos;interactions orales (<ref type="biblio">Boutet &amp; Maingueneau, 2005, pp. 33-34</ref>).
+			<lb/>
+		</p>
+		
+		<p>On assiste ainsi à un décloisonnement plus ou moins généralisé des approches
+			<lb/>
+			puisque plusieurs croient que « l&apos;analyse et la théorisation du fonctionnement
+			<lb/>
+			discursif […] ne peut se satisfaire d&apos;une approche unique et nécessite des points de
+			<lb/>
+			vue différents » (Guilbert, 2010, p. 38).
+			<lb/>
+			3. Méthodologie et analyse du discours
+			<lb/>
+			À l&apos;origine, chacun des courants de l&apos;analyse du discours possède non seulement son
+			<lb/>
+			propre cadre théorique, mais également sa propre approche méthodologique; les
+			<lb/>
+			méthodes d&apos;analyse peuvent également varier selon les objectifs de la recherche. Par
+			<lb/>
+			exemple, Michel Pêcheux s&apos;est intéressé à l&apos;analyse automatique du discours,
+			<lb/>
+			espérant « développer un instrument susceptible de produire des résultats
+			<lb/>
+			expérimentaux » (<ref type="biblio">Helsloot &amp; Hak, 2000, p. 17)</ref> grâce à des analyses
+			quantitatives. Il
+			<lb/>
+			souhaitait ainsi en arriver à une méthode qui permettrait d&apos;évacuer le point de vue du
+			<lb/>
+			chercheur dans les analyses.
+			<lb/>
+		</p>
+		
+		<p>Les analystes du discours qui effectuent leurs travaux en suivant une démarche
+			<lb/>
+			méthodologique qualitative ont souvent également recours aux méthodes
+			<lb/>
+			quantitatives, notamment vu les analyses statistiques et les échantillonnages
+			<lb/>
+			quantitatifs requis par certaines études. Mais si l&apos;étude quantitative du discours a du
+			<lb/>
+			sens en soi, il s&apos;agit selon Charaudeau d&apos;un « sens provisoire devant être confirmé,
+			<lb/>
+			corrigé, voire contredit, et en tout cas étendu et approfondi par l&apos;analyse qualitative »
+			<lb/>
+			(<ref type="biblio">2009, p. 84</ref>). Keller perçoit deux possibilités dans le cadre d&apos;une étude qualitative :
+			<lb/>
+			« d&apos;une part, l&apos;interprétation des données à l&apos;aide d&apos;un modèle théorique préétabli et,
+			<lb/>
+			d&apos;autre part, la construction d&apos;une théorie à partir des données » (<ref type="biblio">2008, p. 47</ref>), à
+			<lb/>
+			l&apos;exemple de la MTE. Selon lui, la deuxième option est
+			<lb/>
+		</p>
+		
+		<p>[…] plus adaptée à la complexité des situations et des constellations
+			<lb/>
+			sociales que ne l&apos;est l&apos;interprétation à partir d&apos;un modèle théorique
+			<lb/>
+			préétabli […]. Il faut concevoir l&apos;analyse de discours de manière telle
+			<lb/>
+			qu&apos;elle combine une stratégie méthodologique avec la création des
+			<lb/>
+			processus d&apos;abduction tout au long de la recherche (<ref type="biblio">Keller, 2008, p. 48</ref>).
+			<lb/>
+		</p>
+		
+		<p>Selon Maingueneau, l&apos;époque où les courants se développaient en vase clos est
+			<lb/>
+			révolue : l&apos;analyse du discours est dorénavant une discipline qui a « développé un
+			<lb/>
+			appareil conceptuel spécifique, fait dialoguer de plus en plus ses multiples courants et
+			<lb/>
+			définit des méthodes distinctes de celle de l&apos;analyse de contenu ou des démarches
+			<lb/>
+			herméneutiques traditionnelles » (<ref type="biblio">2002, p. 45</ref>). Elle regroupe ainsi tout un ensemble
+			<lb/>
+			de propositions théoriques qui ont des répercussions sur le plan méthodologique.
+			<lb/>
+		</p>
+		
+		<p>Bien que le courant de l&apos;analyse du discours auquel le chercheur se rattache
+			<lb/>
+			(pragmatique, analyse conversationnelle, analyse automatique du discours, etc.) joue
+			<lb/>
+			encore un rôle dans les choix méthodologiques, ce rôle n&apos;est plus fondamental; se
+			<lb/>
+			rattacher à un seul courant est devenu de plus en plus rare. En effet, une panoplie de
+			<lb/>
+			dispositifs méthodologiques s&apos;offre au chercheur selon les objectifs de la recherche et
+			<lb/>
+			les segments de discours retenus. Afin d&apos;en arriver à une analyse pertinente, il a donc
+			<lb/>
+			tout intérêt « à multiplier les angles d&apos;approches et à convoquer des outils descriptifs
+			<lb/>
+			de provenance diverse » (<ref type="biblio">Kerbrat-Orecchioni, 2007, p. 26</ref>). On appelle éclectisme
+			<lb/>
+			méthodologique ce recours aux outils les plus appropriés aux objectifs descriptifs,
+			<lb/>
+		</p>
+		
+		<p>[…] c&apos;est-à-dire l&apos;utilisation et/ou la constitution d&apos;outils venus
+			<lb/>
+			d&apos;horizons divers mais qui convergent vers un objet commun, le discours,
+			<lb/>
+			et qui sont à articuler à une base épistémologique solide qui est celle de
+			<lb/>
+			l&apos;[analyse du discours] (<ref type="biblio">Guilbert, 2010, p. 39</ref>).
+			<lb/>
+		</p>
+		
+		<p>Bien que l&apos;appellation « éclectisme » comporte une certaine connotation
+			<lb/>
+			péjorative, Kerbrat-Orecchioni n&apos;en fait pas de cas, stipulant qu&apos;« une discipline se
+			<lb/>
+			définit par son objet d&apos;investigation plus que par le type d&apos;approche adopté sur cet
+			<lb/>
+			objet » (<ref type="biblio">2007, p. 14</ref>). Selon certains, le risque demeure que « cette posture analytique
+			<lb/>
+			ne permet pas toujours de saisir la spécificité et les caractéristiques des courants d&apos;où
+			<lb/>
+			sont tirés les concepts utilisés » (<ref type="biblio">Horlacher, 2007, p. 102</ref>).
+			<lb/>
+		</p>
+		
+		<p>Si ce type de démarche s&apos;avère intéressant pour des chercheurs aux intérêts
+			<lb/>
+			variés, l&apos;objet de la recherche doit demeurer le discours. Comme le précise Alice
+			<lb/>
+			Krieg-Planque, cela
+			<lb/>
+		</p>
+		
+		<p>[…] implique que les chercheurs questionnant d&apos;autres objets puissent
+			<lb/>
+			être déçus s&apos;ils attendaient quelque chose pour leur propre compte et leurs
+			<lb/>
+			propres objets (notamment en considérant, à tort à notre avis, l&apos;analyse du
+			<lb/>
+			discours comme une sorte de « prestataire de service », une « boîte à
+			<lb/>
+			outils » ou une « méthode » (<ref type="biblio">2007, p. 17</ref>).
+			<lb/>
+		</p>
+		
+		<head>3.1 La construction du corpus
+			<lb/>
+		</head>
+		
+		<p>Dans cette section, nous verrons que la constitution d&apos;un corpus est une tâche
+			<lb/>
+			complexe qui a des conséquences sur l&apos;ensemble de la recherche et que cette étape
+			<lb/>
+			peut être imprégnée d&apos;induction.
+			<lb/>
+		</p>
+		
+		<p>Certains analystes du discours privilégient l&apos;induction lors de la collecte de
+			<lb/>
+			données. Pour Moirand, « le corpus se construit au fur et à mesure que se précise
+			<lb/>
+			l&apos;appareil méthodologique élaboré pour son analyse ainsi que les objectifs (les pistes
+			<lb/>
+			et les hypothèses) de la recherche » (<ref type="biblio">1992, p. 32</ref>). À la suite de lectures flottantes 2
+			<lb/>
+			effectuées sur un corpus exploratoire, le modèle descriptif est mis en oeuvre; il
+			<lb/>
+		</p>
+		
+		<p>[…] induit par conséquent des regroupements textuels qui ne sont pas en
+			<lb/>
+			principe fondés sur des typologies discursives pré-établies, qui ne
+			<lb/>
+			découlent pas non plus de critères extra-linguistiques (l&apos;histoire sociale,
+			<lb/>
+			l&apos;histoire ou la sociologie des positions et des trajectoires) (<ref type="biblio">Moirand,
+			<lb/>
+				1992, p. 32</ref>).
+			<lb/>
+		</p>
+		
+		<p>Selon Charaudeau, « la construction d&apos;un corpus dépend d&apos;un positionnement
+			<lb/>
+			théorique lié à un objectif d&apos;analyse » (<ref type="biblio">2009, p. 1</ref>). L&apos;inverse est également possible,
+			<lb/>
+			c&apos;est-à-dire qu&apos;une problématique peut dépendre d&apos;un corpus, dans le cas où ce sont
+			<lb/>
+			« les données qui, parce qu&apos;elles révèlent de l&apos;inédit avec évidence, imposent la
+			<lb/>
+			nécessité d&apos;être attentif à ce qui émerge et d&apos;être fidèle aux manifestations empiriques
+			<lb/>
+			du phénomène étudié » (<ref type="biblio">Guillemette, 2006b, p. iii</ref>). Dans le cas particulier d&apos;un de
+			<lb/>
+			nos travaux de recherche, c&apos;est effectivement en prenant connaissance du corpus que
+			<lb/>
+			nous avons déterminé ce que nous souhaitions analyser et de quelle manière nous
+			<lb/>
+			allions devoir nous y prendre pour arriver à nos fins.
+			<lb/>
+		</p>
+		
+		<p>Ce travail de recherche a commencé lorsqu&apos;un groupe de chercheurs nous a
+			<lb/>
+			offert de travailler sur un corpus d&apos;entretiens menés dans le cadre du projet Père et
+			<lb/>
+			alimentation de l&apos;enfant (P.A.L.) qui a débuté en 2005-2006 et dont la problématique
+			<lb/>
+			était le besoin d&apos;inclusion du père dans le processus de l&apos;allaitement maternel. Dirigé
+			<lb/>
+			par Mme Francine de Montigny, professeure en sciences infirmières à l&apos;Université du
+			<lb/>
+			Québec en Outaouais, le projet P.A.L. est axé sur les perceptions qu&apos;ont les pères de
+			<lb/>
+			l&apos;allaitement maternel; il vise à décrire la façon dont ils perçoivent ses effets sur leur
+			<lb/>
+			engagement paternel ainsi qu&apos;à identifier le soutien reçu et désiré durant cette
+			<lb/>
+			expérience. Il a pour objectif de comprendre l&apos;expérience des pères afin de définir des
+			<lb/>
+			stratégies de soutien et de mieux les intégrer dans les discours et les pratiques
+			<lb/>
+			relatives à l&apos;allaitement maternel.
+			<lb/>
+		</p>
+		
+		<p>Afin de recueillir des informations sur les perceptions et les expériences des
+			<lb/>
+			pères, une cinquantaine d&apos;entretiens ont été réalisés par les chercheurs entre 2006 et
+			<lb/>
+			2008 3 , puis enregistrés, transcrits et résumés. Ces entretiens ont été menés auprès de
+			<lb/>
+			pères environ 10 mois après la naissance de leur premier enfant. Les questions
+			<lb/>
+			portaient sur la grossesse, la naissance, le mode d&apos;alimentation du bébé, un incident
+			<lb/>
+			critique survenu ainsi que le soutien obtenu lors de cet événement. Nous avons
+			<lb/>
+			essentiellement travaillé avec les transcriptions, mais nous avons également eu
+			<lb/>
+			recours aux fichiers sonores, notamment pour vérifier ce qui n&apos;avait pas été précisé
+			<lb/>
+			dans les transcriptions (par exemple les pauses, les hésitations et les reformulations).
+			<lb/>
+			Nous n&apos;avons pas utilisé les résumés parce que notre intérêt était porté vers la façon
+			<lb/>
+			dont les pères arrivent à construire discursivement leur identité paternelle, et non pas
+			<lb/>
+			vers la façon dont les chercheurs synthétisent le contenu de leur propos.
+			<lb/>
+		</p>
+		
+		<p>Notre recherche devait initialement porter sur les perceptions paternelles de
+			<lb/>
+			l&apos;allaitement. Cependant, l&apos;orientation a rapidement changé de cap lorsque nous
+			<lb/>
+			avons pris connaissance du corpus et que nous avons par le fait même constaté
+			<lb/>
+			l&apos;intensité avec laquelle les pères parlaient de leur rôle. Il semblait clair que les pères
+			<lb/>
+			« construisaient » verbalement ainsi une facette de leur identité, soit leur paternité; il
+			<lb/>
+			nous restait désormais à trouver une façon de faire ressortir cette construction.
+			<lb/>
+		</p>
+		
+		<p>Il nous était impossible d&apos;espérer constituer un échantillon représentatif, au sens
+			<lb/>
+			statistique du terme, puisqu&apos;il nous aurait fallu un très grand nombre d&apos;entretiens;
+			<lb/>
+			nous avons donc procédé à la création d&apos;un échantillon théorique à partir des
+			<lb/>
+			entretiens qui nous étaient offerts, c&apos;est-à-dire que nous avons sélectionné des sources
+			<lb/>
+			de données en fonction de leur pertinence par rapport à l&apos;objet étudié (
+			<ref type="biblio">Laperrière,
+				<lb/>
+				1997
+			</ref>
+			). Notre sélection est diversifiée 4 , en ce sens qu&apos;elle cherche à donner un
+			<lb/>
+			panorama global de groupes restreints. Afin de parvenir à la diversification interne
+			<lb/>
+			lors de l&apos;échantillonnage, « le premier critère est l&apos;homogénéité de l&apos;échantillon […].
+			<lb/>
+			Mais par la suite, le chercheur doit s&apos;attacher à la diversification interne de son
+			<lb/>
+			groupe (homogénéisé) » (<ref type="biblio">Pirès, 1997, p. 153</ref>). Dans notre cas, il s&apos;agissait
+			ainsi
+			<lb/>
+			d&apos;abord d&apos;homogénéiser nos deux sous-groupes (nous avons sélectionné cinq pères
+			<lb/>
+			ayant eu un suivi prénatal avec une sage-femme et cinq autres avec un médecin). Les
+			<lb/>
+			pères retenus n&apos;avaient qu&apos;un seul enfant âgé d&apos;environ 10 mois au moment de
+			<lb/>
+			l&apos;entretien et ils avaient profité d&apos;un congé parental de plus de cinq semaines; ils
+			<lb/>
+			avaient vécu une expérience d&apos;allaitement d&apos;au moins six mois; enfin, ils étaient
+			<lb/>
+			originaires du Québec. Nous avons pu effectuer une diversification interne grâce aux
+			<lb/>
+			questionnaires que les pères avaient remplis. La tranche d&apos;âge (au final, la moyenne
+			<lb/>
+			d&apos;âge est de 29,4 ans), le niveau de scolarité et le revenu ont été observés; dans
+			<lb/>
+			chacun de nos deux sous-groupes se trouve un père au profil sociodémographique
+			<lb/>
+			similaire à celui d&apos;un père de l&apos;autre groupe.
+			<lb/>
+		</p>
+		
+		<p>Comme nous avons travaillé avec des données préexistantes, nous ne pouvons
+			<lb/>
+			pas dire que nous avons construit notre corpus de manière inductive. Par contre, nous
+			<lb/>
+			avons posé un regard neuf sur ces données, nous avons donné une nouvelle
+			<lb/>
+			orientation à ce qu&apos;elles portaient et nous avons constitué notre échantillon théorique
+			<lb/>
+			au sein de ce grand bassin de données. Ces étapes relèvent sans contredit de
+			<lb/>
+			l&apos;induction. Ainsi, « les &quot;données&quot; textuelles ne sont […] jamais &quot;données&quot; : elles
+			<lb/>
+			sont construites par l&apos;extraction de multiples corpus que l&apos;analyste soumet à tel ou tel
+			<lb/>
+			traitement en fonction de la méthode d&apos;investigation choisie » (<ref type="biblio">Têtu, 2002, p. 214</ref>).
+			<lb/>
+			En ce sens, nous avons forgé notre propre corpus à partir de ce qui nous semblait le
+			<lb/>
+			plus pertinent en regard de notre questionnement. Comme le dit Charaudeau,
+		</p>
+		
+		<p>[…] notre échantillon n&apos;est pas la partie d&apos;un tout (comme serait un
+			<lb/>
+			échantillon de mots représentatifs d&apos;un tout textuel); il est constitué de
+			<lb/>
+			catégories dont chacune joue le rôle d&apos;un point focal sur lequel faire
+			<lb/>
+			porter l&apos;analyse qualitative (<ref type="biblio">2009, p. 83</ref>).
+			<lb/>
+		</p>
+		
+		<p>Nous verrons maintenant que l&apos;induction a également été omniprésente lorsque
+			<lb/>
+			nous avons mené nos analyses.
+			<lb/>
+		</p>
+		
+		<head>3.2 Une expérience inductive
+			<lb/>
+		</head>
+		
+		<p>Nous avons mené notre recherche sur la construction de l&apos;identité paternelle avec une
+			<lb/>
+			approche « globale » de l&apos;analyse du discours, c&apos;est-à-dire selon les principes de
+			<lb/>
+			l&apos;éclectisme; nous avons ainsi retenu les concepts théoriques et les méthodes qui
+			<lb/>
+			étaient les plus à même de faire ressortir le phénomène à observer, à savoir l&apos;identité
+			<lb/>
+			paternelle. Nous nous sommes ainsi inspirée de diverses recherches menées en
+			<lb/>
+			argumentation, en pragmatique, en sociolinguistique et en sémiotique. En revisitant
+			<lb/>
+			notre parcours, nous avons constaté que la très grande majorité de nos choix
+			<lb/>
+			méthodologiques sont en accord avec la MTE, et ce, bien que nous ne connaissions
+			<lb/>
+			pas cette méthode à l&apos;époque de la réalisation de cette recherche.
+			<lb/>
+		</p>
+		
+		<p>Les concepts théoriques retenus afin d&apos;analyser la structure et le contenu des
+			<lb/>
+			discours émis ont été choisis à partir du corpus lui-même, c&apos;est-à-dire que nous avons
+			<lb/>
+			décelé certains concepts dans les entretiens avec les pères qui, s&apos;ils n&apos;ont pas été
+			<lb/>
+			définis mot pour mot dans leur discours, ressortaient de façon assez claire. Nous nous
+			<lb/>
+			sommes ainsi intéressée à la construction de l&apos;identité paternelle en nous penchant
+			<lb/>
+			d&apos;abord sur le rôle paternel, puis en étudiant l&apos;expérience vécue par les pères au
+			<lb/>
+			regard de leurs relations avec ceux qui les entourent, qu&apos;ils fassent partie du réseau
+			<lb/>
+			professionnel, communautaire ou social. La première section a été développée en
+			<lb/>
+			trois temps. Nous avons d&apos;abord analysé les perceptions à partir de cinq catégories
+			<lb/>
+			définissant le rôle paternel ; ce regroupement s&apos;est fait sur une base thématique. Nous
+			<lb/>
+			avons également observé le caractère actif ou passif que les pères associaient à leur
+			<lb/>
+			rôle. Enfin, nous avons catégorisé nos données selon trois périodes temporelles
+			<lb/>
+			(accouchement, premiers mois et après l&apos;allaitement).
+			<lb/>
+		</p>
+		
+		<p>Dans la deuxième section de notre travail, nous avons plutôt observé comment
+			<lb/>
+			les pères se perçoivent et se positionnent par rapport aux autres, un processus
+			<lb/>
+			important puisqu&apos;il tient compte « de la dynamique identification/différenciation ou
+			<lb/>
+			inclusion/exclusion à la base de la construction identitaire » (
+			<ref type="biblio">Turbide, Vincent, &amp;<lb/>
+				Laforest, 2008, p. 77
+			</ref>
+			). Ainsi, l&apos;identification à un groupe amène la possibilité de créer
+			<lb/>
+			des alliances comme des exclusions avec l&apos;altérité (
+			<ref type="biblio">Blommaert &amp; Verschueren,
+				<lb/>
+				1998
+			</ref>
+			). On perçoit davantage comme alliées les personnes qui nous ressemblent, alors
+			<lb/>
+			qu&apos;on a tendance à percevoir plus négativement les personnes différentes de soi-<lb/>même. L&apos;extrait
+			suivant montre très bien cette tendance :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Intervieweur : Est-ce qu&apos;il y a d&apos;autres personnes qui vous ont aidé dans ce
+				<lb/>
+				processus-là?
+				<lb/>
+			</item>
+			
+			<item>Père : À l&apos;hôpital il y a eu les infirmières. Il y a eu une infirmière en particulier
+				<lb/>
+				qui a été beaucoup avec nous, elle avait notre âge et elle nous a donné
+				<lb/>
+				vraiment de bons conseils. On l&apos;a bien aimée, son approche, sa façon. Elle
+				<lb/>
+				avait un peu les mêmes pensées que nous, la manière de procéder. Ça a été
+				<lb/>
+				des bons conseils de départ.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Cette partie de l&apos;analyse a notamment bénéficié de la sémiotique narrative et du
+			<lb/>
+			schéma actanciel (<ref type="biblio">Greimas, 1966</ref>) pour la théorie sur les adjuvants et les opposants,
+			<lb/>
+			qui s&apos;avérait toute désignée pour évaluer les perceptions des pères. En analyse du
+			<lb/>
+			discours, c&apos;est une pratique courante que « de favoriser une &quot;inter-et
+			<lb/>
+			transdisciplinarité&quot; qui articule des concepts venus de disciplines différentes à propos
+			<lb/>
+			d&apos;un même objet complexe, c&apos;est-à-dire &quot;un processus de coconstruction des savoirs
+			<lb/>
+			qui traverse littéralement les disciplines concernées&quot; (<ref type="biblio">Darbellay, 2005, p. 51</ref>) »
+			<lb/>
+			(<ref type="biblio">Guilbert, 2010, para. 22</ref>). Dans toute recherche, « les concepts élaborés à partir de
+			<lb/>
+			données n&apos;ont d&apos;intérêt qu&apos;intégrés à des propositions théoriques dont l&apos;enchaînement
+			<lb/>
+			produit la mise en forme du phénomène et contribue à son intelligibilité » (
+			<ref type="biblio">Drulhe,
+				<lb/>
+				2008, p. 38
+			</ref>
+			); c&apos;est la théorisation.
+			<lb/>
+		</p>
+		
+		<p>Cette façon de faire est également propre à la MTE, avec laquelle les concepts
+			<lb/>
+			pertinents aux analyses sont choisis uniquement lorsque le chercheur est imprégné du
+			<lb/>
+			corpus. Cette sensibilité théorique permet de donner du sens aux données grâce à un
+			<lb/>
+			ensemble de concepts sensibilisateurs riches, les sensitizing concepts (<ref type="biblio">Bowen, 2006</ref>),
+			<lb/>
+			choisis afin d&apos;amener le chercheur à reconnaître ce qui émerge des données
+			<lb/>
+			(<ref type="biblio">Charmaz, 2004</ref>). Les étapes de codage primaire et de conceptualisation de la
+			<lb/>
+			théorisation enracinée ressemblent énormément au travail effectué en analyse du
+			<lb/>
+			discours, alors que l&apos;on fouille les écrits scientifiques pour établir des relations entre
+			<lb/>
+			le fruit de ses recherches et les recherches existantes.
+			<lb/>
+		</p>
+		
+		<p>Dans le cadre de notre recherche, nous avions rédigé un cadre théorique avant
+			<lb/>
+			de commencer l&apos;analyse, comme le recommandait notre institution. Par contre,
+			<lb/>
+			puisque nous avons laissé les données nous guider (et par le fait même, changer
+			<lb/>
+			l&apos;objectif de notre recherche), le cadre théorique rédigé au début du projet a été en
+			<lb/>
+			grande partie réécrit puisqu&apos;il ne cadrait plus avec les analyses réellement effectuées;
+			<lb/>
+			cette réécriture arrive fréquemment aux chercheurs qui travaillent en induction. À
+			<lb/>
+			l&apos;instar des tenants de la MTE (
+			<ref type="biblio">Birks &amp; Mills, 2011; Corbin &amp; Strauss, 2008; Glaser
+				<lb/> &amp; Strauss, 1967
+			</ref>
+			), nous pensons que les analystes du discours gagnent à suspendre
+			<lb/>
+			temporairement leur référence à des cadres théoriques pendant qu&apos;ils commencent la
+			<lb/>
+			collecte de données et les analyses.
+			<lb/>
+		</p>
+		
+		<p>Afin de procéder à nos analyses, nous avons extrait du corpus toutes les
+			<lb/>
+			séquences comportant une représentation du rôle du père. Nous avions d&apos;abord pensé
+			<lb/>
+			retenir les réponses des questions portant sur ce sujet, mais puisque les questions du
+			<lb/>
+			canevas d&apos;entretien n&apos;étaient pas nécessairement posées exactement de la même
+			<lb/>
+			manière et dans un même ordre, et puisque les idées émises par les pères n&apos;étaient pas
+			<lb/>
+			verbalisées dans les mêmes mots, cette façon d&apos;analyser a rapidement été écartée.
+			<lb/>
+			Dans les approches inductives, il arrive souvent que les participants aux entretiens
+			<lb/>
+			fournissent des données riches sans nécessairement répondre directement aux
+			<lb/>
+			questions qui leur sont posées. Le chercheur analyse les réponses et non leur
+			<lb/>
+			adéquation aux questions. Ainsi, nous avons choisi de sélectionner tous les passages
+			<lb/>
+			d&apos;entretiens liés au rôle paternel. Cette étape s&apos;est effectuée en deux temps. Nous
+			<lb/>
+			avons d&apos;abord fait une lecture attentive de tous les entretiens afin de circonscrire les
+			<lb/>
+			énoncés dans lesquels il était question du rôle paternel et nous avons ensuite effectué
+			<lb/>
+			une recherche informatique dans les transcriptions du corpus à partir de tous les mots-<lb/>clés retenus
+			lors du premier dépouillement afin de nous assurer qu&apos;aucune séquence
+			<lb/>
+			n&apos;avait été oubliée. Nous avons circonscrit à partir de ce sous-corpus les énoncés qui
+			<lb/>
+			concernaient spécifiquement la perception du rôle paternel, puis nous avons révisé à
+			<lb/>
+			trois reprises la totalité des entretiens afin de repérer toutes les autres séquences qui
+			<lb/>
+			n&apos;auraient pas été prises en compte lors du repérage informatique. Au final, nous
+			<lb/>
+			avons ainsi retenu l&apos;équivalent d&apos;une quinzaine de pages de transcription concernant
+			<lb/>
+			le rôle paternel, neuf d&apos;entre elles attribuables au discours des pères ayant eu un suivi
+			<lb/>
+			avec un médecin et les six autres étant attribuables au discours des pères ayant eu un
+			<lb/>
+			suivi avec une sage-femme.
+			<lb/>
+		</p>
+		
+		<p>Cette sélection des passages pertinents n&apos;est pas sans rappeler les principes de
+			<lb/>
+			la MTE sur le travail du chercheur lorsqu&apos;il doit reconstruire le sens des données
+			<lb/>
+			générées par les participants et séparer ce qui est pertinent de ce qui ne l&apos;est pas
+			<lb/>
+			(<ref type="biblio">Strauss &amp; Corbin, 1990</ref>). Selon Burck, qui s&apos;est intéressée à l&apos;utilité
+			de la MTE en
+			<lb/>
+			analyse du discours, la théorisation enracinée entre en jeu dès lors que l&apos;on
+			<lb/>
+			commence à rechercher les fragments du discours qui nous intéressent et se poursuit
+			<lb/>
+			tout au long des analyses :
+			<lb/>
+		</p>
+		
+		<p>Les thèmes pertinents peuvent souvent être identifiés par une lecture
+			<lb/>
+			attentive du texte en utilisant une approche enracinée. Une fois que les
+			<lb/>
+			passages ont été sélectionnés à partir des données, l&apos;analyse se
+			<lb/>
+			décompose en trois étapes principales. Le chercheur examine d&apos;abord la
+			<lb/>
+			façon dont la langue est utilisée dans le texte pour « construire » les idées
+			<lb/>
+			ou l&apos;information. Deuxièmement, le chercheur cherche la variabilité,
+			<lb/>
+			c&apos;est-à-dire les incohérences de sens dans les constructions et les
+			<lb/>
+			hypothèses qu&apos;elles entraînent. La troisième étape consiste à mettre en
+			<lb/>
+			évidence les particularités et à examiner ce que le discours réalise.
+			<lb/>
+			Comme avec une approche enracinée, les analystes du discours
+			<lb/>
+			demandent souvent à d&apos;autres chercheurs d&apos;examiner le texte et leur
+			<lb/>
+			analyse 5 [traduction libre] (<ref type="biblio">Burck, 2005, p. 249</ref>).
+			<lb/>
+		</p>
+		
+		<p>Nous avons d&apos;abord pensé classer les extraits retenus à partir des critères
+			<lb/>
+			élaborés par un groupe de recherche s&apos;étant intéressé à l&apos;engagement paternel
+			<lb/>
+			(<ref type="biblio">Prospère, 2010</ref>). Toutefois, comme le rôle diffère de l&apos;engagement paternel, notre
+			<lb/>
+			recherche s&apos;y prêtait plus ou moins bien; l&apos;engagement se mesure habituellement en
+			<lb/>
+			situation d&apos;observation (<ref type="biblio">Ouellet, Turcotte, &amp; Desjardins, 2001</ref>), alors que le rôle est
+			<lb/>
+			quant à lui davantage associé à des normes et des valeurs (Sasseville &amp; Simard,
+			<lb/>
+			2006), ce qui le rend évidemment plus facile à analyser à travers le discours.
+			<lb/>
+			L&apos;analyse des perceptions du rôle paternel s&apos;est donc faite par un regroupement sur
+			<lb/>
+			une base thématique. Nous avons défini quatre catégories caractérisant le rôle
+			<lb/>
+			paternel : présent, porte-parole, soutenant envers la mère et en interaction avec le
+			<lb/>
+			bébé. Les catégories d&apos;analyse n&apos;étaient pas définies préalablement, mais ont émergé
+			<lb/>
+			du corpus. Mutuellement exclusives, elles couvrent toutes les caractéristiques dont les
+			<lb/>
+			pères ont fait mention : certains indices ressortaient clairement des discours émis par
+			<lb/>
+			les pères et permettaient, par leur régularité, de les classer dans l&apos;une ou l&apos;autre des
+			<lb/>
+			catégories. Nous avons mis l&apos;accent sur les unités de contenu sémantique, quoique la
+			<lb/>
+			forme que prenaient les énoncés ait aussi été observée. Par exemple, nous avons noté
+			<lb/>
+			que les pères sont nombreux à avoir de la difficulté à formuler leur pensée quant à
+			<lb/>
+			leur rôle de père. Ainsi, leurs hésitations et leurs pauses sont fréquentes, et leurs
+			<lb/>
+			formulations parfois bizarres : « je vais le savoir je pense dans les cinq prochaines
+			<lb/>
+			années sur l&apos;éducation parentale ». Du point de vue du contenu, certains pères
+			<lb/>
+			décrivent leur rôle comme étant difficile à définir et différent de celui de la mère
+			<lb/>
+			(« [Mon rôle,] ça varie beaucoup hein (4 sec.) Ce n&apos;est pas défini comme rôle.
+			Ce que
+			<lb/>
+			la mère enseigne à l&apos;enfant, puis ce que le père enseigne à l&apos;enfant, c&apos;est deux choses
+			<lb/>
+			différentes. Puis : je n&apos;arrive pas à mettre la main sur : sur ce que c&apos;est : sur le rôle de
+			<lb/>
+			chacun exactement là. »), mais aussi comme étant en mutation selon l&apos;âge de l&apos;enfant
+			<lb/>
+			(« C&apos;est comme ça; qu&apos;est-ce qu&apos;on peut faire… Ce n&apos;est pas plus grave. Je prendrai
+			<lb/>
+			ma chance plus tard, donc… quand ce sera le temps de jouer au ballon, bien là, je
+			<lb/>
+			serai plus là. »).
+			<lb/>
+		</p>
+		
+		<p>Ce regroupement théorique des données correspond également à la pensée de
+			<lb/>
+			Glaser et Strauss (1967), qui suggèrent d&apos;« écouter » les données, « d&apos;inverser la
+			<lb/>
+			logique hypothético-déductive et, au lieu de &quot;forcer&quot; les données pour qu&apos;elles
+			<lb/>
+			entrent dans le cadre théorique, […] proposent de construire un cadre théorique à
+			<lb/>
+			partir des données » (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, p. 6</ref>).
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Les rapprochements effectués entre les recherches inductives menées en analyse du
+			<lb/>
+			discours et les principes propres à la MTE laissent croire qu&apos;ils partagent
+			<lb/>
+			vraisemblablement plusieurs influences et racines. Selon Pirès, la méthodologie ne
+			<lb/>
+			doit pas
+			<lb/>
+		</p>
+		
+		<p>[…] dicter des règles absolues de savoir-faire, mais surtout […] aider
+			<lb/>
+			l&apos;analyste à réfléchir pour adapter le plus possible ses méthodes, les
+			<lb/>
+			modalités d&apos;échantillonnage et la nature des données à l&apos;objet de sa
+			<lb/>
+			recherche en voie de construction (<ref type="biblio">1997, p. 115</ref>).
+			<lb/>
+		</p>
+		
+		<p>Selon nous, cette vision de la démarche méthodologique correspond aussi bien
+			<lb/>
+			à la MTE qu&apos;aux recherches que nous avons menées en analyse du discours.
+			<lb/>
+		</p>
+		
+		<p>Comme le chercheur doit décrire sa démarche et définir sa posture afin de se
+			<lb/>
+			conformer aux critères de scientificité, nous pensons que la MTE pourrait constituer
+			<lb/>
+			une option méthodologique très intéressante pour les analystes du discours qui
+			<lb/>
+			adoptent une perspective inductive. Elle offre une certaine flexibilité puisqu&apos;elle
+			<lb/>
+			n&apos;oblige pas le chercheur à adopter « des procédures méthodologiques qui
+			<lb/>
+			correspondent à des écoles de pensées fermées sur elles-mêmes, préconisant des idées
+			<lb/>
+			reçues » (<ref type="biblio">Lapointe &amp; Guillemette, 2012, p. 202</ref>). Comme elle est l&apos;une des
+			approches
+			<lb/>
+			inductives les plus formalisées, l&apos;utilisation de la MTE représente une avenue
+			<lb/>
+			intéressante aux chercheurs souhaitant formaliser leur méthodologie. De même,
+			<lb/>
+			certaines pratiques de la MTE, non développées dans cet article puisque non
+			<lb/>
+			effectuées dans le cadre de notre recherche, pourraient venir enrichir la méthodologie
+			<lb/>
+			en analyse du discours. Notamment, l&apos;imbrication des étapes de collecte de données
+			<lb/>
+			et d&apos;analyse (jusqu&apos;à saturation théorique) pourrait s&apos;avérer porteuse, tout comme la
+			<lb/>
+			création d&apos;un journal de bord à partir de notes descriptives, méthodologiques,
+			<lb/>
+			théoriques et personnelles (<ref type="biblio">Baribeau, 2005</ref>) afin de constituer la « mémoire vive »
+			du
+			<lb/>
+			projet (<ref type="biblio">Savoie-Zajc, 2004</ref>).
+			<lb/>
+		</p>
+		
+		<p>Il est évident que notre présent apport ne représente qu&apos;une infime partie des
+			<lb/>
+			travaux menés en analyse du discours et qu&apos;il ne peut témoigner de toute la richesse
+			<lb/>
+			et de la diversité des recherches qui sont menées dans ce large champ, mais nous
+			<lb/>
+			espérons néanmoins que le parcours revisité de notre recherche aura permis de
+			<lb/>
+			considérer la théorisation enracinée comme une méthodologie intéressante pour les
+			<lb/>
+			chercheurs en analyse du discours.
+			<lb/>
+		</p>
+		
+		<note type="other">3 Les caractéristiques des participants, les procédures de recrutement, la transcription et les enjeux
+			<lb/>
+			éthiques liés à ce corpus sont plus longuement explicités dans le rapport de recherche présenté à
+			<lb/>
+			l&apos;Agence de santé et des services sociaux de l&apos;Outaouais dans le cadre du Programme de subventions
+			<lb/>
+			en santé publique (<ref type="biblio">de Montigny, Devault, Miron, Lacharité, Goudreau, &amp; Brin,
+				2007</ref>).
+			<lb/>
+			4 La diversification est le critère majeur de sélection des échantillons qualitatifs par cas multiples
+			<lb/>
+			(<ref type="biblio">Glaser &amp; Strauss, 1967, cité par Pirès, 1997</ref>). Cette façon de faire permet une
+			grande variété,
+			<lb/>
+			indépendamment de la fréquence statistique (<ref type="biblio">Pirès, 1997</ref>).
+			<lb/>
+			5 « Relevant themes can often be identified by reading the text closely and using a grounded approach.
+			<lb/>
+			Once selections from the data have been made, there are three main components to the analysis. The
+			<lb/>
+			researcher first examines the text in relation to how language is used to &apos;construct&apos; the ideas or
+			<lb/>
+			information. Second, the researcher looks for variability -the inconsistencies of meaning in the
+			<lb/>
+			constructions and the assumptions they reveal. The third component is to highlight the implications of
+			<lb/>
+			a particular account, to examine what the discourse achieves. As with a grounded theory approach,
+			<lb/>
+			discourse analysts often engage other researchers to scrutinize the text and their analysis » (<ref type="biblio">Burck,
+			<lb/>
+			2005, p. 249</ref>).
+			<lb/>
+		</note>
+		
+	</text>
+</tei>

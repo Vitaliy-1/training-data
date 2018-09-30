@@ -1,0 +1,1399 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>La méthodologie de la théorisation enracinée (MTE), par son caractère inductif et sa
+			<lb/>
+			méthode d&apos;analyse centrée sur les processus, apporte un regard approfondi des
+			<lb/>
+			problématiques complexes. Pour certaines questions de recherche, les méthodes
+			<lb/>
+			quantitatives, qui génèrent un portrait pointu des différents aspects d&apos;un problème,
+			<lb/>
+			restent insuffisantes lorsqu&apos;il s&apos;agit de tenter d&apos;avoir une perspective plus entière de
+			<lb/>
+			celui-ci, ainsi que des conditions dans lesquelles il se produit. Qui plus est, les
+			<lb/>
+			problèmes de nature sociale qui touchent les groupes vulnérables sont dynamisés par
+			<lb/>
+			de multiples facteurs qui interagissent entre eux. Cet article présente comment la
+			<lb/>
+			MTE constructiviste de Charmaz peut contribuer à dresser un portrait plus complet
+			<lb/>
+			d&apos;une telle problématique qui fait sens pour les acteurs concernés, soit les personnes
+			<lb/>
+			qui la vivent, les intervenants, les décideurs et les chercheurs. Par l&apos;exemple d&apos;une
+			<lb/>
+			recherche visant à explorer le processus d&apos;adaptation des personnes atteintes de
+			<lb/>
+			schizophrénie dont le soutien social est limité ou inexistant, il sera expliqué pourquoi
+			<lb/>
+			la MTE est une méthode essentielle afin de donner une voix aux personnes souffrant
+			<lb/>
+			de schizophrénie, dans l&apos;objectif de mieux comprendre leur vécu et éventuellement
+			<lb/>
+			améliorer leurs conditions de vie par des interventions novatrices.
+			<lb/>
+		</p>
+		
+		<p>Pour ce faire, en premier lieu, la problématique de l&apos;adaptation des personnes
+			<lb/>
+			atteintes de schizophrénie vivant de l&apos;isolement social sera décrite. En second lieu, un
+			<lb/>
+			résumé de la recherche actuelle à ce sujet sera présenté, incluant les limites associées
+			<lb/>
+			aux résultats actuellement disponibles. Troisièmement, la pertinence de la MTE
+			<lb/>
+			constructiviste de Charmaz pour jeter un regard nouveau et, surtout, plus approprié
+			<lb/>
+			sur la problématique d&apos;intérêt sera démontrée. Enfin, les retombées possibles de cette
+			<lb/>
+			recherche seront décrites.
+			<lb/>
+		</p>
+		
+		<head>1. Problématique
+			<lb/>
+		</head>
+		
+		<head>1.1 La schizophrénie comme situation de vie
+			<lb/>
+		</head>
+		
+		<p>La schizophrénie est un trouble mental grave qui peut devenir très invalidant et qui
+			<lb/>
+			nuit à la personne qui en est atteinte dans toutes les sphères de sa vie. D&apos;abord, cette
+			<lb/>
+			maladie se déclare habituellement dans un moment charnière de la vie, soit la fin de
+			<lb/>
+			l&apos;adolescence et le début de l&apos;âge adulte (<ref type="biblio">Tandon, Nasrallah, &amp; Keshavan,
+				2009</ref>). Il
+			<lb/>
+			s&apos;agit de la période où la jeune personne devrait se diriger vers une plus grande
+			<lb/>
+			autonomie, soit : terminer ses études, quitter le nid familial, fonder une famille,
+			<lb/>
+			amorcer une carrière, etc. (<ref type="biblio">Carter &amp; McGoldrick, 2005</ref>). Or, les symptômes de la
+			<lb/>
+			schizophrénie, en affectant les fonctions psychologiques, vont souvent mettre un frein
+			<lb/>
+			brutal à ce cheminement. Les symptômes les plus connus sont les délires et
+			<lb/>
+			hallucinations, mais ce sont les symptômes négatifs (baisse de motivation,
+			<lb/>
+			ralentissement psychomoteur) qui vont le plus nuire au fonctionnement quotidien et
+			<lb/>
+			aux relations sociales. De plus, les déficits cognitifs sont communément observés
+			<lb/>
+			chez ces personnes et vont affecter notamment la mémoire de travail, l&apos;attention et les
+			<lb/>
+			fonctions exécutives (par ex. : la capacité à planifier une tâche). Enfin, les symptômes
+			<lb/>
+			affectifs font partie de la maladie et une majorité de ces personnes auront des
+			<lb/>
+			symptômes dépressifs, ce qui vient d&apos;ailleurs expliquer pourquoi le suicide est la
+			<lb/>
+			deuxième cause de décès chez cette population (<ref type="biblio">Tandon et al., 2009</ref>).
+			<lb/>
+		</p>
+		
+		<p>L&apos;isolement social est une des conséquences les plus fréquentes et les plus
+			<lb/>
+			préoccupantes de cette maladie. En partie un symptôme (la personne cherche à
+			<lb/>
+			s&apos;isoler), l&apos;isolement social est aussi causé par la difficulté que ces personnes peuvent
+			<lb/>
+			avoir à se faire des amis, par le manque d&apos;opportunités d&apos;activités sociales et par la
+			<lb/>
+			stigmatisation (<ref type="biblio">Perese &amp; Wolf, 2005</ref>). L&apos;isolement social a des
+			conséquences
+			<lb/>
+			négatives sur la santé de quiconque (<ref type="biblio">Mikkonen &amp; Raphael, 2011</ref>), mais est encore
+			<lb/>
+			plus lourd de conséquences pour les personnes atteintes de schizophrénie.
+			<lb/>
+			L&apos;isolement social chez ces personnes est associé à des symptômes plus importants et
+			<lb/>
+			à des délais allongés pour le traitement des psychoses (
+			<ref type="biblio">Drake, Haley, Akthar, &amp;<lb/>
+				Lewis, 2000
+			</ref>
+			), ce qui a un effet sérieux sur le pronostic. En effet, une psychose non
+			<lb/>
+			traitée de longue durée est associée à des symptômes aggravés, à une plus grande
+			<lb/>
+			détérioration du fonctionnement et à une diminution des chances de rémission,
+			<lb/>
+			malgré un traitement optimal (<ref type="biblio">Perkins, Gu, Boteva, &amp; Lieberman, 2005</ref>).
+			<lb/>
+		</p>
+		
+		<p>Parmi les autres problématiques associées, mentionnons les troubles liés à la
+			<lb/>
+			consommation d&apos;alcool et de drogues qui touche jusqu&apos;à 80 % des personnes atteintes
+			<lb/>
+			de schizophrénie au cours de leur vie, l&apos;inoccupation professionnelle, l&apos;itinérance et la
+			<lb/>
+			surjudiciarisation (
+			<ref type="biblio">Crocker &amp; Côté, 2010; Folsom, Hawthore, Lindamer, Gilmer,
+				<lb/>
+				Bailey, Golsham, Garcia, Unützer, Hough, &amp; Jeste, 2005; Stuart &amp; Arboleda-Flórez,
+				<lb/>
+				2009; Westermeyer, 2006
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<head>1.2 L&apos;adaptation et le coping
+			<lb/>
+		</head>
+		
+		<p>La schizophrénie constitue donc un état complexe et sérieux auquel la personne doit
+			<lb/>
+			s&apos;adapter. Pour définir l&apos;adaptation, nous préconisons le modèle de l&apos;adaptation
+			<ref type="biblio">de
+				<lb/>
+				Roy (2009)
+			</ref>
+			, théoricienne en sciences infirmières. Comme nous adoptons une position
+			<lb/>
+			constructiviste de la MTE, <ref type="biblio">Charmaz (2006)</ref> recommande que les chercheurs utilisent
+			<lb/>
+			des concepts auxquels ils sont déjà sensibilisés (sensitizing concepts) comme source
+			<lb/>
+			d&apos;inspiration pour le développement de leurs idées. Ces idées seront, au fil de la
+			<lb/>
+			collecte et de l&apos;analyse des données, confrontées à celles des participants, dans une
+			<lb/>
+			relation réciproque. Le modèle de Roy se veut donc un point de départ pour la
+			<lb/>
+			recherche, et non une finalité.
+			<lb/>
+		</p>
+		
+		<p>Selon Roy, l&apos;adaptation est vue comme un processus et un résultat de
+			<lb/>
+			l&apos;intégration humaine dans son environnement. La personne utilise des stratégies de
+			<lb/>
+			coping 1 pour s&apos;adapter. Ainsi, de ce point de vue, le but des soins infirmiers en santé
+			<lb/>
+			mentale est d&apos;aider la personne à s&apos;adapter à sa situation de santé à l&apos;intérieur d&apos;un
+			<lb/>
+			contexte donné (<ref type="biblio">Roy, 2009</ref>). Ceci nous amène à notre question de recherche : quel
+			est
+			<lb/>
+			le processus d&apos;adaptation des personnes atteintes de schizophrénie dont le soutien
+			<lb/>
+			social est limité ou inexistant? La recherche qui sera présentée ici s&apos;intéresse donc au
+			<lb/>
+			cheminement des personnes qui composent avec les difficultés reliées à la
+			<lb/>
+			schizophrénie et qui vivent de l&apos;isolement social.
+			<lb/>
+		</p>
+		
+		<head>2. État de la recherche sur l&apos;adaptation des personnes atteintes de schizophrénie
+			<lb/>
+		</head>
+		
+		<p>Une recherche bibliographique utilisant le mot-clé adaptation (en anglais : adaptation
+			<lb/>
+			et adjustment) donne peu de résultats pertinents. Rares en effet sont les études qui ont
+			<lb/>
+			mesuré l&apos;adaptation sociale (habiletés pour vivre dans la communauté) ou cognitive.
+			<lb/>
+			Dans une recherche effectuée selon la conception de l&apos;adaptation de Roy (<ref type="biblio">Fawcett &amp;<lb/>
+				Desanto-Madeya, 2013
+			</ref>
+			), on s&apos;intéresse plutôt à comprendre et à expliquer
+			<lb/>
+			l&apos;adaptation des personnes à leur situation de vie dans son ensemble (et non
+			<lb/>
+			seulement à des variations de l&apos;environnement considérées comme stressantes). On y
+			<lb/>
+			décrit les processus de coping et d&apos;adaptation aux stimuli environnementaux et on
+			<lb/>
+			explique la relation entre l&apos;adaptation et la santé. Dans les écrits consultés, ce sont les
+			<lb/>
+			études sur le coping, beaucoup plus nombreuses, qui donnent le plus d&apos;informations
+			<lb/>
+			suivant cette conception de l&apos;adaptation. Nous présentons ici un résumé des études les
+			<lb/>
+			plus près de la problématique d&apos;intérêt.
+			<lb/>
+		</p>
+		
+		<head>2.1. Sommaire des résultats actuellement disponibles
+			<lb/>
+		</head>
+		
+		<p>L&apos;adaptation est mesurée selon deux principaux domaines : l&apos;adaptation au stress, le
+			<lb/>
+			stress étant considéré comme un facteur contribuant aux rechutes de la schizophrénie
+			<lb/>
+			-donc important à contrôler (<ref type="biblio">Chabungbam, Avasthi, &amp; Sharan, 2007</ref>) -, et les
+			<lb/>
+			stratégies d&apos;adaptation pour faire face aux symptômes de la schizophrénie
+			<lb/>
+			(principalement les hallucinations), ces symptômes étant des sources de stress.
+			<lb/>
+		</p>
+		
+		<p>Pour faire face au stress, plusieurs études tendent à démontrer que les personnes
+			<lb/>
+			atteintes de schizophrénie ont tendance à utiliser davantage de stratégies de coping
+			<lb/>
+			centrées sur les émotions (ex. : essayer de voir le côté positif du problème), par
+			<lb/>
+			ailleurs considérées comme moins efficaces comparativement aux stratégies centrées
+			<lb/>
+			sur la tâche ou le problème (
+			<ref type="biblio">Ritsner, Gibel, Ponizovsky, Shinkarenko, Ratner, &amp;<lb/>
+				Kurs, 2006
+			</ref>
+			). L&apos;utilisation de stratégies d&apos;évitement (ex. : essayer de penser à autre
+			<lb/>
+			chose) serait aussi plus fréquente que l&apos;utilisation de stratégies d&apos;approche (ex. : faire
+			<lb/>
+			face au problème) par la personne atteinte de schizophrénie (
+			<ref type="biblio">Rudnick &amp; Martins,
+				<lb/>
+				2009
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Pour ce qui est des stratégies de coping pour composer avec les symptômes de
+			<lb/>
+			la schizophrénie, il semblerait que l&apos;acceptation active et les stratégies passives (ex. :
+			<lb/>
+			attendre que les voix diminuent) prédiraient une réduction de la détresse (
+			<ref type="biblio">Farhall &amp;<lb/>
+				Gehrke, 1997
+			</ref>
+			). D&apos;autres auteurs ont relevé des « stratégies de distraction » (ex. :
+			<lb/>
+			écouter de la musique), qui seraient efficaces (
+			<ref type="biblio">Hayashi, Igarashi, Suda, &amp; Nakagawa
+				<lb/>
+				(2007)
+			</ref>
+			, et des « stratégies d&apos;évitement » (ex. : tenter d&apos;ignorer les voix), qui seraient
+			<lb/>
+			plus souvent utilisées chez cette population (<ref type="biblio">Singh, Sharan, &amp; Kulhara, 2003</ref>).
+			<lb/>
+		</p>
+		
+		<head>2.2 Situation actuelle de la recherche scientifique sur l&apos;adaptation
+			<lb/>
+		</head>
+		
+		<p>Quelques constats généraux émergent de l&apos;examen des études effectuées sur
+			<lb/>
+			l&apos;adaptation des personnes atteintes de schizophrénie.
+			<lb/>
+		</p>
+		
+		<list>
+			<item>1) D&apos;abord, les études portant sur les stratégies de coping des personnes atteintes
+				<lb/>
+				de schizophrénie sont beaucoup plus nombreuses que celles portant sur
+				<lb/>
+				l&apos;adaptation de façon plus globale. Il semblerait, selon la plupart des auteurs,
+				<lb/>
+				que la mesure de stratégies de coping est plus précise que d&apos;examiner
+				<lb/>
+				l&apos;adaptation comme phénomène plus large.
+				<lb/>
+			</item>
+		
+			<item>2) Il y a une certaine homogénéité dans les échantillons de participants : ces
+				<lb/>
+				derniers sont souvent recrutés dans les établissements de soins où ils sont
+				<lb/>
+				hospitalisés ou en suivi externe au moment de la collecte des données. Ils ont
+				<lb/>
+				aussi une certaine stabilité psychosociale (état mental, statut résidentiel, soutien
+				<lb/>
+				social, absence de comorbidité, etc.). Ils sont donc peu représentatifs de la réelle
+				<lb/>
+				population de personnes atteintes de schizophrénie.
+				<lb/>
+			</item>
+			
+			<item>3) Les études se regroupent autour des thèmes suivants : les facteurs influençant le
+				<lb/>
+				coping, les stratégies de coping pour faire face aux symptômes, les stratégies de
+				<lb/>
+				coping pour faire face aux évènements stressants de la vie et les changements
+				<lb/>
+				dans les stratégies de coping au fil du temps. On retrouve des recherches en
+				<lb/>
+				sciences infirmières, mais la plupart sont publiées dans des revues du domaine
+				<lb/>
+				des neurosciences, de la psychologie et de la psychiatrie.
+				<lb/>
+			</item>
+			
+			<item>4) Bien que le modèle de Roy ait été utilisé comme cadre de référence dans
+				<lb/>
+				plusieurs études dans le domaine de la santé mentale ou de la psychiatrie,
+				<lb/>
+				aucune, à notre connaissance, ne porte précisément sur le processus
+				<lb/>
+				d&apos;adaptation des personnes touchées par la schizophrénie. Le modèle dominant
+				<lb/>
+				appliqué à ce sujet de recherche est celui <ref type="biblio">de Lazarus et Folkman (1984)</ref>, centré
+				<lb/>
+				sur l&apos;adaptation au stress.
+				<lb/>
+			</item>
+			
+			<item>5) Les études portant sur l&apos;adaptation comme un résultat mesurent des indicateurs
+				<lb/>
+				d&apos;adaptation (comme le fonctionnement social). Par exemple, dans l&apos;étude de
+				<ref type="biblio">
+					<lb/>
+					Clinton, Lunney, Edwards, Weir et Barr (1998)
+				</ref>
+				, on évalue l&apos;adaptation à l&apos;aide
+				<lb/>
+				d&apos;instruments mesurant les symptômes psychiatriques, le fonctionnement dans
+				<lb/>
+				la communauté (par exemple, se vêtir convenablement, avoir un contact visuel
+				<lb/>
+				adéquat, etc.) ainsi que les insatisfactions et problèmes quotidiens. Ces
+				<lb/>
+				indicateurs, établis par les chercheurs et autres experts, sont censés démontrer
+				<lb/>
+				ce que signifie « être adapté ». Qu&apos;en est-il des indicateurs du point de vue des
+				<lb/>
+				personnes étudiées?
+				<lb/>
+			</item>
+			
+			<item>6) On observe une volonté certaine de tenter de catégoriser les innombrables
+				<lb/>
+				stratégies de coping. Les catégories sont souvent dichotomiques, donc
+				<lb/>
+				étiquetées en termes « bonnes » vs « mauvaises » (ou « adaptées » vs « non
+				<lb/>
+				adaptées ») : actives ou passives, centrées sur le problème ou centrées sur les
+				<lb/>
+				émotions, d&apos;évitement ou de confrontation, etc.
+				<lb/>
+				7) Enfin, l&apos;adaptation des personnes atteintes de schizophrénie n&apos;est pas étudiée
+				<lb/>
+				selon une représentation sociale dont une meilleure compréhension pourrait
+				<lb/>
+				aider à interpréter les actions de ces personnes.
+				<lb/>
+			</item>
+		</list>
+		
+		<head>2.3 Les limites de la recherche sur le coping en général et pour les personnes
+			<lb/>
+			vulnérables en particulier
+			<lb/>
+		</head>
+		
+		<p>Il existe une multitude d&apos;instruments de mesure pour juger de la nature de
+			<lb/>
+			l&apos;adaptation des personnes et des facteurs qui l&apos;influencent. Des instruments
+			<lb/>
+			mesurent, par exemple, le « style » de coping, c&apos;est-à-dire les caractéristiques des
+			<lb/>
+			personnes qui vont influencer leur choix de stratégies de coping. On parle ici
+			<lb/>
+			d&apos;instruments pouvant mesurer la personnalité ou les capacités cognitives. Il existe
+			<lb/>
+			aussi des instruments mesurant le « processus » de coping, où on demande à la
+			<lb/>
+			personne comment elle réagit à un stress spécifique, en choisissant parmi des listes de
+			<lb/>
+			stratégies préétablies. À ce sujet, citons ici le célèbre et encore très utilisé Ways of
+			<lb/>
+			Coping Questionnaire (<ref type="biblio">Folkman &amp; Lazarus, 1988</ref>). Un constat frappant concernant la
+			<lb/>
+			question des listes de stratégies et du nombre d&apos;instruments existants se trouve dans
+			<lb/>
+			la recension des écrits effectuée par <ref type="biblio">Skinner, Edge, Altman et Sherwood (2003)</ref> : les
+			<lb/>
+			auteurs y ont répertorié pas moins de 400 stratégies différentes pour 89 mesures du
+			<lb/>
+			coping. Cela illustre les difficultés, toujours présentes, que posent les concepts
+			<lb/>
+			d&apos;adaptation et de coping et rend d&apos;autant plus difficile la comparaison des études.
+			<lb/>
+			Deux autres écrits ont aussi soulevé les limites de cette façon d&apos;étudier cette
+			<lb/>
+			problématique; leurs auteurs recommandent de s&apos;éloigner de la recherche utilisant des
+			<lb/>
+			listes de stratégies de coping pour se tourner notamment vers la recherche sur les
+			<lb/>
+			mécanismes d&apos;action et le processus de coping (Farhall, Greenwood &amp; Jackson,
+			<lb/>
+			2007) et considérer le coping dans une perspective plus large, incluant les conditions
+			<lb/>
+			personnelles et environnementales qui peuvent l&apos;influencer (<ref type="biblio">Phillips, Shona, Edwards
+				<lb/> &amp; McMurray, 2009</ref>).
+			<lb/>
+		</p>
+		
+		<p>Nous sommes donc ici manifestement dans un courant postpositiviste, tel que
+			<lb/>
+			décrit par <ref type="biblio">Guba et Lincoln (2005)</ref>. L&apos;approche est essentiellement quantitative.
+			<lb/>
+			Beaucoup d&apos;études sont descriptives ou corrélationnelles. Bref, on observe une
+			<lb/>
+			tendance à la standardisation. On cherche ici à décrire et à expliquer le plus
+			<lb/>
+			précisément possible un phénomène, de façon structurée, selon une série
+			<lb/>
+			prédéterminée de critères et de facteurs pouvant l&apos;expliquer dans son entièreté. Le
+			<lb/>
+			contexte est considéré (disons : « mesuré ») pour contrôler son influence sur les
+			<lb/>
+			stratégies de coping. Une série de stratégies de coping pourrait alors servir à prédire
+			<lb/>
+			la qualité de l&apos;adaptation d&apos;une personne, en considérant certains éléments -<lb/>mesurables
+			objectivement -du contexte. On cherche une vérité (bien que non
+			<lb/>
+			absolue). On remarque de plus que le chercheur est externe et neutre, de façon à ne
+			<lb/>
+			pas influencer les résultats. Enfin, ces travaux visent ultimement l&apos;élaboration d&apos;un
+			<lb/>
+			cadre qui pourrait être généralisable à l&apos;ensemble des personnes impliquées par le
+			<lb/>
+			phénomène.
+			<lb/>
+		</p>
+		
+		<p>Bien qu&apos;elle soit encore utilisée dans des recherches récentes, cette façon de
+			<lb/>
+			faire est pourtant abondamment critiquée, notamment par Richard Lazarus. Déjà
+			<lb/>
+			en 1993, il mentionnait que les approches portant sur les styles de coping ne
+			<lb/>
+			permettent pas d&apos;avoir une description détaillée des stratégies employées dans des
+			<lb/>
+			contextes particuliers. De plus, la mesure des processus de coping ne peut tenir
+			<lb/>
+			compte de la personne dans son entièreté, qui a sa propre hiérarchie d&apos;objectifs bien
+			<lb/>
+			personnels, ses intentions, un système de croyances et un mode de vie et de liens
+			<lb/>
+			sociaux uniques. <ref type="biblio">Coyne et Racioppo (2000)</ref> ont, pour leur part, mis en évidence la
+			<lb/>
+			« crise » de la recherche utilisant comme méthode les listes de stratégies de coping.
+			<lb/>
+			Selon eux, les questions de recherche et leurs conclusions sont souvent trop générales
+			<lb/>
+			pour être applicables dans la pratique. Par exemple, le coping réduit à un score de
+			<lb/>
+			synthèse fait perdre des ingrédients cruciaux pour la compréhension du processus
+			<lb/>
+			d&apos;adaptation comme le synchronisme, la séquence et la pertinence.
+			<lb/>
+		</p>
+		
+		<p>Plusieurs auteurs du domaine de la psychologie et de la psychologie sociale ont
+			<lb/>
+			donc fait une critique de la recherche sur les stratégies de coping et l&apos;ensemble de ces
+			<lb/>
+			articles s&apos;inscrit dans un courant de théorie critique qui semble avoir émergé dans les
+			<lb/>
+			années 1990. Citons <ref type="biblio">Parker et Endler (1992)</ref> qui ont aussi dénoncé la prolifération
+			<lb/>
+			d&apos;instruments de mesure du coping. La même équipe de chercheurs a récidivé peu
+			<lb/>
+			après en mettant en évidence les nombreuses faiblesses méthodologiques des études
+			<lb/>
+			et les problèmes relatifs aux qualités psychométriques des instruments, en particulier
+			<lb/>
+			dans un contexte d&apos;adaptation à la maladie physique ou mentale (<ref type="biblio">Endler, Parker, &amp;<lb/>
+				Summerfeldt, 1993</ref>). Plus tard, des auteurs tels que <ref type="biblio">Steed (1998), Oakland et Ostell
+			<lb/>
+				(1996)</ref> et aussi Folkman -la collègue de Lazarus -, <ref type="biblio">Moskowitz et Tedlie (2004)</ref> ont
+			<lb/>
+			fait des constats du même ordre, en remettant en question de façon plus radicale les
+			<lb/>
+			méthodes de recherche utilisées jusque-là, ce que ne faisaient pas aussi explicitement
+			<lb/>
+			les précédents auteurs dans leurs critiques. On commencera alors à discuter de la
+			<lb/>
+			contribution potentielle des méthodes narratives et qualitatives.
+			<lb/>
+		</p>
+		
+		<p>En sciences infirmières, il est intéressant de constater que la critique est
+			<lb/>
+			davantage d&apos;ordre social que d&apos;ordre méthodologique. Duffy, aussitôt qu&apos;en 1987,
+			<lb/>
+			faisait une critique de la théorie de l&apos;adaptation qui suppose que les personnes sont
+			<lb/>
+			entièrement responsables de s&apos;adapter à des normes et standards établis par un
+			<lb/>
+			environnement relativement immuable. En mettant l&apos;accent sur la recherche sur
+			<lb/>
+			l&apos;adaptation, les sciences infirmières se seraient consacrées à tenter de changer les
+			<lb/>
+			personnes (pour « améliorer » leurs stratégies de coping) et ont négligé de changer le
+			<lb/>
+			système social ou l&apos;environnement pour mieux répondre aux besoins des personnes.
+			<lb/>
+			Faisant un retour dix ans plus tard sur ces réflexions, <ref type="biblio">Duffy (1998)</ref> réitère sa position
+			<lb/>
+			en spécifiant la nécessité de suivre le tournant vers les théories critiques et féministes,
+			<lb/>
+			la recherche participative et la conscientisation sociale pour guider les chercheurs en
+			<lb/>
+			sciences infirmières qui désirent développer des recherches émancipatrices visant le
+			<lb/>
+			changement social.
+			<lb/>
+		</p>
+		
+		<p>De même, Ducharme suggère des avenues pour que les sciences infirmières
+			<lb/>
+			contribuent, par leur singularité, au développement des connaissances sur le stress et
+			<lb/>
+			le coping :
+			<lb/>
+		</p>
+		
+		<p>En fait, le changement graduel de courant de pensée au sein de la
+			<lb/>
+			discipline infirmière, qu&apos;il s&apos;agisse de la philosophie du soin qui est
+			<lb/>
+			définie comme humaniste par un nombre croissant d&apos;infirmières, ou
+			<lb/>
+			encore des méthodes de recherche qui s&apos;orientent de plus en plus vers le
+			<lb/>
+			choix d&apos;approches naturalistes, fait en sorte que cette discipline se
+			<lb/>
+			rapproche graduellement du domaine des sciences sociales et tend à
+			<lb/>
+			prendre une certaine distance avec les sciences biomédicales. L&apos;intérêt
+			<lb/>
+			pour les concepts de stress et de coping est dans cette perspective une
+			<lb/>
+			illustration particulièrement intéressante d&apos;un partage des connaissances
+			<lb/>
+			et d&apos;une CO-fertilisation [sic] entre les sciences sociales, en tant que
+			<lb/>
+			disciplines fondamentales, et les sciences infirmières en tant que
+			<lb/>
+			discipline professionnelle ou appliquée (<ref type="biblio">Ducharme, 1999, p. 73</ref>).
+			<lb/>
+		</p>
+		
+		<p>Dans les dernières années, la critique est donc d&apos;ordre sociétal et les
+			<lb/>
+			préoccupations se tournent plus que jamais vers les populations plus vulnérables,
+			<lb/>
+			négligées par la recherche. Dans un article très pertinent à ce sujet, <ref type="biblio">Tischler (2009)</ref>,
+			<lb/>
+			psychologue oeuvrant en psychiatrie, aborde les limites de la recherche actuelle quant
+			<lb/>
+			aux populations vulnérables et marginalisées. D&apos;abord, elle mentionne que la plupart
+			<lb/>
+			des mesures standardisées ne peuvent saisir le processus d&apos;adaptation et sa
+			<lb/>
+			complexité et peuvent amener à juger comme copers inefficaces les personnes
+			<lb/>
+			vulnérables. Elle cite l&apos;exemple de l&apos;étude sur les femmes victimes de violence
+			<lb/>
+			conjugale de Smith, <ref type="biblio">Tessaro et Earp (1995)</ref> qui mentionnaient qu&apos;« en portant
+			<lb/>
+			l&apos;attention seulement sur le comportement de la femme dans une relation d&apos;abus, vous
+			<lb/>
+			obtenez seulement une compréhension partielle du phénomène de la violence
+			<lb/>
+			conjugale » 2 [traduction libre] (p. 174). À partir de ses travaux sur les mères de jeunes
+			<lb/>
+			enfants vivant une situation d&apos;itinérance, <ref type="biblio">Tischler (2009)</ref> en est aussi venue à la
+			<lb/>
+			conclusion que les possibilités d&apos;adaptation de ces femmes sont compromises par leur
+			<lb/>
+			accès limité au pouvoir et aux ressources, et que leur expérience serait d&apos;autant plus
+			<lb/>
+			réduite par l&apos;utilisation de processus de recherche développés selon des normes
+			<lb/>
+			dominantes.
+			<lb/>
+		</p>
+		
+		<p>Plus près de nous, le même type de préoccupations en lien avec les effets des
+			<lb/>
+			approches positivistes sur les populations considérées comme vulnérables est soulevé
+			<lb/>
+			depuis quelques années par des chercheurs du domaine social. <ref type="biblio">Parazelli, Gélinas et
+			<lb/>
+				Lévesque (2013)</ref> 3 exprimaient récemment leurs inquiétudes à ce sujet dans un texte
+			<lb/>
+			paru dans Le Devoir :
+			<lb/>
+		</p>
+		
+		<p>Dans cette biologie de la pauvreté, on nie la complexité des relations
+			<lb/>
+			entre les déterminants structurels (ex. : inégalités socioéconomiques),
+			<lb/>
+			culturels (valeurs, croyances, représentations) et les stratégies profanes
+			<lb/>
+			des personnes considérées comme vulnérables pour faire face à leurs
+			<lb/>
+			difficultés.
+			<lb/>
+		</p>
+		
+		<p>En somme, le fait d&apos;utiliser des méthodes standardisées avec des instruments de
+			<lb/>
+			mesure « génériques », élaborées à partir de conceptions de l&apos;adaptation
+			<lb/>
+			« normalisées », brime les populations vulnérables et ne rend assurément pas justice à
+			<lb/>
+			la complexité du vécu de ces personnes ni à la richesse de leur expérience. De plus, la
+			<lb/>
+			façon actuelle d&apos;étudier ce phénomène, très centrée sur les caractéristiques des
+			<lb/>
+			individus, mais peu sur les conditions qui entretiennent leur situation, contribue au
+			<lb/>
+			maintien de ces populations dans la pauvreté et la marginalité. Dans ces conditions,
+			<lb/>
+			les connaissances sur l&apos;adaptation de ces populations demeurent au final
+			<lb/>
+			fragmentaires et, par conséquent, la possibilité d&apos;améliorer leur situation, notamment
+			<lb/>
+			par des soins infirmiers fondés sur un savoir acquis par des méthodes plus
+			<lb/>
+			appropriées.
+			<lb/>
+		</p>
+		
+		<head>3. Comment la MTE peut-elle améliorer la compréhension actuelle du
+			<lb/>
+			phénomène de l&apos;adaptation?
+			<lb/>
+		</head>
+		
+		<p>Pour tenter de mieux comprendre les processus d&apos;adaptation des personnes atteintes
+			<lb/>
+			de schizophrénie, nous jugeons qu&apos;il est nécessaire de s&apos;attarder au processus
+			<lb/>
+			d&apos;adaptation dans son entier, plutôt que de seulement tenter d&apos;en tirer un portrait
+			<lb/>
+			statique. Pour ce faire, un devis de recherche qualitatif utilisant la MTE
+			<lb/>
+			constructiviste de <ref type="biblio">Charmaz (2005, 2006, 2011)</ref> a été développé, puis combiné à
+			<lb/>
+			l&apos;utilisation de stratégies de recrutement de participants non traditionnelles qui
+			<lb/>
+			répondent mieux aux impératifs de la MTE constructiviste.
+			<lb/>
+		</p>
+		
+		<head>3.1 Pertinence de la MTE en général
+			<lb/>
+		</head>
+		
+		<p>La MTE est une approche inductive dans le sens où elle s&apos;effectue à partir de données
+			<lb/>
+			ancrées dans le phénomène à l&apos;étude, desquelles on tirera des ensembles d&apos;éléments
+			<lb/>
+			formant des catégories conceptuelles (<ref type="biblio">Charmaz, 2006; Glaser &amp; Strauss, 1967</ref>).
+			Elle
+			<lb/>
+			vise à générer une théorie constituée d&apos;un ensemble de catégories interdépendantes
+			<lb/>
+			formant un cadre théorique permettant d&apos;expliquer le phénomène à l&apos;étude (
+			<ref type="biblio">Corbin &amp;<lb/>
+				Strauss, 2008
+			</ref>
+			). La théorie donne un langage commun permettant aux participants, aux
+			<lb/>
+			chercheurs, aux intervenants et aux décideurs concernés de mieux comprendre une
+			<lb/>
+			problématique partagée, de la voir de façon plus globale pour éventuellement mettre
+			<lb/>
+			en place des actions pour y remédier (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>). Cette méthode
+			est
+			<lb/>
+			donc essentiellement l&apos;inverse des approches traditionnelles qui consistent à vérifier
+			<lb/>
+			des théories existantes (<ref type="biblio">Tan, 2010</ref>).
+			<lb/>
+		</p>
+		
+		<p>Cela dit, la recherche qualitative en général utilise ce processus de base qui
+			<lb/>
+			consiste à utiliser la voix des participants pour mieux comprendre un phénomène.
+			<lb/>
+			Cependant, la MTE présente des particularités qui aident à mieux pallier les lacunes
+			<lb/>
+			dans la recherche actuelle sur l&apos;adaptation. <ref type="biblio">Hood (2007)</ref> a fait ressortir certains
+			<lb/>
+			ingrédients distinctifs de la MTE, comparativement au modèle de recherche
+			<lb/>
+			qualitative « générique » : 1) la question de recherche, qui est centrée sur les
+			<lb/>
+			processus; 2) l&apos;échantillonnage théorique; 3) la rédaction de mémos; 4) les critères
+			<lb/>
+			déterminant la fin de la collecte et de l&apos;analyse des données. Ces caractéristiques
+			<lb/>
+			seront ici mises en lien avec notre objet de recherche.
+			<lb/>
+		</p>
+		
+		<p>Premièrement, la MTE s&apos;intéresse aux processus plutôt qu&apos;à la recherche de
+			<lb/>
+			dimensions ou de thèmes. Un processus est composé de séquences
+			<lb/>
+			d&apos;actions/interactions évolutives (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>). Dans la
+			recherche que
+			<lb/>
+			nous présentons, la question est : « Quel est le processus d&apos;adaptation des personnes
+			<lb/>
+			atteintes de schizophrénie dont le soutien social est limité ou inexistant? » Cette
+			<lb/>
+			question différera, par exemple, de : « Que signifie l&apos;adaptation pour des personnes
+			<lb/>
+			atteintes de schizophrénie […] », qui serait davantage d&apos;orientation
+			<lb/>
+			phénoménologique. La mise en valeur des processus aura comme avantage
+			<lb/>
+			d&apos;améliorer nos connaissances sur les conditions qui amènent sa mise en oeuvre, sur
+			<lb/>
+			les significations qui ont influencé les décisions et les actions prises par les
+			<lb/>
+			participants, ainsi que ses conséquences.
+			<lb/>
+		</p>
+		
+		<p>Deuxièmement, la MTE se distingue par l&apos;échantillonnage théorique. Dans une
+			<lb/>
+			recherche utilisant la MTE, la collecte et l&apos;analyse des données se font
+			<lb/>
+			simultanément, selon un processus que Hood (2007) qualifie de cyclique. À la suite
+			<lb/>
+			des premières entrevues, la trajectoire générale (ou processus) commence à se
+			<lb/>
+			dégager et permet de faire un échantillonnage ciblé, c&apos;est-à-dire des choix raisonnés
+			<lb/>
+			quant aux prochains participants à recruter. Les catégories émergentes, qui permettent
+			<lb/>
+			aux chercheurs de comprendre plus profondément la théorie en développement, vont
+			<lb/>
+			orienter le recrutement vers des critères beaucoup plus spécifiques concernant les
+			<lb/>
+			réponses particulières à une expérience ou à un concept particulier qui semblent
+			<lb/>
+			significatifs (<ref type="biblio">Morse, 2007</ref>). Il peut aussi s&apos;agir de retourner auprès de participants
+			<lb/>
+			déjà interviewés et qui ont une expérience d&apos;intérêt par rapport aux catégories
+			<lb/>
+			émergentes (<ref type="biblio">Charmaz, 2006</ref>). Ainsi, dans notre étude, nous n&apos;avons pas visé la
+			<lb/>
+			représentativité, mais bien des profils de participants ou des expériences qui
+			<lb/>
+			pouvaient être comparés aux catégories émergentes.
+			<lb/>
+		</p>
+		
+		<p>Rappelons ici que la MTE s&apos;appuie notamment sur l&apos;interactionnisme
+			<lb/>
+			symbolique, centré sur les relations dynamiques entre les significations et les actions
+			<lb/>
+			(<ref type="biblio">Blumer, 1969</ref>). La collecte simultanée à l&apos;analyse des données, appuyée par
+			<lb/>
+			l&apos;échantillonnage théorique, favorise donc que la théorie générée soit composée d&apos;un
+			<lb/>
+			processus construit par les significations et les actions des participants, donc enraciné
+			<lb/>
+			dans leur expérience. Dès les stades préliminaires de la conception de notre
+			<lb/>
+			recherche, nous avons pu constater l&apos;importance de porter attention aux
+			<lb/>
+			significations. Parmi les experts rencontrés pour élaborer notre guide d&apos;entrevue
+			<lb/>
+			semi-structuré, une personne ayant un diagnostic de schizophrénie agissant à titre
+			<lb/>
+			d&apos;expert nous a recommandé de ne pas demander aux participants « racontez-moi
+			<lb/>
+			comment la &quot;maladie&quot; a commencé », mais plutôt « racontez-moi comment les
+			<lb/> &quot;problèmes&quot; ont commencé ». En effet, cette personne nous a mentionné que la
+			<lb/>
+			plupart du temps, quand la personne commence à avoir des symptômes, la maladie
+			<lb/>
+			mentale n&apos;est jamais sa première hypothèse personnelle. Ainsi, on peut déjà percevoir
+			<lb/>
+			que la signification que la personne accorde à ce qu&apos;elle vit aura une influence sur sa
+			<lb/>
+			façon d&apos;y faire face.
+			<lb/>
+		</p>
+		
+		<p>Troisièmement, la rédaction de mémos, bien qu&apos;elle se pratique aussi pour
+			<lb/>
+			d&apos;autres types de recherches qualitatives, a aux yeux de <ref type="biblio">Hood (2007)</ref> un impact bien
+			<lb/>
+			différent en théorisation enracinée. En effet, comme outil d&apos;analyse, le mémo est ici
+			<lb/>
+			utilisé pour développer des catégories, leurs propriétés, ainsi que les relations entre
+			<lb/>
+			celles-ci. Bref, ils sont essentiels pour atteindre le niveau d&apos;abstraction nécessaire à la
+			<lb/>
+			théorisation (<ref type="biblio">Charmaz, 2006</ref>).
+			<lb/>
+		</p>
+		
+		<p>Finalement, la MTE se distingue par les critères qui déterminent la fin de la
+			<lb/>
+			collecte et de l&apos;analyse des données. Plutôt que la saturation des données (la collecte
+			<lb/>
+			des données n&apos;apporte plus d&apos;informations nouvelles), on cherchera la saturation
+			<lb/>
+			théorique des catégories. Ceci signifie que les catégories sont complètement
+			<lb/>
+			développées et que la collecte des données apporte peu ou aucune information
+			<lb/>
+			nouvelle, à l&apos;exception de nouvelles variations qui peuvent toujours être découvertes
+			<lb/>
+			(<ref type="biblio">Corbin &amp; Strauss, 2008</ref>).
+			<lb/>
+		</p>
+		
+		<p>Cette dernière caractéristique illustre qu&apos;une MTE menée à terme offrira un
+			<lb/>
+			construit théorique riche qui proposera une compréhension du phénomène d&apos;intérêt et
+			<lb/>
+			qui sera enraciné dans les données jusqu&apos;à la fin de l&apos;analyse de celles-ci. Nous avons
+			<lb/>
+			vu précédemment les limites reliées aux méthodes quantitatives qui visent à mesurer
+			<lb/>
+			l&apos;adaptation à partir de construits déjà établis selon des normes qui ne sont pas
+			<lb/>
+			toujours utiles ou pertinentes pour les populations jugées vulnérables telles que les
+			<lb/>
+			personnes atteintes de schizophrénie. La MTE, par sa nature inductive, contribuera
+			<lb/>
+			donc à porter un regard frais sur leur processus d&apos;adaptation.
+			<lb/>
+		</p>
+		
+		<head>3.2 La MTE de Charmaz et la justice sociale
+			<lb/>
+		</head>
+		
+		<p>Il existe plusieurs écoles en MTE et la première recommandation à ce sujet est de
+			<lb/>
+			choisir la méthode qui correspond au style cognitif des chercheurs (
+			<ref type="biblio">Heath &amp; Cowley,
+				<lb/>
+				2004
+			</ref>
+			). Il faut ensuite exprimer clairement les choix faits à ce sujet et être avisés des
+			<lb/>
+			implications qui en découlent (<ref type="biblio">Charmaz, 2011</ref>). Ici, la MTE
+			de <ref type="biblio">Charmaz (2000, 2005,
+				<lb/>
+				2006, 2011
+			</ref>
+			) a été retenue. De prime abord, ce choix a été fait en raison de sa
+			<lb/>
+			perspective constructiviste et des implications que cela comporte, entre autres, sur la
+			<lb/>
+			relation avec le participant.
+			<lb/>
+		</p>
+		
+		<p>L&apos;utilité de la MTE au regard des enjeux reliés à la justice sociale, en particulier
+			<lb/>
+			dans sa forme constructiviste, est un aspect essentiel à considérer. Dans ses écrits
+			<lb/>
+			dans The Sage handbook of grounded theory, <ref type="biblio">Charmaz (2005, 2011</ref>) s&apos;est
+			appliquée à
+			<lb/>
+			démontrer comment, par sa nature, la MTE peut contribuer à faire avancer le domaine
+			<lb/>
+			de la justice sociale. Pour Charmaz, la recherche en justice sociale signifie
+			<lb/>
+		</p>
+		
+		<p>de réaliser des études qui s&apos;attardent aux iniquités et aux inégalités, aux
+			<lb/>
+			barrières et à l&apos;accessibilité, à la pauvreté et aux privilèges, aux droits
+			<lb/>
+			individuels et au bien commun, ainsi qu&apos;aux implications de ces aspects
+			<lb/>
+			sur la souffrance. La recherche en justice sociale implique aussi de se
+			<lb/>
+			positionner de façon critique envers les structures sociales et les processus
+			<lb/>
+			qui façonnent la vie individuelle et collective [traduction libre] (Charmaz,
+			<lb/>
+			2011, p. 359) 4 .
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Charmaz (2011)</ref> présente plusieurs arguments démontrant que les questions en
+			<lb/>
+			lien avec la justice sociale ont tendance à ressortir des théorisations enracinées même
+			<lb/>
+			dans les cas où il ne s&apos;agit pas de l&apos;objet de recherche principal. D&apos;abord, rappelons
+			<lb/>
+			que la MTE vise à mettre en lumière les processus sociaux. Cette particularité
+			<lb/>
+			« permet d&apos;examiner comment les structures sociales, les situations et les relations
+			<lb/>
+			influencent les types de comportements, les interactions et les interprétations. Ceci
+			<lb/>
+			peut aussi inclure l&apos;impact des politiques et des services sur les comportements »
+			<lb/>
+			[traduction libre] (<ref type="biblio">Tweed &amp; Charmaz, 2012, p. 134</ref>) 5 .
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, la MTE génère par son style d&apos;analyse centré sur les processus un
+			<lb/>
+			regard nouveau sur des concepts réputés bien établis, tout comme sur des enjeux de
+			<lb/>
+			justice sociale pris pour acquis dans notre société. Dans le domaine de la santé
+			<lb/>
+			mentale, par exemple, nous pouvons présumer que l&apos;offre actuelle de services et de
+			<lb/>
+			soins de santé et le contexte social sont nécessairement favorables aux personnes
+			<lb/>
+			vivant avec un trouble psychiatrique. Pourtant, rien n&apos;est moins sûr à ce sujet, et les
+			<lb/>
+			causes de ces difficultés restent obscures dans leur ensemble.
+			<lb/>
+		</p>
+		
+		<p>De plus, la MTE contribue à mettre en lumière les préoccupations en lien avec
+			<lb/>
+			la justice sociale parce qu&apos;elle « génère les processus pertinents au phénomène,
+			<lb/>
+			démontre leur contexte, spécifie les conditions dans lesquelles ceux-ci surviennent,
+			<lb/>
+			conceptualise leurs phases, explicite ce qui contribue à leur stabilité ou leur
+			<lb/>
+			changement et, enfin, en esquisse les conséquences » [traduction libre] (<ref type="biblio">Charmaz,
+			<lb/>
+				2011, p. 361</ref>) 6 . Si nous désirons comprendre de façon approfondie le processus
+			<lb/>
+			d&apos;adaptation des personnes atteintes de schizophrénie, autrement que par un profil de
+			<lb/>
+			stratégies de coping, la MTE devient donc un outil indispensable. Elle aidera à mieux
+			<lb/>
+			saisir comment les structures contextuelles contribuent au maintien de ces personnes
+			<lb/>
+			dans des conditions de vie désavantageuses.
+			<lb/>
+		</p>
+		
+		<p>La contribution principale de Charmaz à la MTE est d&apos;avoir rendu explicite sa
+			<lb/>
+			nature constructiviste. Pour <ref type="biblio">Charmaz (2006)</ref>, les données sont une construction de la
+			<lb/>
+			réalité et non la réalité elle-même. Dans ce contexte, les chercheurs ne peuvent être
+			<lb/>
+			neutres et la réalité ne peut leur être indépendante. Il est alors incontournable de
+			<lb/>
+			reconnaître la contribution des chercheurs à l&apos;interprétation de la réalité. Ainsi, le
+			<lb/>
+			savoir se construit par une interaction entre l&apos;observateur et l&apos;observé.
+			<lb/>
+		</p>
+		
+		<p>Pour mettre en lumière les actions et les processus qui amènent les personnes à
+			<lb/>
+			devenir l&apos;objet d&apos;injustices et d&apos;iniquités, <ref type="biblio">Charmaz (2000, 2005, 2011,
+				2012)
+				<lb/>
+			</ref>
+			recommande que, dès le début de l&apos;analyse, les données soient autant que possible
+			<lb/>
+			codées ligne par ligne et au gérondif (gerunds, en anglais, soit les noms se terminant
+			<lb/>
+			en -ing formés à partir de verbes), bref, en mots d&apos;action. Il s&apos;agit d&apos;un type de
+			<lb/>
+			codage différent de ce qui est habituellement fait, soit le codage par thèmes ou par
+			<lb/>
+			sujets. Ce type de codage permet la construction des actions directement dans les
+			<lb/>
+			codes et rend ainsi visibles les processus. Par exemple, on pourrait avoir un code de
+			<lb/>
+			forme habituelle qui serait « abstinence de drogues ». Reformulé sous forme d&apos;action,
+			<lb/>
+			on aurait plutôt « s&apos;abstenir de consommer des drogues ». L&apos;action devient alors
+			<lb/>
+			explicite, et, au fil de l&apos;analyse, les regroupements d&apos;actions forment des processus.
+			<lb/>
+		</p>
+		
+		<p>La MTE constructiviste a aussi d&apos;autres implications qui sont en harmonie avec
+			<lb/>
+			une importante préoccupation de la recherche en santé mentale, soit la relation avec
+			<lb/>
+			les participants. Comme il a été mentionné, le savoir se coconstruit dans une
+			<lb/>
+			collaboration entre le participant et le chercheur. Dans ce contexte, la relation établie
+			<lb/>
+			entre les deux revêt une importance particulière puisque la qualité de celle-ci aura un
+			<lb/>
+			impact notable (et souhaité) sur les résultats de la recherche. Selon <ref type="biblio">Mills, Bonner et
+			<lb/>
+				Francis (2006)</ref>, une approche constructiviste nécessite la création d&apos;un sentiment de
+			<lb/>
+			réciprocité entre le participant et le chercheur dans la coconstruction des
+			<lb/>
+			significations et, par conséquent, de la théorie qui sera enracinée dans l&apos;expérience de
+			<lb/>
+			cette réciprocité. De plus, le développement d&apos;une telle relation amène un partage du
+			<lb/>
+			pouvoir entre le participant et le chercheur. Cela suppose une attitude de non-<lb/>jugement de la part du
+			chercheur ainsi que diverses stratégies favorisant un partage du
+			<lb/>
+			pouvoir équilibré. <ref type="biblio">Mills et al. (2006)</ref> suggèrent, par exemple, de laisser au participant
+			<lb/>
+			le choix du lieu et du moment de l&apos;entrevue, d&apos;avoir une structure d&apos;entrevue souple
+			<lb/>
+			qui laisse le participant diriger le cours de la conversation et qui permet au chercheur
+			<lb/>
+			de faire valider ses impressions par le participant et de favoriser un échange plus
+			<lb/>
+			personnel pendant et à la suite de l&apos;entrevue. Bref, le chercheur doit s&apos;investir
+			<lb/>
+			personnellement dans le processus de recherche et non s&apos;en tenir à tirer profit du
+			<lb/>
+			savoir des participants. De façon à être cohérent avec ces indications, cela suggère
+			<lb/>
+			aussi une approche particulière à adopter pour le recrutement des participants. La
+			<lb/>
+			section suivante démontrera l&apos;attention qui a été portée en ce sens.
+			<lb/>
+		</p>
+		
+		<head>3.3 Un recrutement de participants plus représentatif
+			<lb/>
+		</head>
+		
+		<p>La stratégie traditionnelle de recrutement en santé mentale consiste à faire appel à des
+			<lb/>
+			professionnels en santé mentale qui vont dépister des participants potentiels et les
+			<lb/>
+			référer au chercheur. Cependant, ce type de recrutement pose assurément des limites.
+			<lb/>
+			contribuer à la recherche en plus d&apos;effectuer leurs obligations habituelles. De plus,
+			<lb/>
+			cette stratégie de recrutement ne permet de rejoindre qu&apos;une partie de la population :
+			<lb/>
+			celle qui bénéficie actuellement des services. En effet, une partie de la population ne
+			<lb/>
+			fréquente pas les services institutionnels et d&apos;autres ont abandonné le suivi requis.
+			<lb/>
+			Parmi ceux-ci, on peut présumer qu&apos;il se trouve des personnes vivant de l&apos;isolement
+			<lb/>
+			social qui sont plus gravement malades, mais aussi, potentiellement, des personnes
+			<lb/>
+			qui s&apos;en sortent relativement bien, mais par d&apos;autres moyens que les services
+			<lb/>
+			traditionnels. Précisons également qu&apos;un certain nombre de ces personnes n&apos;ont pas le
+			<lb/>
+			téléphone et qu&apos;il faut les rejoindre par d&apos;autres moyens. Enfin, il faut même
+			<lb/>
+			considérer que certaines personnes « fuient » littéralement les professionnels (
+			<ref type="biblio">Faugier
+				<lb/> &amp; Sargeant, 1997
+			</ref>
+			). On peut donc conclure que les personnes atteintes de
+			<lb/>
+			schizophrénie qui ne sont pas rejointes habituellement pour la recherche forment une
+			<lb/>
+			population qui se distingue par des caractéristiques particulières à découvrir et qui
+			<lb/>
+			n&apos;est pas nécessairement minoritaire.
+			<lb/>
+		</p>
+		
+		<p>Pour ces raisons, le devis de recherche a été développé en mettant en place des
+			<lb/>
+			éléments qui favorisent l&apos;accès à la population d&apos;intérêt, soit les personnes ayant un
+			<lb/>
+			diagnostic de schizophrénie depuis cinq ans ou moins et vivant de l&apos;isolement social.
+			<lb/>
+			En plus du recrutement traditionnel auprès des professionnels en santé mentale,
+			<lb/>
+			d&apos;autres méthodes ont été développées. Il est d&apos;ailleurs recommandé d&apos;utiliser des
+			<lb/>
+			stratégies de recrutement variées lorsqu&apos;on effectue une recherche auprès des
+			<lb/>
+			populations plus marginalisées ou difficiles à rejoindre (
+			<ref type="biblio">UyBico, Pavel, &amp; Gross,
+				<lb/>
+				2007
+			</ref>
+			). Les stratégies retenues dans notre cas sont : l&apos;outreach, la publicité et la
+			<lb/>
+			méthode « boule de neige ».
+			<lb/>
+		</p>
+		
+		<p>L&apos;outreach est la stratégie de recrutement au coeur de notre recherche. La
+			<lb/>
+			notion d&apos;outreach consiste ici « à rejoindre la clientèle là où elle se trouve »
+			<lb/>
+			(<ref type="biblio">Denoncourt, Désilets, Plante, Laplante, &amp; Choquet, 2000, p. 179</ref>). « Là où elle
+			se
+			<lb/>
+			trouve » est une notion qui dépasse largement le domicile des personnes. Il peut
+			<lb/>
+			s&apos;agir d&apos;organismes communautaires, de lieux commerciaux ou même de la rue. Cette
+			<lb/>
+			stratégie d&apos;approche a fait ses preuves auprès des clientèles difficiles à rejoindre, en
+			<lb/>
+			particulier auprès des personnes en situation d&apos;itinérance et souffrant de troubles
+			<lb/>
+			mentaux graves (<ref type="biblio">Farrell, Huff, MacDonald, Middlebro, &amp; Walsh, 2005</ref>). Elle
+			permet
+			<lb/>
+			donc d&apos;avoir accès à un bassin élargi de participants, incluant ceux qui évitent les
+			<lb/>
+			services.
+			<lb/>
+		</p>
+		
+		<p>La publicité utilisée de façon stratégique est un incontournable pour rejoindre
+			<lb/>
+			cette clientèle. La stratégie publicitaire comprend la publication d&apos;annonces dans les
+			<lb/>
+			journaux locaux ainsi que l&apos;affichage dans les endroits les plus susceptibles d&apos;être
+			<lb/>
+			fréquentés par les personnes recherchées. Les endroits prévus sont, entre autres, des
+			<lb/>
+			salles d&apos;attente de médecins et de psychiatres en consultation externe, des
+			<lb/>
+			dépanneurs, des organismes communautaires et des centres d&apos;hébergement
+			<lb/>
+			communautaires et privés.
+			<lb/>
+		</p>
+		
+		<p>Enfin, la méthode par réseaux (ou « boule de neige ») découle des trois
+			<lb/>
+			stratégies précédentes, car elle est effectuée à partir des personnes rencontrées grâce à
+			<lb/>
+			ces autres stratégies. Cette méthode consiste à demander, aux personnes rencontrées,
+			<lb/>
+			de parler de nous à d&apos;autres gens (<ref type="biblio">Fortin, 2010</ref>).
+			<lb/>
+		</p>
+		
+		<p>À notre avis, les méthodes de recrutement non axées sur la participation des
+			<lb/>
+			professionnels au processus répondent de façon supérieure aux impératifs de la MTE
+			<lb/>
+			constructiviste. Comme il a été mentionné, il est important de porter attention à la
+			<lb/>
+			relation établie et entretenue avec les participants et au partage de pouvoir durant le
+			<lb/>
+			processus de recherche pour favoriser une réelle coconstruction de la recherche.
+			<lb/>
+			Ainsi, les méthodes de recrutement décrites favorisent une participation plus
+			<lb/>
+			volontaire et autonome : la personne prend connaissance par elle-même de la
+			<lb/>
+			recherche et prend la décision de s&apos;informer davantage sans l&apos;influence d&apos;un
+			<lb/>
+			professionnel qui occupe une position hiérarchique vis-à-vis du participant. Par
+			<lb/>
+			ailleurs, l&apos;outreach exige une implication personnelle qui demande que le chercheur
+			<lb/>
+			soit par moments « utilisé » à d&apos;autres fins que sa recherche. Ainsi, le chercheur est
+			<lb/>
+			qu&apos;avec les personnes
+			de leur entourage. À ce sujet, <ref type="biblio">Faugier et Sargeant (1997)
+				<lb/>
+			</ref>
+			soulignent qu&apos;un chercheur de profession infirmière sera sollicité pour ses
+			<lb/>
+			connaissances médicales, les personnes l&apos;approchant pour discuter de leurs
+			<lb/>
+			préoccupations de santé, ce qui est, au final, avantageusement facilitant pour établir
+			<lb/>
+			une relation avec ces personnes.
+			<lb/>
+		</p>
+		
+		<head>4. Retombées attendues
+			<lb/>
+		</head>
+		
+		<p>De nos jours, il existe une multitude de services en santé mentale, de programmes
+			<lb/>
+			s&apos;adressant à des gens vivant des problématiques associées telles que la pauvreté,
+			<lb/>
+			ainsi que des actions sociales et politiques anti-stigmatisation. Malgré ce contexte,
+			<lb/>
+			pouvons-nous réellement présumer que les personnes atteintes de trouble mental
+			<lb/>
+			grave comme la schizophrénie ont les mêmes opportunités de vie que le reste de la
+			<lb/>
+			population? Que l&apos;on peut actuellement s&apos;adapter à une telle condition comme on
+			<lb/>
+			s&apos;adapte à une maladie comme le diabète? Il est aisé d&apos;en douter. Quel est le point de
+			<lb/>
+			vue des personnes atteintes de schizophrénie à ce sujet? La MTE utilisée pour cette
+			<lb/>
+			recherche, associée aux efforts mis en place pour rejoindre les personnes concernées,
+			<lb/>
+			contribuera à donner une voix à cette population autrement négligée par la recherche.
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, l&apos;espérance de vie des personnes atteintes de schizophrénie est en
+			<lb/>
+			moyenne de 20 ans inférieure à la population générale et pourtant, elles ne meurent
+			<lb/>
+			pas de la schizophrénie, mais principalement de maladies de nature physique, en
+			<lb/>
+			particulier de maladies cardiovasculaires (<ref type="biblio">Samson, 2011</ref>). Or, ces maladies sont
+			<lb/>
+			associées entre autres à des conditions qui touchent particulièrement les groupes
+			<lb/>
+			défavorisés, comme la sédentarité, la mauvaise alimentation, le tabagisme et les
+			<lb/>
+			difficultés d&apos;accès aux services de santé (<ref type="biblio">Mikkonen &amp; Raphael, 2011</ref>). Il devient
+			<lb/>
+			alors nécessaire d&apos;utiliser des dispositifs de recherche comme la MTE, notamment
+			<lb/>
+			parce qu&apos;ils permettent de mettre en lumière les conditions qui perpétuent les
+			<lb/>
+			inégalités vécues par cette population.
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, dans un récent éditorial, <ref type="biblio">Parahoo (2009)</ref> a souligné le fait qu&apos;il
+			<lb/>
+			existe peu d&apos;écrits ayant pour sujet l&apos;effet des théorisations enracinées sur la pratique
+			<lb/>
+			et sur les personnes qui sont soignées. De son point de vue, la théorisation enracinée
+			<lb/>
+			n&apos;est qu&apos;une première étape. Cette théorie doit être implantée dans la pratique, puis
+			<lb/>
+			évaluée et testée. Dans le cas présent, la première retombée souhaitée est que la
+			<lb/>
+			théorie générée par cette recherche procure de nouvelles façons d&apos;améliorer les soins
+			<lb/>
+			et les services disponibles actuellement pour les personnes vivant avec la
+			<lb/>
+			schizophrénie et dans un état précaire.
+			<lb/>
+		</p>
+		
+		<p>Enfin, dans l&apos;analyse par la MTE, la méthode de comparaison constante veut
+			<lb/>
+			que la théorie émergente soit par la suite comparée à des phénomènes semblables qui
+			<lb/>
+			ont déjà été étudiés (<ref type="biblio">Charmaz, 2011</ref>). Les résultats de cette recherche pourront donc
+			<lb/>
+			être comparés à des phénomènes d&apos;adaptation concernant d&apos;autres problèmes de
+			<lb/>
+			santé, mais aussi à ce que nous tenons en ce moment pour acquis en ce qui a trait à
+			<lb/>
+			l&apos;expérience des personnes atteintes de schizophrénie.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>L&apos;adaptation des personnes vivant avec la schizophrénie, en particulier celles ayant
+			<lb/>
+			un soutien social limité ou inexistant, est un phénomène complexe dont l&apos;étude
+			<lb/>
+			nécessite des approches méthodologiques novatrices. Par son dispositif centré sur les
+			<lb/>
+			processus, son accent mis sur l&apos;effet de la relation établie entre le chercheur et le
+			<lb/>
+			participant sur le processus de recherche, ainsi que sa capacité à faire ressortir les
+			<lb/>
+			enjeux reliés à la justice sociale, la MTE constructiviste semble particulièrement
+			<lb/>
+			approprié à l&apos;étude de ce phénomène.
+			<lb/>
+		</p>
+		
+		<p>Pour améliorer le sort des personnes vivant avec la schizophrénie, penser qu&apos;il
+			<lb/>
+			suffit d&apos;augmenter le financement des services en santé mentale, tout comme estimer
+			<lb/>
+			qu&apos;il suffit de leur offrir un traitement optimal, est une vision simpliste de la situation.
+			<lb/>
+			Cette vision n&apos;a pas réussi à ce jour à apporter une qualité de vie réelle à ces
+			<lb/>
+			personnes (<ref type="biblio">Eack, Newhill, Anderson, &amp; Rotondi, 2007</ref>). Des conditions
+			structurelles
+			<lb/>
+			importantes contribuent vraisemblablement au maintien de ces personnes dans la
+			<lb/>
+			maladie et les difficultés psychosociales, et il est nécessaire de développer des
+			<lb/>
+			recherches qui répondent à ces préoccupations.
+			<lb/>
+		</p>
+		
+		<note type="other">Le terme coping est utilisé en français dans les écrits du domaine de l&apos;adaptation psychologique. Il se
+			<lb/>
+			traduirait par « stratégies pour faire face » (<ref type="biblio">Grand Robert &amp; Collins électronique,
+				2004</ref>).
+			<lb/>
+			2 « In a study of women&apos;s experiences of battering (U.S. terminology for domestic violence) it was
+			<lb/>
+			noted that by focussing on a woman&apos;s behaviour in relation to abuse, &quot;you have only a partial
+			<lb/>
+			understanding of the phenomenon of battering&quot; » (<ref type="biblio">Smith et al., 1995, p. 174</ref>).
+			<lb/>
+			3 Michel Parazelli -UQAM, Carol Gélinas -Regroupement des organismes communautaires famille
+			<lb/>
+			de Montréal (ROCFM), Sylvie Lévesque -Fédération des associations de familles monoparentales et
+			<lb/>
+			recomposées du Québec (FAFMRQ).
+			<lb/>
+			4 « I mean studies that attend to inequities and equality, barriers and access, poverty and privilege,
+			<lb/>
+			individual rights and the collective good, and their implications for suffering. Social justice inquiry
+			<lb/>
+			also includes taking a critical stance toward social structures and processes that shape individual and
+			<lb/>
+			collective life » (<ref type="biblio">Charmaz, 2011, p. 359</ref>).
+			<lb/>
+			5 « […] enables grounded theory to investigate how social structures, situations and relationships
+			<lb/>
+			influence patterns of behaviour, interactions and interpretations. This focus can include the impact of
+			<lb/>
+			policies and services upon behavior » (<ref type="biblio">Tweed &amp; Charmaz, 2012, p. 134</ref>).
+			<lb/>
+			6 « [the logic of grounded theory leads to] (1) defining relevant processes, (2) demonstrating their
+			<lb/>
+			contexts, (3) specifying the conditions in which these processes occur, (4) conceptualizing their
+			<lb/>
+			phases, (5) explicating what contributes to their stability and/or change, and (6) outlining their
+			<lb/>
+			consequences » (<ref type="biblio">Charmaz, 2011, p. 361</ref>).
+			<lb/>
+		</note>
+	
+	</text>
+</tei>

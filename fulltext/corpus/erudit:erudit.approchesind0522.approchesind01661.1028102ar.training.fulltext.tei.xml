@@ -1,0 +1,1431 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Chaque année, près de 1,38 million de femmes apprennent qu&apos;elles ont un diagnostic
+			<lb/>
+			de cancer du sein dans le monde. Ce nombre en fait le cancer le plus prévalent chez
+			<lb/>
+			les femmes, et ce, tant dans les pays occidentaux que dans les pays en voie de
+			<lb/>
+			développement (<ref type="biblio">Organisation mondiale de la santé (OMS), 2013</ref>). Les plus récentes
+			<lb/>
+			statistiques estiment que 24 400 Canadiennes recevront un diagnostic de cancer du
+			<lb/>
+			sein en 2014, ce qui représente 64 femmes chaque jour (<ref type="biblio">Société canadienne du
+			<lb/>
+				cancer, 2014</ref>). À l&apos;heure actuelle, plus de 88 % des femmes qui en sont atteintes ont
+			<lb/>
+			une espérance de vie de cinq ans ou plus, ce qui classe désormais ce cancer au rang
+			<lb/>
+			des maladies chroniques (<ref type="biblio">OMS, 2013</ref>). Ses conséquences sur la famille, la
+			<lb/>
+			communauté et la société sont désastreuses, notamment à cause de l&apos;association de
+			<lb/>
+			cette maladie à la mort et à des statistiques incertaines sur la guérison hypothétique
+			<lb/>
+			(<ref type="biblio">Banning &amp; Tanzeem, 2013; Saillant, 1988</ref>). De plus, la femme qui reçoit une
+			telle
+			<lb/>
+			nouvelle vit fréquemment un bouleversement important dans ses rôles sociaux
+			<lb/>
+			puisque le cancer a un impact sur son niveau d&apos;énergie, son image corporelle et sa
+			<lb/>
+			sexualité (
+			<ref type="biblio">Al-Azri, Al-Awisi, &amp; Al-Moundhri, 2009; Boehmke &amp; Dickerson, 2006;
+				<lb/>
+				Cebeci, Yangin, &amp; Tekeli, 2010; Denieffe &amp; Gooney, 2011; Fobair, Stewart, Chang,
+				<lb/>
+				DʼOnofrio, Banks, &amp; Bloom, 2006
+			</ref>
+			). Les femmes doivent donc traverser un
+			<lb/>
+			processus, soit une transition entre les perceptions qu&apos;elles avaient de la santé et du
+			<lb/>
+			cancer avant de recevoir l&apos;annonce du diagnostic et ces mêmes perceptions après une
+			<lb/>
+			telle nouvelle menaçante tout en luttant pour leur vie.
+			<lb/>
+		</p>
+		
+		<p>Différentes façons de concevoir la transition sont proposées dans les écrits
+			<lb/>
+			scientifiques. La plus populaire en sciences infirmières est certes la théorie de la
+			<lb/>
+			transition
+			<ref type="biblio">de Meleis (Meleis, 2010; Meleis, Sawyer, Im, Messias, &amp; Schumacher,
+				<lb/>
+				2000
+			</ref>
+			). Ce concept est le plus souvent décrit comme étant un « processus
+			<lb/>
+			intermédiaire et interne de changement causé par un évènement hors de contrôle entre
+			<lb/>
+			deux périodes relativement stables qui durent un certain temps » (traduit par
+			<ref type="biblio">Aubin &amp;<lb/>
+				Dallaire, 2008, p. 103
+			</ref>
+			) (
+			<ref type="biblio">Chick &amp; Meleis, 1986; Kralik, Visentin, &amp; van Loon, 2006;
+				<lb/>
+				Meleis &amp; Trangenstein, 1994
+			</ref>
+			). Quelques études ont porté sur la transition entre la
+			<lb/>
+			santé et la maladie (
+			<ref type="biblio">Boehmke &amp; Dickerson, 2006; Bridges, 2004, 2009; Fex,
+				<lb/>
+				Flensner, Ek, &amp; Söderhamn, 2011; Kralik &amp; van Loon, 2009; McEwen, Baird,
+				<lb/>
+				Pasvogel, &amp; Gallegos, 2007
+			</ref>
+			), mais sans toutefois porter une attention à l&apos;évolution
+			<lb/>
+			des perceptions de l&apos;état de santé avant et après un diagnostic. Cette étude vise à
+			<lb/>
+			explorer la transition des perceptions des femmes de leur état de santé telle qu&apos;elle est
+			<lb/>
+			vécue entre le moment qui précède l&apos;annonce du diagnostic du cancer du sein et la
+			<lb/>
+			période qui suit une telle annonce. Pour cette étude, nous avons utilisé la
+			<lb/>
+			méthodologie de la théorisation enracinée (MTE).
+			<lb/>
+		</p>
+		
+		<p>On remarque que les études sur les femmes atteintes d&apos;un cancer du sein sont
+			<lb/>
+			réalisées à quatre moments principaux pendant la trajectoire de la maladie chronique :
+			<lb/>
+			1) la période d&apos;attente avant de recevoir le diagnostic officiel (
+			<ref type="biblio">Doré, Gallagher,
+				<lb/>
+				Saintonge, &amp; Hébert, 2013; Drageset, Lindstrom, &amp; Underlid, 2010; Montgomery,
+				<lb/>
+				2010
+			</ref>
+			), 2) la période de choc à la suite du diagnostic (
+			<ref type="biblio">Al-Azri et al., 2009; Beckjord,
+				<lb/>
+				Glinder, Langrock, &amp; Compas, 2009; Bennett, Compas, Beckjord, &amp; Glinder, 2005)
+				<lb/>
+			</ref>
+			et pendant les interventions (
+			<ref type="biblio">Coreil, Wilke, &amp; Pintado, 2004; Loiselle, Edgar, Batist,
+				<lb/>
+				Lu, &amp; Lauzier, 2010; Rosenzweig, Donovan, &amp; Slavish, 2010
+			</ref>
+			), 3) la chronicité et
+			<lb/>
+			l&apos;adaptation (
+			<ref type="biblio">Allen, Savadatti, &amp; Levy, 2009; Danhauer, Crawford, Farmer, &amp; Avis,
+				<lb/>
+				2009
+			</ref>
+			) et 4) la récidive et les soins palliatifs (
+			<ref type="biblio">Dalgaard, Thorsell, &amp; Delmar, 2010;
+				<lb/>
+				Grunfeld et al., 2006; Sand, Olsson, &amp; Strang, 2009
+			</ref>
+			). Par contre, peu d&apos;attention est
+			<lb/>
+			portée sur les perceptions de l&apos;état de santé (
+			<ref type="biblio">Bouchard &amp; Desmeules, 2011; Hébert &amp;<lb/>
+				Côté, 2011; Massé, 2003
+			</ref>
+			). En effet, les perceptions des femmes par rapport à la santé
+			<lb/>
+			et à la maladie demeurent peu explorées par les infirmières (
+			<ref type="biblio">Park, Chang, Kim, Park,
+				<lb/>
+				Lee, &amp; Nam, 2009
+			</ref>
+			). Également, les études traitant des perceptions du cancer ont
+			<lb/>
+			examiné les perceptions des risques d&apos;être atteintes et des causes de cette maladie
+			<lb/>
+			(<ref type="biblio">Pilarski, 2009; Rees, Fry, Cull, &amp; Sutton, 2004</ref>), mais n&apos;offrent pas une
+			vision
+			<lb/>
+			holistique des perceptions de l&apos;état de santé.
+			<lb/>
+		</p>
+		
+		<p>À l&apos;examen des écrits scientifiques, force est de constater la quasi-inexistence
+			<lb/>
+			d&apos;études sur la transition des perceptions de l&apos;état de santé qui nous permettraient de
+			<lb/>
+			mieux comprendre ce que les femmes vivent entre le moment où elles sont en santé et
+			<lb/>
+			le diagnostic d&apos;une maladie grave telle que le cancer du sein. Par ailleurs, la
+			<lb/>
+			compréhension de ces perceptions est importante, car elles sont en lien avec la
+			<lb/>
+			détresse psychologique, les stratégies d&apos;adaptation utilisées ainsi que l&apos;adhésion aux
+			<lb/>
+			traitements proposés (<ref type="biblio">McCorry et al., 2013; Meleis, 2010; Petrie &amp; Weinman,
+				2012</ref>).
+			<lb/>
+			De surcroît, nous avons remarqué qu&apos;un a priori commun aux études sur les
+			<lb/>
+			perceptions de la maladie était de considérer les femmes interviewées comme étant
+			<lb/>
+			malades puisqu&apos;elles portent l&apos;étiquette du cancer du sein. Cela permet donc de
+			<lb/>
+			comprendre le fait que ces chercheurs se soient penchés sur les perceptions
+			<lb/>
+			postérieures au diagnostic plutôt qu&apos;à leur évolution entre avant et après le diagnostic
+			<lb/>
+			de cancer du sein.
+			<lb/>
+		</p>
+		
+		<p>Une recherche explorant le processus de la transition entre les perceptions de
+			<lb/>
+			l&apos;état de santé est nécessaire pour comprendre le changement marquant entre être en
+			<lb/>
+			santé et être diagnostiquée, du jour au lendemain, d&apos;une maladie grave et chronique
+			<lb/>
+			puisque jusqu&apos;à ce jour, ce sujet demeure peu exploré. La MTE est alors apparue
+			<lb/>
+			comme la méthodologie de choix puisqu&apos;elle permet de comprendre en profondeur et
+			<lb/>
+			d&apos;élucider des processus sociaux, tout en développant une théorie fondée
+			<lb/>
+			empiriquement, et ce, à partir du point de vue des acteurs.
+			<lb/>
+		</p>
+		
+		<head>1. La MTE pour l&apos;exploration de la transition
+			<lb/>
+		</head>
+		
+		<p>Les femmes atteintes d&apos;un cancer du sein sont des actrices qui interagissent avec la
+			<lb/>
+			réalité en lui donnant une signification et il est possible de cerner cette signification
+			<lb/>
+			en accédant le plus possible à leur univers symbolique (<ref type="biblio">Corbin &amp; Strauss, 2008</ref>).
+			<lb/>
+			Spécialement en oncologie, il appert que les perceptions du cancer du sein sont un
+			<lb/>
+			accès à cet univers symbolique fortement influencé par la personne elle-même en
+			<lb/>
+			interaction avec sa famille, ses amis, les professionnels de la santé, les compagnies
+			<lb/>
+			d&apos;assurance, etc. (
+			<ref type="biblio">Crooks, Chouinard, &amp; Wilton, 2008; Dalgaard et al., 2010; Saillant,
+				<lb/>
+				1988
+			</ref>
+			). Également, les actions et le choix de leurs traitements se fondent à partir du
+			<lb/>
+			sens qu&apos;elles leur accordent. Par exemple, une femme qui perçoit sa maladie comme
+			<lb/>
+			étant grave sera plus portée à accepter les traitements de chimiothérapie qu&apos;une
+			<lb/>
+			femme qui ne se perçoit pas comme étant malade (<ref type="biblio">Saillant, 1988</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le but de la recherche étant d&apos;explorer la transition des perceptions de l&apos;état de
+			<lb/>
+			santé de femmes atteintes d&apos;un cancer du sein, la notion de processus apparait alors
+			<lb/>
+			pertinente pour comprendre le phénomène. Le processus exploré dans la présente
+			<lb/>
+			étude consiste en une gamme d&apos;émotions, de réflexions et d&apos;actions de changement
+			<lb/>
+			par lesquelles ont passé les femmes lors de la transition entre leurs perceptions d&apos;être
+			<lb/>
+			en santé et celle d&apos;être atteinte d&apos;un cancer du sein. La notion de processus social des
+			<lb/>
+			phénomènes est très importante dans l&apos;approche des chercheurs de la « Grounded
+			<lb/>
+			Theory » (<ref type="biblio">Glaser &amp; Strauss, 1967; Strauss &amp; Corbin, 1998</ref>). Pour eux, un
+			processus
+			<lb/>
+			est une suite d&apos;actions, d&apos;interactions ou d&apos;émotions qui surviennent en réponse à un
+			<lb/>
+			évènement, à une situation ou à un problème, comme le serait un diagnostic de cancer
+			<lb/>
+			du sein. Ces auteurs considèrent également l&apos;importance du contexte qui fait état des
+			<lb/>
+			conditions dans lesquelles les femmes vivent la transition de leurs perceptions.
+			<lb/>
+		</p>
+		
+		<head>2. Déroulement de l&apos;étude selon la MTE
+			<lb/>
+		</head>
+		
+		<head>2.1 Terrain d&apos;étude
+			<lb/>
+		</head>
+		
+		<p>Avant de décrire le déroulement de l&apos;étude, il convient de préciser le terrain d&apos;étude.
+			<lb/>
+			Ce dernier comprend trois milieux de soins où les femmes atteintes d&apos;un cancer du
+			<lb/>
+			sein ont été recrutées : 1) une université, 2) un centre hospitalier qui offre des soins
+			<lb/>
+			tertiaires de la région Mauricie-Centre-du-Québec et 3) un centre hospitalier
+			<lb/>
+			spécialisé de la région Mauricie-Centre-du-Québec.
+			<lb/>
+		</p>
+		
+		<head>2.2 Sélection et description des participantes
+			<lb/>
+		</head>
+		
+		<p>En utilisant la MTE, nous avons eu recours à un échantillonnage théorique qui a
+			<lb/>
+			permis de choisir des participantes en fonction de leur pertinence au regard de
+			<lb/>
+			l&apos;élaboration des catégories conceptuelles et de leurs relations plutôt qu&apos;à des fins de
+			<lb/>
+			représentativité des populations (<ref type="biblio">Corbin &amp; Strauss, 2008; Glaser &amp; Strauss,
+				1967</ref>).
+			<lb/>
+		</p>
+		
+		<p>Plus précisément, l&apos;échantillonnage théorique vise à sélectionner des femmes
+			<lb/>
+			susceptibles de maximiser les opportunités pour comparer les évènements et
+			<lb/>
+			approfondir les catégories sur le sujet traité (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>). L&apos;échantillon
+			<lb/>
+			de convenance de départ est déterminé par la question de recherche. Par la suite, il est
+			<lb/>
+			continuellement remanié en réponse aux analyses et devient un échantillonnage
+			<lb/>
+			théorique. Par exemple, les femmes faisant partie de l&apos;échantillon de convenance de
+			<lb/>
+			départ devaient présenter les critères suivants : 1) être âgées <ref type="biblio">de 40 à 60 ans, 2</ref>)
+			avoir
+			<lb/>
+			commencé ou terminé des traitements de chimiothérapie, de radiothérapie ou avoir
+			<lb/>
+			subi une chirurgie pour un cancer du sein, 3) ne pas avoir d&apos;antécédents personnels de
+			<lb/>
+			cancer, 4) ne pas être atteintes d&apos;aphasie ou de troubles psychologiques invalidants,
+			<lb/>
+			5) parler français et 6) désirer participer à l&apos;étude. Au fur et à mesure de l&apos;avancement
+			<lb/>
+			des entrevues et de l&apos;analyse concomitante avec la comparaison constante des
+			<lb/>
+			données recueillies et des écrits scientifiques, nous avons diversifié l&apos;éventail de
+			<lb/>
+			femmes pour ainsi répondre aux hypothèses inductives que l&apos;analyse générait. Ainsi,
+			<lb/>
+			nous avons interviewé des femmes à des moments différents de la trajectoire de la
+			<lb/>
+			maladie chronique, soit des femmes nouvellement diagnostiquées d&apos;un cancer, ayant
+			<lb/>
+			vécu jusqu&apos;à trois récidives, ayant subi une tumorectomie ou une ablation totale des
+			<lb/>
+			seins en plus des traitements de chimiothérapie et de radiothérapie, ayant été
+			<lb/>
+			diagnostiquées avec un stade 1 localisé, en soins palliatifs. Toujours pour faire varier
+			<lb/>
+			l&apos;échantillon théorique et obtenir des cas extrêmes, une entrevue a été réalisée auprès
+			<lb/>
+			d&apos;une femme en santé non porteuse du gène BRCA1 (Breast Cancer 1) et une autre
+			<lb/>
+			auprès d&apos;une femme qui en était porteuse. Avec un échantillon varié, les données
+			<lb/>
+			recueillies favorisent une compréhension et une théorisation plus riche du phénomène
+			<lb/>
+			à l&apos;étude (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>).
+			<lb/>
+		</p>
+		
+		<p>Concrètement, nous avons choisi de rencontrer une seule fois les participantes -<lb/>qui se situaient à
+			divers stades de la trajectoire de la maladie -plutôt que d&apos;opter pour
+			<lb/>
+			une étude longitudinale. Il aurait été peu réaliste, en termes de faisabilité,
+			<lb/>
+			d&apos;interviewer des femmes à partir de l&apos;annonce du diagnostic et de les suivre jusqu&apos;en
+			<lb/>
+			soins palliatifs, puisque la durée de la trajectoire du cancer varie de quelques
+			<lb/>
+			semaines à plusieurs années. En procédant ainsi, il était possible d&apos;explorer la
+			<lb/>
+			transition des perceptions de l&apos;état de santé dans divers contextes de la trajectoire de
+			<lb/>
+			la maladie. De plus, par principe de diversification, nous souhaitions offrir un portrait
+			<lb/>
+			global de la transition des perceptions de l&apos;état de santé de femmes atteintes d&apos;un
+			<lb/>
+			cancer du sein plutôt qu&apos;une vision de la transition propre à un moment précis de la
+			<lb/>
+			trajectoire de la maladie. Chaque entrevue individuelle à un moment différent de la
+			<lb/>
+			trajectoire de la maladie donne un portrait de l&apos;expérience vécue. Ainsi, mises
+			<lb/>
+			ensemble, ces histoires projettent une image globale différente de chacune d&apos;elles
+			<lb/>
+			prises individuellement (<ref type="biblio">Pires, 1997</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le cancer du sein touche majoritairement les femmes âgées de 50 à 69 ans.
+			<lb/>
+			<ref type="biblio"> Selon la Fondation canadienne du cancer du sein (2013)</ref>, même si 52 % des femmes
+			<lb/>
+			diagnostiquées sont dans cette tranche d&apos;âge, il n&apos;en demeure pas moins que le
+			<lb/>
+			nombre de femmes plus jeunes qui en sont atteintes est non négligeable, soit 18 % des
+			<lb/>
+			moins de 50 ans. Toujours selon cette source, les femmes de moins de 50 ans ne sont
+			<lb/>
+			pas systématiquement visées par le programme de dépistage du cancer du sein, bien
+			<lb/>
+			que les femmes à risque de le développer le soient (Ministère de la santé et des
+			<lb/>
+			services sociaux (MSSS), 2014). Dans cette étude, l&apos;investigatrice a choisi de cibler
+			<lb/>
+			les femmes âgées de 40 à 60 ans, représentant une prévalence d&apos;un peu plus de 39 %,
+			<lb/>
+			puisque ce groupe d&apos;âge est inclus dans plusieurs recherches scientifiques (
+			<ref type="biblio">Hou &amp;<lb/>
+				Huo, 2013; Santos, Melo, Koifman, &amp; Koifman, 2013
+			</ref>
+			) et que les perceptions du
+			<lb/>
+			cancer du sein sont influencées, entre autres, par l&apos;âge (<ref type="biblio">Gøtzsche &amp; Jørgensen,
+				2013</ref>).
+			<lb/>
+			Les recherches démontrent que les femmes plus jeunes vivent le cancer plus
+			<lb/>
+			difficilement que celles âgées de plus de 70 ans. Ainsi, l&apos;investigatrice a voulu faire
+			<lb/>
+			ressortir ces éléments de l&apos;expérience vécue par les femmes interviewées afin de
+			<lb/>
+			développer une théorie intégrant une plus grande diversité d&apos;expériences.
+			<lb/>
+		</p>
+		
+		<head>2.3 Collecte des données
+			<lb/>
+		</head>
+		
+		<p>À la suite de l&apos;approbation du projet de recherche par les comités d&apos;éthique et
+			<lb/>
+			scientifique de l&apos;Université d&apos;attache de la deuxième et troisième auteure et des deux
+			<lb/>
+			centres hospitaliers participants, 32 femmes ont été recrutées. Les femmes
+			<lb/>
+			interviewées ont été rencontrées dans un lieu de leur choix (leur domicile, le bureau
+			<lb/>
+			de la première auteure situé à l&apos;université ou dans un café). Dans un premier temps,
+			<lb/>
+			lors de ces rencontres, la première auteure lisait le formulaire d&apos;information et de
+			<lb/>
+			consentement avec les participantes, puis elle répondait aux questions lorsqu&apos;il y
+			<lb/>
+			avait lieu. Dans un deuxième temps, les femmes remplissaient le questionnaire
+			<lb/>
+			sociodémographique et, dans un troisième temps, l&apos;entrevue de type semi-directif se
+			<lb/>
+			déroulait. Chaque participante a été rencontrée pour une seule entrevue, enregistrée
+			<lb/>
+			en version audionumérique, d&apos;une durée variant entre 60 et 90 minutes. Il était
+			<lb/>
+			impossible de prévoir, avec exactitude, le nombre d&apos;entrevues à réaliser puisque cela
+			<lb/>
+			dépendait de la saturation théorique, c&apos;est-à-dire le moment où aucune nouvelle
+			<lb/>
+			donnée n&apos;enrichissait substantiellement la théorisation du phénomène (
+			<ref type="biblio">Corbin &amp;<lb/>
+				Strauss, 2008; Glaser &amp; Strauss, 1967
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<head>2.3.1 Entrevues semi-dirigées
+			<lb/>
+		</head>
+		
+		<p>Selon <ref type="biblio">Denzin et Lincoln (2011)</ref>, un chercheur peut recourir à l&apos;entretien de type
+			<lb/>
+			qualitatif pour 1) explorer en profondeur la perspective des acteurs, 2) connaître, de
+			<lb/>
+			l&apos;intérieur, des enjeux sociaux et 3) éclairer des réalités sociales. Puisque ces trois
+			<lb/>
+			raisons sont des motifs de la présente étude, il va de soi de recourir à l&apos;entretien de
+			<lb/>
+			type qualitatif pour accéder à l&apos;expérience des femmes atteintes d&apos;un cancer du sein.
+			<lb/>
+		</p>
+		
+		<p>Il est important de souligner que les principes sous-jacents à l&apos;art de permettre à
+			<lb/>
+			autrui de s&apos;exprimer (<ref type="biblio">Denzin &amp; Lincoln, 2011</ref>) ont été respectés pendant
+			les
+			<lb/>
+			entrevues. Soulignons que toutes les femmes rencontrées ont téléphoné la première
+			<lb/>
+			auteure de leur plein gré pour participer à l&apos;étude, ce qui témoignait de leur intérêt
+			<lb/>
+			pour participer à cette recherche. Lorsque celle-ci insistait sur la liberté de
+			<lb/>
+			participation pendant la lecture du formulaire d&apos;information et de consentement,
+			<lb/>
+			toutes les femmes soulignaient qu&apos;elles étaient désireuses de partager leur expérience
+			<lb/>
+			pour faire avancer la science et aider les prochaines femmes atteintes d&apos;un cancer du
+			<lb/>
+			sein. Elles étaient convaincues de l&apos;utilité de la recherche. Pour gagner la confiance
+			<lb/>
+			de l&apos;interviewée, l&apos;étudiante s&apos;est assurée de mentionner, en faisant la lecture du
+			<lb/>
+			formulaire d&apos;information et de consentement, l&apos;usage qui allait être fait des données
+			<lb/>
+			amassées. Aucune femme n&apos;a indiqué, durant l&apos;entrevue, qu&apos;elle craignait des
+			<lb/>
+			conséquences négatives découlant de sa participation à cette recherche. Malgré son
+			<lb/>
+			consentement à participer à l&apos;étude, une seule femme n&apos;a pu le faire à cause de son
+			<lb/>
+			décès des suites de cette maladie.
+			<lb/>
+		</p>
+		
+		<p>Afin de mettre la participante à l&apos;aise, l&apos;investigatrice laissait celle-ci choisir le
+			<lb/>
+			moment et le lieu de l&apos;entrevue. L&apos;investigatrice faisait preuve d&apos;écoute, d&apos;empathie
+			<lb/>
+			et d&apos;intérêt pour la participante en utilisant des techniques de communication telles
+			<lb/>
+			que le silence, le reflet, l&apos;empathie, les questions d&apos;approfondissement (
+			<ref type="biblio">Henly,
+				<lb/>
+				Wyman, &amp; Findorff, 2011; Phaneuf, 2011
+			</ref>
+			). Son expérience en tant qu&apos;infirmière
+			<lb/>
+			clinicienne en oncologie a grandement contribué à donner confiance aux femmes et a
+			<lb/>
+			diminué les barrières de langage liées au jargon médical. Encourager l&apos;interviewée à
+			<lb/>
+			prendre l&apos;initiative du récit et à s&apos;engager a été facile puisque la participante était
+			<lb/>
+			invitée à s&apos;exprimer sur son expérience depuis qu&apos;elle a reçu le diagnostic, ce qui a
+			<lb/>
+			énormément de sens pour elle.
+			<lb/>
+		</p>
+		
+		<head>2.3.2 Mémos
+			<lb/>
+		</head>
+		
+		<p>Les mémos sont des traces écrites de toute forme d&apos;idées méthodologiques ou
+			<lb/>
+			théoriques qui viennent à l&apos;esprit du chercheur au cours de sa recherche. Rédigés
+			<lb/>
+			sporadiquement, lorsqu&apos;une idée émergeait de l&apos;esprit d&apos;un des membres de l&apos;équipe,
+			<lb/>
+			et ce, tout long du processus de recherche, ils ont servis à documenter l&apos;évolution de
+			<lb/>
+			la théorie (<ref type="biblio">Corbin &amp; Strauss, 2008</ref>). Afin de faciliter la mise en relation des
+			<lb/>
+			catégories ou concepts et la schématisation, les écrits des auteurs sur la théorisation
+			<lb/>
+			enracinée corroborent l&apos;importance de rédiger des mémos (
+			<ref type="biblio">Charmaz, 2006; Corbin &amp;<lb/>
+				Strauss, 2008; Glaser &amp; Strauss, 1967; Strauss &amp; Corbin, 1998
+			</ref>
+			). Voici un exemple de
+			<lb/>
+			mémo écrit et codé à la suite d&apos;une entrevue : « J&apos;ai observé que les femmes semblent
+			<lb/>
+			vivre le cancer comme un deuil. Passent-elles à travers les mêmes étapes? Est-ce que
+			<lb/>
+			certaines catégories doivent être jumelées? »
+			<lb/>
+		</p>
+		
+		<head>2.4 Processus d&apos;analyse des données
+			<lb/>
+		</head>
+		
+		<p>En MTE, trois techniques facilitent l&apos;analyse des données : 1) le codage, 2) la
+			<lb/>
+			comparaison constante des données et 3) les schématisations. L&apos;analyse des données
+			<lb/>
+			s&apos;est déroulée en concomitance avec la collecte des données et simultanément à la
+			<lb/>
+			comparaison constante des données entre elles et avec les écrits académiques,
+			<lb/>
+			toujours dans le but de respecter le principe de circularité ou de trajectoire
+			<lb/>
+			hélicoïdales de la théorisation enracinée (
+			<ref type="biblio">Charmaz, 2006; Corbin &amp; Strauss, 2008;
+				<lb/>
+				Luckerhoff &amp; Guillemette, 2013; Strauss &amp; Corbin, 1998
+			</ref>
+			). Cela s&apos;illustre par les
+			<lb/>
+			nombreux allers-retours entre les données recueillies lors des entrevues, le codage des
+			<lb/>
+			mémos, l&apos;analyse et la lecture des écrits scientifiques. Également, les discussions
+			<lb/>
+			d&apos;équipe généraient de nouvelles idées ou hypothèses qui modifiaient le guide
+			<lb/>
+			d&apos;entrevue dans le but d&apos;étayer la théorie en développement (<ref type="biblio">Corbin, 1998; Paillé,
+			<lb/>
+				1994</ref>). Il est important de souligner ici que les catégories émergentes ont permis de
+			<lb/>
+			développer une nouvelle grille d&apos;analyse au lieu d&apos;être placées dans une grille
+			<lb/>
+			existante découlant d&apos;un modèle théorique ou d&apos;une recension des écrits. Cela est dû
+			<lb/>
+			au fait que les questions posées avaient pour but de découvrir de nouvelles idées
+			<lb/>
+			plutôt que d&apos;étayer une théorie. Voici des exemples de questions qui ont été modulées
+			<lb/>
+			au fur et à mesure des entrevues et qui s&apos;ajustaient en fonction de chaque femme
+			<lb/>
+			interviewée afin de mieux comprendre le phénomène.
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Quelles sont les étapes que vous avez traversées pour en venir à voir la santé et
+				<lb/>
+				la maladie telles que vous les voyez aujourd&apos;hui?
+				<lb/>
+			</item>
+			
+			<item>Pendant votre expérience, y a-t-il des moments où vous vous êtes perçue
+				<lb/>
+				comme étant malade? Sinon, dans quelles circonstances vous seriez-vous
+				<lb/>
+				perçue comme étant malade?
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Également, afin d&apos;augmenter la participation des femmes nous avons demandé
+			<lb/>
+			l&apos;opinion des femmes interviewées sur l&apos;analyse des résultats réalisée une fois
+			<lb/>
+			l&apos;entrevue terminée (<ref type="biblio">Charmaz, 2006; Laperrière, 1997a; Strauss &amp; Corbin,
+				1998</ref>).
+			<lb/>
+			Une des étapes de l&apos;analyse des données se fait lors du codage qui comprend
+			<lb/>
+			trois niveaux, soit le codage ouvert, le codage axial et le codage sélectif, que nous
+			<lb/>
+			détaillerons plus bas. Dans cette étude, nous avons eu recours aux étapes de <ref type="biblio">Strauss et
+			<lb/>
+			Corbin (1998)</ref>. Ces auteurs offrent un guide détaillé pour l&apos;analyse et se
+			situent dans
+			<lb/>
+			le même paradigme épistémologique que les auteures.
+			<lb/>
+		</p>
+		
+		<head>2.4.1 Codage ouvert
+			<lb/>
+		</head>
+		
+		<p>La première étape du codage sert à nommer les concepts importants qui se dégagent
+			<lb/>
+			de l&apos;analyse des entrevues. Le code sert à mettre un mot ou « une étiquette », comme
+			<lb/>
+			l&apos;illustre <ref type="biblio">Paillé (1994)</ref>, sur l&apos;idée principale qui résume une phrase ou
+			un paragraphe.
+			<lb/>
+			Essentiellement, les chercheuses ont abordé les données en s&apos;interrogeant comme
+			<lb/>
+			suit : De quoi est-il question ici? En face de quel phénomène suis-je en présence?
+			<lb/>
+			(<ref type="biblio">Corbin &amp; Strauss, 2008; Strauss &amp; Corbin, 1998</ref>). Les catégories telles que
+			réactions
+			<lb/>
+			à la suite de l&apos;annonce du diagnostic, perceptions de la santé, perceptions de la
+			<lb/>
+			maladie et transition constituent des exemples de cette première étape de codage.
+			<lb/>
+			Ensuite, ces différents codes ont été regroupés selon leurs propriétés (caractéristiques
+			<lb/>
+			qui définissent les concepts) et leurs dimensions (variations des propriétés qui
+			<lb/>
+			spécifient l&apos;étendue des concepts) pour ainsi élever le niveau conceptuel et constituer
+			<lb/>
+			des catégories (<ref type="biblio">Corbin &amp; Strauss, 2008</ref>). Par ailleurs, des comparaisons entre les
+			<lb/>
+			codes et les catégories ont été continuellement effectuées pour utiliser le bon mot
+			<lb/>
+			permettant d&apos;identifier le code et également regrouper les codes similaires ou en créer
+			<lb/>
+			de nouveaux. À titre d&apos;exemple, l&apos;une des propriétés de la catégorie perceptions avant
+			<lb/>
+			la transition est « perceptions de la santé » tandis que la dimension associée à cette
+			<lb/>
+			catégorie est le « sentiment d&apos;invincibilité » qui oscillait entre 1) le fait de ne pas
+			<lb/>
+			penser à la maladie et 2) la pensée magique que le cancer affecte tous les autres sauf
+			<lb/>
+			soi. L&apos;écriture de mémos concomitants à l&apos;élaboration de la grille de codage ouvert a
+			<lb/>
+			eu une valeur inestimable pour l&apos;élaboration de la conceptualisation théorique.
+			<lb/>
+		</p>
+		
+		<head>2.4.2 Codage axial
+			<lb/>
+		</head>
+		
+		<p>La deuxième étape du codage, le codage axial, est l&apos;étape de mise en relation des
+			<lb/>
+			catégories et sert à faire des liens entre les différents concepts nommés lors du codage
+			<lb/>
+			ouvert et à élever le niveau d&apos;analyse à un niveau dit conceptuel qui englobe les
+			<lb/>
+			phénomènes (<ref type="biblio">Paillé, 1994</ref>). Les chercheuses se sont alors posé des questions à
+			propos
+			<lb/>
+			du corpus, par exemple : Est-ce que ces concepts sont liés? En quoi et comment ces
+			<lb/>
+			concepts sont-ils liés? Quelle conséquence en découle?
+			<lb/>
+		</p>
+		
+		<p>Il peut également arriver que certains codes semblent opposés l&apos;un à l&apos;autre. À
+			<lb/>
+			première vue, cette dichotomie dans les discours peut avoir l&apos;air contradictoire, mais
+			<lb/>
+			elle pousse les chercheuses à différencier, à nuancer et à préciser la compréhension
+			<lb/>
+			du phénomène. Il ne faut donc pas les ignorer.
+			<lb/>
+		</p>
+		
+		<p>La schématisation de la transition des perceptions de l&apos;état de santé de femmes
+			<lb/>
+			atteintes d&apos;un cancer du sein s&apos;avère une étape essentielle puisqu&apos;elle permet une
+			<lb/>
+			interprétation différente des données et une compréhension plus riche du phénomène
+			<lb/>
+			à l&apos;étude (<ref type="biblio">Paillé, 1994</ref>). <ref type="biblio">Strauss et Corbin (1998)</ref> recommandent de faire une esquisse
+			<lb/>
+			ou un schéma temporaire à la fin de chaque entrevue pour établir un premier
+			<lb/>
+			ensemble de relations entre les concepts.
+			<lb/>
+		</p>
+		
+		<head>2.4.3 Codage sélectif
+			<lb/>
+		</head>
+		
+		<p>La troisième étape du codage sert à délimiter les résultats de l&apos;étude qui prennent
+			<lb/>
+			forme et ainsi les intégrer aux différentes catégories. L&apos;analyse dans la MTE peut
+			<lb/>
+			mener les chercheuses dans des directions inattendues au début de la recherche. C&apos;est
+			<lb/>
+			pourquoi on doit se demander : Quel est le sujet précis de la recherche? Les
+			<lb/>
+			chercheuses ont identifié le noyau théorique, également appelé catégorie centrale de
+			<lb/>
+			l&apos;étude, qui peut être comparé au titre d&apos;un film (
+			<ref type="biblio">Glaser &amp; Strauss, 1967; Strauss &amp;<lb/>
+				Corbin, 1998
+			</ref>
+			). L&apos;identification de cette catégorie principale permet de réduire le
+			<lb/>
+			nombre de codes et de catégories pour élaborer la théorie et, ainsi, raffiner, ajuster et
+			<lb/>
+			revoir les liens entre les concepts (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>). Il importe de
+			mentionner
+			<lb/>
+			que ces étapes d&apos;analyse de la MTE ne se déroulent pas de façon unidirectionnelle,
+			<lb/>
+			mais que des allers-retours sont tout à fait normaux et même souhaitables dans ce
+			<lb/>
+			processus de recherche hélicoïdal (<ref type="biblio">Plouffe &amp; Guillemette, 2013</ref>).
+			<lb/>
+		</p>
+		
+		<head>3. Résultats
+			<lb/>
+		</head>
+		
+		<head>
+			3.1 Profil sociodémographique des participantes
+			<lb/>
+		</head>
+		
+		<p>Une description étoffée du contexte dans lequel l&apos;étude s&apos;est déroulée permet la
+			<lb/>
+			transférabilité des données. Ainsi, nous nous efforcerons de décrire le mieux possible
+			<lb/>
+			les participantes et leur environnement. Nous avons constaté que la moitié des
+			<lb/>
+			femmes interviewées étaient âgées de 51 à 55 ans, que les trois quarts possédaient un
+			<lb/>
+			niveau de scolarité universitaire et qu&apos;une même proportion de femmes vivaient en
+			<lb/>
+			couple. Elles avaient toutes eu une chirurgie, soit une tumorectomie, soit une ablation
+			<lb/>
+			des seins, et la grande majorité d&apos;entre elles avaient reçu des traitements de
+			<lb/>
+			chimiothérapie ou de radiothérapie.
+			<lb/>
+		</p>
+		
+		<head>3.2 Transition des perceptions de l&apos;état de santé de femmes diagnostiquées d&apos;un
+			<lb/>
+			cancer du sein
+			<lb/>
+		</head>
+		
+		<p>Trois catégories émergent de l&apos;analyse : 1) les perceptions de la santé et du cancer
+			<lb/>
+			avant la transition, 2) les perceptions de la santé et du cancer après la transition et
+			<lb/>
+			3) les étapes de transition des perceptions de l&apos;état de santé traversées par les femmes.
+			<lb/>
+			Dans cet article, les résultats des deux premières catégories seront présentés tandis
+			<lb/>
+			que ceux sur les étapes de la transition des perceptions de l&apos;état de santé font l&apos;objet
+			<lb/>
+			d&apos;une autre publication (<ref type="biblio">Jacques, Hébert, Gallagher &amp; St-Cyr Tribble, 2014</ref>).
+			La
+			<lb/>
+			<ref type="figure">Figure 1</ref> intègre les catégories émergentes de l&apos;analyse et facilite la
+			compréhension de
+			<lb/>
+			la transition des perceptions de l&apos;état de santé de femmes atteintes d&apos;un cancer du
+			<lb/>
+			sein.
+			<lb/>
+		</p>
+		
+		<head>3.2.1 Les perceptions de la santé et du cancer avant la transition
+			<lb/>
+		</head>
+		
+		<head>3.2.1.1 Perceptions de la santé
+			<lb/>
+		</head>
+		
+		<p>L&apos;analyse des données a fait ressortir deux catégories majeures des perceptions de la
+			<lb/>
+			santé avant la transition : 1) l&apos;invulnérabilité et 2) l&apos;opposition à la maladie.
+			<lb/>
+		</p>
+		
+		<p>« Invulnérables », voici comment les femmes se percevaient avant d&apos;avoir le
+			<lb/>
+			diagnostic de cancer du sein, comme l&apos;illustre cette participante en ces termes : « Ce
+			<lb/>
+			n&apos;était pas pour moi. C&apos;était pour tout le monde autour de moi et jamais je n&apos;aurais
+			<lb/>
+			ça. Ça ne m&apos;atteindra pas » (P9). Les femmes en santé ne s&apos;attardent pas au cancer et
+			<lb/>
+			se croient protégées par leur hérédité : « J&apos;avais l&apos;impression qu&apos;il y avait bien des
+			<lb/>
+			antécédents familiaux qui causaient le cancer et moi, je ne pouvais pas avoir ça parce
+			<lb/>
+			qu&apos;il n&apos;y en a même pas dans la famille » (P20).
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Transition des perceptions de l&apos;état de santé de femmes atteintes d&apos;un
+			<lb/>
+			cancer du sein.
+			<lb/>
+		</figure>
+		
+		<p>Les femmes interviewées ne pensaient pas à la maladie puisqu&apos;elles
+			<lb/>
+			n&apos;éprouvaient pas de symptômes systémiques dans la plupart des cas. C&apos;est ce dont
+			<lb/>
+			fait état l&apos;extrait suivant :
+			<lb/>
+		</p>
+		
+		<p>Le cancer du sein, ça ne fait pas mal. C&apos;est ça qui est terrible dans le fond
+			<lb/>
+			parce que tu es atteinte d&apos;un cancer et tu ne le sais pas. J&apos;étais en pleine
+			<lb/>
+			santé. Je n&apos;étais jamais malade et j&apos;ai été diagnostiquée avec quelque
+			<lb/>
+			chose de fort (P22).
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, les femmes étaient prises dans la routine de tous les jours qui se
+			<lb/>
+			déroule à une vitesse fulgurante. La santé est ainsi liée au capital d&apos;énergie en plus
+			<lb/>
+			d&apos;être acquise et de permettre l&apos;accomplissement des tâches de la vie quotidienne.
+			<lb/>
+			C&apos;est de cette façon qu&apos;une participante illustre ce propos : « Je pense que la santé
+			<lb/>
+			c&apos;est quelque chose qu&apos;on a sans le savoir bien souvent. Quelque chose qu&apos;on oublie
+			<lb/>
+			qu&apos;on a » (P1). En outre, les participantes ont particulièrement insisté sur l&apos;aspect
+			<lb/>
+			dichotomique de la santé et de la maladie : « Il y a comme quelque chose qui
+			<lb/>
+			s&apos;oppose. Je pense que la santé c&apos;est le sucré et le salé. Tu ne le sais pas tant que tu
+			<lb/>
+			n&apos;y as pas goûté » (P1). En bref, les perceptions de la santé lorsque les participantes
+			<lb/>
+			sont en santé apparaissent plutôt inconscientes et naïves, et ce, tant que ces femmes
+			<lb/>
+			ne sont pas confrontées à la maladie.
+			<lb/>
+		</p>
+		
+		<head>3.2.1.2 Perceptions du cancer
+			<lb/>
+		</head>
+		
+		<p>Trois sous-catégories majeures ont ressorti de la catégorie « perceptions du cancer »
+			<lb/>
+			soit : 1) la mort, 2) la peur et 3) le doute si hérédité.
+			<lb/>
+			« Avant le diagnostic, je te dirais que le cancer était vraiment significatif de
+			<lb/>
+			mort » (P20). « C&apos;était comme s&apos;il n&apos;y avait aucune issue. C&apos;était la fin » (P30). Voilà
+			<lb/>
+			l&apos;image qui venait à l&apos;esprit des femmes lorsqu&apos;elles entendaient le mot cancer avant
+			<lb/>
+			d&apos;en être atteintes. Le cancer était directement associé à la mort. Les perceptions du
+			<lb/>
+			cancer provoquaient une grande peur de la mort et du changement de l&apos;image
+			<lb/>
+			corporelle chez les femmes en santé, comme le mentionnent les femmes suivantes :
+			<lb/>
+		</p>
+		
+		<p>« Je m&apos;étais déjà dit que la pire affaire qu&apos;il pourrait m&apos;arriver, c&apos;était le cancer du
+			<lb/>
+			sein » (P22). « Penser perdre un sein, ça a été épouvantable » (P13). Certaines
+			<lb/>
+			femmes éprouvaient également de la peur envers les traitements qui sont parfois
+			<lb/>
+			perçus comme « du poison qui rentre dans ton corps pour tuer ce monstre. Ça prend
+			<lb/>
+			un poison pour tuer un autre poison. » (P20).
+			<lb/>
+		</p>
+		
+		<p>Nous remarquons également que les femmes dont les membres de leur famille
+			<lb/>
+			ont été touchés par le cancer du sein ressentent de la détresse psychologique. À titre
+			<lb/>
+			d&apos;exemple, une participante explique sa réaction : « Une couple de mois après le
+			<lb/>
+			décès de ma mère, j&apos;ai pris panique. Je m&apos;étais fait venir de l&apos;information du centre de
+			<lb/>
+			cancérologie de Québec. C&apos;était la panique » (P30). Le sentiment d&apos;invulnérabilité
+			<lb/>
+			tombe et les femmes réalisent qu&apos;elles pourraient, elles aussi, développer un cancer,
+			<lb/>
+			comme en témoigne l&apos;extrait suivant : « Je le savais que je jouais avec [le risque
+			<lb/>
+			d&apos;avoir un cancer du sein] et que je ne passerais pas toujours à côté » (P29).
+			<lb/>
+		</p>
+		
+		<head>3.2.2 Les perceptions de la santé et du cancer après la transition
+			<lb/>
+		</head>
+		
+		<p>On remarque que les perceptions de la santé et du cancer se sont modifiées à la suite
+			<lb/>
+			de l&apos;expérience de vivre avec une telle maladie grave. En effet, la santé devient
+			<lb/>
+			précieuse et holistique et les femmes vivent avec un état de santé modifié dans lequel
+			<lb/>
+			elles ressentent l&apos;impression de vivre avec une épée de Damoclès au-dessus de la tête,
+			<lb/>
+			mais à partir duquel elles ont également développé des forces. Une fois les
+			<lb/>
+			traitements de chimiothérapie et de radiothérapie terminés, le cancer du sein est vu
+			<lb/>
+			comme étant une épreuve surmontable qui peut frapper tout le monde. Chacune de
+			<lb/>
+			ces catégories sera étoffée ci-dessous.
+			<lb/>
+		</p>
+		
+		<head>3.2.2.1 Perceptions de la santé
+			<lb/>
+		</head>
+		
+		<p>Après avoir reçu le diagnostic de cancer du sein et terminé les traitements prescrits,
+			<lb/>
+			les femmes interviewées prennent conscience de l&apos;importance de la santé, comme le
+			<lb/>
+			mentionne cette participante :
+			<lb/>
+		</p>
+		
+		<p>Quelqu&apos;un qui a toujours la santé ne le sait pas qu&apos;il est chanceux. Il faut
+			<lb/>
+			que tu sois malade une fois pour voir que ce n&apos;est pas acquis et que ça
+			<lb/>
+			peut arriver à n&apos;importe qui (P24).
+			<lb/>
+		</p>
+		
+		<p>La santé devient donc plus précieuse après avoir côtoyé la maladie. Les femmes
+			<lb/>
+			atteintes d&apos;un cancer du sein perçoivent désormais la santé comme un cadeau plutôt
+			<lb/>
+			qu&apos;un bien acquis ou un outil servant à accomplir les tâches quotidiennes. Plus
+			<lb/>
+			encore, elles perçoivent dorénavant la santé de façon holistique et non plus comme
+			<lb/>
+			une dichotomie santé-maladie. À cet égard, le discours d&apos;une participante est
+			<lb/>
+			éloquent : « La santé c&apos;est tout : physique, émotif, psychologique, tout » (P13).
+			<lb/>
+		</p>
+		
+		<p>Bien qu&apos;elles ne se perçoivent pas comme malades d&apos;un cancer du sein, les
+			<lb/>
+			femmes qui ont participé à l&apos;étude s&apos;entendent toutes pour dire que leur perception de
+			<lb/>
+			leur état de santé est modifiée à la suite du diagnostic. De ce fait, elles ont
+			<lb/>
+			l&apos;impression que « quand tu as le cancer, il y a une épée de Damoclès au-dessus de la
+			<lb/>
+			tête qui pend et il peut réapparaître à n&apos;importe quel moment » (P30). Les femmes
+			<lb/>
+			développent alors une « espérance de vie annuelle » avec des projets à court terme
+			<lb/>
+			plutôt qu&apos;à long terme, comme en témoignent les propos suivants : « Il fallait que je
+			<lb/>
+			fasse tout dans la même année. Ne me donne pas des projets à long terme, je n&apos;y crois
+			<lb/>
+			pas » (P26). De plus, elles s&apos;encouragent à chaque bilan de santé annuel : « Tu es
+			<lb/>
+			chanceuse, tu as une année de plus » (P24).
+			<lb/>
+		</p>
+		
+		<p>Ce nouvel état de santé modifié dans lequel les femmes se sentent engendre des
+			<lb/>
+			modifications au plan corporel. Elles affirment se sentir en santé, mais diminuées.
+			<lb/>
+			« Diminuée par rapport au fait que toutes les séquelles qui peuvent être là. Avec mon
+			<lb/>
+			bras, je ne faisais pas grand-chose » (P8). « Je me considérais fatiguée et
+			<lb/>
+			psychologiquement troublée » (P13). Ces verbatim démontrent que le sentiment de se
+			<lb/>
+			sentir diminuée provient autant de limitations physiques que psychologiques. La
+			<lb/>
+			grande majorité des femmes interviewées affirment que le cancer « […] détruit
+			<lb/>
+			l&apos;image corporelle. C&apos;est ta féminité qu&apos;on vient chercher. L&apos;apparence a une
+			<lb/>
+			importance pour moi et c&apos;est vraiment quelque chose qui me dérange encore le fait
+			<lb/>
+			d&apos;avoir les marques du cancer » (P24). Bien entendu, ces effets secondaires ricochent
+			<lb/>
+			sur la sexualité puisque
+			<lb/>
+		</p>
+		
+		<p>[…] ça vient jouer aussi au niveau sensibilité. Me mettre nue devant un
+			<lb/>
+			homme, ça me dérangerait. Je lui dirais tellement comment je suis qu&apos;il
+			<lb/>
+			penserait que c&apos;est Hiroshima avant même que je me sois déshabillée, je
+			<lb/>
+			suis certaine. […] Encore aujourd&apos;hui, je ne suis pas vraiment à l&apos;aise que
+			<lb/>
+			mon conjoint touche ce sein-là. Ça, c&apos;est resté (P23).
+			<lb/>
+		</p>
+		
+		<p>Étonnamment, les femmes interviewées vont même jusqu&apos;à affirmer qu&apos;elles
+			<lb/>
+			ont développé des forces à la suite de la transition des perceptions de l&apos;état de santé
+			<lb/>
+			« On a une force en dedans. Je n&apos;aurais jamais pensé avoir la force de traverser ça. Je
+			<lb/>
+			l&apos;ai trouvé parce que je l&apos;ai vécu » (P19). Ces forces vont même les pousser à faire
+			<lb/>
+			des choses qu&apos;elles n&apos;auraient jamais crues possibles et à redonner aux autres, comme
+			<lb/>
+			en témoignent les deux femmes suivantes : « Il faut que je m&apos;implique et que je
+			<lb/>
+			redonne aux gens. J&apos;ai donc contacté la Société canadienne du cancer » (P11). « On
+			<lb/>
+			dirait qu&apos;après un cancer, on devient aidant parce qu&apos;on a vécu à peu près les mêmes
+			<lb/>
+			choses » (P21).
+			<lb/>
+		</p>
+		
+		<head>3.2.2.2 Perceptions du cancer
+			<lb/>
+		</head>
+		
+		<p>« Je pense que j&apos;avais plus peur de mourir avant que j&apos;aie le cancer que quand je l&apos;ai
+			<lb/>
+			eu » (P24). La perception que les femmes avaient du cancer avant d&apos;en être atteintes
+			<lb/>
+			s&apos;est modifiée progressivement pour devenir une épreuve surmontable, comme
+			<lb/>
+			l&apos;affirment ces femmes : « C&apos;est quelque chose qui se traverse » (P1). « J&apos;avais une
+			<lb/>
+			peur bleue et ce n&apos;est pas si pire que ça. Au fur et à mesure des traitements, j&apos;ai vu
+			<lb/>
+			que ce n&apos;était pas si pire que ça » (P9). Par le fait même, la perception
+			<lb/>
+			d&apos;invulnérabilité se transformait en une vision de « maladie pour tous », comme le
+			<lb/>
+			verbalise cette femme : « Avant [d&apos;avoir un cancer du sein] c&apos;était pour les autres,
+			<lb/>
+			pendant [que j&apos;avais le cancer du sein] c&apos;était pour moi et maintenant [après les
+			<lb/>
+			traitements] c&apos;est pour tout le monde » (P1). Cette citation démontre bien l&apos;évolution
+			<lb/>
+			des perceptions du cancer lorsque cette femme parlait qu&apos;elle croyait échapper au
+			<lb/>
+			cancer lorsqu&apos;elle était en santé, ensuite qu&apos;elle se sentait concernée par le cancer du
+			<lb/>
+			sein pendant qu&apos;elle le vivait et finalement comment elle a perdu le sentiment
+			<lb/>
+			d&apos;invulnérabilité après avoir été atteinte de cette maladie.
+			<lb/>
+		</p>
+		
+		<head>4. Discussion
+			<lb/>
+		</head>
+		
+		<p>La discussion des résultats est articulée en fonction des perceptions de l&apos;état de santé
+			<lb/>
+			avant et après la transition. En somme, la théorisation enracinée, avec sa démarche
+			<lb/>
+			itérative d&apos;analyse, nous a permis d&apos;élaborer une explication théorique sur la
+			<lb/>
+			transition des perceptions de l&apos;état de santé à la suite d&apos;un diagnostic de maladie
+			<lb/>
+			chronique comme le cancer du sein. Du reste, cette explication se reflète dans notre
+			<lb/>
+			recherche par l&apos;élaboration d&apos;une catégorie centrale qui définit la transition des
+			<lb/>
+			perceptions comme :
+			<lb/>
+		</p>
+		
+		<p>Une transition des perceptions de la santé et du cancer du sein, qui se
+			<lb/>
+			déroule tout au long de la trajectoire de la maladie chronique, que la
+			<lb/>
+			femme adopte pour se reconstruire un sens de soi ainsi qu&apos;une nouvelle
+			<lb/>
+			santé tout en apprenant à vivre avec une épée de Damoclès au-dessus de
+			<lb/>
+			la tête.
+			<lb/>
+		</p>
+		
+		<head>4.1 Perceptions de l&apos;état de santé avant la transition
+			<lb/>
+		</head>
+		
+		<p>Cette recherche est innovatrice puisqu&apos;elle pallie le manque de connaissances sur les
+			<lb/>
+			perceptions de la santé et de la maladie de personnes en santé. En effet, les études
+			<lb/>
+			recensées chez les personnes en santé traitent de leurs perceptions des risques de
+			<lb/>
+			développer une maladie et des causes respectives (<ref type="biblio">Figueiras &amp; Alves, 2007</ref>). Peu
+			<lb/>
+			d&apos;études existent sur les perceptions de la santé de personnes en santé mis à part des
+			<lb/>
+			classiques en sociologie et en anthropologie tels que <ref type="biblio">Herzlich (1969) et Massé
+				(1995)</ref>.
+			<lb/>
+			Nos résultats corroborent les résultats précédents réaffirmant que, près de quatre
+			<lb/>
+			décennies plus tard, les personnes en santé se perçoivent encore invulnérables et
+			<lb/>
+			définissent la santé comme l&apos;absence de maladie. Toutefois, nous apportons une
+			<lb/>
+			précision au fait que les personnes en santé, mais à risque de développer un cancer du
+			<lb/>
+			sein à cause de leur hérédité, perçoivent la santé différemment de celles n&apos;ayant
+			<lb/>
+			jamais côtoyé la maladie. Elles se perçoivent en santé, mais elles éprouvent un
+			<lb/>
+			sentiment d&apos;incertitude quant à la survenue d&apos;un tel diagnostic qui se manifeste, entre
+			<lb/>
+			autres, par un suivi régulier chez le médecin et des mammographies assidues. Ces
+			<lb/>
+			résultats vont dans le même sens que ceux d&apos;études réalisées auprès de femmes dont
+			<lb/>
+			des membres de leur famille sont atteintes d&apos;un cancer en démontrant un lien positif
+			<lb/>
+			entre l&apos;histoire familiale de cancer et la détresse psychologique (
+			<ref type="biblio">Katapodi, Lee,
+				<lb/>
+				Facione, &amp; Dodd, 2004; Mellon et al., 2008; Metcalfe et al., 2013; Underhill, Lally,
+				<lb/>
+				Kiviniemi, Murekeyisoni, &amp; Dickerson, 2012
+			</ref>
+			). Cette détresse psychologique
+			<lb/>
+			augmenterait davantage lorsqu&apos;une membre de la famille immédiate est atteinte d&apos;un
+			<lb/>
+			cancer du sein (<ref type="biblio">Metcalfe et al., 2013</ref>). Elle peut toutefois varier en fonction de
+			<lb/>
+			l&apos;expérience des personnes atteintes (<ref type="biblio">Mellon et al., 2008</ref>). Ainsi, une mère en
+			<lb/>
+			rémission d&apos;un cancer du sein encouragera et rassurera sa fille à risque; phénomène
+			<lb/>
+			que nous avons également retrouvé chez nos participantes.
+			<lb/>
+		</p>
+		
+		<head>4.2 Perceptions de l&apos;état de santé après la transition
+			<lb/>
+		</head>
+		
+		<p>Nous avons remarqué que les perceptions de la santé se modulent tout au long de la
+			<lb/>
+			trajectoire de la maladie. La santé est vue comme un cadeau précieux et un tout
+			<lb/>
+			holistique alors que le cancer du sein, quant à lui, est désormais perçu comme une
+			<lb/>
+			épreuve surmontable qui a même permis aux femmes de se découvrir des forces. Nos
+			<lb/>
+			résultats corroborent ceux <ref type="biblio">d&apos;Al-Azri et al. (2009) et d&apos;Anagnostopoulos et Spanea
+			<lb/>
+				(2005)</ref> qui soulignent que les femmes atteintes d&apos;un cancer du sein sont plus
+			<lb/>
+			optimistes quant aux chances de guérison que celles en santé. <ref type="biblio">Anagnostopoulos et
+			<lb/>
+				Spanea (2005)</ref> précisent que les femmes en santé sont plus pessimistes sur le
+			<lb/>
+			pronostic et surestiment les effets négatifs du cancer par rapport à celles qui en sont
+			<lb/>
+			atteintes. Nous sommes également d&apos;avis, tout comme <ref type="biblio">Brix et al. (2013), Horgan,
+			<lb/>
+			Holcombe et Salmon (2011), Mols, Vingerhoets, Coebergh et van de Poll-Freanse
+			<lb/>
+				(2009), Sumalla, Ochoa et Blanco (2009)</ref>, que ce changement de perceptions et le
+			<lb/>
+			développement de forces sont attribuables au phénomène de la croissance post-<lb/>traumatique, observable
+			chez des personnes ayant vécu des évènements critiques, qui
+			<lb/>
+			se traduit par un changement des priorités dans la vie, une empathie pour les autres
+			<lb/>
+			personnes ayant vécu une expérience similaire et une augmentation de la confiance en
+			<lb/>
+			soi. Tous ces changements ont été observés chez les participantes à notre étude. Nous
+			<lb/>
+			ajoutons également que ces femmes vivent constamment avec une épée de Damoclès
+			<lb/>
+			au-dessus de la tête, ce qui s&apos;explique avec la théorie de l&apos;incertitude (
+			<ref type="biblio">Mishel, 1988,
+				<lb/>
+				1999
+			</ref>
+			). Par contre, dans cette théorie à moyenne portée, les auteurs affirment que
+			<lb/>
+			l&apos;incertitude dans les maladies chroniques est constante (
+			<ref type="biblio">Mishel, Padilla, Grant, &amp;<lb/>
+				Sorenson, 1991
+			</ref>
+			). Nous avons plutôt observé que le niveau d&apos;incertitude des femmes
+			<lb/>
+			est le plus élevé aux périodes de transition soit au moment du déclencheur de la
+			<lb/>
+			transition : l&apos;annonce du diagnostic de la maladie et à la fin de la transition : la fin des
+			<lb/>
+			traitements de chimiothérapie et de radiothérapie.
+			<lb/>
+		</p>
+		
+		<head>5. Forces et limites
+			<lb/>
+		</head>
+		
+		<p>Cette étude est une première exploration de la transition des perceptions de la santé et
+			<lb/>
+			du cancer du sein chez des femmes atteintes de cette maladie. La plus grande force de
+			<lb/>
+			notre étude réside dans le fait que nous avons interviewé des femmes à différents
+			<lb/>
+			moments de la trajectoire du cancer du sein, contrairement aux autres études dont
+			<lb/>
+			l&apos;échantillon se composait de femmes toutes situées à un même moment de la
+			<lb/>
+			trajectoire du cancer du sein. Ainsi, les participantes de notre étude se trouvaient à
+			<lb/>
+			l&apos;un ou l&apos;autre des moments de la trajectoire de la maladie, soit en santé sans cancer,
+			<lb/>
+			pendant la période d&apos;attente avant le diagnostic officiel, au moment du diagnostic,
+			<lb/>
+			pendant la chronicité, lors d&apos;une récidive ou en soins palliatifs, contribuant ainsi à
+			<lb/>
+			l&apos;échantillonnage théorique.
+			<lb/>
+		</p>
+		
+		<p>Plusieurs décisions méthodologiques augmentent la crédibilité de cette étude
+			<lb/>
+			qui a été effectuée selon un processus de recherche rigoureux et itératif entre la revue
+			<lb/>
+			des écrits, les entrevues et l&apos;analyse. La coanalyse et les discussions riches au sein de
+			<lb/>
+			l&apos;équipe de recherche ont permis de développer et définir les concepts émergents, les
+			<lb/>
+			codes et les catégories et d&apos;approfondir l&apos;analyse. Une description en profondeur des
+			<lb/>
+			catégories a été faite avec des exemples pour illustrer les résultats. La rétroaction par
+			<lb/>
+			les participantes sur les données émergentes et sur les modélisations a permis une
+			<lb/>
+			certaine validation de notre compréhension du vécu des femmes auprès de ces
+			<lb/>
+			dernières. Finalement, l&apos;expérience de travail de la première auteure en tant
+			<lb/>
+			qu&apos;infirmière en oncologie a favorisé l&apos;établissement d&apos;une relation de confiance
+			<lb/>
+			(<ref type="biblio">Laperrière, 1997b; Strauss &amp; Corbin, 1998</ref>). Pour nous assurer de la fiabilité des
+			<lb/>
+			résultats, nous avons fait une description étayée du processus de recherche permettant
+			<lb/>
+			à un évaluateur indépendant de tirer des conclusions sur les données à partir de la
+			<lb/>
+			transcription d&apos;entrevues, des notes de terrain et des mémos. Finalement, la
+			<lb/>
+			description détaillée du contexte de l&apos;étude et du processus d&apos;échantillonnage permet
+			<lb/>
+			le transfert des résultats à d&apos;autres contextes similaires. Nous avons donc pris soin de
+			<lb/>
+			détailler l&apos;expérience variée des participantes en ce qui a trait aux traitements, à l&apos;âge
+			<lb/>
+			et au moment de la trajectoire de la maladie (<ref type="biblio">Laperrière, 1997b; Strauss &amp; Corbin,
+				<lb/>
+				1998
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Malgré les procédures rigoureuses, notre étude comprend quelques limites. En
+			<lb/>
+			effet, il n&apos;est jamais certain de pouvoir s&apos;assurer de la saturation théorique des
+			<lb/>
+			catégories bien que nous ayons concentré nos efforts sur le processus social
+			<lb/>
+			fondamental et l&apos;analyse en profondeur. Finalement, afin de juger de la transférabilité
+			<lb/>
+			des résultats si singuliers sur l&apos;expérience de vivre avec un cancer du sein par les
+			<lb/>
+			femmes rencontrées, nous devons nous demander si le phénomène social fondamental
+			<lb/>
+			a été correctement ciblé (<ref type="biblio">Laperrière, 1997b</ref>). Ainsi, les variations recherchées avec
+			<lb/>
+			l&apos;échantillonnage théorique rendent la modélisation de la transition encore plus
+			<lb/>
+			transférable aux femmes québécoises caucasiennes possédant une scolarité de
+			<lb/>
+			cinquième secondaire ou plus.
+			<lb/>
+		</p>
+		
+		<head>6. Transfert de connaissances
+			<lb/>
+		</head>
+		
+		<p>Une retombée clinique de cette étude est une meilleure compréhension de la
+			<lb/>
+			transition des perceptions de l&apos;état de santé pendant la trajectoire du cancer du sein.
+			<lb/>
+			Ainsi, les infirmières cliniciennes pourront soutenir leurs patientes dans le
+			<lb/>
+			développement de stratégies d&apos;adaptation et ainsi adapter les soins, donner de
+			<lb/>
+			l&apos;information, soutenir la recherche de ressources pertinentes et également normaliser
+			<lb/>
+			les perceptions selon les étapes de la transition et offrir du soutien aux proches. Cette
+			<lb/>
+			modélisation permet donc aux professionnels de la santé travaillant auprès de femmes
+			<lb/>
+			atteintes d&apos;un cancer du sein d&apos;approfondir leur évaluation systémique sur les
+			<lb/>
+			perceptions de la santé et du cancer pour ainsi mieux interagir avec elles, mais surtout
+			<lb/>
+			comprendre que la transition des perceptions de l&apos;état de santé est un processus qui se
+			<lb/>
+			déroule tout au long de la trajectoire de la maladie chronique et que les femmes
+			<lb/>
+			traversent pour se redéfinir un sens de soi ainsi qu&apos;une nouvelle perception de la
+			<lb/>
+			santé. Les infirmières cliniciennes doivent également tenir compte du fait que ces
+			<lb/>
+			femmes vivent désormais avec le sentiment plus ou moins fort d&apos;avoir une épée de
+			<lb/>
+			Damoclès au-dessus de la tête.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Cette étude avait pour but de conceptualiser les étapes de la transition des perceptions
+			<lb/>
+			de l&apos;état de santé de femmes atteintes d&apos;un cancer du sein selon l&apos;orientation
+			<lb/>
+			méthodologique de la MTE. La théorisation que nous proposons dans cette recherche
+			<lb/>
+			permet de mieux comprendre la façon dont les femmes luttent pour donner un sens à
+			<lb/>
+			leur maladie et retrouver une vie la plus normale possible tout en gérant l&apos;incertitude
+			<lb/>
+			que le cancer réapparaisse. L&apos;élément leur servant à définir ce nouvel état est le fait
+			<lb/>
+			de se sentir diminuées dans leur capacité physique, mais surtout de vivre avec une
+			<lb/>
+			épée de Damoclès au-dessus de leur tête. Il ressort des résultats de cette analyse que
+			<lb/>
+			les perceptions de la santé et du cancer se transforment pendant la trajectoire de la
+			<lb/>
+			maladie afin de faciliter le passage de cette expérience dans laquelle les femmes se
+			<lb/>
+			découvrent des forces telles que la gestion de leur temps, de leurs symptômes, de leur
+			<lb/>
+			santé, de leurs relations, de l&apos;incertitude et de l&apos;espoir. Enracinée dans la réalité de
+			<lb/>
+			femmes atteintes d&apos;un cancer du sein, la démarche rigoureuse de la MTE a permis de
+			<lb/>
+			conceptualiser la transition des perceptions de l&apos;état de santé de femmes atteintes
+			<lb/>
+			d&apos;un cancer du sein. Les résultats obtenus permettent donc aux professionnels de la
+			<lb/>
+			santé de normaliser ce processus aux yeux de leurs clientes.
+			<lb/>
+		</p>
+	
+	
+	</text>
+</tei>

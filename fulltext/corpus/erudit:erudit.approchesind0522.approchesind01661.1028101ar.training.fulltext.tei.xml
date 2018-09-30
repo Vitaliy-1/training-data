@@ -1,0 +1,1222 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Dans les milieux scolaires, il existe plusieurs modèles et aménagements différents
+			<lb/>
+			pour aider les élèves en troubles d&apos;apprentissage à mieux réussir et à développer une
+			<lb/>
+			meilleure estime d&apos;eux-mêmes. Pour sa part, le Québec a amorcé une réflexion
+			<lb/>
+			majeure sur le phénomène de l&apos;intégration scolaire (<ref type="biblio">Gervais, 2011</ref>). Dans une
+			école
+			<lb/>
+			primaire située dans une région éloignée du Québec, l&apos;inclusion scolaire des enfants
+			<lb/>
+			qui sont au 2 e et 3 e cycle du primaire et ayant un trouble d&apos;apprentissage est
+			<lb/>
+			actuellement pratiquée. En 2004, une orthopédagogue a démarré une classe (appelée
+			<lb/>
+			classe-liaison) d&apos;élèves ayant des troubles d&apos;apprentissage. Pendant les trois
+			<lb/>
+			premières années, il s&apos;agissait d&apos;une classe fermée avec des intégrations partielles en
+			<lb/>
+			classe régulière. En 2007, un projet d&apos;inclusion a débuté; ces enfants ont alors été
+			<lb/>
+			inscrits à temps plein en classe régulière, selon leur niveau d&apos;âge, tout en continuant à
+			<lb/>
+			fréquenter la classe-liaison au besoin, animée par l&apos;orthopédagogue. La classe-liaison
+			<lb/>
+			permet aux enfants visés par l&apos;inclusion, mais également à d&apos;autres enfants qui en
+			<lb/>
+			ressentent le besoin, d&apos;approfondir leurs apprentissages et de développer leurs
+			<lb/>
+			compétences. Chaque année, un processus de sélection, comprenant quelques tests
+			<lb/>
+			pour évaluer le quotient intellectuel, la nature des troubles d&apos;apprentissage et le degré
+			<lb/>
+			de maîtrise des compétences en français et en mathématiques, permet de choisir
+			<lb/>
+			quelques élèves de la région qui pourraient bénéficier de cette démarche d&apos;inclusion.
+			<lb/>
+			Bien que plusieurs acteurs de cette école (enseignants, parents, intervenants, enfants
+			<lb/>
+			et direction) soulignent les aspects positifs du modèle d&apos;inclusion qui a été développé,
+			<lb/>
+			l&apos;analyse spécifique de la situation n&apos;a jamais été effectuée dans le contexte d&apos;une
+			<lb/>
+			étude scientifique.
+			<lb/>
+		</p>
+		
+		<p>Même si les résultats de la recherche seront brièvement abordés, le présent
+			<lb/>
+			article s&apos;attardera principalement à décrire les phases de collecte des données de
+			<lb/>
+			même que le processus d&apos;analyse ayant mené à la théorisation de l&apos;objet étudié
+			<lb/>
+			(<ref type="biblio">Glaser &amp; Strauss, 1967; Guillemette, 2006a; Guillemette, 2006b</ref>).
+			<lb/>
+		</p>
+		
+		<head>1. Les intentions de recherche
+			<lb/>
+		</head>
+		
+		<p>L&apos;objectif général de cette recherche participative est de mieux comprendre les
+			<lb/>
+			particularités qui font du modèle d&apos;inclusion d&apos;élèves en troubles d&apos;apprentissage mis
+			<lb/>
+			en place dans l&apos;école concernée une expérience positive pour les intervenants comme
+			<lb/>
+			pour les élèves et leurs parents. Une première partie de la recherche est qualitative. Il
+			<lb/>
+			y est question de l&apos;expérience et de la perception des enseignants quant au modèle
+			<lb/>
+			d&apos;inclusion mis en place, du climat contextuel, des pratiques éducatives qui y sont
+			<lb/>
+			reliées, ainsi que de l&apos;effet perçu sur les élèves qui ont des troubles d&apos;apprentissage.
+			<lb/>
+			Un objectif spécifique est rattaché à ce volet qualitatif, soit celui de déterminer des
+			<lb/>
+			conditions liées au contexte, aux attitudes et aux pratiques éducatives qui font de
+			<lb/>
+			l&apos;expérience d&apos;inclusion scolaire vécue une réussite pour les acteurs concernés. Une
+			<lb/>
+			deuxième partie de la recherche est quantitative. Ce second volet est l&apos;occasion de
+			<lb/>
+			mesurer les effets du modèle d&apos;inclusion scolaire vécu dans l&apos;école concernée sur
+			<lb/>
+			l&apos;estime de soi et la réussite éducative des élèves intégrés. Une étude statistique
+			<lb/>
+			répartie en trois temps durant l&apos;année scolaire 2012-2013 a été développée à cet effet.
+			<lb/>
+		</p>
+		
+		<p>Le présent article concerne exclusivement la première partie de la recherche,
+			<lb/>
+			soit le volet qualitatif. Il est également important de mentionner qu&apos;au moment de la
+			<lb/>
+			rédaction du présent article, le projet de recherche est toujours en cours. Le volet
+			<lb/>
+			qualitatif étant pour sa part très avancé, nous parlerons brièvement des résultats
+			<lb/>
+			préliminaires découlant du processus d&apos;analyse des données.
+			<lb/>
+		</p>
+		
+		<head>2. Le contexte théorique
+			<lb/>
+		</head>
+		
+		<p>Environ 5 % des enfants âgés de moins de 15 ans au Canada ont un trouble
+			<lb/>
+			d&apos;apprentissage (<ref type="biblio">Wilson, Furrie, Walcot-Gayda, Armstrong, &amp; Archer, 2007</ref>).
+			En
+			<lb/>
+			comparaison avec leurs pairs, ces enfants ont notamment des risques plus importants
+			<lb/>
+			de développer des problèmes de santé, de moins bien réussir à l&apos;école et de décrocher
+			<lb/>
+			avant d&apos;avoir obtenu leur diplôme d&apos;études secondaires (<ref type="biblio">Wilson et al.,
+				2007</ref>). Il
+			<lb/>
+			importe donc d&apos;intervenir le plus rapidement possible auprès de ces enfants pour que
+			<lb/>
+			leur expérience scolaire soit des plus positives.
+			<lb/>
+		</p>
+		
+		<p>Afin d&apos;aider les enfants qui ont un trouble d&apos;apprentissage, plusieurs types
+			<lb/>
+			d&apos;intégration sont proposés dans les écoles, allant de la classe spécialisée à l&apos;inclusion
+			<lb/>
+			(<ref type="biblio">Potvin &amp; Lacroix, 2009; Vienneau, 2002</ref>). Cependant, de plus en plus de
+			chercheurs
+			<lb/>
+			et de groupes de défense pour enfants soutiennent que l&apos;inclusion en classe ordinaire
+			<lb/>
+			est une solution préférable à la classe spécialisée ou à toute autre forme
+			<lb/>
+			d&apos;enseignement (<ref type="biblio">Doré, Wagner, Brunet, &amp; Bélanger, 1999; Vienneau, 2002</ref>).
+			<lb/>
+			L&apos;inclusion vise à fournir à l&apos;enfant un milieu de vie le plus normal possible. L&apos;enfant
+			<lb/>
+			est donc intégré dans une classe ordinaire. À l&apos;opposé, la classe spéciale comprend
+			<lb/>
+			des enfants qui ont des difficultés et qui sont donc séparés de leurs pairs sans
+			<lb/>
+			difficulté (Doré <ref type="biblio">et al., 1999</ref>). Il est difficile de déterminer les impacts réels de
+			<lb/>
+			l&apos;inclusion étant donné que les résultats diffèrent d&apos;un projet à l&apos;autre, selon les
+			<lb/>
+			difficultés de l&apos;élève et la façon dont l&apos;inclusion est réalisée (
+			<ref type="biblio">Lindsay, 2007;
+				<lb/>
+				McLaughlin, Warren, &amp; Schofield, 1996
+			</ref>
+			). Il semble néanmoins que la manière dont
+			<lb/>
+			l&apos;inclusion est conduite influence grandement son efficacité (<ref type="biblio">Rousseau, 2010</ref>).
+			<lb/>
+			D&apos;ailleurs, les attitudes des enseignants, leurs compétences professionnelles, leurs
+			<lb/>
+			pratiques d&apos;intervention, leur niveau de formation ou encore les ressources mises à
+			<lb/>
+			leur disposition constitueraient des facteurs importants de réussite de l&apos;inclusion des
+			<lb/>
+			élèves en difficultés (
+			<ref type="biblio">Almog, 2008; Bélanger, 2006; Ben-Yehuda, Leyser, &amp; Last,
+				<lb/>
+				2010; Memisevic &amp; Hodzic, 2011; Raviv, 2010; Woodcock &amp; Vialle, 2010
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Plusieurs études ont été réalisées sur l&apos;inclusion scolaire, notamment pour des
+			<lb/>
+			élèves qui ont un trouble envahissant du développement (p. ex.,
+			<ref type="biblio">Harrower &amp; Dunlap,
+				<lb/>
+				2001
+			</ref>
+			), une déficience intellectuelle (p. ex., <ref type="biblio">Gauthier &amp; Poulin, 2006</ref>) ou encore un
+			<lb/>
+			trouble du comportement (<ref type="biblio">Parent, Plouffe, &amp; Dubé, 2003</ref>). Toutefois, peu d&apos;études
+			<lb/>
+			ont été conduites sur l&apos;inclusion scolaire d&apos;enfants qui ont un trouble d&apos;apprentissage.
+			<lb/>
+			Par ailleurs, des recherches indiquent que les troubles d&apos;apprentissage peuvent
+			<lb/>
+			conduire au décrochage scolaire et à des conséquences psychologiques négatives,
+			<lb/>
+			telles qu&apos;une faible estime de soi (<ref type="biblio">Dumas, 2013</ref>). Considérant que l&apos;estime
+			de soi est
+			<lb/>
+			associée à un meilleur ajustement psychosocial et à la persévérance scolaire
+			<lb/>
+			(<ref type="biblio">Gaudreault, Veillette, &amp; Perron, 2003</ref>), il importe de préciser le rôle que
+			peut jouer
+			<lb/>
+			une expérience d&apos;inclusion scolaire sur l&apos;augmentation de l&apos;estime de soi et de la
+			<lb/>
+			réussite scolaire des jeunes élèves en troubles d&apos;apprentissage.
+			<lb/>
+		</p>
+		
+		<head>3. La méthodologie
+			<lb/>
+		</head>
+		
+		<p>Le caractère participatif du volet qualitatif de la recherche a nécessité l&apos;adoption
+			<lb/>
+			d&apos;une approche empirique (<ref type="biblio">Desgagné &amp; Bednarz, 2005</ref>). Une telle approche
+			doit être
+			<lb/>
+			vue comme une « tentative de compréhension d&apos;une part du monde social par la mise
+			<lb/>
+			en oeuvre de démarches concrètes, vivantes et au contact direct des personnes et des
+			<lb/>
+			lieux qui sont concernés par la recherche » (<ref type="biblio">Derèze, 2009, p. 13</ref>). Cette visée
+			<lb/>
+			participative de la recherche empirique appelle un devis méthodologique inductif
+			<lb/>
+			(<ref type="biblio">Guillemette &amp; Luckerhoff, 2009</ref>). En ce sens, la méthodologie de la
+			théorisation
+			<lb/>
+			enracinée, ou MTE (<ref type="biblio">Luckerhoff &amp; Guillemette, 2012</ref>), s&apos;est avérée une
+			démarche
+			<lb/>
+			méthodologique concrète, vivante et interpersonnelle. La MTE est une approche
+			<lb/>
+			inductive dont la finalité est de générer des théories émergeant des données (
+			<ref type="biblio">Glaser,
+				<lb/>
+				1998; Glaser &amp; Strauss, 1967
+			</ref>
+			). Pour notre recherche, la MTE s&apos;est manifestée à
+			<lb/>
+			travers les principes fondamentaux que sont l&apos;approche en spirale (<ref type="biblio">Glaser,
+				2001</ref>) et la
+			<lb/>
+			flexibilité procédurale (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>). Toutefois, c&apos;est
+			spécifiquement pour
+			<lb/>
+			notre démarche d&apos;analyse de données que nous nous sommes référés à la MTE.
+			<lb/>
+		</p>
+		
+		<p>Pour l&apos;analyse, nous avons procédé selon la méthode comparative continue
+			<lb/>
+			(<ref type="biblio">Glaser &amp; Strauss, 1967</ref>). Selon cette méthode analytique, les données sont
+			<lb/>
+			répétitivement soumises à des comparaisons entre elles afin d&apos;identifier « les
+			<lb/>
+			similitudes, les différences, les variations, les contrastes, les différentes relations entre
+			<lb/>
+			les données » (<ref type="biblio">Guillemette, 2006a, p. 68</ref>). Les participants ont ainsi participé à
+			des
+			<lb/>
+			entretiens par courriel au cours duquel ils ont été invités à partager leur expérience de
+			<lb/>
+			l&apos;inclusion scolaire telle qu&apos;ils la vivent dans leur milieu de travail. Ensuite, ils ont
+			<lb/>
+			participé à un entretien de groupe afin d&apos;approfondir leurs pensées sur les divers
+			<lb/>
+			aspects abordés dans les entretiens par courriel. Comme nous le présentons plus loin,
+			<lb/>
+			les échanges ont permis d&apos;explorer le phénomène étudié afin de mieux comprendre
+			<lb/>
+			les facteurs qui font sa réussite.
+			<lb/>
+		</p>
+		
+		<head>3.1 Les participants
+			<lb/>
+		</head>
+		
+		<p>Cinq enseignants (quatre femmes et un homme) et une orthopédagogue ont participé
+			<lb/>
+			à la collecte de données. Un participant n&apos;a pas participé aux entretiens par courriel,
+			<lb/>
+			et deux participants n&apos;ont pu être présents à l&apos;entretien de groupe. Ils ont été
+			<lb/>
+			sélectionnés selon le principe de l&apos;échantillonnage théorique (
+			<ref type="biblio">Glaser &amp; Strauss,
+				<lb/>
+				1967
+			</ref>
+			). De cette façon, les participants sont choisis en fonction de leur capacité à
+			<lb/>
+			favoriser l&apos;émergence et la construction progressive de la théorie (
+			<ref type="biblio">Guillemette, 2006a;
+				<lb/>
+				Savoie-Zajc, 2004
+			</ref>
+			). Plutôt que d&apos;être représentatif, l&apos;échantillon que nous avons
+			<lb/>
+			constitué était constructif en vue des objectifs de la recherche. Ainsi, nous avons
+			<lb/>
+			déterminé que les intervenants travaillant directement auprès des élèves en troubles
+			<lb/>
+			d&apos;apprentissage seraient les plus susceptibles de contribuer au processus de
+			<lb/>
+			théorisation. Dans une classe inclusive, chaque intervenant joue un rôle distinct, et les
+			<lb/>
+			expériences qu&apos;il vit sont fortement liées à ce rôle. Même s&apos;ils travaillent ensemble
+			<lb/>
+			depuis un bon moment, leurs propos ont montré que les expériences relatées étaient
+			<lb/>
+			diversifiées et complémentaires.
+			<lb/>
+		</p>
+		
+		<head>3.2 L&apos;instrumentation
+			<lb/>
+		</head>
+		
+		<p>Les ouvrages de référence traitant de la MTE ne s&apos;attardent que très peu sur les
+			<lb/>
+			instruments de collecte de données. Sans vouloir associer un type d&apos;instrumentation à
+			<lb/>
+			cette approche méthodologique, nous voulons principalement illustrer l&apos;utilisation
+			<lb/>
+			que nous avons faite de l&apos;entretien par courriel et de l&apos;entretien de groupe, et
+			<lb/>
+			souligner l&apos;important apport qu&apos;ils ont eu sur notre compréhension du phénomène
+			<lb/>
+			étudié.
+			<lb/>
+		</p>
+		
+		<p>L&apos;utilisation de l&apos;entretien par courriels, ou E-interview (
+			<ref type="biblio">Bampton &amp; Cowton,
+				<lb/>
+				2002
+			</ref>
+			), constitue notre première source de données. Un groupe de discussion (
+			<ref type="biblio">Parrini-<lb/>Alemanno, 2011
+			</ref>
+			) composé des intervenants ayant participé aux entretiens par
+			<lb/>
+			courriels a également été organisé, ce qui représente une deuxième source de
+			<lb/>
+			données. Finalement, un journal de bord ainsi que quelques mémos rédigés par les
+			<lb/>
+			chercheurs ont constitué une troisième source de données. Même si la démarche que
+			<lb/>
+			nous décrivons peut servir de balise de départ pour l&apos;utilisation de ces deux types
+			<lb/>
+			d&apos;entretiens lors de futures recherches portant notamment sur les pratiques
+			<lb/>
+			éducatives, elle ne doit toutefois pas être considérée comme un modèle à suivre en
+			<lb/>
+			tout point. Bien au contraire, l&apos;efficacité et la pertinence des entretiens par courriels et
+			<lb/>
+			des groupes de discussion résident justement dans l&apos;adaptabilité et la souplesse de
+			<lb/>
+			leur démarche d&apos;utilisation.
+			<lb/>
+		</p>
+		
+		<p>Dans les prochaines sections, nous nous attarderons principalement à décrire
+			<lb/>
+			l&apos;utilisation que nous avons faite de l&apos;entretien par courriels, puisqu&apos;il s&apos;agit de
+			notre
+			<lb/>
+			source principale de données. Également, nous traiterons plus brièvement de l&apos;apport
+			<lb/>
+			des mémos et du groupe de discussion dans notre processus d&apos;analyse, en tant que
+			<lb/>
+			sources de données complémentaires.
+			<lb/>
+		</p>
+		
+		<head>3.2.1 L&apos;entretien par courriels
+			<lb/>
+		</head>
+		
+		<p>Dans l&apos;étude des sciences sociales, l&apos;entretien par courriels est considéré comme un
+			<lb/>
+			outil qui offre plusieurs avantages pour le chercheur comme pour le participant
+			<lb/>
+			(
+			<ref type="biblio">Bampton &amp; Cowton, 2002; Lavoie &amp; Guillemette, 2009; McCoyd &amp; Kerson, 2006;
+				<lb/>
+				Roller, 2012
+			</ref>
+			). Son utilisation en sciences de l&apos;éducation s&apos;inscrit dans l&apos;engouement
+			<lb/>
+			entourant le recours aux technologies de l&apos;information et de la communication (TIC)
+			<lb/>
+			(<ref type="biblio">Karsenti, Komis, Depover, &amp; Collin, 2011</ref>). Pour ces entretiens, qui ont été
+			<lb/>
+			construits selon le principe de l&apos;approche en spirale (<ref type="biblio">Glaser, 1978; Glaser,
+				2001</ref>),
+			<lb/>
+			nous avons commencé avec les participants par l&apos;adresse courriel qu&apos;ils avaient
+			<lb/>
+			préalablement fournie aux chercheurs.
+			<lb/>
+		</p>
+		
+		<p>Lorsque nous analysons a posteriori la structure des entretiens qui se sont
+			<lb/>
+			déroulés au moyen d&apos;échanges de courriels, nous réalisons qu&apos;ils sont constitués de
+			<lb/>
+			quatre types de questions, que nous distinguons de la façon suivante : 1) les questions
+			<lb/>
+			de situation; 2) les questions d&apos;orientation; 3) les questions de précision; 4) les
+			<lb/>
+			questions de validation. Chaque type de questions correspond à une intention
+			<lb/>
+			différente de la part du chercheur, et crée une réaction distincte chez le participant.
+			<lb/>
+			Ainsi, pour notre projet de recherche, chaque type de questions a joué un rôle
+			<lb/>
+			nécessaire dans notre compréhension de l&apos;objet étudié.
+			<lb/>
+		</p>
+		
+		<head>Les questions de situation
+			<lb/>
+		</head>
+		
+		<p>Ce premier type de questions, qui se retrouve généralement au début de l&apos;entretien,
+			<lb/>
+			vise à mieux connaître le participant. En posant une question de situation, le
+			<lb/>
+			chercheur ne sollicite aucun avis explicite du participant envers l&apos;objet d&apos;étude. Ainsi,
+			<lb/>
+			la réponse obtenue ne devrait pas impliquer les idées ou les croyances du participant,
+			<lb/>
+			puisque la question vise simplement à le situer par rapport aux autres et par rapport à
+			<lb/>
+			ses réponses futures. Lors de notre étude, la première question posée était la
+			<lb/>
+			suivante : « Décrivez brièvement votre parcours professionnel en mettant l&apos;accent sur
+			<lb/>
+			votre expérience de l&apos;inclusion scolaire en classe régulière? »
+			<lb/>
+		</p>
+		
+		<p>Face à une telle question, nous nous attendions à recevoir des réponses se
+			<lb/>
+			rapprochant du récit autobiographique, comprenant certes certains éléments réflexifs,
+			<lb/>
+			mais demeurant principalement axées sur des expériences antérieures. Tout au plus,
+			<lb/>
+			notre intention était de faciliter notre interprétation des données fournies par le
+			<lb/>
+			participant et de les mettre en perspective à la lumière de son vécu. Or, notre
+			<lb/>
+			expérience montre que les réponses obtenues à cette première question ont toutes
+			<lb/>
+			largement dépassé ces modestes intentions. En fait, on retrouve dans leur réponse
+			<lb/>
+			l&apos;essence même du discours qu&apos;ils nous livreront ultérieurement. Nous constatons que
+			<lb/>
+			les participants ont confié une grande partie de leurs réflexions, de leurs croyances et
+			<lb/>
+			de leurs perceptions des concepts clés du projet de recherche. Les questions de
+			<lb/>
+			situation ont produit des réponses très développées et détaillées. La motivation des
+			<lb/>
+			participants par rapport au projet s&apos;est également manifestée dans leur promptitude à
+			<lb/>
+			répondre. Ils ont tenu à ce que le chercheur sache rapidement ce qu&apos;ils pensent de
+			<lb/>
+			l&apos;objet d&apos;étude. Ce constat nous porte à croire que, dans un projet de recherche
+			<lb/>
+			recourant à l&apos;entretien par courriels, une attention particulièrement marquée devrait
+			<lb/>
+			être portée aux données provenant des réponses aux questions de situation.
+			<lb/>
+		</p>
+		
+		<head>Les questions d&apos;orientation
+			<lb/>
+		</head>
+		
+		<p>Ce second type de questions vise à induire les préoccupations du chercheur. Les
+			<lb/>
+			questions d&apos;orientation succèdent généralement aux questions de situation, et leur
+			<lb/>
+			utilisation constitue un moment important dans l&apos;entretien puisque c&apos;est l&apos;occasion
+			<lb/>
+			pour le chercheur d&apos;orienter le participant vers les concepts centraux du projet de
+			<lb/>
+			recherche. Les questions d&apos;orientation peuvent être utilisées à tout moment par le
+			<lb/>
+			chercheur durant l&apos;entretien. Dans notre recherche, elles ont généré des réponses très
+			<lb/>
+			développées et riches de la part des participants. Ce type de questions sollicite un
+			<lb/>
+			premier niveau réflexif, puisque c&apos;est le chercheur qui induit certaines pistes de
+			<lb/>
+			réflexion aux participants. Notre expérience démontre que ces derniers apprécient les
+			<lb/>
+			questions de ce genre puisqu&apos;ils y répondent rapidement et longuement. Voici un
+			<lb/>
+			exemple de question d&apos;orientation que nous avons posée lors d&apos;un entretien :
+			<lb/>
+		</p>
+		
+		<p>En ce qui concerne la poursuite de notre entretien, je souhaiterais que
+			<lb/>
+			vous me parliez de l&apos;estime de soi chez les élèves qui sont intégrés dans
+			<lb/>
+			votre classe. Y a-t-il un lien à faire avec leur estime de soi et leur
+			<lb/>
+			expérience d&apos;intégration telle qu&apos;ils la vivent à votre école?
+			<lb/>
+		</p>
+		
+		<p>Lorsque le chercheur pose une question d&apos;orientation, la tentation est forte pour
+			<lb/>
+			induire chez le participant certains éléments de réponse qui semblent indispensables à
+			<lb/>
+			la poursuite du projet. Dans l&apos;extrait précédent, nous avons choisi d&apos;orienter le
+			<lb/>
+			participant vers le concept d&apos;estime de soi. Comme il s&apos;agissait d&apos;un concept se
+			<lb/>
+			situant au centre de nos préoccupations initiales de recherche, nous tenions à ce qu&apos;il
+			<lb/>
+			soit discuté par tous les participants lors des échanges par courrier électronique, sans
+			<lb/>
+			toutefois chercher à diriger les entretiens. Ainsi, l&apos;utilisation de questions
+			<lb/>
+			d&apos;orientation ne doit pas répondre à une volonté de formatage des entretiens, mais
+			<lb/>
+			doit plutôt viser à collecter l&apos;avis de chaque participant sur les thèmes qui sont au
+			<lb/>
+			centre du projet. Par ses réponses, le participant choisit la place que prendront les
+			<lb/>
+			thèmes proposés par le chercheur dans l&apos;entretien.
+			<lb/>
+		</p>
+		
+		<p>Au fil des entretiens, les questions d&apos;orientation peuvent se transformer en
+			<lb/>
+			questions d&apos;exploration visant à amener le participant vers une voie différente, à
+			<lb/>
+			inclure d&apos;autres concepts ou d&apos;autres thèmes dans l&apos;entretien. Même si elles peuvent
+			<lb/>
+			changer le rythme des échanges, les questions d&apos;orientation dont l&apos;intention est
+			<lb/>
+			d&apos;explorer d&apos;autres pistes d&apos;investigation ne doivent pas représenter une cassure dans
+			<lb/>
+			la progression de l&apos;entretien. Elles découlent plutôt de l&apos;analyse simultanée faite par
+			<lb/>
+			le chercheur, qui décèle certains éléments inexploités dans les affirmations
+			<lb/>
+			antérieures du participant. Ces questions de fin de parcours sont fortement liées à
+			<lb/>
+			l&apos;intuition du chercheur.
+			<lb/>
+		</p>
+		
+		<head>Les questions de précision
+			<lb/>
+		</head>
+		
+		<p>En recourant à des verbes comme approfondir, préciser, expliquer, développer, ce
+			<lb/>
+			type de questions vise à pousser le participant à adopter un point de vue réflexif sur
+			<lb/>
+			les propos qu&apos;il tient. La question de précision se base sur un élément de réponse qui
+			<lb/>
+			a été affirmé, mais qui nécessite de plus amples explications afin que le chercheur soit
+			<lb/>
+			à même de l&apos;interpréter convenablement. Ce troisième type de questions nécessite un
+			<lb/>
+			effort réflexif de la part du participant, supérieur aux deux premiers types de
+			<lb/>
+			questions. Pour notre part, les questions de précision ont souvent découlé d&apos;une
+			<lb/>
+			affirmation forte qui n&apos;a pas été explicitée par le participant. Voici deux exemples de
+			<lb/>
+			questions de précision :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Dans votre dernière réponse, vous affirmez que les élèves intégrés sont
+				<lb/>
+				motivés et veulent réussir. Selon votre expérience, qu&apos;est-ce qui motive
+				<lb/>
+				les jeunes intégrés? Donnez-moi tous les éléments de réponse qui vous
+				<lb/>
+				viennent en tête.
+				<lb/>
+			</item>
+			
+			<item>
+				Dans votre dernière réponse, vous mentionnez que « l&apos;intégration, c&apos;est
+				<lb/>
+				d&apos;abord une histoire de sociabilité » pour l&apos;élève intégré. C&apos;est très
+				<lb/>
+				intéressant comme affirmation. Pouvez-vous aller plus loin dans votre
+				<lb/>
+				réflexion, spécifiquement sur ce point?
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Pour certains auteurs, l&apos;accès à la pensée réflexive du participant est un des
+			<lb/>
+			principaux avantages à l&apos;utilisation de l&apos;entretien par courriels (
+			<ref type="biblio">Bampton &amp; Cowton,
+				<lb/>
+				2002; McAuliffe, 2003; Roller, 2012
+			</ref>
+			). Ainsi, nous fondions beaucoup d&apos;attentes par
+			<lb/>
+			rapport aux questions de précision. Toutefois, ce type de questions n&apos;est pas apparu
+			<lb/>
+			comme une source de motivation pour les participants. Certaines caractéristiques liées
+			<lb/>
+			aux réponses (délai, ampleur, etc.) rendent compte du manque de stimulation que les
+			<lb/>
+			questions de précision ont entraîné chez le participant. Ainsi, bien que les réponses
+			<lb/>
+			contiennent certains éléments réflexifs intéressants, elles n&apos;ont pas permis de préciser
+			<lb/>
+			la pensée du participant de façon satisfaisante. Les réponses aux questions de
+			<lb/>
+			précision ont été répétitives, les participants reprenant somme toute les mêmes propos
+			<lb/>
+			tenus antérieurement en utilisant des termes différents. L&apos;effort réflexif demandé aux
+			<lb/>
+			participants leur était peut-être plus difficile à fournir par courrier électronique. À cet
+			<lb/>
+			effet, d&apos;autres types d&apos;entretiens (d&apos;explicitation, par exemple) permettraient peut-être
+			<lb/>
+			d&apos;accéder à un niveau réflexif plus profond.
+			<lb/>
+		</p>
+		
+		<head>Les questions de validation
+			<lb/>
+		</head>
+		
+		<p>Pour notre projet, nous avons conclu les entretiens par courriels avec une question de
+			<lb/>
+			validation, qui annonce aux participants qu&apos;elle sera la dernière question qui lui sera
+			<lb/>
+			posée. C&apos;est l&apos;occasion pour le chercheur de poser une question directement arrimée à
+			<lb/>
+			l&apos;analyse qu&apos;il a faite des données fournies antérieurement. Voici un exemple de
+			<lb/>
+			question de validation posée à l&apos;un des participants :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Lorsque je relis toute notre correspondance depuis le début du projet, une
+				<lb/>
+				question me vient en tête et je vous la pose : quelles sont, selon vous, les
+				<lb/>
+				pratiques que vous considérez devoir adopter pour rendre l&apos;expérience
+				<lb/>
+				d&apos;inclusion positive pour les élèves en difficulté d&apos;apprentissage?
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Avant de poser une telle question, le chercheur doit prendre le temps
+			<lb/>
+			d&apos;approfondir son analyse. Cet exemple montre une question contenant l&apos;essentiel des
+			<lb/>
+			constats d&apos;analyse auxquels nous sommes arrivés, à savoir que certaines pratiques
+			<lb/>
+			d&apos;intervention jouent un rôle central dans l&apos;expérience d&apos;inclusion scolaire vécue par
+			<lb/>
+			l&apos;élève en difficulté d&apos;apprentissage. Ainsi, le chercheur tient compte de l&apos;évolution, à
+			<lb/>
+			l&apos;intérieur même de la réalisation de la collecte de données, de sa compréhension du
+			<lb/>
+			phénomène étudié. La réponse obtenue à cette question de validation devrait donc
+			<lb/>
+			aller dans le même sens que les conclusions tirées de l&apos;analyse simultanée faite par le
+			<lb/>
+			chercheur. Si tel est le cas, le chercheur pourra considérer que ses conclusions ont été
+			<lb/>
+			validées par le participant, ce qui mettra fin à l&apos;entretien. À l&apos;opposé, si la dernière
+			<lb/>
+			réponse diffère significativement des propos déjà tenus par le participant, le
+			<lb/>
+			chercheur devra poursuivre son analyse et, par le fait même, poursuivre
+			<lb/>
+			nécessairement la collecte de données. Il arrive également que d&apos;autres questions de
+			<lb/>
+			validation soient utiles lors d&apos;un même entretien.
+			<lb/>
+		</p>
+		
+		<head>3.2.2 Lastructure du groupe de discussion
+			<lb/>
+		</head>
+		
+		<p>Après avoir réalisé les entretiens par courriels et en avoir fait un premier niveau
+			<lb/>
+			d&apos;analyse, nous nous sommes rapidement rendu compte qu&apos;une rencontre entre les
+			<lb/>
+			participants serait susceptible d&apos;enrichir la collecte de données et, par le fait même,
+			<lb/>
+			d&apos;élargir notre compréhension du phénomène à l&apos;étude. Nous avons réalisé un groupe
+			<lb/>
+			de discussion composé, pour l&apos;essentiel, des mêmes intervenants qui avaient participé
+			<lb/>
+			aux entretiens par courriels. Nous les avons rencontrés dans leur lieu de travail, après
+			<lb/>
+			avoir préalablement fixé un moment qui leur semblait opportun.
+			<lb/>
+		</p>
+		
+		<p>Fortement apparentés aux entretiens de groupe, les groupes de discussion sont :
+			<lb/>
+			des entretiens peu structurés dans le cadre desquels la chercheuse ou le
+			<lb/>
+			chercheur est plus en retrait, laissant la place à des interprétations plus
+			<lb/>
+			libres de la part des personnes sollicitées, posant des questions plus
+			<lb/>
+			ouvertes, et encourageant les interactions qui deviennent la principale
+			<lb/>
+			source de données pour l&apos;étude (<ref type="biblio">Morissette, 2011, p. 25</ref>).
+			<lb/>
+		</p>
+		
+		<p>Lors de cet entretien collectif, nous n&apos;avons pas eu à jouer un rôle d&apos;animateur
+			<lb/>
+			à proprement dit, qui implique généralement de gérer les droits de parole, le temps et
+			<lb/>
+			les thèmes discutés. Les interactions se sont faites naturellement, sans que nous ayons
+			<lb/>
+			à intervenir pour relancer les échanges. Nous avons également rarement eu besoin de
+			<lb/>
+			reformuler les idées évoquées, puisque les propos étaient généralement clairs et
+			<lb/>
+			précis. Aussi, en tant que chercheurs, nous n&apos;avons pratiquement posé aucune
+			<lb/>
+			question aux participants, entre qui la discussion s&apos;est rapidement établie. L&apos;échange
+			<lb/>
+			s&apos;est déroulé dans un profond respect, tant dans la gestion de la prise de parole que
+			<lb/>
+			dans les commentaires, l&apos;un complétant les propos d&apos;un collègue, l&apos;autre résumant
+			<lb/>
+			dans ses mots une idée présentée. Ainsi, la rencontre s&apos;est davantage apparentée à une
+			<lb/>
+			discussion entre collègues plutôt qu&apos;à une entrevue entre un chercheur et des
+			<lb/>
+			participants. Les données obtenues après près d&apos;une heure trente de discussion ont été
+			<lb/>
+			d&apos;une grande richesse, et nous ont permis de valider certains aspects de la théorie que
+			<lb/>
+			nous avions antérieurement isolés par l&apos;analyse des entretiens par courriels. Après
+			<lb/>
+			l&apos;analyse du groupe de discussion, nous avons constaté que notre compréhension de
+			<lb/>
+			l&apos;expérience d&apos;inclusion scolaire vécue à l&apos;école concernée par le projet de recherche
+			<lb/>
+			s&apos;était élargie et approfondie. Nous avons été à même d&apos;établir clairement des
+			<lb/>
+			facteurs pouvant être liés à la réussite du programme étudié.
+			<lb/>
+		</p>
+		
+		<head>3.3 Le déroulement de la collecte des données
+			<lb/>
+		</head>
+		
+		<p>En MTE comme dans la recherche qualitative, il est généralement reconnu que le
+			<lb/>
+			chercheur gagne à se familiariser avec le terrain d&apos;investigation. Il doit s&apos;imprégner le
+			<lb/>
+			plus possible de la réalité étudiée, afin de contextualiser son analyse et son
+			<lb/>
+			interprétation des données, et ainsi approfondir sa compréhension du phénomène.
+			<lb/>
+			Lors du déroulement de la collecte de données, un étroit travail de collaboration s&apos;est
+			<lb/>
+			mis en place entre les deux chercheurs principaux ayant contribué au projet de
+			<lb/>
+			recherche. Puisqu&apos;un seul chercheur avait fréquenté le terrain d&apos;investigation et s&apos;était
+			<lb/>
+			familiarisé avec le milieu étudié, il a été décidé que tous les échanges avec les
+			<lb/>
+			participants passeraient par ce dernier. Ainsi, ce chercheur a piloté les entretiens par
+			<lb/>
+			courriels et le groupe de discussion, en plus de rédiger le journal de bord. Les
+			<lb/>
+			participants connaissaient déjà bien le chercheur attitré à la collecte de données, ce
+			<lb/>
+			qui a grandement facilité l&apos;établissement d&apos;une relation de confiance. L&apos;autre
+			<lb/>
+			chercheur, quant à lui, était chargé de diriger les entretiens par courriels, faisant
+			<lb/>
+			simultanément la rédaction des questions et l&apos;analyse des réponses. Les participants
+			<lb/>
+			connaissaient l&apos;existence de ce deuxième chercheur, mais ne sont jamais entrés en
+			<lb/>
+			contact avec lui.
+			<lb/>
+		</p>
+		
+		<p>Cette collaboration particulière qui s&apos;est établie entre les deux chercheurs a
+			<lb/>
+			entraîné certains avantages. En plus d&apos;avoir un effet motivant sur les chercheurs, elle
+			<lb/>
+			a notamment permis la révision, par le chercheur lié au terrain, de tous les courriels
+			<lb/>
+			rédigés par l&apos;autre chercheur et envoyés aux participants, apportant un autre point de
+			<lb/>
+			vue sur la poursuite des entretiens. Cette répartition des rôles des chercheurs a aussi
+			<lb/>
+			eu des inconvénients évidents. Outre certaines difficultés liées aux horaires, le
+			<lb/>
+			principal inconvénient rencontré par le chercheur à l&apos;extérieur du terrain
+			<lb/>
+			d&apos;investigation a été la difficulté de s&apos;enraciner dans la réalité vécue par les
+			<lb/>
+			participants afin que l&apos;analyse soit éclairée par le contexte. Pour y arriver, ce
+			<lb/>
+			chercheur s&apos;est fortement appuyé sur les données provenant des entretiens par
+			<lb/>
+			courriels, du groupe de discussion et du journal de bord.
+			<lb/>
+		</p>
+		
+		<head>3.4 La description du processus d&apos;analyse des données et la construction de la
+			<lb/>
+			théorie
+			<lb/>
+		</head>
+		
+		<p>Selon la méthode d&apos;analyse par comparaison continue (<ref type="biblio">Glaser &amp; Strauss, 1967</ref>), nous
+			<lb/>
+			avons simultanément procédé à la collecte et à l&apos;analyse des données. Il faut donc
+			<lb/>
+			garder en tête que les différentes phases que nous décrivons n&apos;ont pas été
+			<lb/>
+			opérationnalisées d&apos;une manière séquentielle, mais qu&apos;elles s&apos;imbriquent l&apos;une dans
+			<lb/>
+			l&apos;autre dans un processus d&apos;influence réciproque.
+			<lb/>
+		</p>
+		
+		<p>Les propos des participants aux entretiens par courriels et au groupe de
+			<lb/>
+			discussion ont, dans un premier temps, été placés dans cinq documents pour ensuite
+			<lb/>
+			être codés à l&apos;aide du logiciel QSR N&apos;Vivo. Près de deux cents catégories distinctes
+			<lb/>
+			ont ainsi été créées. À cette étape, le discours des participants a été soumis à un
+			<lb/>
+			premier découpage des données par unité de sens. Ce découpage nous a menés à
+			<lb/>
+			l&apos;élaboration de quelques catégories générales liées de près aux thèmes que nous
+			<lb/>
+			avions choisi d&apos;aborder dans les entretiens et qui ont été discutés dans l&apos;entretien
+			<lb/>
+			collectif. Dans un second temps, les unités de sens se retrouvant à l&apos;intérieur d&apos;une
+			<lb/>
+			même catégorie ont été comparées entre elles afin de faire ressortir les concordances
+			<lb/>
+			et les différences et ainsi complexifier les propriétés théoriques liées à chaque
+			<lb/>
+			catégorie. Dans cette phase, l&apos;interprétation du chercheur joue un rôle secondaire.
+			<lb/>
+			C&apos;est dans la phase subséquente que l&apos;interprétation des données commencera à faire
+			<lb/>
+			partie du processus d&apos;analyse.
+			<lb/>
+		</p>
+		
+		<p>Dans un troisième temps, nous avons créé de nouvelles catégories découlant
+			<lb/>
+			des propriétés théoriques ressorties à la phase précédente. Pour la première fois, des
+			<lb/>
+			catégories issues de la réflexion des chercheurs sont apparues et se sont jointes à
+			<lb/>
+			celles issues du discours des participants. Ces nouvelles catégories créées par les
+			<lb/>
+			chercheurs sont essentiellement composées de pistes de réflexion inspirées d&apos;une
+			<lb/>
+			première interprétation des données. Même si elles ne se rattachent pas directement
+			<lb/>
+			au vécu des participants, ces catégories interprétatives ont joué un rôle important dans
+			<lb/>
+			notre processus de théorisation.
+			<lb/>
+		</p>
+		
+		<p>Une quatrième phase a consisté à relire attentivement le contenu de chaque
+			<lb/>
+			catégorie développée, et à tenter d&apos;établir des liens et des disjonctions entre les
+			<lb/>
+			propriétés théoriques identifiées. À cette étape, nous avons également jugé nécessaire
+			<lb/>
+			d&apos;adopter une vision globale du schéma analytique développé, et ce, tant d&apos;un point
+			<lb/>
+			de vue physique que théorique. En effet, l&apos;aspect et l&apos;organisation physique de la
+			<lb/>
+			carte de catégories peuvent en dire beaucoup sur l&apos;orientation que prend la théorie en
+			<lb/>
+			construction.
+			<lb/>
+		</p>
+		
+		<p>Sans pouvoir affirmer qu&apos;il s&apos;agit d&apos;une phase à proprement dit, la rédaction de
+			<lb/>
+			mémos a accompagné, et fortement alimenté, tout notre processus d&apos;analyse. Nous
+			<lb/>
+			avons rédigé trois types de mémos. Un premier type de mémos a été rédigé sous
+			<lb/>
+			forme de journal de recherche. Dans ce journal se retrouvent essentiellement des
+			<lb/>
+			notes chronologiques prises lorsque nous étions sur le terrain. Ces notes concernent
+			<lb/>
+			nos impressions, nos questionnements sur tous les aspects de la recherche (motivation
+			<lb/>
+			des participants, échanges informels, difficultés rencontrées sur le terrain, suivi de la
+			<lb/>
+			correspondance par courrier électronique sous forme de tableau, idées soudaines,
+			<lb/>
+			etc.). Visant surtout à faciliter la planification des entretiens, ce premier type de
+			<lb/>
+			mémos ne concernait pas directement les données collectées. Un deuxième type de
+			<lb/>
+			mémos a été rédigé sous forme de courts billets portant essentiellement sur le contenu
+			<lb/>
+			des entretiens (idées de questions à venir, commentaires sur les échanges par
+			<lb/>
+			courriels, réflexions issues des propos des participants, etc.). Ces billets, à la fois
+			<lb/>
+			brefs et précis, ont été intégrés à notre analyse dès les premiers instants des entretiens
+			<lb/>
+			par courriels. Un troisième type de mémos a également été rédigé, cette fois-ci sous la
+			<lb/>
+			forme de nouveaux documents dans N&apos;Vivo, distincts des cinq déjà créés. Ce dernier
+			<lb/>
+			type de mémos correspond à une phase distincte de notre processus d&apos;analyse,
+			<lb/>
+			puisqu&apos;il revêt un caractère fortement interprétatif.
+			<lb/>
+		</p>
+		
+		<p>En effet, dans un cinquième temps, nous avons créé un nouveau document dans
+			<lb/>
+			N&apos;Vivo pour chaque aspect de la théorie en émergence. Par exemple, à cette étape du
+			<lb/>
+			processus d&apos;analyse, il ressortait déjà de cela que l&apos;identification de compétences
+			<lb/>
+			professionnelles ne suffisait pas pour bien comprendre les facteurs de réussite du
+			<lb/>
+			programme d&apos;inclusion développé dans l&apos;école concernée. En effet, les données
+			<lb/>
+			analysées ont rapidement montré que les compétences d&apos;ordre génériques des
+			<lb/>
+			intervenants, se rapportant aux qualités et aux attitudes, jouaient un rôle prépondérant
+			<lb/>
+			dans l&apos;augmentation de l&apos;estime de soi des élèves intégrés. Nous avons donc créé un
+			<lb/>
+			nouveau document N&apos;Vivo dans lequel nous avons regroupé l&apos;ensemble des codes et
+			<lb/>
+			des mémos liés à cet aspect théorique. Nous avons par la suite rassemblé tous ces
+			<lb/>
+			éléments théoriques sous forme de texte suivi, gardant en tête que ce texte serait
+			<lb/>
+			susceptible d&apos;alimenter la rédaction d&apos;un futur rapport de recherche. Nous avons
+			<lb/>
+			procédé de la sorte pour les autres aspects de la théorie en émergence.
+			<lb/>
+		</p>
+		
+		<head>4. Les résultats préliminaires
+			<lb/>
+		</head>
+		
+		<p>Même si les phases analytique et interprétative sont toujours en cours, des résultats
+			<lb/>
+			préliminaires permettent de faire ressortir certaines tendances. Ainsi, lors des
+			<lb/>
+			entretiens que nous avons faits avec les membres de l&apos;équipe pédagogique qui
+			<lb/>
+			interviennent directement auprès des élèves en troubles d&apos;apprentissage, certaines
+			<lb/>
+			conditions ont pu être identifiées comme pouvant faciliter la réussite de l&apos;expérience
+			<lb/>
+			d&apos;inclusion vécue à l&apos;école primaire concernée. Les résultats préliminaires font
+			<lb/>
+			principalement état de trois familles de conditions favorables à la réussite : les
+			<lb/>
+			pratiques éducatives liées aux compétences des intervenants, l&apos;attitude des parents
+			<lb/>
+			d&apos;élèves intégrés et les éléments contextuels se rattachant au programme d&apos;inclusion
+			<lb/>
+			d&apos;élèves en troubles d&apos;apprentissage.
+			<lb/>
+		</p>
+		
+		<p>Tout d&apos;abord, des caractéristiques liées aux pratiques des intervenants ont été
+			<lb/>
+			identifiées comme étant des conditions qu&apos;il est nécessaire de considérer afin de
+			<lb/>
+			mieux comprendre ce qui fait de l&apos;expérience d&apos;inclusion une réussite. D&apos;une part,
+			<lb/>
+			notre analyse préliminaire nous permet de relier la réussite scolaire des élèves
+			<lb/>
+			intégrés et le développement de compétences professionnelles chez les intervenants.
+			<lb/>
+			Ainsi, les intervenants des classes d&apos;inclusion établissent un lien direct entre certaines
+			<lb/>
+			compétences professionnelles qu&apos;ils ont développées (gestion de classe et pratiques
+			<lb/>
+			différenciées, développement et engagement professionnel, organisation et
+			<lb/>
+			planification des savoirs enseignés, travail d&apos;équipe, etc.) et l&apos;augmentation de la
+			<lb/>
+			réussite scolaire chez leurs élèves intégrés. D&apos;autre part, notre analyse s&apos;est également
+			<lb/>
+			attardée à l&apos;estime de soi des élèves intégrés. En effet, même si le volet quantitatif de
+			<lb/>
+			la recherche (visant à évaluer le niveau d&apos;estime de soi auprès des élèves concernés)
+			<lb/>
+			est toujours en cours, le discours des participants aux entretiens suggère que ces
+			<lb/>
+			élèves ont une estime d&apos;eux-mêmes positive, ce qui a priori peut sembler surprenant
+			<lb/>
+			étant donné l&apos;importance des difficultés d&apos;apprentissage qu&apos;ils vivent. Lors de la
+			<lb/>
+			collecte de données, nous nous attendions à ce que les compétences professionnelles
+			<lb/>
+			soient liées à l&apos;estime de soi des élèves intégrés. Or, une analyse soutenue des
+			<lb/>
+			données permet plutôt de relier l&apos;estime de soi à une famille de compétences
+			<lb/>
+			génériques. Apparentée aux qualités et aux attitudes, cette famille de compétences est
+			<lb/>
+			à leurs yeux « […] ce que ça prend pour travailler dans une classe inclusive ». Ils
+			<lb/>
+			identifient ainsi, notamment, la patience, l&apos;empathie, la communication
+			<lb/>
+			interpersonnelle, l&apos;entraide, la promptitude, la conscience professionnelle, la justice,
+			<lb/>
+			l&apos;investissement, la confiance, la sensibilité et l&apos;ouverture comme des composantes
+			<lb/>
+			essentielles de leur travail auprès des élèves intégrés. Pour eux, l&apos;amélioration de
+			<lb/>
+			l&apos;estime personnelle des élèves intégrés passerait notamment par le soutien d&apos;une
+			<lb/>
+			équipe d&apos;intervenants directs faisant preuve de compétences génériques hautement
+			<lb/>
+			développées. Ces compétences professionnelles et génériques sont à la base des
+			<lb/>
+			pratiques éducatives adoptées par les intervenants envers les élèves intégrés.
+			<lb/>
+		</p>
+		
+		<p>Outre les intervenants en milieu scolaire, l&apos;attitude positive et déterminée des
+			<lb/>
+			parents d&apos;élèves intégrés est également liée à la réussite du programme d&apos;inclusion
+			<lb/>
+			scolaire. Par exemple, les parents ayant un enfant intégré au programme d&apos;inclusion
+			<lb/>
+			s&apos;impliquent activement dans leur cheminement scolaire. Ils assureraient un suivi
+			<lb/>
+			scolaire serré et assidu à la maison, renforçant ainsi les interventions faites en classe.
+			<lb/>
+			Leurs exigences envers leur enfant seraient à la fois réalistes et adéquates. Ces
+			<lb/>
+			attitudes parentales sont considérées comme une condition facilitant la réussite de
+			<lb/>
+			l&apos;expérience vécue à l&apos;école concernée.
+			<lb/>
+		</p>
+		
+		<p>Certains éléments contextuels propres à la situation étudiée jouent aussi un rôle
+			<lb/>
+			dans la réussite du programme d&apos;inclusion scolaire. Par exemple, la sélection des
+			<lb/>
+			élèves et le contingentement du programme sont liés à l&apos;implication des parents et à
+			<lb/>
+			l&apos;attitude positive qu&apos;ils adoptent par rapport au programme. Le faible ratio
+			<lb/>
+			enseignant-élève, l&apos;important effort financier, humain et administratif mis en place
+			<lb/>
+			par les responsables du programme de même que le processus d&apos;affectation des
+			<lb/>
+			intervenants entraînent la mise en place de conditions facilitantes.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Depuis sept années, une école primaire située dans une région éloignée du Québec
+			<lb/>
+			accueille des élèves en troubles d&apos;apprentissage qui sont intégrés en classe inclusive.
+			<lb/>
+			Même si le programme développé par cette école n&apos;avait jamais été évalué dans le
+			<lb/>
+			cadre d&apos;une recherche scientifique, les acteurs concernés (parents, élèves,
+			<lb/>
+			intervenants, administrateurs) voient l&apos;expérience comme une réussite. Bien que la
+			<lb/>
+			recherche concernée par le présent article soit toujours en cours, certains facteurs de
+			<lb/>
+			réussite ont été dégagés. Principalement, ces facteurs concernent les pratiques
+			<lb/>
+			éducatives liées aux compétences des intervenants, l&apos;attitude des parents d&apos;élèves
+			<lb/>
+			intégrés et les éléments contextuels se rattachant au programme d&apos;insertion d&apos;élèves
+			<lb/>
+			en troubles d&apos;apprentissage.
+			<lb/>
+		</p>
+		
+		<p>D&apos;un point de vue méthodologique, la recherche a été menée selon certains
+			<lb/>
+			principes propres à la méthodologie de la théorisation enracinée, ou MTE
+			<lb/>
+			(<ref type="biblio">Luckerhoff &amp; Guillemette, 2012</ref>). Tant au niveau procédural qu&apos;analytique,
+			la MTE
+			<lb/>
+			a permis de mieux comprendre ce que vivent les intervenants qui travaillent auprès
+			<lb/>
+			des élèves en troubles d&apos;apprentissage qui font partie du programme d&apos;inclusion
+			<lb/>
+			scolaire. En participant à des entretiens individuels et collectifs, les intervenants ont
+			<lb/>
+			fortement souligné que leur expérience en classe inclusive est une réussite pour eux,
+			<lb/>
+			pour les élèves et pour les parents. La méthode d&apos;analyse par comparaison continue
+			<lb/>
+			(<ref type="biblio">Glaser &amp; Strauss, 1967</ref>) a joué un rôle important dans notre compréhension de
+			<lb/>
+			l&apos;objet étudié.
+			<lb/>
+		</p>
+		
+		<p>Le projet de recherche a nécessité une collecte de données provenant
+			<lb/>
+			d&apos;entretiens par courriels, d&apos;un groupe de discussion et d&apos;un journal de bord. Sur les
+			<lb/>
+			entretiens par courriels, nous retenons certaines limites quant à leur utilisation. Nous
+			<lb/>
+			notons d&apos;abord que la richesse des réponses et l&apos;intérêt des participants s&apos;amenuisent
+			<lb/>
+			graduellement au fil des échanges, et ce, en dépit de nos multiples tentatives de les
+			<lb/>
+			raviver. Également, la flexibilité dans la gestion du temps que permet l&apos;entretien par
+			<lb/>
+			courriels a semblé nuire aux participants. En effet, ils ont mentionné avoir trouvé
+			<lb/>
+			difficile d&apos;organiser leurs temps de réponse puisque l&apos;entretien n&apos;était pas
+			<lb/>
+			préalablement entré dans leur horaire de travail. Certains ont même précisé qu&apos;ils
+			<lb/>
+			écrivaient leurs réponses en plusieurs temps, en sauvegardant les données inscrites et
+			<lb/>
+			en continuant la rédaction le jour suivant. Ces difficultés relatées par les participants
+			<lb/>
+			vont à l&apos;encontre des propos adoptés par certains auteurs sur l&apos;utilisation de
+			<lb/>
+			l&apos;entretien par courriels, notamment ceux de <ref type="biblio">Bampton et Cowton (2002) et de
+			<lb/>
+				McAuliffe (2003)</ref>. À la lumière de notre expérience, nous croyons qu&apos;il serait
+			<lb/>
+			intéressant, dans un projet de recherche ultérieur, de se questionner sur ces difficultés
+			<lb/>
+			rencontrées par les enseignants lors des entretiens par courriels. Malgré ces
+			<lb/>
+			difficultés, les entretiens par courriels ont tout de même généré des données
+			<lb/>
+			importantes pour la recherche, particulièrement en ce qui concerne les réponses aux
+			<lb/>
+			questions de situation et d&apos;orientation.
+			<lb/>
+		</p>
+		
+		<p>Sur le groupe de discussion, nous retenons qu&apos;il a permis d&apos;enrichir, de nuancer
+			<lb/>
+			et de préciser les propos déjà recueillis lors des entretiens par courriels, si bien que
+			<lb/>
+			nous nous questionnons sur l&apos;utilisation exclusive, pour nos futures recherches, de
+			<lb/>
+			l&apos;entretien par courriels. Nous remettons également en question l&apos;ordre dans lequel
+			<lb/>
+			nous avons utilisé les deux types d&apos;entretiens. En effet, il aurait peut-être été plus
+			<lb/>
+			profitable de commencer les entretiens par la tenue d&apos;un groupe de discussion, dont
+			<lb/>
+			une première analyse aurait pu jeter les bases des futurs échanges courriel. Les
+			<lb/>
+			entretiens par courriels auraient ainsi été plus ciblés, accroissant sans doute l&apos;intérêt et
+			<lb/>
+			la motivation des participants. Hormis cet avantage, il demeure que le groupe de
+			<lb/>
+			discussion représente une façon intéressante de clore une phase de collecte de
+			<lb/>
+			données. En gardant cette réflexion entière, nous retiendrons que l&apos;entretien par
+			<lb/>
+			courriels et le groupe de discussion sont deux instruments offrant des possibilités
+			<lb/>
+			complémentaires pour une recherche qualitative comme celle que nous avons relatée
+			<lb/>
+			dans cet article.
+			<lb/>
+		</p>
+		
+	</text>
+</tei>

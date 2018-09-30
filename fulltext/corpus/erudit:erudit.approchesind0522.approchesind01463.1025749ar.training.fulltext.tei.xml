@@ -1,0 +1,1376 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>La recherche et l&apos;apprentissage en matière de développement durable impliquent la
+			<lb/>
+			production de connaissances utiles. Ils sont hautement normatifs, fondamentalement
+			<lb/>
+			interdisciplinaires et exigent une intégration entre les sciences naturelles et sociales.
+			<lb/>
+			La recherche en ce domaine exige donc la création d&apos;espaces interdisciplinaires et
+			<lb/>
+			transdisciplinaires pour assurer un dialogue et un transfert de connaissances. En ce
+			<lb/>
+			sens, la plate-forme de dialogue électronique e-dialogue a été élaborée en 2001 dans
+			<lb/>
+			le but d&apos;explorer le potentiel d&apos;Internet pour mobiliser divers groupes et réunir une
+			<lb/>
+			multitude de points de vue afin qu&apos;un dialogue de fond puisse avoir lieu. La plate-<lb/>forme en
+			question est un système de conversations textuelles en ligne. L&apos;analyse
+			<lb/>
+			d&apos;une conversation électronique est généralement réalisée par un, deux ou trois
+			<lb/>
+			chercheurs. Ainsi, compte tenu de la subjectivité de l&apos;observateur, les diverses idées
+			<lb/>
+			et divers points de vue qui ressortent de conversations en ligne ne sont pas captés lors
+			<lb/>
+			de l&apos;analyse de celles-ci. La Technique Newell &amp; Dale de modélisation des
+			<lb/>
+			conversations (TNDMC) a été mise au point dans le but de réaliser une analyse en
+			<lb/>
+			profondeur de dialogues afin de cerner des idées, de déterminer les liens entre des
+			<lb/>
+			idées et des thèmes, et de fournir une synthèse cohérente et une meilleure
+			<lb/>
+			compréhension des tendances sous-jacentes des conversations en ligne. La TNDMC
+			<lb/>
+			fait appel à une méthodologie empirique inductive et engendre des modèles pouvant
+			<lb/>
+			servir à examiner le plus impartialement possible les résultats de dialogues
+			<lb/>
+			improvisés. La mise en application et l&apos;amélioration continue de la TNDMC par des
+			<lb/>
+			chercheurs qui utilisent des processus dialogiques dans la réalisation de leurs travaux
+			<lb/>
+			peuvent mener à des méthodologies qui améliorent la synthèse d&apos;idées et
+			<lb/>
+			d&apos;innovations créées par l&apos;entremise du discours numérique.
+			<lb/>
+		</p>
+		
+		<p>E-dialogue, un outil en ligne dont le développement a été piloté par la titulaire
+			<lb/>
+			de la Chaire de recherche du Canada sur le développement communautaire durable,
+			<lb/>
+			Anne Dale, a fait l&apos;objet de nombreuses recherches visant à montrer comment
+			<lb/>
+			Internet peut favoriser l&apos;organisation d&apos;entretiens de groupe. Une première recherche
+			<lb/>
+			a été publiée par <ref type="biblio">Guillemette, Luckerhoff et Guillemette (2011)</ref> et portait sur les
+			<lb/>
+			raisons pour lesquelles un entretien de groupe est organisé en ligne et sur les
+			<lb/>
+			spécificités de l&apos;entretien de groupe en ligne. Plus spécifiquement, les chercheurs ont
+			<lb/>
+			porté leur attention sur la façon dont l&apos;entretien se déroule, les enjeux de son
+			<lb/>
+			animation et le statut épistémologique des données qu&apos;il permet de recueillir. Ces
+			<lb/>
+			chercheurs ont montré que « les différences entre les entretiens de groupe en ligne et
+			<lb/>
+			les entretiens en présence physique ne sont pas aussi importantes qu&apos;on pourrait le
+			<lb/>
+			croire » (p. 96). Leur analyse portait surtout sur l&apos;animation des entretiens et les
+			<lb/>
+			discours produits par les participants. La présente recherche porte surtout sur
+			<lb/>
+			l&apos;analyse possible des discours produits par les participants à des entretiens de groupe
+			<lb/>
+			en ligne.
+			<lb/>
+		</p>
+		
+		<head>1. Méthode
+			<lb/>
+		</head>
+		
+		<p>Nous avons analysé plus de 45 dialogues en ligne, de 2001 à 2013, afin d&apos;étudier le
+			<lb/>
+			potentiel d&apos;Internet pour les entretiens de groupe. La plate-forme de dialogue
+			<lb/>
+			électronique (e-dialogues.ca) utilise un système entièrement fondé sur le texte pour
+			<lb/>
+			les conversations afin d&apos;assurer l&apos;accessibilité aux utilisateurs disposant d&apos;une
+			<lb/>
+			connexion à faible bande passante (<ref type="biblio">Dale &amp; Newman, 2006a</ref>). Les dialogues ont
+			porté
+			<lb/>
+			sur des sujets tels que l&apos;infrastructure urbaine, la gestion des déchets nucléaires,
+			<lb/>
+			l&apos;économie verte -y compris le rôle des jeunes relativement aux initiatives portant
+			<lb/>
+			sur la durabilité -, les innovations en matière de changement climatique, la
+			<lb/>
+			redéfinition de la croissance et du progrès dans les temps modernes, et d&apos;autres sujets
+			<lb/>
+			portant sur les mesures à prendre pour favoriser un avenir durable. Les dialogues
+			<lb/>
+			électroniques sont archivés à des fins d&apos;apprentissage continu et de référence. La
+			<lb/>
+			conversation d&apos;un dialogue électronique est synchrone et se déroule en temps réel. La
+			<lb/>
+			conversation est alimentée par des messages textuels auxquels les interlocuteurs
+			<lb/>
+			peuvent joindre des liens vers des images et des documents. Une conversation peut
+			<lb/>
+			être divisée en plusieurs discussions plus restreintes par l&apos;utilisation de « citations »,
+			<lb/>
+			c&apos;est-à-dire qu&apos;une personne peut écrire un message en réponse à un autre message et
+			<lb/>
+			en citant cet autre message.
+			<lb/>
+		</p>
+		
+		<p>Nous avons mené cette recherche selon les procédures de la méthodologie de la
+			<lb/>
+			théorisation enracinée (
+			<ref type="biblio">Charmaz, 2006; Corbin &amp; Strauss, 2008; Luckerhoff &amp;<lb/>
+				Guillemette, 2012
+			</ref>
+			). Nous avons analysé les données au fur et à mesure, en respectant
+			<lb/>
+			les principes de circularité entre la collecte et l&apos;analyse des données (
+			<ref type="biblio">Charmaz, 2006;
+				<lb/>
+				Corbin &amp; Strauss, 2008</ref>) et d&apos;échantillonnage théorique (<ref type="biblio">Charmaz, 2006
+			</ref>
+			).
+			<lb/>
+			En tant qu&apos;illustration d&apos;une approche inductive, nous proposons donc une
+			<lb/>
+			analyse de notre démarche, à partir de nos observations, des notes que nous avons
+			<lb/>
+			prises et de nos discussions, entre chercheurs participants.
+			<lb/>
+		</p>
+		
+		<head>2. Les entretiens en ligne dans le cadre d&apos;une problématique du développement
+			<lb/>
+			durable
+			<lb/>
+		</head>
+		
+		<p>Le développement durable comporte d&apos;importants défis à la fois pour les praticiens et
+			<lb/>
+			les éducateurs (<ref type="biblio">Dale, 2001; Robinson &amp; Tinker, 1997</ref>). L&apos;aspect le plus
+			important
+			<lb/>
+			pour les praticiens communautaires est de prendre appui sur les pratiques exemplaires
+			<lb/>
+			et les technologies de pointe, tout en minimisant le risque par rapport à
+			<lb/>
+			l&apos;apprentissage. Les éducateurs sont également préoccupés par la diffusion des
+			<lb/>
+			résultats de recherche et du savoir en lien avec des pratiques exemplaires pour
+			<lb/>
+			parvenir au développement de collectivités durables. Étant donné que la recherche et
+			<lb/>
+			l&apos;apprentissage en matière de développement durable impliquent la production de
+			<lb/>
+			connaissances utiles, qu&apos;ils sont hautement normatifs, fondamentalement
+			<lb/>
+			interdisciplinaires et qu&apos;ils intègrent les sciences naturelles et les sciences sociales, ils
+			<lb/>
+			exigent des espaces interdisciplinaires et transdisciplinaires pour assurer un dialogue
+			<lb/>
+			et un transfert de connaissances. Il est donc essentiel de faire appel à des approches
+			<lb/>
+			transdisciplinaires pour aborder la nature complexe des problèmes du monde réel
+			<lb/>
+			(<ref type="biblio">Krishna, 2001</ref>), et pour assurer la production de connaissances utiles afin de jeter un
+			<lb/>
+			pont entre la sphère de la recherche universitaire et le monde des connaissances
+			<lb/>
+			tacites et expérimentales (<ref type="biblio">Krishna, 2001</ref>). Par conséquent, l&apos;apprentissage et la
+			<lb/>
+			pratique exigent tous deux des méthodes novatrices de diffusion des connaissances,
+			<lb/>
+			particulièrement si on tient compte du fait que l&apos;implantation de solutions dépasse la
+			<lb/>
+			compétence et l&apos;expertise d&apos;un secteur ou d&apos;un gouvernement donné. Contrairement à
+			<lb/>
+			d&apos;autres défis de nos temps modernes, il n&apos;existe pas une seule bonne réponse, mais
+			<lb/>
+			plutôt plusieurs solutions et plusieurs voies d&apos;implantation. Nous sommes donc
+			<lb/>
+			clairement dans un paradigme subjectiviste.
+			<lb/>
+		</p>
+		
+		<p>Bon nombre de collectivités tentent présentement de relever le défi du
+			<lb/>
+			développement durable, mais leurs efforts sont souvent réactifs, ne se produisent que
+			<lb/>
+			de façon ponctuelle et ne sont pas consignés adéquatement. Or, il est évident que
+			<lb/>
+			l&apos;existence de nouveaux réseaux transdisciplinaires conçus pour favoriser la
+			<lb/>
+			collaboration est déterminante pour assurer un développement de collectivités
+			<lb/>
+			durables (<ref type="biblio">Bradford, 2003; Dale, 2001</ref>). Une approche transdisciplinaire devrait
+			<lb/>
+			permettre de combler l&apos;écart entre la recherche et la prise de décisions (
+			<ref type="biblio">Rammel,
+				<lb/>
+				2003
+			</ref>
+			), et -de façon particulièrement importante pour la présente étude de cas -,
+			<lb/>
+			permettre à un outil de bien fonctionner pour divers groupes d&apos;utilisateurs. La mise en
+			<lb/>
+			place de tels réseaux permettrait aux groupes communautaires d&apos;éviter les répétitions
+			<lb/>
+			qui grèvent les ressources et de tirer des leçons des erreurs et des succès d&apos;autres
+			<lb/>
+			groupes. De quelle façon, au juste, de tels liens peuvent-ils être établis, et comment la
+			<lb/>
+			vitesse de partage des connaissances et d&apos;adoption de nouvelles technologies peut-<lb/>elle être
+			accélérée (<ref type="biblio">Horlick-Jones &amp; Sime, 2004</ref>)?
+			<lb/>
+		</p>
+		
+		<p>Étant donné que l&apos;adaptation, l&apos;interaction dynamique (<ref type="biblio">Norgaard, 2004</ref>),
+			<lb/>
+			l&apos;innovation et l&apos;acquisition continue du savoir sont des composantes essentielles des
+			<lb/>
+			connaissances et des pratiques en matière de développement durable, nous avons
+			<lb/>
+			décidé, en 2001, d&apos;examiner plus à fond la possibilité d&apos;élaborer un outil en ligne qui
+			<lb/>
+			faciliterait l&apos;acquisition continue de connaissances et un dialogue permanent portant
+			<lb/>
+			sur les questions fondamentales en matière de politiques publiques, en particulier en
+			<lb/>
+			ce qui a trait au développement durable. Nos sociétés sont en constante mutation, et
+			<lb/>
+			cette nature changeante de la société et de la biosphère, loin d&apos;être en équilibre
+			<lb/>
+			(<ref type="biblio">Weddell, 2002</ref>), remet en question l&apos;idée qu&apos;une société idéale, statique et en parfait
+			<lb/>
+			équilibre doit être créée. Comme l&apos;indique l&apos;écologiste <ref type="biblio">Christian Rammel (2003,
+			<lb/>
+				p. 395)</ref> : « Le développement durable doit appuyer un processus adaptatif et souple
+			<lb/>
+			afin que des changements inévitables soient apportés aux systèmes environnementaux
+			<lb/>
+			et socio-économiques » 1 [traduction libre]. Une société durable doit être dynamique
+			<lb/>
+			et toujours réexaminer ce qui est durable selon les conditions du moment (<ref type="biblio">Norgaard,
+			<lb/>
+				2004</ref>). Comme le souligne <ref type="biblio">Rammel (2003, p. 396)</ref> : « [...] la voie du développement
+			<lb/>
+			ne peut être dans un état idéal, ou parfaitement équilibré ou optimal » 2
+			[traduction
+				<lb/>
+				libre] -il s&apos;agit d&apos;un voyage sans escale vers une destination qui sera sans doute
+			<lb/>
+			toujours inaccessible (<ref type="biblio">Robinson &amp; Tinker, 1997</ref>). Cela dit, notre outil se
+			devait
+			<lb/>
+			d&apos;avoir la capacité d&apos;engendrer une interaction dynamique et de saisir l&apos;apprentissage
+			<lb/>
+			et le changement continus. Afin de faciliter les interactions et saisir l&apos;apprentissage,
+			<lb/>
+			une mise en grappes (niches ou cluster 3 ) est nécessaire au sein des réseaux, et cette
+			<lb/>
+			mise en grappes est un processus dynamique (<ref type="biblio">Gargiulo &amp; Benassi, 2000</ref>). L&apos;outil
+			doit
+			<lb/>
+			pouvoir faire écho, activement, aux connaissances et aux expériences qui évoluent
+			<lb/>
+			continuellement. Il doit avoir la capacité de saisir l&apos;expertise et l&apos;expérience variées
+			<lb/>
+			des utilisateurs, sans quoi il risque de devenir un système d&apos;interaction
+			<lb/>
+			unidirectionnelle plutôt qu&apos;une base de connaissances diversifiées utilisée par divers
+			<lb/>
+			utilisateurs et un grand nombre de collectivités.
+			<lb/>
+		</p>
+		
+		<p>La mise en grappes comporte de nombreux avantages, notamment la capacité
+			<lb/>
+			des grappes à favoriser des degrés élevés d&apos;échange d&apos;innovations, d&apos;information et
+			<lb/>
+			de ressources, la capacité de partage d&apos;infrastructures et la capacité de partage entre
+			<lb/>
+			spécialistes (<ref type="biblio">Gargiulo &amp; Benassi, 2000</ref>). Il y a aussi beaucoup à gagner à
+			favoriser
+			<lb/>
+			l&apos;éducation au sein d&apos;une grappe, particulièrement en ce qui a trait à l&apos;exploitation du
+			<lb/>
+			savoir. Reste à savoir, cependant, comment faciliter ce type de mise en grappes. Le
+			<lb/>
+			concept initial de l&apos;outil visait à aller au-delà de la salle de classe et au coeur des
+			<lb/>
+			collectivités afin de corriger les asymétries en fait de capital social et d&apos;améliorer la
+			<lb/>
+			diffusion de la recherche dans les collectivités et de l&apos;apprentissage au sein de celles-<lb/>ci.
+			<lb/>
+		</p>
+		
+		<p>Le moyen de transfert de l&apos;information et la forme de cette information sont des
+			<lb/>
+			éléments essentiels aux yeux des leaders de groupes, des facilitateurs et des
+			<lb/>
+			universitaires qui tentent d&apos;aider les groupes en tissant des liens par l&apos;entremise du
+			<lb/>
+			partage d&apos;information. L&apos;un des problèmes d&apos;une étude non disciplinaire est de
+			<lb/>
+			comprendre la manière avec laquelle les différentes parties intéressées vont
+			<lb/>
+			communiquer (<ref type="biblio">Narayan, 1999</ref>). Une approche transdisciplinaire qui va au-delà de la
+			<lb/>
+			pédagogie traditionnelle d&apos;une seule discipline est nécessaire. Par conséquent, un
+			<lb/>
+			autre de nos objectifs visait à créer un forum pour mettre en lien le savoir et
+			<lb/>
+			l&apos;apprentissage d&apos;universitaires, d&apos;activistes communautaires, de décideurs et
+			<lb/>
+			d&apos;innovateurs en fournissant un espace et un lieu dynamiques et interactifs qui
+			<lb/>
+			allaient permettre aux collectivités de jeter des ponts au-delà de leurs frontières
+			<lb/>
+			géographiques et d&apos;accéder à des ressources traditionnelles.
+			<lb/>
+		</p>
+		
+		<head>3. Élargir la sphère publique pour le dialogue
+			<lb/>
+		</head>
+		
+		<p>En 2001, nous avons commencé à étudier le potentiel d&apos;Internet pour ouvrir un
+			<lb/>
+			dialogue de fond entre des groupes diversifiés de gens et différents points de vue sur
+			<lb/>
+			le sujet de la durabilité, tout en enrichissant la littératie relativement aux questions
+			<lb/>
+			clés du développement durable et en influençant la communauté des politiques
+			<lb/>
+			publiques (<ref type="biblio">Dale, 2005</ref>). La plate-forme de dialogue électronique (e-dialogues.ca)
+			<lb/>
+			élaborée par la suite utilise un système entièrement fondé sur le texte pour les
+			<lb/>
+			conversations afin d&apos;assurer l&apos;accessibilité aux utilisateurs disposant d&apos;une connexion
+			<lb/>
+			à faible bande passante (<ref type="biblio">Dale &amp; Newman, 2006b</ref>). Ainsi, elle permet aux gens issus
+			<lb/>
+			de différents types de collectivités, urbaines ou rurales, et disposant de différentes
+			<lb/>
+			capacités technologiques, d&apos;entrer en lien. Parce qu&apos;il s&apos;agit d&apos;un système en ligne
+			<lb/>
+			pouvant être accueilli par la plupart des ordinateurs et des connexions Internet, la
+			<lb/>
+			plate-forme permet à diverses collectivités d&apos;entretenir un dialogue, indépendamment
+			<lb/>
+			de l&apos;échelle de chacune, et fournit un espace transdisciplinaire où peuvent se réunir
+			<lb/>
+			chercheurs, praticiens, responsables de l&apos;élaboration de politiques et leaders de
+			<lb/>
+			collectivités. Ainsi, des perspectives inclusives peuvent être recueillies tout en
+			<lb/>
+			minimisant les dépenses et les émissions de carbone associées aux déplacements. De
+			<lb/>
+			plus, bien que les forums Internet puissent être sujets à l&apos;homophilie (Witschge,
+			<lb/>
+			2002), les dialogues électroniques peuvent être, et d&apos;ailleurs ont été, utilisés pour
+			<lb/>
+			réunir intentionnellement des personnes dont les points de vue diffèrent dans le but de
+			<lb/>
+			stimuler le dialogue et créer des aperçus complets d&apos;enjeux cruciaux relatifs à la
+			<lb/>
+			durabilité (
+			<ref type="biblio">Dale &amp; Newman, 2006a, 2006b; Dale, Luckerhoff, &amp; Guillemette, 2012;
+				<lb/>
+				Guillemette, Luckerhoff, &amp; Guillemette, 2011
+			</ref>
+			). En effet, le deuxième auteur a à ce
+			<lb/>
+			jour dirigé activement plus de 45 dialogues de ce type afin de garantir l&apos;inclusion des
+			<lb/>
+			différents points de vue. Ceux-ci ont été engagés sur une variété de sujets tels que
+			<lb/>
+			l&apos;infrastructure urbaine, la gestion des déchets nucléaires, l&apos;économie verte -y
+			<lb/>
+			compris le rôle des jeunes relativement aux initiatives portant sur la durabilité -, les
+			<lb/>
+			innovations en matière de changement climatique, la redéfinition de la croissance et
+			<lb/>
+			du progrès dans les temps modernes, et d&apos;autres sujets portant sur les mesures à
+			<lb/>
+			prendre pour favoriser un avenir durable. Les dialogues électroniques sont archivés à
+			<lb/>
+			des fins d&apos;apprentissage continu et de référence.
+			<lb/>
+		</p>
+		
+		<p>La conversation d&apos;un dialogue électronique est synchrone et se déroule en
+			<lb/>
+			temps réel. La conversation est alimentée par des messages textuels auxquels les
+			<lb/>
+			interlocuteurs peuvent joindre des liens vers des images et des documents. Une
+			<lb/>
+			conversation peut être divisée en plusieurs discussions plus restreintes par l&apos;utilisation
+			<lb/>
+			de « citations », c&apos;est-à-dire qu&apos;une personne peut écrire un message en réponse à un
+			<lb/>
+			autre message et en citant cet autre message.
+			<lb/>
+		</p>
+		
+		<p>La transcription de la conversation intégrale (voir la <ref type="figure">Figure 1</ref>) présente une liste
+			<lb/>
+			des messages dans l&apos;ordre dans lequel ils ont été affichés ainsi qu&apos;avec le nom de leur
+			<lb/>
+			auteur.
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Une image de la plate-forme d&apos;un dialogue électronique illustrant les
+			<lb/>
+			fonctions de messages et de citation.
+			<lb/>
+			La figure ci-dessus affiche une partie d&apos;une capture d&apos;écran de la conversation d&apos;un
+			<lb/>
+			dialogue électronique. L&apos;auteur du message affiché dans la capture d&apos;écran est Robert
+			<lb/>
+			Newell et les commentaires précédents cités par ce message (ou auxquels ils font
+			<lb/>
+			référence) se trouvent dans les champs emboîtés sous le texte. L&apos;ordre d&apos;emboîtage
+			<lb/>
+			est l&apos;ordre dans lequel les commentaires précédents ont été cités avec le message
+			<lb/>
+			d&apos;origine d&apos;un fil contenu dans le champ emboîté le plus à l&apos;intérieur.
+			<lb/>
+		</figure>
+		
+		<p>Les articles créés en réponse à d&apos;autres commentaires sont incorporés au
+			<lb/>
+			commentaire cité. De cette façon, des fils de conversations ou de sous-conversations
+			<lb/>
+			prennent forme à l&apos;intérieur d&apos;un dialogue électronique. Un seul commentaire peut
+			<lb/>
+			générer une multitude de réponses. Ainsi, plusieurs fils peuvent découler d&apos;un seul
+			<lb/>
+			message au fur et à mesure que les gens citent et font des ajouts à ces fils. Par
+			<lb/>
+			conséquent, les dialogues électroniques sont en fait des processus à ramifications
+			<lb/>
+			dynamiques qui ne suivent pas une voie linéaire simple. Des observations empiriques
+			<lb/>
+			supposent qu&apos;ils facilitent des styles d&apos;apprentissage plus latéraux que littéraux, et
+			<lb/>
+			que le premier style est peut-être plus important pour la recherche et les pratiques
+			<lb/>
+			interdisciplinaires.
+			<lb/>
+		</p>
+		
+		<head>4. Le modèle de conversation (TNDMC) : une approche inductive
+			<lb/>
+		</head>
+		
+		<p>Bien que les dialogues électroniques aient la capacité de réunir divers groupes de
+			<lb/>
+			personnes, l&apos;analyse de la transcription d&apos;une conversation est généralement réalisée
+			<lb/>
+			par un, deux ou trois chercheurs et non par la même diversité de gens. En
+			<lb/>
+			considération de ceci, en dépit du fait qu&apos;une conversation puisse être composée de
+			<lb/>
+			divers points et d&apos;expertises, cette diversité ne sera pas nécessairement captée par
+			<lb/>
+			l&apos;analyse étant donné que la recherche qualitative est sujette à la partialité de
+			<lb/>
+			l&apos;observateur (<ref type="biblio">Greenhalgh &amp; Taylor, 1997</ref>). Par conséquent, les principaux
+			thèmes
+			<lb/>
+			d&apos;une conversation et les idées novatrices qui ressortent couramment de « laboratoires
+			<lb/>
+			d&apos;idées » (<ref type="biblio">Johnson, 2010</ref>) risquent de ne pas être pris en compte puisque le chercheur
+			<lb/>
+			analyse la conversation en fonction de ses propres points de vue et de son domaine
+			<lb/>
+			d&apos;expertise.
+			<lb/>
+		</p>
+		
+		<p>Dans le but de limiter la partialité de l&apos;observateur et de capter les thèmes et
+			<lb/>
+			idées « émergents » d&apos;un dialogue électronique, nous avons créé la Technique ND de
+			<lb/>
+			modélisation des conversations (TNDMC). Cette technique met en lumière les
+			<lb/>
+			thèmes, les idées et les relations à l&apos;aide d&apos;un modèle empirique. La technique fait
+			<lb/>
+			appel à des méthodes de recherche de termes et de regroupement. Ensuite, une ligne
+			<lb/>
+			est tracée entre les thèmes et les idées émergents qui entretiennent un lien et selon
+			<lb/>
+			leur force ou leur prévalence dans la conversation. La TNDMC est une technique qui
+			<lb/>
+			peut être utilisée sans que la transcription de la conversation doive être lue afin que
+			<lb/>
+			les thèmes, les idées et les relations puissent être captés avec un minimum de
+			<lb/>
+			partialité de la part des chercheurs.
+			<lb/>
+		</p>
+		
+		<p>Nous n&apos;avions pas l&apos;intention, en créant cette technique de modélisation, de
+			<lb/>
+			remplacer l&apos;analyse qualitative des conversations en ligne -la TNDMC ne réussit pas
+			<lb/>
+			à capter ni le ton ni la nuance ni le contexte d&apos;une conversation; nous voulions plutôt
+			<lb/>
+			en faire un outil complémentaire et une façon de trianguler les analyses des données.
+			<lb/>
+			La création d&apos;un modèle de conversation permet au chercheur de réaliser une
+			<lb/>
+			évaluation « de très haute définition » de la transcription archivée en comprenant
+			<lb/>
+			mieux la dynamique d&apos;une conversation. De plus, la TNDMC permet de dégager des
+			<lb/>
+			liens intéressants et non intuitifs entre les thèmes et les idées sur lesquels un
+			<lb/>
+			chercheur peut faire une enquête plus poussée.
+			<lb/>
+		</p>
+		
+		<p>La TNDMC a été créée à partir d&apos;un dialogue électronique tenu le 16 juin 2011,
+			<lb/>
+			intitulé CRC Reflections : Past Five Years and Future Forward (<ref type="biblio">Dale, 2011</ref>). Il s&apos;agit
+			<lb/>
+			d&apos;un survol des cinq dernières années du programme CRC in Sustainable Community
+			<lb/>
+			Development et d&apos;une séance de remue-méninges portant principalement sur les
+			<lb/>
+			aspects sur lesquels mettre l&apos;accent au cours des cinq années à venir. Cet exemple
+			<lb/>
+			précis a été choisi compte tenu du caractère très complexe et ouvert de la discussion,
+			<lb/>
+			qui était une séance de remue-méninges entre les membres de l&apos;équipe de recherche
+			<lb/>
+			du CRC impliquant de multiples tangentes et fils. La mise en application de la
+			<lb/>
+			TNDMC à cette conversation nous a permis d&apos;étudier le potentiel de ce processus de
+			<lb/>
+			modélisation à capter les éléments communs et les idées émergentes dans le cadre
+			<lb/>
+			d&apos;une discussion libre et légèrement dirigée. Il est important de noter que la TNDMC
+			<lb/>
+			a été élaborée à l&apos;aide de la transcription d&apos;une conversation issue du système de
+			<lb/>
+			dialogue électronique et que, par conséquent, l&apos;utilisateur de cette technique doit
+			<lb/>
+			disposer d&apos;une conversation consignée dont la forme et la disposition s&apos;apparentent à
+			<lb/>
+			celles d&apos;un dialogue électronique (voir la <ref type="biblio">Figure 1</ref>).
+			<lb/>
+		</p>
+		
+		<head>5. Précisions techniques
+			<lb/>
+		</head>
+		
+		<p>La TNDMC a été conçue dans le but de déterminer inductivement les principaux
+			<lb/>
+			thèmes d&apos;une conversation, le degré d&apos;importance accordée aux thèmes lors de la
+			<lb/>
+			conversation, les idées qui ont jailli de ces thèmes et les idées ou les relations
+			<lb/>
+			partagées entre les thèmes. Les sections suivantes précisent de quelle façon les
+			<lb/>
+			thèmes, idées et liens ont été extrapolés, et comment ceux-ci ont été exprimés, sous
+			<lb/>
+			forme de graphique.
+			<lb/>
+		</p>
+		
+		<head>5.1 Axes et plan du tracé
+			<lb/>
+		</head>
+		
+		<p>Le modèle est tracé sur un plan cartésien. L&apos;axe des x représente le moment (plus
+			<lb/>
+			précisément, l&apos;ordre dans lequel) un thème ou une idée a été discuté (« séquence »),
+			<lb/>
+			alors que l&apos;axe des y représente pendant combien de temps un thème ou une idée a été
+			<lb/>
+			discuté et à quel moment un thème émergent a été soulevé à nouveau lors d&apos;une
+			<lb/>
+			discussion (« étendue »).
+			<lb/>
+		</p>
+		
+		<p>L&apos;axe de la séquence couvre toute la durée de la conversation d&apos;un dialogue
+			<lb/>
+			électronique et illustre où, au cours d&apos;une conversation -dans quel ordre -, les
+			<lb/>
+			thèmes et les idées ont été abordés et discutés. L&apos;ajout d&apos;une composante séquentielle
+			<lb/>
+			à un modèle de conversation vise à la fois à capter suffisamment la genèse et l&apos;origine
+			<lb/>
+			des idées émergentes et à répertorier avec facilité les idées et les thèmes en établissant
+			<lb/>
+			des références croisées avec la transcription de la conversation. Les unités sur l&apos;axe
+			<lb/>
+			de séquence représentent le nombre de messages et l&apos;ordre dans lequel ils sont
+			<lb/>
+			affichés; cet axe est strictement séquentiel et ne présente aucune information
+			<lb/>
+			temporelle (ni secondes ni minutes au cours d&apos;une conversation). La conversation
+			<lb/>
+			CRC Reflections compte 96 messages dont l&apos;origine se situe au « zéro-ième » point,
+			<lb/>
+			c&apos;est-à-dire avant la conversation. Le point terminal de l&apos;axe des temps représente le
+			<lb/>
+			96 e message, soit le dernier de la conversation. Le reste de l&apos;axe est fractionné en
+			<lb/>
+			unités égales (le 24 e message serait aligné avec le quart de l&apos;axe à partir du point
+			<lb/>
+			d&apos;origine, le 48 e message serait aligné à mi-chemin le long de l&apos;axe, etc.).
+			<lb/>
+		</p>
+		
+		<p>L&apos;axe de la séquence affiche un thème lorsque celui-ci a été abordé pendant une
+			<lb/>
+			conversation. Or, étant donné que les thèmes sont représentés graphiquement par des
+			<lb/>
+			marqueurs circulaires sur le graphique (discutés en détail ci-dessous), cet axe ne peut
+			<lb/>
+			capter avec précision pendant combien de temps un thème ou une idée a fait l&apos;objet
+			<lb/>
+			d&apos;une discussion. Par exemple, l&apos;idée des « paysages » a été abordée près du début de
+			<lb/>
+			la conversation CRC Reflections; elle serait donc tracée plus près de l&apos;origine de l&apos;axe
+			<lb/>
+			du temps. Or, cette idée a été discutée pendant plusieurs messages, plus près du
+			<lb/>
+			milieu de la conversation. Pour saisir pendant combien de temps une idée ou un
+			<lb/>
+			thème a été discuté, les idées et les thèmes sont également tracés le long d&apos;un axe de
+			<lb/>
+			l&apos;étendue. Cet axe commence à zéro (c&apos;est-à-dire aucun message) au point d&apos;origine
+			<lb/>
+			d&apos;une idée ou d&apos;un thème faisant l&apos;objet d&apos;une discussion, pour la durée maximale
+			<lb/>
+			(c&apos;est-à-dire depuis le premier message jusqu&apos;au dernier) au point terminal de l&apos;axe.
+			<lb/>
+			En ce qui a trait à la conversation CRC Reflections, un thème qui a été discuté dans le
+			<lb/>
+			premier message et aussi dans le 96 e message serait situé au point le plus élevé de
+			<lb/>
+			l&apos;axe de l&apos;étendue.
+			<lb/>
+		</p>
+		
+		<head>5.2 Cerner les thèmes communs
+			<lb/>
+		</head>
+		
+		<p>Comme l&apos;illustre la <ref type="figure">Figure 1</ref>, les dialogues électroniques permettent à des fils ou à
+			<lb/>
+			des sous-conversations de prendre forme compte tenu de la fonction de citation. La
+			<lb/>
+			TNDMC utilise ces fils pour déterminer les principaux thèmes d&apos;une conversation.
+			<lb/>
+			Un thème se définit par les concepts ou les sujets qui constituent le principal point de
+			<lb/>
+			mire d&apos;un fil de messages. Le thème est extrait d&apos;un fil de messages en effectuant une
+			<lb/>
+			analyse de la fréquence des termes ou concepts les plus courants. Les résultats de
+			<lb/>
+			l&apos;analyse de fréquence sont traités pour faire en sorte que seuls les mots liés aux
+			<lb/>
+			concepts sont inclus, c&apos;est-à-dire qu&apos;aucun élément grammatical tel que les
+			<lb/>
+			prépositions ou les conjonctions, ni les synonymes ou les mots dérivés ne sont saisis
+			<lb/>
+			dans le cadre du même concept (p. ex. « innovateur » et « innovation » seraient tous
+			<lb/>
+			deux saisis comme appartenant au même concept).
+			<lb/>
+		</p>
+		
+		<p>En élaborant la TNDMC à l&apos;aide de la conversation CRC Reflections, un ou
+			<lb/>
+			deux termes comprennent plus de 5 % du texte et, ensuite, la fréquence chute
+			<lb/>
+			considérablement pour le prochain terme le plus courant et les termes qui suivent.
+			<lb/>
+			Dans certains cas, plus d&apos;un terme surviendrait dans un fil aux fréquences les plus
+			<lb/>
+			élevées, mais égales entre elles, parce qu&apos;elles sont liées. Par exemple, « bâti » et
+			<lb/>
+			« environnement » sont apparus dans un fil, chacun avec une fréquence de 2,54 % car
+			<lb/>
+			la conversation était axée sur « l&apos;environnement bâti ». La TNDMC caractérise un fil
+			<lb/>
+			en fonction des termes qui s&apos;y retrouvent le plus fréquemment (voir la Figure 2) et les
+			<lb/>
+			qualifie de « thèmes d&apos;une conversation ».
+			<lb/>
+		</p>
+		
+		<p>Dans un modèle de conversation, ces thèmes sont représentés par des
+			<lb/>
+			marqueurs circulaires (voir la <ref type="figure">Figure 3</ref>). Les thèmes sont représentés sur l&apos;axe de
+			<lb/>
+			séquence en centrant le cercle du message médian du fil de conversation entourant le
+			<lb/>
+			thème. Par exemple, le thème « humains et nature » a été abordé dans sept messages
+			<lb/>
+			et le message médian était le 27 e de la conversation CRC Reflections; il est donc
+			<lb/>
+			aligné avec l&apos;incrément 27 de l&apos;axe de séquence. La médiane a été choisie comme
+			<lb/>
+			moyenne statistique à utiliser pour représenter un thème pour la raison suivante : les
+			<lb/>
+			médianes produisent souvent des nombres non entiers, ce qui aurait pour conséquence
+			<lb/>
+			de centrer un thème sur une valeur non existante d&apos;un message. Le mode n&apos;existe pas
+			<lb/>
+			pour les séries de données de messages étant donné que tous les messages se font
+			<lb/>
+			assigner une valeur séquentielle unique.
+			<lb/>
+		</p>
+		
+		<p>Les thèmes jalonnent l&apos;axe de l&apos;étendue selon le nombre de fois qu&apos;ils
+			<lb/>
+			surviennent entre le premier message et le dernier portant sur eux. Par exemple, le
+			<lb/>
+			premier message du thème « voisinages et jardins communautaires »
+			<lb/>
+			[Neighbourhoods and Community Gardens] est survenu près du début de la
+			<lb/>
+			conversation, et il s&apos;agissait du 14 e message de l&apos;ensemble du dialogue électronique.
+			<lb/>
+			Le dernier message de ce thème est survenu vers le milieu de la conversation, le
+			<lb/>
+			40 e message du dialogue électronique. Donc, l&apos;étendue de ce thème a été de
+			<lb/>
+			27 messages (y compris le premier et le dernier message), et il est représenté à
+			<lb/>
+			l&apos;incrément 27 de l&apos;axe de l&apos;étendue.
+			<lb/>
+		</p>
+		
+		<figure>Figure 2. Courbe de fréquence des termes pour « collectivité et espaces », un thème
+			<lb/>
+			cerné dans le dialogue électronique CRC Reflections.
+			<lb/>
+			La figure ci-dessus affiche le nombre de fois que surviennent les termes au cours d&apos;un
+			<lb/>
+			fil de conversation produit dans le dialogue électronique CRC Reflections. Les termes
+			<lb/>
+			sont tracés le long de l&apos;axe des x depuis le degré élevé de fréquence (le plus près du
+			<lb/>
+			point d&apos;origine) jusqu&apos;au degré de fréquence le plus faible (le plus éloigné du point
+			<lb/>
+			d&apos;origine), alors que la tendance de la fréquence parmi les termes est tracée par une
+			<lb/>
+			ligne de tendance noire. La ligne verticale rouge démarque (grossièrement) la
+			<lb/>
+			diminution la plus marquée de fréquence observée sur la ligne de tendance. Les
+			<lb/>
+			termes situés à la gauche de la ligne rouge servent à caractériser un fil de
+			<lb/>
+			conversation et à déterminer le « thème » d&apos;une conversation.
+			<lb/>
+		</figure>
+		
+		<figure>Figure 3. Les principaux thèmes du dialogue électronique CRC Reflections.
+			<lb/>
+			La figure ci-dessus représente un tracé des principaux thèmes tirés des divers fils de
+			<lb/>
+			conversation. Les centres des thèmes sont représentés le long de l&apos;axe des x selon
+			<lb/>
+			l&apos;ordre de leurs messages médians respectifs, et le long de l&apos;axe des y selon le nombre
+			<lb/>
+			de messages qui se trouvent entre leurs premiers et derniers messages respectifs. Les
+			<lb/>
+			représentations des thèmes varient en taille selon le nombre relatif de messages émis
+			<lb/>
+			autour d&apos;un thème.
+			<lb/>
+			*Le « nombre de messages » sur l&apos;axe des y (étendue) fait référence au nombre total
+			<lb/>
+			de messages entre le premier message et le dernier portant sur un thème. Cette mesure
+			<lb/>
+			illustre le nombre de messages sur tous les thèmes de la conversation ayant été
+			<lb/>
+			abordés entre le premier message et le dernier message d&apos;un thème donné.
+			<lb/>
+		</figure>
+		
+		<p>Notons que le thème « voisinages et jardins communautaires »
+			<lb/>
+			[Neighbourhoods and Community Gardens] était composé au total de 14 messages et
+			<lb/>
+			d&apos;une étendue de 27 captages en tout (c&apos;est-à-dire des messages en lien avec d&apos;autres
+			<lb/>
+			thèmes également), du message entre le premier et le dernier message du thème. Les
+			<lb/>
+			concurrence de conversations et de moments pendant lesquels certains thèmes
+			<lb/>
+			risquent d&apos;être abordés à nouveau dans un dialogue. Par exemple, la <ref type="figure">Figure 3</ref> illustre
+			<lb/>
+			que les thèmes « espaces communautaires » et « environnement bâti » ont tous deux
+			<lb/>
+			fait l&apos;objet d&apos;une discussion au début de la conversation parce qu&apos;ils se trouvent près
+			<lb/>
+			de l&apos;origine de l&apos;axe de la séquence. Or, la discussion sur ces thèmes présente une
+			<lb/>
+			grande étendue. Par conséquent, nous pouvons affirmer, à partir du modèle, que ces
+			<lb/>
+			thèmes ont été discutés tôt pendant le dialogue électronique (et la majeure partie de
+			<lb/>
+			l&apos;engagement à l&apos;endroit de ces thèmes s&apos;est produit au début du dialogue
+			<lb/>
+			électronique). Or, ces thèmes ont été abordés à nouveau beaucoup plus loin dans la
+			<lb/>
+			conversation, ce qui signifie qu&apos;un commentaire survenu plus tard pendant le
+			<lb/>
+			dialogue électronique a incité les participants à revoir une conversation et à ajouter au
+			<lb/>
+			fil de celle-ci autour du thème. En revanche, la Figure 3 illustre que « gouvernement
+			<lb/>
+			municipal » et « innovation communautaire » ont été discutés plus loin et que
+			<lb/>
+			l&apos;étendue de ces discussions était faible. Nous pouvons donc affirmer que ces thèmes
+			<lb/>
+			ont fait surface à la fin de la conversation et qu&apos;ils n&apos;ont été discutés qu&apos;à la fin, ce
+			<lb/>
+			qui signifie qu&apos;ils étaient des sujets autour desquels la conversation a tourné plutôt
+			<lb/>
+			que des idées refaisant surface à partir du début de la conversation.
+			<lb/>
+		</p>
+		
+		
+		<head>5.3 Le degré d&apos;engagement à l&apos;endroit des thèmes
+			<lb/>
+		</head>
+		
+		<p>À la lumière du nombre de messages créés autour de chacun des thèmes, nous
+			<lb/>
+			constatons que certains thèmes ont mobilisé un nombre plus élevé de participants que
+			<lb/>
+			d&apos;autres. La TNDMC capte le degré d&apos;engagement à l&apos;égard d&apos;un thème en traçant les
+			<lb/>
+			thèmes dimensionnés selon leur engagement relatif. Par exemple, la discussion
+			<lb/>
+			portant sur le thème « intégration et esthétique » comptait 14 messages, alors que la
+			<lb/>
+			discussion portant sur « Paris et l&apos;environnement bâti » en comptait 3. Le cercle
+			<lb/>
+			« intégration et esthétique » est plus grand que celui de « Paris et l&apos;environnement
+			<lb/>
+			bâti ».
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse à la fois de la position et de la taille des positions graphiques des
+			<lb/>
+			thèmes fournit une grande compréhension du moment où le sujet a été discuté, de la
+			<lb/>
+			durée et de la profondeur de la discussion. Le thème « intégration et esthétique », qui
+			<lb/>
+			occupe une position élevée sur l&apos;axe de l&apos;étendue, a fait l&apos;objet d&apos;un grand
+			<lb/>
+			engagement (grand cercle) et se trouve au milieu de l&apos;axe de séquence. Cela dit, nous
+			<lb/>
+			pouvons affirmer, à partir de la modélisation, que ce thème a refait surface et était
+			<lb/>
+			présent pendant toute la durée du dialogue électronique. En revanche, le volet
+			<lb/>
+			« échelle » a une faible étendue et un engagement relativement faible (petit cercle).
+			<lb/>
+			Nous pouvons donc affirmer que ce thème a été discuté brièvement à environ un tiers
+			<lb/>
+			de la durée du dialogue électronique (positionné sur l&apos;axe de séquence).
+			<lb/>
+		</p>
+		
+		<head>5.4 Circonscrire les idées au coeur des thèmes
+			<lb/>
+		</head>
+		
+		<p>Circonscrire les idées qui ressortent des thèmes permet de mieux comprendre la
+			<lb/>
+			conversation qui se déroule autour d&apos;un thème et permet aussi au chercheur de cerner
+			<lb/>
+			les idées qui relient les thèmes. Certains messages et commentaires convergent sur
+			<lb/>
+			une multitude de thèmes (voir plus haut à la section 3. Élargir la sphère publique pour
+			<lb/>
+			le dialogue), et le fait d&apos;examiner les idées au coeur d&apos;une conversation aide à
+			<lb/>
+			déterminer ces points de convergence et à fournir un aperçu quant au débit de la
+			<lb/>
+			conversation et à la genèse des concepts et des pensées qui ressortent de
+			<lb/>
+			conversations en ligne.
+			<lb/>
+		</p>
+		
+		<p>Les idées sont cernées en examinant les termes qui font surface le plus souvent
+			<lb/>
+			pendant toute la durée du dialogue électronique. De façon semblable à l&apos;analyse d&apos;un
+			<lb/>
+			thème, seuls les termes liés à un concept sont pris en compte dans le modèle, ce qui
+			<lb/>
+			signifie qu&apos;aucun élément grammatical tel que les prépositions, les articles et les
+			<lb/>
+			conjonctions, ni les dérivés ou les synonymes d&apos;un terme sont tenus comme faisant
+			<lb/>
+			partie de la même idée. Les idées qui composent le dialogue électronique CRC
+			<lb/>
+			Reflections ont été discutées pendant la conversation selon une fréquence de 0,5 % et
+			<lb/>
+			plus, ce qui signifie que l&apos;idée est mentionnée au moins 12 fois au cours d&apos;une
+			<lb/>
+			conversation. Toutes les idées sélectionnées pendant le processus de modélisation
+			<lb/>
+			étaient présentes dans un minimum de trois messages de conversation car le thème
+			<lb/>
+			affichant l&apos;engagement le plus faible (« échelle ») ne comptait que deux messages et,
+			<lb/>
+			avec un minimum de trois messages, aucune idée ne peut être entièrement contenue à
+			<lb/>
+			l&apos;intérieur de ce thème marginal, ce qui signifie que c&apos;est un thème dont
+			<lb/>
+			l&apos;engagement est exceptionnellement faible.
+			<lb/>
+		</p>
+		
+		<p>La <ref type="figure">Figure 4</ref> illustre les idées (petits cercles vert pâle) tracées avec les thèmes.
+			<lb/>
+			La TNDMC trace les idées sur les axes de séquence et d&apos;étendue de la même façon
+			<lb/>
+			qu&apos;avec les thèmes. Les idées sont représentées le long de l&apos;axe de séquence en
+			<lb/>
+			fonction du message médian où elles étaient mentionnées, et le long de l&apos;axe de
+			<lb/>
+			l&apos;étendue en fonction du premier message et du dernier dans lesquels elles ont été
+			<lb/>
+			mentionnées. Dans la conversation CRC Reflections, l&apos;idée « adaptation » (cercle
+			<lb/>
+			n o 43) a été mentionnée brièvement dans la dernière moitié de la conversation. Celle-<lb/>ci est donc
+			située dans le 57 e incrément de l&apos;axe de séquence et a une étendue faible,
+			<lb/>
+			ce qui signifie qu&apos;elle se trouve près de l&apos;origine sur l&apos;axe de l&apos;étendue. En revanche,
+			<lb/>
+			« diversité » (cercle n o 8) a été noté fréquemment du début à la fin de la conversation,
+			<lb/>
+			depuis le 2 e message jusqu&apos;au 86 e message. Sa position est donc élevée en fait
+			<lb/>
+			d&apos;étendue et il est situé vers le centre de l&apos;axe de séquence.
+			<lb/>
+		</p>
+		
+		<p>Étant donné qu&apos;un nombre beaucoup plus important d&apos;idées que de thèmes sont
+			<lb/>
+			tracées, les idées sont représentées par des cercles plus petits que ceux des thèmes.
+			<lb/>
+			Donc, leur force relative (ou fréquence) dans la conversation n&apos;est pas facilement
+			<lb/>
+			démontrée par la taille du cercle. Par conséquent, leur force relative est démontrée par
+			<lb/>
+			des valeurs d&apos;indice et est affichée dans la légende. Les valeurs d&apos;indice sont
+			<lb/>
+			calculées en assignant à l&apos;idée la plus courante la valeur 1, « développement » dans ce
+			<lb/>
+			cas-ci. Toutes les autres valeurs d&apos;indice sont calculées selon les fréquences relatives
+			<lb/>
+			à la fréquence de l&apos;idée la plus courante.
+			<lb/>
+		</p>
+		
+		<figure>Figure 4. Les principaux thèmes et idées qui ressortent du dialogue électronique CRC
+			<lb/>
+			Reflections.
+			<lb/>
+			La figure ci-dessus illustre un tracé à la fois des principaux thèmes tirés de divers fils
+			<lb/>
+			de conversation produits par le dialogue électronique CRC Reflections et des idées
+			<lb/>
+			qui font surface pendant toute la durée du dialogue. Semblables à des thèmes, les
+			<lb/>
+			centres d&apos;idées sont représentés le long de l&apos;axe des x selon l&apos;ordre de leurs messages
+			<lb/>
+			médians respectifs, et le long de l&apos;axe des y selon le nombre de messages qui se
+			<lb/>
+			trouvent entre leurs premiers et derniers messages respectifs. Les tracés d&apos;idée sont
+			<lb/>
+			identifiés dans la légende par un numéro. Les fréquences relatives de discussion des
+			<lb/>
+			idées sont fournies entre parenthèses à côté de chaque idée, dans la légende.
+			<lb/>
+		</figure>
+		
+		<head>5.5 Le lien entre les thèmes et les idées
+			<lb/>
+		</head>
+		
+		<p>La TNDMC établit les liens entre les thèmes et les idées pour déterminer les idées qui
+			<lb/>
+			ressortent d&apos;un thème de conversation et celles vers lesquelles les thèmes ont
+			<lb/>
+			convergé. Les lignes grises des Figures 5a et 5b mettent en lien les marqueurs d&apos;idées
+			<lb/>
+			et les marqueurs de thèmes. Des idées convergentes entre les thèmes sont observées
+			<lb/>
+			au fur et à mesure qu&apos;une idée est mise en lien avec plusieurs thèmes. Les lignes
+			<lb/>
+			branchées sont « plus épaisses » afin d&apos;illustrer le degré d&apos;une idée ressortie pendant
+			<lb/>
+			la discussion portant sur un thème précis, ce qui signifie que les lignes plus grasses
+			<lb/>
+			indiquent qu&apos;une idée a été notée et discutée plus souvent. Ce système permet à
+			<lb/>
+			l&apos;utilisateur d&apos;une modélisation de conversation d&apos;obtenir un aperçu à la fois de
+			<lb/>
+			quelles idées sont mises en lien avec quels thèmes, et dans quelle mesure certaines
+			<lb/>
+			idées sont courantes dans un thème de conversation.
+			<lb/>
+		</p>
+		
+		<p>Les <ref type="figure">Figures 5a et 5b</ref> illustrent que les idées partagées par les thèmes
+			<lb/>
+			« voisinages et jardins communautaires » et « intégration et esthétique » étaient
+			<lb/>
+			« public », « espace » et « beauté ». Cette relation schématique fait allusion à l&apos;usage
+			<lb/>
+			de jardins communautaires pour intégrer l&apos;esthétique et la beauté aux espaces publics
+			<lb/>
+			des voisinages. Des recherches réalisées antérieurement ont démontré que créer et
+			<lb/>
+			réaliser des espaces de jardin au sein des collectivités peut aider au développement
+			<lb/>
+			d&apos;un sens d&apos;appartenance chez les résidents locaux (<ref type="biblio">Newman &amp; Dale, 2009</ref>) et
+			<lb/>
+			constituer des lieux de rencontre pour permettre aux membres de la collectivité
+			<lb/>
+			d&apos;établir des liens (<ref type="biblio">Armstrong, 2000</ref>). Donc, en analysant les liens entre les idées et
+			<lb/>
+			les thèmes de conversations en ligne, nous pouvons commencer à dégager les
+			<lb/>
+			concepts supérieurs formulés et les mettre soit en lien avec des recherches antérieures
+			<lb/>
+			ou les étudier comme de nouveaux enjeux et de nouvelles priorités en matière de
+			<lb/>
+			politiques publiques.
+			<lb/>
+		</p>
+		
+		<p>Les <ref type="figure">Figures 5a et 5bci</ref>-dessous illustrent les liens entre les thèmes et les idées.
+			<lb/>
+			Un tracé de thème est mis en lien avec un tracé d&apos;idée lorsque l&apos;idée fait surface ou
+			<lb/>
+			est discutée pendant la conversation portant sur le thème en question. L&apos;épaisseur de
+			<lb/>
+			trait des lignes tracées varie selon la fréquence à laquelle une idée a fait surface ou a
+			<lb/>
+			été discutée à l&apos;intérieur du thème. Les <ref type="figure">Figures 5a et 5b</ref> illustrent les lignes de liaison
+			<lb/>
+			droites ou courbées (respectivement) pour montrer les liens dans une figure pouvant
+			<lb/>
+			être occultés dans l&apos;autre.
+			<lb/>
+		</p>
+		
+		<figure>Figure 5a. Les liens entre les idées et les thèmes du dialogue CRC Reflections.
+			<lb/>
+		</figure>
+		
+		<figure>Figure 5b. Les liens entre les idées et les thèmes du dialogue CRC Reflections.
+			<lb/>
+		</figure>
+		
+		<head>6. Le débit et l&apos;accent de la conversation
+			<lb/>
+		</head>
+		
+		<p>L&apos;utilisation de la TNDMC avec le dialogue en ligne CRC Reflections a permis de
+			<lb/>
+			dégager 17 thèmes de la conversation et les a mis en lien avec 44 idées émergentes.
+			<lb/>
+			Étant donné que les thèmes et les idées ont été tracés en fonction du moment où ils
+			<lb/>
+			ont été discutés (séquence) et du moment où ils ont été soulevés la première fois et à
+			<lb/>
+			nouveau (étendue), on peut avoir une idée du « débit », ou du déroulement de la
+			<lb/>
+			conversation d&apos;un sujet à l&apos;autre, et de l&apos;« accent » donné, ou des principaux sujets
+			<lb/>
+			discutés, d&apos;une conversation en procédant à une analyse stratégique du modèle.
+			<lb/>
+		</p>
+		
+		<p>La <ref type="figure">Figure 6</ref> illustre une méthode qui sert à déterminer le débit et l&apos;accent d&apos;un
+			<lb/>
+			dialogue d&apos;un modèle de conversation généré par l&apos;entremise de la TNDMC. Créer
+			<lb/>
+			une voie en forme d&apos;arc à fond bas à travers le modèle permet de voir la séquence
+			<lb/>
+			principale des sujets et des thèmes discutés, tout en relevant les sujets qui ont été
+			<lb/>
+			discutés fréquemment pendant la conversation et qui, par conséquent, pourraient
+			<lb/>
+			jouer un rôle directeur dans la discussion.
+			<lb/>
+		</p>
+		
+		<p>Les thèmes près du fond de l&apos;arc comprennent des sujets qui ont été discutés en
+			<lb/>
+			séquence et, compte tenu de leur faible étendue, ils peuvent être vus comme faisant
+			<lb/>
+			partie d&apos;une conversation qui passait séquentiellement d&apos;un accent à l&apos;autre. En
+			<lb/>
+			étudiant les idées qui mettent en lien les thèmes dans la partie inférieure de l&apos;arc, on
+			<lb/>
+			peut avoir un aperçu des idées qui ont fait passer la conversation d&apos;un thème à un
+			<lb/>
+			autre.
+			<lb/>
+		</p>
+		
+		<p>En revanche, au point culminant de larc, on voit les sujets centrés près du
+			<lb/>
+			milieu de la conversation (sur l&apos;axe de séquence) et dont l&apos;étendue est élevée. La
+			<lb/>
+			discussion de ces thèmes s&apos;est étendue sur la majeure partie du dialogue électronique
+			<lb/>
+			et, puisque ces thèmes sont alignés avec le centre de l&apos;axe de séquence, ils ont été
+			<lb/>
+			discutés de façon relativement égale du début à la fin de la conversation. Il est
+			<lb/>
+			important de prendre en note ces thèmes lorsque le débit et l&apos;accent d&apos;une
+			<lb/>
+			conversation sont pris en compte, car ils pourraient agir comme facteurs d&apos;influence
+			<lb/>
+			lors des transitions d&apos;un sujet à l&apos;autre et/ou ils pourraient contenir des idées
+			<lb/>
+			d&apos;intégration en lien avec tous les sujets de conversation.
+			<lb/>
+		</p>
+		
+		<p>Les thèmes et les idées dans le coin supérieur gauche, le coin supérieur droit et
+			<lb/>
+			dans la partie inférieure au centre du modèle sont exclus lorsque le débit et l&apos;accent
+			<lb/>
+			d&apos;une conversation doivent être définis; ils sont des éléments marginaux en fait de
+			<lb/>
+			fluidité de la progression de la conversation. Les thèmes et les idées dans le coin
+			<lb/>
+			supérieur gauche et le coin supérieur droit ont une étendue élevée, mais sont situés
+			<lb/>
+			près du point d&apos;origine ou terminal de l&apos;axe de séquence (respectivement), ce qui
+			<lb/>
+			signifie qu&apos;ils ont été largement discutés au début ou à la fin de la conversation, mais
+			<lb/>
+			des points « errants » ont été ajoutés au fil, ailleurs dans la séquence. La progression
+			<lb/>
+			de la conversation autour de ces thèmes devient ainsi « agitée », et ceux-ci ne peuvent
+			<lb/>
+			fournir une impression précise de l&apos;ensemble du débit de la conversation. Les thèmes
+			<lb/>
+			dans la partie la plus inférieure du centre sont exclus de l&apos;arc parce que leur étendue
+			<lb/>
+			est très faible, ce qui signifie qu&apos;ils représentent des conversations en marge qui ne
+			<lb/>
+			contribuent pas à l&apos;ensemble du débit du dialogue électronique.
+			<lb/>
+		</p>
+		
+		<p>En déterminant le débit et l&apos;accent à partir du modèle de la conversation CRC
+			<lb/>
+			Reflections, et en suivant la forme de l&apos;arc, on peut en tirer les dynamiques
+			<lb/>
+			conversationnelles suivantes :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Les thèmes « entreprises communautaires » et « environnement » sont survenus
+				<lb/>
+				au début du dialogue électronique, ce qui laisse entendre que la conversation a
+				<lb/>
+				commencé avec une discussion portant sur les entreprises au sein des
+				<lb/>
+				collectivités et aussi sur des questions environnementales.
+				<lb/>
+			</item>
+			
+			<item>La conversation s&apos;est ensuite resserrée (et a changé d&apos;échelle) pour aborder des
+				<lb/>
+				aspects plus précis du développement communautaire, plus particulièrement les
+				<lb/>
+				voisinages et les jardins communautaires, ce qui a mené à une discussion sur les
+				<lb/>
+				humains et leurs rapports avec la nature.
+				<lb/>
+			</item>
+		</list>
+		
+		<figure>Figure 6. L&apos;analyse du modèle de la conversation CRC Reflections afin d&apos;en
+			<lb/>
+			déterminer le débit et l&apos;accent.
+			<lb/>
+			La figure ci-dessus illustre un motif qui dépeint l&apos;ensemble du débit (comment une
+			<lb/>
+			conversation est passée d&apos;un sujet à un autre) et l&apos;accent (les principaux sujets de
+			<lb/>
+			discussion) de la conversation CRC Reflections.
+			<lb/>
+		</figure>
+		
+		<list>
+			<item>Réunis par des idées sous le thème de l&apos;intégration et de l&apos;esthétique, des
+				<lb/>
+				exemples précis d&apos;une ville (Paris) et l&apos;environnement bâti sont ressortis de la
+				<lb/>
+				conversation sur les voisinages, les jardins communautaires, les humains et la
+				<lb/>
+				nature.
+				<lb/>
+			</item>
+			
+			<item>Pendant que la conversation était maintenue sur le thème de l&apos;esthétique, la
+				<lb/>
+				discussion est ensuite passée à des sujets plus précis sur la façon d&apos;apporter des
+				<lb/>
+				changements au sein de la collectivité en favorisant la multifonctionnalité, ce
+				<lb/>
+				qui a mené au rôle joué par le gouvernement municipal.
+				<lb/>
+			</item>
+			
+			<item>La conversation s&apos;est conclue sur le sujet des innovations communautaires et
+				<lb/>
+				sur la nécessité de sortir des sentiers battus pour favoriser les transformations
+				<lb/>
+				souhaitées à des collectivités durables.
+				<lb/>
+			</item>
+		</list>
+		
+		<head>Conclusions
+			<lb/>
+		</head>
+		
+		<p>Les conversations en ligne prolifèrent sur Internet (<ref type="biblio">Brenner, 2013</ref>); la diversité des
+			<lb/>
+			forums au sein desquels les gens interagissent augmente aussi. Comme il a été
+			<lb/>
+			démontré dans le présent article, les forums en ligne en temps réel peuvent être une
+			<lb/>
+			façon très efficace et très efficiente de réunir une variété de chercheurs, de praticiens
+			<lb/>
+			et de responsables de l&apos;élaboration de politiques dans un même lieu pour y discuter
+			<lb/>
+			des problèmes mondiaux, mais surtout dans un but de partage d&apos;expertise et de
+			<lb/>
+			trouver des solutions à des enjeux sociaux complexes. Ces lieux sont d&apos;une
+			<lb/>
+			importance critique pour la théorie et la pensée transdisciplinaire qui, en retour, sont
+			<lb/>
+			nécessaires pour assurer l&apos;innovation dans la conception d&apos;avenirs plus durables
+			<lb/>
+			(<ref type="biblio">Krishna, 2001</ref>). Le problème de la captation de la richesse et de la convergence de
+			<lb/>
+			ces conversations en ligne qui prolifèrent afin de déterminer des points de
+			<lb/>
+			convergence et de divergence est d&apos;une importance critique pour ces communautés en
+			<lb/>
+			ligne ainsi que pour les chercheurs.
+			<lb/>
+		</p>
+		
+		<p>La TNDMC a été conçue pour assurer une analyse en profondeur de
+			<lb/>
+			conversations en ligne, en mettant l&apos;accent particulièrement sur notre plate-forme de
+			<lb/>
+			dialogues électroniques, pour capter des idées, déterminer leurs liens avec des thèmes
+			<lb/>
+			et fournir une synthèse cohérente et une meilleure compréhension des motifs sous-<lb/>jacents des
+			conversations en ligne. Les conversations en ligne facilitent à la fois les
+			<lb/>
+			idées émergentes et la pensée plus latérale, ainsi que le développement d&apos;une pensée
+			<lb/>
+			holistique et adaptative (<ref type="biblio">Sterling, 2010</ref>). Il s&apos;agit à la fois d&apos;une force et d&apos;une
+			<lb/>
+			faiblesse car elle introduit une certaine anarchie au débit d&apos;une conversation normale.
+			<lb/>
+			Une nouvelle forme d&apos;analyse est donc nécessaire pour capter des données plus
+			<lb/>
+			complètes. Cette analyse, de même que la compréhension qui en résulte, peut ensuite
+			<lb/>
+			servir à guider l&apos;élaboration de politiques et mobiliser davantage l&apos;innovation sociale
+			<lb/>
+			et, peut-être même à long terme, entraîner des changements sociaux.
+			<lb/>
+		</p>
+		
+		<p>Étant donné que la TNDMC fait appel à une méthodologie empirique, les
+			<lb/>
+			modèles engendrés par cette technique peuvent servir à examiner le plus
+			<lb/>
+			impartialement possible les résultats de dialogues improvisés. La TNDMC ne
+			<lb/>
+			remplace pas l&apos;examen d&apos;une transcription de conversation dans le cadre de la
+			<lb/>
+			recherche sur le dialogue. Par contre, la technique organise les thèmes émergents et le
+			<lb/>
+			débit de la conversation avec un minimum de partialité en vue d&apos;effectuer une
+			<lb/>
+			révision en profondeur d&apos;une transcription, ce qui potentiellement contribue à une
+			<lb/>
+			plus grande rigueur d&apos;encodage pour un projet de recherche. De plus, la TNDMC
+			<lb/>
+			peut jeter un éclairage sur les résultats d&apos;une conversation qu&apos;un chercheur pourrait
+			<lb/>
+			rater en passant simplement en revue la transcription.
+			<lb/>
+		</p>
+		
+		<p>La TNDMC est un outil d&apos;agrégation/de forage des données pour capter des
+			<lb/>
+			idées de dialogues. L&apos;intention de cette recherche était de développer un ou des
+			<lb/>
+			instantanés de l&apos;esprit collectif (<ref type="biblio">Dron &amp; Anderson, 2009</ref>). La mise en
+			application et
+			<lb/>
+			l&apos;amélioration continue de la TNDMC par des chercheurs qui utilisent des processus
+			<lb/>
+			dialogiques dans la réalisation de leurs travaux peuvent mener à des méthodologies
+			<lb/>
+			qui captent la richesse de résultats et de processus de conversations, et à
+			<lb/>
+			l&apos;amélioration de la synthèse d&apos;idées et d&apos;innovations créées par l&apos;entremise du
+			<lb/>
+			discours numérique. Cette technique constitue également un outil pour la réalisation
+			<lb/>
+			d&apos;une analyse itérative des façons dont les enjeux sont abordés dans l&apos;espace
+			<lb/>
+			numérique, et la portée du dialogue et de la recherche d&apos;un consensus autour de ces
+			<lb/>
+			questions, un aspect qui pourrait revêtir de plus en plus d&apos;importance pour les
+			<lb/>
+			décisionnaires de démocraties hautement plurielles.
+		</p>
+	
+	
+	</text>
+</tei>

@@ -1,0 +1,1934 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Cet article présente la démarche d&apos;analyse par théorisation enracinée (TE) utilisée
+			<lb/>
+			dans le cadre d&apos;une recherche en service social 1 s&apos;intéressant à l&apos;expérience du
+			<lb/>
+			passage à la vie adulte de populations vulnérables. Il traite surtout du défi de rendre
+			<lb/>
+			intelligible une démarche itérative de construction du sens. À cette fin, nous
+			<lb/>
+			proposons de décrire la démarche d&apos;analyse par TE mise en oeuvre dans cette enquête
+			<lb/>
+			en particulier. Cet article est fondé sur notre propre compréhension de l&apos;analyse par
+			<lb/>
+			TE et de son appareillage conceptuel, forgée à la fois par les lectures répétées
+			<lb/>
+			d&apos;auteurs clés et par la mise en application concrète de cette démarche complexe et
+			<lb/>
+			féconde sur nos données de recherche.
+			<lb/>
+		</p>
+		
+		<p>L&apos;article est divisé en trois parties. La première partie situe la problématique et
+			<lb/>
+			les objectifs de recherche. La deuxième partie présente les divers aspects
+			<lb/>
+			méthodologiques de la démarche et détaille notamment le processus de codage et
+			<lb/>
+			d&apos;analyse à l&apos;aide d&apos;exemples tirés des données de recherche. La troisième partie
+			<lb/>
+			présente les résultats de l&apos;analyse. L&apos;article se conclut avec un rappel des défis
+			<lb/>
+			associés à une démarche d&apos;analyse par théorisation enracinée.
+			<lb/>
+		</p>
+		
+		<head>1. Problématique de recherche
+			<lb/>
+		</head>
+		
+		<p>Le passage à la vie adulte (PVA) est un phénomène social amplement étudié au cours
+			<lb/>
+			des dernières années (<ref type="biblio">Robin, Durning, Oui, Soudoplatoff, &amp; Pioli, 2009</ref>).
+			Plusieurs
+			<lb/>
+			facteurs sociétaux comme l&apos;allongement des études contribuent aux expériences
+			<lb/>
+			« retardant » le PVA par rapport aux générations précédentes et illustrant sa
+			<lb/>
+			réversibilité (<ref type="biblio">Molgat, 2007; Rutman, Hubberstey, Feduniw, &amp; Brown, 2007</ref>). Bien
+			<lb/>
+			que ce contexte marqué de « nouveaux risques » concerne l&apos;ensemble de la jeunesse,
+			<lb/>
+			le PVA est vécu différemment par différentes populations de jeunes. Pour certains, la
+			<lb/>
+			dépendance que suppose la prolongation de la période de transition traduit la
+			<lb/>
+			possibilité de profiter d&apos;un soutien familial facilitant l&apos;acquisition progressive de
+			<lb/>
+			l&apos;autonomie. Pour d&apos;autres, privés de ces formes de soutien de proximité, l&apos;autre
+			<lb/>
+			possibilité consiste à solliciter l&apos;assistance de programmes sociaux avec le risque de
+			<lb/>
+			voir cette période de dépendance envers les modes d&apos;assistance publique se muer en
+			<lb/>
+			problématique d&apos;exclusion. En l&apos;absence de soutien facilitant la négociation du PVA,
+			<lb/>
+			la transition a plutôt tendance à s&apos;accélérer (<ref type="biblio">Wade &amp; Dixon, 2006</ref>) et à se
+			traduire par
+			<lb/>
+			l&apos;endossement prématuré de responsabilités adultes.
+			<lb/>
+		</p>
+		
+		<p>La question du soutien au PVA se pose tout particulièrement pour des jeunes
+			<lb/>
+			quittant un placement en milieu de vie substitut (<ref type="biblio">Knoke, 2009</ref>). Afin de protéger
+			les
+			<lb/>
+			enfants et les jeunes dont la sécurité et le développement sont compromis, le système
+			<lb/>
+			de protection de la jeunesse prévoit une mesure de retrait du milieu familial.
+			<lb/>
+			Toutefois, lorsque ces mesures de substitution cessent d&apos;opérer, notamment au
+			<lb/>
+			moment d&apos;atteindre la majorité, le réseau primaire ne prend pas nécessairement la
+			<lb/>
+			relève. Pour ces jeunes en particulier, contrairement à la jeunesse en général, atteindre
+			<lb/>
+			la majorité coïncide avec l&apos;obligation de se prendre en charge (
+			<ref type="biblio">Gough &amp; Fuchs,
+				<lb/>
+				2008
+			</ref>
+			). Des jeunes vulnérabilisés se retrouvent donc dans une situation d&apos;isolement
+			<lb/>
+			susceptible de complexifier leur transition à la vie adulte (
+			<ref type="biblio">Courtney &amp; Dworsky,
+				<lb/>
+				2006; Courtney &amp; Heuring, 2005; Furstenberg, 2005
+			</ref>
+			). Cette recherche a tenté de
+			<lb/>
+			mieux comprendre comment des personnes ayant été placées en milieu de vie
+			<lb/>
+			substitut jusqu&apos;à la majorité ont vécu leur PVA, dans un contexte où cette transition
+			<lb/>
+			s&apos;effectue à contre-courant des grandes tendances sociales d&apos;allongement de la
+			<lb/>
+			jeunesse.
+			<lb/>
+		</p>
+		
+		<head>2. Méthodologie
+			<lb/>
+		</head>
+		
+		<head>2.1 Pertinence de l&apos;analyse par TE
+			<lb/>
+		</head>
+		
+		<p>La priorité accordée à la parole comme source de connaissances a supposé une
+			<lb/>
+			conception particulière du travail d&apos;analyse sous forme d&apos;analyse par théorisation
+			<lb/>
+			enracinée. Dans ce texte, nous utilisons l&apos;expression théorisation enracinée étant
+			<lb/>
+			donné que notre démarche s&apos;inscrit dans une adaptation des procédures d&apos;analyse
+			<lb/>
+			proposées par la méthodologie générale de recherche qu&apos;est la Grounded Theory.
+			<lb/>
+			Étant donné que notre démarche s&apos;apparente à une analyse par théorisation enracinée
+			<lb/>
+			(TE), elle ne sera pas désignée sous le vocable de méthodologie de théorisation
+			<lb/>
+			enracinée. L&apos;analyse par TE a permis de faire le pont entre une certaine façon de
+			<lb/>
+			conceptualiser le parcours de vie issue de la perspective théorique du parcours de vie
+			<lb/>
+			et une modélisation des trajectoires de PVA qui fait du sens pour les personnes
+			<lb/>
+			rencontrées. Utilisée en combinaison avec l&apos;analyse par TE, la perspective théorique
+			<lb/>
+			du parcours de vie a fourni l&apos;« outillage » conceptuel nécessaire permettant de
+			<lb/>
+			reconnaître ce qui émerge des données (<ref type="biblio">Charmaz, 2006</ref>). En analyse par TE, la
+			<lb/>
+			sensibilité théorique ou la capacité « de donner du sens aux données empiriques »
+			<lb/>
+			(<ref type="biblio">Guillemette, 2006, p. 42</ref>) est favorisée par la considération d&apos;un ensemble de
+			<lb/>
+			concepts signifiants et « sensibilisateurs » (<ref type="biblio">Blumer, 1969</ref>).
+			<lb/>
+		</p>
+		
+		<p>Parmi les raisons à l&apos;origine de l&apos;utilisation d&apos;une approche d&apos;analyse par TE, la
+			<lb/>
+			principale est la définition de l&apos;objet de recherche en termes de processus social,
+			<lb/>
+			c&apos;est-à-dire en une série d&apos;actions ou d&apos;interactions se développant dans le temps et
+			<lb/>
+			dans l&apos;espace en réponse aux changements sociaux (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>).
+			Cette
+			<lb/>
+			façon d&apos;envisager le PVA est particulièrement pertinente pour bien le comprendre.
+			<lb/>
+			Aussi, notre démarche s&apos;inscrit dans une perspective de découverte « […] non pas
+			<lb/>
+			dans le sens positiviste d&apos;une observation objective de ce qui se donne à voir dans la
+			<lb/>
+			réalité, mais plutôt dans le sens de développer de nouvelles façons de comprendre les
+			<lb/>
+			phénomènes humains » (<ref type="biblio">Guillemette, 2006, pp. 45-46</ref>). C&apos;est tout l&apos;intérêt de notre
+			<lb/>
+			recherche qui tend à saisir un phénomène social selon la perspective des acteurs qui
+			<lb/>
+			l&apos;expérimentent, qui le vivent et qui le construisent. Ainsi, notre analyse du PVA
+			<lb/>
+			n&apos;est pas liée à l&apos;application d&apos;un schéma préétabli. Les instruments utilisés pour la
+			<lb/>
+			collecte de données ont été provisoirement ébauchés en fonction de certains concepts
+			<lb/>
+			sensibilisateurs, soit les notions de parcours de vie, trajectoires, transitions,
+			<lb/>
+			événements de vie significatifs, conceptions de la vie adulte, stratégies et logique
+			<lb/>
+			d&apos;action, puis réajustés selon les données recueillies empiriquement. Enfin, la
+			<lb/>
+			conviction que les individus accordent un sens à leurs actions et que ce sens est
+			<lb/>
+			constamment redéfini par les interactions entre les acteurs sociaux qui participent au
+			<lb/>
+			phénomène (Strauss <ref type="biblio">&amp; Corbin, 2004</ref>), est un autre aspect épistémologique de
+			notre
+			<lb/>
+			démarche ayant contribué à retenir l&apos;approche d&apos;analyse par TE.
+			<lb/>
+		</p>
+		
+		<head>2.2 Échantillonnage théorique
+			<lb/>
+		</head>
+		
+		<p>Dans une approche d&apos;analyse par TE, les participants sont choisis en fonction de leur
+			<lb/>
+			pertinence théorique à l&apos;égard du processus à l&apos;étude et non en fonction de leur
+			<lb/>
+			représentativité par rapport à la population concernée (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>).
+			<lb/>
+			Autrement dit, les données recueillies doivent permettre de mieux comprendre un
+			<lb/>
+			phénomène plutôt que de le documenter de façon exhaustive (
+			<ref type="biblio">Gratton, 2001;
+				<lb/>
+				Guillemette, 2006; Morse, 2010
+			</ref>
+			). L&apos;échantillon intentionnel de départ a donc été
+			<lb/>
+			formé par la sélection de personnes ayant fait l&apos;objet d&apos;un placement jusqu&apos;à la
+			<lb/>
+			majorité et en fonction de critères permettant d&apos;étudier le phénomène dans sa
+			<lb/>
+			diversité (<ref type="biblio">Strauss &amp; Corbin, 1998</ref>), en l&apos;occurrence le fait d&apos;être
+			âgé d&apos;au moins
+			<lb/>
+			18 ans et d&apos;avoir fait l&apos;objet d&apos;une mesure de placement en milieu de vie substitut
+			<lb/>
+			(par exemple, en famille d&apos;accueil) jusqu&apos;à la majorité dans le cadre de la Loi sur la
+			<lb/>
+			protection de la jeunesse avant l&apos;âge de 16 ans.
+			<lb/>
+		</p>
+		
+		<p>Conformément au principe de comparaison continue entre les catégories en
+			<lb/>
+			développement et les données de terrain (<ref type="biblio">Laperrière, 1997</ref>), le guide d&apos;entrevue
+			a
+			<lb/>
+			évolué au fil de la démarche. Enfin, dans une perspective d&apos;analyse par TE,
+			<lb/>
+			l&apos;échantillonnage implique une couverture du terrain « […] jusqu&apos;à ce qu&apos;aucune
+			<lb/>
+			donnée nouvelle ne vienne modifier la théorie construite » (<ref type="biblio">Laperrière, 1997, p.
+				324</ref>).
+			<lb/>
+			La saturation utilisée dans le cadre de cette recherche s&apos;appuie donc sur un jugement
+			<lb/>
+			selon lequel davantage de données ne sont pas nécessaires (<ref type="biblio">Wiener, 2010</ref>), soit une
+			<lb/>
+			saturation théorique au sens de <ref type="biblio">Glaser et Strauss (1967)</ref>, plutôt qu&apos;à une
+			saturation
+			<lb/>
+			empirique au sens de <ref type="biblio">Pires (1997)</ref>. Autrement dit, si les derniers témoignages
+			<lb/>
+			recueillis pouvaient enrichir les détails des trajectoires de PVA, ils ne suggéraient pas
+			<lb/>
+			de nouveaux modèles.
+			<lb/>
+		</p>
+		
+		<head>2.3 Collecte de données
+			<lb/>
+		</head>
+		
+		<p>Le recrutement des participants s&apos;est déroulé entre le 6 janvier et le 16 septembre
+			<lb/>
+			2009, dans la grande région de Québec. Au total, dix-huit personnes âgées de
+			<lb/>
+			18 à 37 ans ont participé à la recherche, parmi lesquelles dix femmes 2 . Deux
+			<lb/>
+			stratégies de collecte de données ont été déployées dans le cadre de notre recherche :
+			<lb/>
+			la photographie et l&apos;entrevue semi-dirigée. En amont de l&apos;entretien, un appareil photo
+			<lb/>
+			numérique était remis aux participants avec la consigne de prendre des clichés
+			<lb/>
+			permettant de compléter au mieux la phrase suivante « Être adulte pour moi ça
+			<lb/>
+			ressemble à… ». Les photos pouvaient mettre en scène des personnes, des objets ou
+			<lb/>
+			des symboles significatifs de la vie adulte pour le participant. Au moment de
+			<lb/>
+			l&apos;entretien, quelques jours plus tard, le participant était d&apos;abord invité à présenter et
+			<lb/>
+			commenter ses photos, puis à répondre aux questions de l&apos;entrevue semi-dirigée. À
+			<lb/>
+			l&apos;instar d&apos;autres chercheurs ayant conclu au potentiel de cette stratégie en recherche
+			<lb/>
+			qualitative, notamment en termes de facilitation de l&apos;expression (<ref type="biblio">Danic, Delalande, &amp;<lb/>
+			Rayou, 2006</ref>), l&apos;utilisation de la photographie dans le cadre de cette
+			recherche a
+			<lb/>
+			favorisé, d&apos;une part, la réflexion et l&apos;expression du répondant et, d&apos;autre part, l&apos;accès
+			<lb/>
+			et la compréhension par la chercheuse du vécu des participants. Il est important de
+			<lb/>
+			mentionner que les photographies n&apos;étaient pas considérées « en elles-mêmes » mais
+			<lb/>
+			plutôt selon le sens qu&apos;elles revêtaient pour la personne (<ref type="biblio">Danic et al., 2006, p.
+				174</ref>).
+			<lb/>
+			En ce sens, le recours à l&apos;entretien de recherche qualitatif nous a permis de bénéficier
+			<lb/>
+			de l&apos;expertise des personnes concernées quant à leur propre situation et leurs propres
+			<lb/>
+			expériences (<ref type="biblio">Bertaux, 1980</ref>).
+			<lb/>
+		</p>
+		
+		<head>2.4 Analyse des données
+			<lb/>
+		</head>
+		
+		<p>Afin de parvenir à délimiter la théorie émergente, <ref type="biblio">Strauss et Corbin (1998)</ref> proposent
+			<lb/>
+			un processus de codage comprenant trois étapes ou niveaux d&apos;analyse : le codage
+			<lb/>
+			ouvert, le codage axial et le codage sélectif. La démarche d&apos;analyse présentée ici est
+			<lb/>
+			inspirée d&apos;une « relecture » de ce modèle par <ref type="biblio">Duchesne et Savoie-Zajc (2005)</ref>. Dans
+			<lb/>
+			leur article, les auteures distinguent plusieurs étapes intermédiaires dont le rôle est
+			<lb/>
+			essentiellement d&apos;expliciter et de mieux arrimer le passage entre chacune des trois
+			<lb/>
+			grandes séquences de codage. Dans la mesure où l&apos;activité d&apos;analyse par théorisation
+			<lb/>
+			enracinée reste difficile à rendre intelligible en mots (<ref type="biblio">Stern, 2010</ref>), et bien que cette
+			<lb/>
+			vision « séquentielle » soit celle de ces auteures et non celle de Strauss et Corbin, ces
+			<lb/>
+			précisions nous semblaient particulièrement pertinentes. Notre démarche s&apos;est
+			<lb/>
+			accompagnée d&apos;une réflexion théorique consignée sous forme de mémos (Laperrière,
+			<lb/>
+			1997) et de la tenue d&apos;un journal de bord consignant les révisions, les questions
+			<lb/>
+			soulevées en cours d&apos;analyse et les essais de théorisation.
+			<lb/>
+		</p>
+		
+		<head>2.4.1 Codage ouvert
+			<lb/>
+		</head>
+		
+		<p>Cette première phase de codage consiste à résumer les unités de sens à l&apos;aide de mots-<lb/>clés se
+			rapprochant le plus possible de l&apos;expérience décrite. Le codage ouvert a été
+			<lb/>
+			réalisé sur la transcription des quatre premiers entretiens de recherche et a permis
+			<lb/>
+			d&apos;établir 48 mots-clés (mots, locutions, syntagmes) caractérisant l&apos;expérience
+			<lb/>
+			racontée par les répondants. À ce stade-ci, nous avons privilégié l&apos;utilisation des mots
+			<lb/>
+			employés par les participants eux-mêmes. Par exemple, le mot idole deviendra plus
+			<lb/>
+			tard le code provisoire « modèle ».
+			<lb/>
+		</p>
+		
+		<p>Pour la séquence suivante du processus de codage, la réduction des données a
+			<lb/>
+			conduit à une relecture des quatre verbatims afin de désigner certains mots-clés en
+			<lb/>
+			codes et en catégories provisoires. Plusieurs allers-retours entre les transcriptions des
+			<lb/>
+			premières entrevues et les essais de codage ont été nécessaires afin d&apos;ajouter et de
+			<lb/>
+			réviser les mots-clés. Par exemple, les mots-clés hiérarchie et sentiment
+			<lb/>
+			d&apos;impuissance ont été fusionnés dans un code provisoire intitulé « pouvoir ». Aussi,
+			<lb/>
+			le mot-clé statut d&apos;emploi est devenu statut social afin d&apos;inclure d&apos;autres types de
+			<lb/>
+			statuts (par exemple étudiant, chômeur, employé, conjoint, parent, etc.). Autre
+			<lb/>
+			exemple, le syntagme ce qu&apos;il faut faire pour être adulte a été fusionné avec celui de
+			<lb/>
+			vie adulte normale, puis renommé avec le mot-clé normes; il regroupait les extraits
+			<lb/>
+			faisant référence à tout ce qui est normal à l&apos;âge adulte. Aussi, le syntagme
+			<lb/>
+			importance du milieu d&apos;appartenance a été modifié et est devenu un code provisoire
+			<lb/>
+			plus global nommé « sentiment d&apos;appartenance ». S&apos;il devait être conservé comme
+			<lb/>
+			concept, « l&apos;importance » serait plutôt considérée comme une dimension. Pour la
+			<lb/>
+			plupart, les codes provisoires renvoyaient à une interprétation simple du phénomène
+			<lb/>
+			étudié, par exemple « argent », « relations avec la famille d&apos;origine ». D&apos;autres codes
+			<lb/>
+			se situaient déjà à un niveau plus conceptuel et sont devenus des catégories
+			<lb/>
+			provisoires, par exemple Pouvoir, Temps, Lien social, Réussite.
+			<lb/>
+		</p>
+		
+		<p>La révision des codes et des catégories provisoires consiste en une relecture du
+			<lb/>
+			matériel brut des premières entrevues afin, d&apos;une part, de vérifier la réduction opérée
+			<lb/>
+			et, d&apos;autre part, d&apos;être à l&apos;affût de nouvelles catégories (
+			<ref type="biblio">Duchesne &amp; Savoie-Zajc,
+				<lb/>
+				2005
+			</ref>
+			). Par exemple, le code « rupture », devenu plus tard une catégorie principale, a
+			<lb/>
+			émergé à ce moment de l&apos;analyse. Plusieurs questionnements quant à la possibilité de
+			<lb/>
+			fusionner les codes semblables, d&apos;en ajouter ou d&apos;en modifier, ont guidé la révision.
+			<lb/>
+			La relecture des verbatims a permis de classer chaque code dans les catégories
+			<lb/>
+			provisoires qui sont devenues alors : Les éléments du parcours de vie, Les
+			<lb/>
+			conceptions de la réussite du PVA, Les stratégies, Le pouvoir et la responsabilité, Le
+			<lb/>
+			lien social et L&apos;évaluation de la situation actuelle.
+			<lb/>
+		</p>
+		
+		<p>L&apos;ensemble des codes et des catégories provisoires a ensuite été réétudié,
+			<lb/>
+			reclassé et renommé, opérant ainsi leur transformation en catégories et sous-<lb/>catégories formelles. À
+			cette étape, les catégories formelles sont devenues : 1)
+			<lb/>
+			Éléments du parcours de vie, qui comprend les sous-catégories « placements »,
+			<lb/>
+			« 18 ans », « histoire personnelle », « valeurs », « expériences », « âge » et
+			<lb/>
+			« normes »; 2) Conceptions de la réussite du PVA, qui inclut l&apos;idée de point tournant;
+			<lb/>
+			3) Stratégies, qui renvoie aux « revendications », « plans », « connaissances du
+			<lb/>
+			système », « développement personnel » ainsi qu&apos;à « l&apos;ancrage »; 4) Pouvoir et
+			<lb/>
+			responsabilités, composée des sous-catégories « statut social », « argent »,
+			<lb/>
+			« sentiment d&apos;injustice », « sentiment de responsabilité ».
+			<lb/>
+		</p>
+		
+		<head>2.4.2 Codage axial
+			<lb/>
+		</head>
+		
+		<p>La nécessité d&apos;organiser les catégories formelles et les sous-catégories s&apos;est fait sentir
+			<lb/>
+			alors que le codage des entrevues se poursuivait. L&apos;objectif principal du codage axial
+			<lb/>
+			consistant à ramener les données dans un tout cohérent après les avoir fractionnées
+			<lb/>
+			(<ref type="biblio">Bryant &amp; Charmaz, 2010</ref>), la recherche de liens entre les catégories formelles
+			et
+			<lb/>
+			leurs sous-catégories respectives a permis de développer les catégories principales
+			<lb/>
+			(<ref type="biblio">Duchesne &amp; Savoie-Zajc, 2005</ref>).
+			<lb/>
+		</p>
+		
+		<p>À cette étape, l&apos;étude de l&apos;ensemble du matériel a conduit à revoir les quatre
+			<lb/>
+			catégories et leurs sous-catégories. L&apos;une des stratégies analytiques utilisées, inspirée
+			<lb/>
+			de <ref type="biblio">Morse (2010)</ref>, a été d&apos;organiser le discours des participants selon la nature des
+			<lb/>
+			événements significatifs racontés, puis de trouver des événements similaires à travers
+			<lb/>
+			les récits pouvant devenir des étapes ou des transitions dans notre modèle. Une fois la
+			<lb/>
+			séquence des événements significatifs dégagée, nous avons classé l&apos;ensemble des
+			<lb/>
+			entrevues (des récits) selon une démarche déductive, c&apos;est-à-dire en les ordonnant en
+			<lb/>
+			fonction des caractéristiques des relations déjà identifiées. Trois catégories
+			<lb/>
+			principales se sont ainsi clarifiées : 1) Point tournant; 2) Stratégies; 3) Conceptions de
+			<lb/>
+			la vie adulte.
+			<lb/>
+		</p>
+		
+		<head>2.4.3 Codage sélectif
+			<lb/>
+		</head>
+		
+		<p>Le codage sélectif consiste à organiser logiquement les catégories principales, à les
+			<lb/>
+			approfondir et à en dégager un modèle explicatif du phénomène à l&apos;étude. Cette étape
+			<lb/>
+			vise essentiellement à « […] intégrer tout le travail interprétatif effectué [lors des
+			<lb/>
+			autres étapes de codage] » (<ref type="biblio">Duchesne &amp; Savoie-Zajc, 2005, p. 81</ref>). La première étape
+			<lb/>
+			du codage sélectif consiste à expliciter la ligne narrative dégagée ou, en d&apos;autres
+			<lb/>
+			mots, à organiser logiquement les catégories principales (Dey, 2010). Les deuxième
+			<lb/>
+			et troisième étapes sont présentées à l&apos;intérieur de la section des résultats et
+			<lb/>
+			correspondent respectivement à l&apos;intégration des catégories et à la modélisation des
+			<lb/>
+			trajectoires. La ligne narrative dégagée et qui permet d&apos;organiser logiquement les
+			<lb/>
+			trois catégories principales (Point tournant, Conceptions de la vie adulte et Stratégies
+			<lb/>
+			de PVA) est la suivante : les récits de PVA de personnes ayant été placées jusqu&apos;à la
+			<lb/>
+			majorité sont construits en fonction d&apos;un point tournant du parcours de vie, raconté
+			<lb/>
+			comme une expérience de rupture quant au rôle joué au sein du réseau de relations.
+			<lb/>
+			C&apos;est en fonction de cet événement que la vie adulte est définie (conceptions) et
+			<lb/>
+			actualisée (stratégies), en d&apos;autres mots, que le processus de PVA revêt un sens. Le
+			<lb/>
+			point tournant permet d&apos;expliquer le PVA en termes de réussites individuelle et
+			<lb/>
+			sociale et est lui-même expliqué par l&apos;interaction entre les conceptions de la VA et les
+			<lb/>
+			besoins et comportements à la base des stratégies de devenir adulte.
+			<lb/>
+		</p>
+		
+		<head>3. Résultats
+			<lb/>
+		</head>
+		
+		<head>3.1 Intégration des catégories conceptuelles
+			<lb/>
+		</head>
+		
+		<p>L&apos;intégration des catégories conceptuelles est la deuxième étape du codage sélectif
+			<lb/>
+			dans une démarche d&apos;analyse par TE. Elle permet de présenter chacune des trois
+			<lb/>
+			catégories conceptuelles (Point tournant, Conceptions et Stratégies) et leurs liens avec
+			<lb/>
+			les discours des répondants. En d&apos;autres mots, elle traite de la façon dont ces
+			<lb/>
+			catégories s&apos;intègrent dans les récits de PVA.
+			<lb/>
+		</p>
+		
+		<head>3.1.1 Les événements de vie : un point tournant
+			<lb/>
+		</head>
+		
+		<p>La première catégorie conceptuelle renvoie aux événements qui ont marqué la vie de
+			<lb/>
+			ces personnes au moment de leur PVA. Pour les personnes rencontrées, le PVA est un
+			<lb/>
+			processus qui s&apos;est amorcé avec l&apos;expérience d&apos;un point tournant ne correspondant
+			<lb/>
+			pas systématiquement à la fin de la mesure de placement en milieu substitut. Il
+			<lb/>
+			renvoie plutôt à un événement charnière qui agit comme marqueur temporel du début
+			<lb/>
+			du PVA. Le phénomène d&apos;« instant adulthood » (<ref type="biblio">Stein, 2006, p. 274</ref>) qui implique de
+			<lb/>
+			vivre simultanément la fin d&apos;une réalité, la transition et l&apos;intégration dans une
+			<lb/>
+			nouvelle réalité, n&apos;est pas apparu significatif dans les PVA des répondants. Le point
+			<lb/>
+			tournant est raconté à la fois comme une expérience de redéfinition des relations qui
+			<lb/>
+			marque une rupture dans le rôle joué au sein du réseau social et dans le type de
+			<lb/>
+			relations entretenues avec l&apos;entourage, et comme une occasion de réorienter sa vie par
+			<lb/>
+			l&apos;expérience d&apos;ouverture vers d&apos;autres possibles. Ces deux aspects du point tournant
+			<lb/>
+			sont discutés dans les sous-sections suivantes.
+			<lb/>
+		</p>
+		
+		<head>Une expérience de rupture
+			<lb/>
+		</head>
+		
+		<p>Pour qu&apos;il soit considéré comme un point tournant, un événement doit entraîner
+			<lb/>
+			une bifurcation dans l&apos;orientation d&apos;une trajectoire de vie. Parmi les indices indiquant
+			<lb/>
+			que le changement de direction n&apos;est pas que temporaire, la transformation de
+			<lb/>
+			l&apos;identité pour s&apos;adapter à la nouvelle trajectoire (<ref type="biblio">Levy &amp; Pavie Team,
+				2005</ref>) est
+			<lb/>
+			l&apos;aspect qui nous intéresse particulièrement, dans la mesure où cette nouvelle identité
+			<lb/>
+			(ou cette identité en devenir) est celle de l&apos;adulte.
+			<lb/>
+		</p>
+		
+		<p>Pour certains répondants, le point tournant se caractérise par le passage d&apos;un
+			<lb/>
+			milieu où la personne se sent isolée à un entourage comportant un accès à des
+			<lb/>
+			relations signifiantes. Par exemple, une expérience d&apos;incarcération qui est l&apos;occasion
+			<lb/>
+			d&apos;acquérir des habiletés sociales, la fin du placement vécue comme une libération, le
+			<lb/>
+			début d&apos;une histoire d&apos;amour signifiante, ou encore le retour dans la famille d&apos;origine,
+			<lb/>
+			comme illustré dans l&apos;extrait suivant : « Je m&apos;ennuyais de ma mère. Quand je suis
+			<lb/>
+			parti de là [du milieu de vie substitut], je suis allé direct chez moi, chez ma mère »
+			<lb/>
+			(Guillaume). Il peut aussi être marqué par une ouverture à une nouvelle réalité, une
+			<lb/>
+			réalité basée sur un lien affectif étroit comme en témoigne l&apos;extrait suivant :
+			<lb/>
+		</p>
+		
+		<p>[S]i je ne l&apos;avais pas rencontré [mon amoureux], je ne serais plus là. […]
+			<lb/>
+			Quand je l&apos;ai rencontré, je m&apos;étais fixé une date puis comment j&apos;allais me
+			<lb/>
+			suicider et tout ça […] Quand je l&apos;ai connu, je me suis dit : « Attendons
+			<lb/>
+			un peu, peut-être que lui, il pourrait être correct, ça pourrait me faire un
+			<lb/>
+			ami ». Et finalement, c&apos;est devenu mon chum! Ça fait 14 ans. (Florence)
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres répondants, le point tournant a changé une situation d&apos;exclusion
+			<lb/>
+			en contexte où les relations nouées témoignent de leur valeur comme personne. Il y a
+			<lb/>
+			ici non seulement une ouverture à une nouvelle réalité, mais à un nouvel univers de
+			<lb/>
+			relations. L&apos;extrait suivant illustre ce passage d&apos;une situation d&apos;exclusion vers des
+			<lb/>
+			relations valorisantes :
+			<lb/>
+		</p>
+		
+		<p>[D]epuis que je suis sorti, ça fait un an et demi, c&apos;est eux autres [mon ami,
+			<lb/>
+			ma belle-mère, ma blonde] qui m&apos;aident à rester dehors. Je suis
+			<lb/>
+			institutionnalisé, c&apos;est marqué dans mes papiers. [Mon ami] c&apos;est
+			<lb/>
+			quelqu&apos;un de bien pour moi. […] il prend soin de nous autres, puis moi je
+			<lb/>
+			prends soin de lui. (Hugo)
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres encore, la rupture s&apos;est réalisée entre un état de dépendance et une
+			<lb/>
+			vie d&apos;indépendance où la personne tient le premier rôle dans son parcours en
+			<lb/>
+			choisissant les gens qui l&apos;entourent. Le PVA s&apos;accompagne d&apos;une volonté de redéfinir
+			<lb/>
+			ses liens pour se donner accès à un autre mode de vie. L&apos;extrait suivant témoigne de
+			<lb/>
+			ce moment où le mouvement vers l&apos;indépendance amorce le PVA, alors qu&apos;une
+			<lb/>
+			répondante raconte sa décision de changer de vie en modifiant les relations avec les
+			<lb/>
+			personnes de son entourage :
+			<lb/>
+		</p>
+		
+		<p>J&apos;ai tassé, je te dirais, 50 % de tous mes amis volontairement. Je les ai
+			<lb/>
+			appelés un après l&apos;autre : « Regarde, moi je ne sortirai plus, ça ne me
+			<lb/>
+			tente plus ». […] Tu ne choisis pas ton père, ta mère, mais tu choisis tes
+			<lb/>
+			amis. (Jade)
+			<lb/>
+		</p>
+		
+		<head>Une expérience d&apos;opportunité
+			<lb/>
+		</head>
+		
+		<p>Le point tournant correspond généralement à une occasion dans le parcours d&apos;une
+			<lb/>
+			personne. Pour certains répondants, cet événement est considéré comme une chance
+			<lb/>
+			d&apos;être libéré d&apos;un isolement envahissant plusieurs sphères de vie et d&apos;exister dans le
+			<lb/>
+			regard de son entourage. Dans l&apos;extrait suivant, une répondante raconte son séjour en
+			<lb/>
+			prison qu&apos;elle considère comme une occasion de commencer à vivre, et qui se
+			<lb/>
+			manifeste dans le regard de ses collègues de travail actuels et dans les liens tissés
+			<lb/>
+			avec ces gens qu&apos;elle considère comme sa famille :
+			<lb/>
+		</p>
+		
+		<p>On m&apos;avait dit que le pénitencier, c&apos;était l&apos;école du crime. Je pense qu&apos;il y
+			<lb/>
+			a d&apos;autres possibilités. Plutôt que l&apos;école du crime, il y a la possibilité
+			<lb/>
+			aussi que, ben coup donc, ça peut être aussi l&apos;école de la vie avec toutes
+			<lb/>
+			les ressources qu&apos;il y a. […] J&apos;ai fait un suivi psychologique, j&apos;ai fait
+			<lb/>
+			plusieurs thérapies qui m&apos;ont beaucoup servi je dois te dire. [Parfois], au
+			<lb/>
+			[nom du lieu de travail actuel], si je n&apos;avais pas eu ces cours-là, je pense
+			<lb/>
+			que j&apos;aurais perdu ma job! (Ana)
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres répondants, le point tournant a été l&apos;occasion d&apos;être sauvé ou de
+			<lb/>
+			se racheter afin de devenir quelqu&apos;un de bien. Ici, le point tournant se vit dans un
+			<lb/>
+			contexte plus élargi qui permet de trouver sa place comme personne. Dans l&apos;extrait
+			<lb/>
+			qui suit, l&apos;un des répondants raconte comment son arrivée dans une ressource de
+			<lb/>
+			soutien à l&apos;autonomie à la fin de son placement en centre de réadaptation a contribué
+			<lb/>
+			à donner une autre direction à sa vie.
+			<lb/>
+		</p>
+		
+		<p>[Mon arrivée à la ressource] c&apos;est pas mal ce qui a fait la transition entre
+			<lb/>
+			ma vie d&apos;enfant et ma vie d&apos;adulte. […] je me retrouvais comme dans une
+			<lb/>
+			impasse à 17 ans. […] Quand ils [les intervenants de la ressource] m&apos;ont
+			<lb/>
+			dit que cette maison-là existait […], je savais qu&apos;après, ils ne te laissaient
+			<lb/>
+			pas tomber. Après 18 ans, ils ne te laissaient pas à toi-même, puis un sac à
+			<lb/>
+			vidanges, puis « ciao bye », tu nous rappelleras pour donner des
+			<lb/>
+			nouvelles. […] Ça fait que je trouvais vraiment que c&apos;était une belle
+			<lb/>
+			opportunité. […] Depuis cette journée-là, je ne suis jamais retourné au
+			<lb/>
+			centre d&apos;accueil. […] Depuis ce temps-là, la ressource a toujours été
+			<lb/>
+			présente dans ma vie. […] C&apos;est quand même une chance que j&apos;ai eue,
+			<lb/>
+			parce que je ne suis pas sûr que je m&apos;en serais sorti nécessairement [sans
+			<lb/>
+			cette ressource]. (Émile)
+			<lb/>
+		</p>
+		
+		<p>Pour une autre répondante, le point tournant procède d&apos;une décision, celle de
+			<lb/>
+			devenir quelqu&apos;un de bien en s&apos;éloignant du parcours tracé par sa mère :
+			<lb/>
+		</p>
+		
+		<p>Dans le fond, le passage à l&apos;adulte, ce n&apos;est pas nécessairement tu es
+			<lb/>
+			obligée de boire, pis prendre de la drogue. Je ne voulais pas être adulte,
+			<lb/>
+			puis [devenir] ce que ma mère avait été. Moi, le passage à l&apos;adulte, bien
+			<lb/>
+			c&apos;était comme ça, pas d&apos;alcool dans ma vie. (Danielle)
+			<lb/>
+		</p>
+		
+		<p>Enfin, d&apos;autres répondants ont vécu cet événement comme une occasion de
+			<lb/>
+			partir d&apos;eux-mêmes afin de suivre leur propre chemin comme mentionné dans cet
+			<lb/>
+			extrait : « J&apos;ai pris la décision de déménager […]. Dans le fond, de sortir de tout ce
+			<lb/>
+			foirage-là » (Adam). Des événements comme un changement de milieu de vie, un
+			<lb/>
+			changement de réseau de relations, le décès d&apos;une personne signifiante, l&apos;installation
+			<lb/>
+			en appartement sont autant d&apos;occasions de développer une prise de conscience qu&apos;il
+			<lb/>
+			est possible de vivre sa vie selon ses propres valeurs.
+			<lb/>
+		</p>
+		
+		<p>En conclusion, le point tournant comporte deux dimensions : une dimension
+			<lb/>
+			relationnelle qui renvoie à un changement dans les relations et une dimension
+			<lb/>
+			intentionnelle qui réfère à l&apos;occasion de réorienter son propre parcours. Le Tableau 1
+			<lb/>
+			résume les composantes de la catégorie Point tournant.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 1
+			<lb/>
+			La nature du point tournant en rapport avec le PVA
+			<lb/>
+			Propriétés
+			<lb/>
+			Dimensions
+			<lb/>
+			Conditions
+			<lb/>
+			Vécu comme
+			<lb/>
+			une expérience
+			<lb/>
+			de rupture
+			<lb/>
+			Relationnelle
+			<lb/>
+			-Avoir accès à des relations signifiantes
+			<lb/>
+			-Avoir accès à un nouvel univers de
+			<lb/>
+			relations
+			<lb/>
+			-Élargir ou redéfinir ses liens
+			<lb/>
+			Vécu comme
+			<lb/>
+			une expérience
+			<lb/>
+			de possibles
+			<lb/>
+			Intentionnelle
+			<lb/>
+			-Exister pour son entourage
+			<lb/>
+			-Devenir quelqu&apos;un de bien
+			<lb/>
+			-Suivre son propre chemin
+			<lb/>
+		</figure>
+		
+		<head>3.1.2 Les conceptions de la vie adulte : une direction
+			<lb/>
+		</head>
+		
+		<p>Au moment de vivre un point tournant, un mouvement s&apos;amorce et la personne
+			<lb/>
+			s&apos;engage dans une transition vers « la vie adulte ». La direction de ce mouvement est
+			<lb/>
+			déterminée par la façon dont la personne conçoit la vie adulte. Le projet de la vie
+			<lb/>
+			adulte est apprécié essentiellement sous deux aspects : la réussite individuelle et la
+			<lb/>
+			réussite sociale.
+			<lb/>
+		</p>
+		
+		<head>En termes de réussite individuelle
+			<lb/>
+		</head>
+		
+		<p>Devenir adulte renvoie d&apos;une part à un sentiment de réussite par et pour soi-<lb/>même, ce qui rejoint
+			la notion d&apos;« engagements » liés à des insertions sociales,
+			<lb/>
+			souvent sources de tension entre des besoins individuels et des demandes sociales
+			<lb/>
+			(<ref type="biblio">Sapin, Spini, &amp; Widmer, 2007</ref>). Pour certains répondants, ce sentiment passe par la
+			<lb/>
+			capacité de prendre soin de soi et le fait d&apos;être traité en adulte par l&apos;entourage. Pour
+			<lb/>
+			d&apos;autres, il passe par la reconnaissance de son potentiel et l&apos;expression d&apos;une vision
+			<lb/>
+			optimiste de l&apos;avenir. L&apos;extrait suivant illustre cette conception de la réussite :
+			<lb/>
+			« L&apos;appartement […] c&apos;est important. J&apos;ai de quoi à moi toute seule. […] Une place à
+			<lb/>
+			moi où je ne me fais pas chialer dessus » (Marie).
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres répondants, la réussite concerne sa valeur comme individu, c&apos;est-<lb/>à-dire le
+			jugement positif que la personne porte sur elle-même, ses qualités et ses
+			<lb/>
+			aptitudes, comme l&apos;exprime une répondante dans cet extrait : « Je ne sais pas tout à
+			<lb/>
+			fait encore qu&apos;est-ce que je veux, mais je sais qu&apos;est-ce que je vaux » (Béa). C&apos;est le
+			<lb/>
+			fait de pouvoir se reconnaître de la valeur comme personne qui donne un sentiment
+			<lb/>
+			de réussite.
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres enfin, la réussite individuelle correspond au fait de s&apos;investir dans
+			<lb/>
+			un domaine singulier et personnel et d&apos;en retirer un sentiment de satisfaction
+			<lb/>
+			personnelle. L&apos;extrait suivant illustre cette façon d&apos;être « accompli » à ses propres
+			<lb/>
+			yeux et dans le regard des autres :
+			<lb/>
+		</p>
+		
+		<p>C&apos;est quoi que je vais chercher exactement là-dedans [la compétition
+			<lb/>
+			sportive]? Je pense que c&apos;est la satisfaction d&apos;accomplir quelque chose.
+			<lb/>
+			C&apos;est tellement une minorité qui en fait, puis qui réussit là-dedans, ça
+			<lb/>
+			demande tellement de temps que dans le fond, il n&apos;y en a pas de secret :
+			<lb/>
+			c&apos;est du temps, du temps, du temps. Je pense que c&apos;est le fait de… bien, à
+			<lb/>
+			quelque part, tu le fais pour toi, mais on se cachera pas que c&apos;est un peu le
+			<lb/>
+			fait de montrer aux autres que moi, j&apos;ai fait ça. (Adam)
+			<lb/>
+		</p>
+		
+		<head>En termes de réussite sociale
+			<lb/>
+		</head>
+		
+		<p>Dans une certaine mesure, l&apos;ensemble des personnes rencontrées réfère à une
+			<lb/>
+			conception traditionnelle de la vie adulte de type « emploi-maison-famille ». Pour
+			<lb/>
+			certains répondants, ce modèle conventionnel n&apos;est pas remis en question. La
+			<lb/>
+			conception du devenir adulte se résume ainsi parfois au fait « [d&apos;]avoir une petite vie
+			<lb/>
+			comme tout le monde » (Chloé).
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres, le modèle conventionnel de la vie adulte est un idéal à atteindre
+			<lb/>
+			en opposition avec ce qu&apos;ils ont connu jusqu&apos;à maintenant. Se conformer au modèle
+			<lb/>
+			conventionnel, c&apos;est faire une rupture avec un mode de vie antérieur et c&apos;est aussi se
+			<lb/>
+			positionner comme un modèle pour les générations futures. L&apos;extrait suivant
+			<lb/>
+			témoigne de cette conception, actualisée par le fait que la participante a elle-même
+			<lb/>
+			trois enfants :
+			<lb/>
+		</p>
+		
+		<p>Bien moi, [être adulte] ça a tout le temps été de ne pas être comme ma
+			<lb/>
+			mère. Ça fait que tout ce que je fais, je m&apos;organise pour ne pas être
+			<lb/>
+			comme elle. […] Pas boire. Pas prendre de drogue. M&apos;occuper de mes
+			<lb/>
+			affaires. Être responsable. Élever mes enfants. Avoir ma famille, puis la
+			<lb/>
+			garder avec moi. Ça fait que jamais je ne me les ferai enlever [mes
+			<lb/>
+			enfants]. (Danielle)
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres enfin, le modèle conventionnel du devenir adulte est un outil
+			<lb/>
+			permettant d&apos;atteindre « autre chose », c&apos;est-à-dire un autre niveau
+			<lb/>
+			d&apos;accomplissement. Répondre à ce modèle devient un moyen de s&apos;accomplir et non
+			<lb/>
+			une finalité. Ces propos traduisent une vision « instrumentalisée » de la vie adulte,
+			<lb/>
+			c&apos;est-à-dire que les devoirs et responsabilités associés à la vie adulte impliquent des
+			<lb/>
+			bénéfices permettant de faire ce qui est « vraiment important » selon leur propre
+			<lb/>
+			échelle de valeurs. Dans l&apos;extrait suivant, l&apos;un des répondants explique comment son
+			<lb/>
+			travail rémunéré, qui n&apos;est pas considéré comme une finalité, lui permet de faire ce
+			<lb/>
+			qui importe vraiment, soit de participer à des compétitions sportives d&apos;envergure :
+			<lb/>
+		</p>
+		
+		<p>[De la compétition sportive] je n&apos;en fais pas au niveau professionnel, mais
+			<lb/>
+			ça serait tellement mon rêve dans le fond d&apos;en vivre, mais […] la réalité a
+			<lb/>
+			pris le dessus; il faut que je travaille pour être capable de tout faire ça.
+			<lb/>
+			(Adam)
+			<lb/>
+		</p>
+		
+		<p>Le <ref type="table">Tableau 2</ref> résume les différentes composantes qui se profilent derrière la
+			<lb/>
+			conception que les répondants entretiennent de ce qu&apos;est une vie adulte réussie.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 2
+			<lb/>
+			Les conceptions de la vie adulte dans le PVA
+			<lb/>
+			Propriétés
+			<lb/>
+			Dimensions
+			<lb/>
+			Conditions
+			<lb/>
+			En termes de réussite
+			<lb/>
+			individuelle
+			<lb/>
+			Reconnaissance
+			<lb/>
+			-Être reconnu comme
+			<lb/>
+			autonome
+			<lb/>
+			-Se reconnaître de la
+			<lb/>
+			valeur
+			<lb/>
+			-Avoir un sentiment de
+			<lb/>
+			satisfaction
+			<lb/>
+			En termes de réussite
+			<lb/>
+			sociale
+			<lb/>
+			Modèle conventionnel
+			<lb/>
+			de la vie adulte
+			<lb/>
+			-Être à l&apos;image de son
+			<lb/>
+			entourage
+			<lb/>
+			-Être un modèle
+			<lb/>
+			-S&apos;accomplir autrement
+			<lb/>
+		</figure>
+		
+		<head>3.1.3 Les stratégies de passage à la vie adulte : une mise en action
+			<lb/>
+		</head>
+		
+		<p>Lorsque la transition est amorcée selon la direction souhaitée, le défi consiste
+			<lb/>
+			ensuite à mettre en place les moyens qui vont permettre de tendre vers une
+			<lb/>
+			« destination ». L&apos;examen de ces moyens peut se faire sous deux angles : celui des
+			<lb/>
+			actions et celui des besoins et motivations qui les sous-tendent.
+			<lb/>
+		</p>
+		
+		<head>Les actions
+			<lb/>
+		</head>
+		
+		<p>Pour certains répondants, devenir adulte implique de réaliser une série d&apos;étapes
+			<lb/>
+			donnant accès à un mode de vie normalisé. L&apos;énergie est alors particulièrement
+			<lb/>
+			consacrée à planifier ces étapes et à mettre en place les conditions pour les franchir
+			<lb/>
+			comme illustré dans l&apos;extrait suivant :
+			<lb/>
+		</p>
+		
+		<p>C&apos;est sûr que moi j&apos;en veux une [famille] mais plus tard. […] Je n&apos;en
+			<lb/>
+			veux pas avant au moins 28 [ans]. […] Je veux laisser le temps d&apos;avoir
+			<lb/>
+			fini au moins mes études. Qu&apos;on ait une maison ou un appartement, de
+			<lb/>
+			quoi... Des sous assez pour qu&apos;on puisse les nourrir puis pas les laisser
+			<lb/>
+			dans la rue. (Marie)
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres, devenir adulte signifie faire ses preuves. Dans l&apos;extrait suivant,
+			<lb/>
+			une répondante raconte comment elle a procédé afin de se prouver qu&apos;elle était en
+			<lb/>
+			mesure de réaliser ses objectifs et décrit le moyen utilisé pour y parvenir :
+			<lb/>
+		</p>
+		
+		<p>En fait, j&apos;ai appliqué pour le cégep l&apos;année prochaine. Je voulais me
+			<lb/>
+			prouver que j&apos;étais capable de me lever à tous les matins. Je me suis dit :
+			<lb/>
+			« Si je suis capable d&apos;aller [faire du bénévolat] pendant une heure, de me
+			<lb/>
+			lever tous les matins, bien je vais être capable de faire quelque chose
+			<lb/>
+			comme d&apos;aller à l&apos;école ou d&apos;avoir une job. » Je voulais me le prouver à
+			<lb/>
+			moi-même que j&apos;étais capable. (Gabrielle)
+			<lb/>
+		</p>
+		
+		<p>Pour certains répondants, la priorité réside dans le maintien du bien-être
+			<lb/>
+			personnel au quotidien. Le reste de la vie adulte est envisagé, mais s&apos;actualisera
+			<lb/>
+			éventuellement, comme l&apos;explique un répondant dans l&apos;extrait suivant :
+			<lb/>
+		</p>
+		
+		<p>À un moment donné, je vais vraiment rencontrer la fille avec qui je vais
+			<lb/>
+			être bien, puis à mon avis, je vais être prêt à mettre ça [les compétitions
+			<lb/>
+			sportives] de côté. […] J&apos;aime ça la compétition, puis tout ça, mais je
+			<lb/>
+			veux passer par cette étape-là [fonder une famille] aussi. (Adam)
+			<lb/>
+		</p>
+		
+		<head>Les besoins et les motivations
+			<lb/>
+		</head>
+		
+		<p>Pour des répondants, le besoin de se prémunir contre l&apos;isolement et d&apos;éviter
+			<lb/>
+			l&apos;abandon peut motiver les stratégies privilégiées avec les personnes autour de soi au
+			<lb/>
+			moment de transiter vers la vie adulte. La réponse à ce besoin se traduit notamment
+			<lb/>
+			par le maintien de liens étroits avec une personne en mesure de prendre soin de soi,
+			<lb/>
+			comme l&apos;exprime un répondant dans l&apos;extrait suivant :
+			<lb/>
+		</p>
+		
+		<p>Quand ma mère va décéder, ça se trouve à être elle [ma colocataire] qui
+			<lb/>
+			me ramasse. Ça va être elle, dans le fond, ma deuxième maman. […] Elle
+			<lb/>
+			me l&apos;a promis, elle me l&apos;a dit, elle a dit : « Quand ta mère meurt, c&apos;est moi
+			<lb/>
+			qui te ramasse ». Puis je lui ai demandé, parce que moi, c&apos;est important
+			<lb/>
+			d&apos;avoir quelqu&apos;un pour m&apos;aider pareil. (Guillaume)
+			<lb/>
+		</p>
+		
+		<p>Pour d&apos;autres, l&apos;idée de redonner aux autres peut constituer en soi la motivation
+			<lb/>
+			à l&apos;origine des stratégies de devenir adulte comme illustré dans l&apos;extrait suivant :
+			<lb/>
+		</p>
+		
+		<p>[J]e pense que ce monde-ci, dans lequel j&apos;évolue en ce moment, je pense
+			<lb/>
+			que c&apos;est là ma place. […] Je pense, par exemple, dans mon bénévolat
+			<lb/>
+			[auprès des jeunes de la rue], c&apos;est mon point de repère. […] J&apos;ai
+			<lb/>
+			beaucoup un sentiment d&apos;appartenance à ce milieu-là, c&apos;est comme une
+			<lb/>
+			deuxième famille. Je pense qu&apos;au lieu de justement me faire du mal, je
+			<lb/>
+			peux devenir comme une grande soeur ou une aidante. (Gabrielle)
+			<lb/>
+		</p>
+		
+		<p>Certains répondants trouvent leur motivation dans le fait de construire leur
+			<lb/>
+			propre chemin, en fonction de leurs propres valeurs, pour dépasser leur sentiment de
+			<lb/>
+			vulnérabilité à l&apos;égard des événements extérieurs. L&apos;extrait suivant illustre cette
+			<lb/>
+			stratégie de persévérance et de ténacité dans l&apos;accomplissement de soi :
+			<lb/>
+		</p>
+		
+		<p>À force de toujours bûcher dans la vie pour avoir quelque chose, bien
+			<lb/>
+			veux, veux pas, tu te formes une carapace, puis tu continues, tu avances.
+			<lb/>
+			[…] J&apos;aime mieux ça que de m&apos;asseoir, puis de me dire : « Ah, qu&apos;est-ce
+			<lb/>
+			qui m&apos;arrive encore? » Ça ne donne rien, tu n&apos;avances pas, tu restes
+			<lb/>
+			toujours au même point. À chaque fois que tu as une épreuve, c&apos;est la fin
+			<lb/>
+			du monde. Moi, la fin du monde, je l&apos;ai vue, ça fait que… <ref type="biblio">[</ref>…] ah, bien
+			<lb/>
+			c&apos;est sûr que la perte de mes enfants, ça serait la pire des choses qui
+			<lb/>
+			pourrait m&apos;arriver mais à part ça, je n&apos;ai peur de rien! (Émilie)
+			<lb/>
+		</p>
+		
+		<p>Les stratégies de PVA se traduisent par des actions entreprises permettant de
+			<lb/>
+			répondre à certains besoins et motivations. Le <ref type="table">Tableau 3</ref> résume les composantes de
+			<lb/>
+			cette catégorie.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 3
+			<lb/>
+			Les stratégies de PVA
+			<lb/>
+			Propriétés
+			<lb/>
+			Dimensions
+			<lb/>
+			Conditions
+			<lb/>
+			Sont dirigées vers
+			<lb/>
+			l&apos;extérieur de soi
+			<lb/>
+			Actions
+			<lb/>
+			-Planifier et suivre les étapes
+			<lb/>
+			prescrites
+			<lb/>
+			-Faire ses preuves
+			<lb/>
+			-Performer
+			<lb/>
+			Sont vécues à
+			<lb/>
+			l&apos;intérieur de soi
+			<lb/>
+			Besoins ou
+			<lb/>
+			motivations
+			<lb/>
+			-Être entouré
+			<lb/>
+			-Redonner aux autres
+			<lb/>
+			-S&apos;accomplir
+			<lb/>
+		</figure>
+		
+		<head>3.1.4 Les variables discriminantes des trajectoires de passage à la vie adulte
+			<lb/>
+		</head>
+		
+		<p>À ce stade de l&apos;analyse, les trois concepts examinés (point tournant, conceptions de la
+			<lb/>
+			vie adulte et stratégies) ont été revus dans une logique « par thèmes ». Leur
+			<lb/>
+			combinaison et l&apos;interprétation des données ont permis de réunir l&apos;ensemble des récits
+			<lb/>
+			autour de la notion d&apos;identité sociale. Le thème de l&apos;identité dans les parcours de vie
+			<lb/>
+			des jeunes ayant été placés rejoint d&apos;autres études, notamment celle <ref type="biblio">d&apos;Ibrahim et
+			<lb/>
+				Howe (2011)</ref>.
+			<lb/>
+		</p>
+		
+		<p>Les thèmes dégagés dans chacune des catégories conceptuelles peuvent être
+			<lb/>
+			regroupés autour de trois idées principales : 1) le rapport à soi; 2) le rapport aux
+			<lb/>
+			autres; 3) le rapport à la société. Les thèmes qui parlent du point tournant comme
+			<lb/>
+			d&apos;une redéfinition des liens avec son entourage en fonction de soi et de l&apos;opportunité
+			<lb/>
+			de suivre son propre chemin, ceux qui décrivent la conception de la vie adulte comme
+			<lb/>
+			un moyen de s&apos;accomplir selon ses propres valeurs et d&apos;en retirer un sentiment de
+			<lb/>
+			satisfaction personnelle et ceux qui abordent le besoin d&apos;accomplissement comme
+			<lb/>
+			passant par la performance mettent tous l&apos;accent sur le rapport à soi dans le PVA. Les
+			<lb/>
+			thèmes qui parlent du point tournant comme de la fin d&apos;une période où la personne est
+			<lb/>
+			privée de relations signifiantes et rassurantes et de la possibilité de tisser de telles
+			<lb/>
+			relations, ceux qui expriment l&apos;importance d&apos;être reconnu et traité en adulte par son
+			<lb/>
+			entourage et ceux qui mettent en relief le besoin de ne pas être abandonné et de faire
+			<lb/>
+			ce qu&apos;il faut pour se conformer au modèle conventionnel de la vie adulte mettent
+			<lb/>
+			plutôt l&apos;accent sur le rapport aux autres dans le PVA. Enfin, les thèmes qui parlent du
+			<lb/>
+			point tournant comme d&apos;une ouverture à l&apos;égard d&apos;un nouvel univers de relations et
+			<lb/>
+			d&apos;une occasion de devenir quelqu&apos;un de bien, ceux qui parlent de se reconnaître assez
+			<lb/>
+			de valeur pour devenir un modèle pour les autres et ceux qui soulignent le besoin de
+			<lb/>
+			redonner aux autres en ayant d&apos;abord fait ses preuves insistent sur le rapport à la
+			<lb/>
+			société dans le PVA. Le Tableau 4 présente la structure d&apos;analyse en fonction de ces
+			<lb/>
+			trois façons de se raconter.
+			<lb/>
+		</p>
+		
+		<p>Afin de dégager des trajectoires de PVA, une matrice combinant le discours des
+			<lb/>
+			répondants sur les différents thèmes a été construite. Cette organisation de
+			<lb/>
+			l&apos;information illustre le potentiel discriminant de ce qui a été traité comme des
+			<lb/>
+			« variables », soit les notions de rapport à soi, de rapport aux autres et de rapport à la
+			<lb/>
+			société (voir l&apos;Appendice A). En effet, il est possible de constater que le PVA de
+			<lb/>
+			chaque répondant, c&apos;est-à-dire à la fois le point tournant, les conceptions et les
+			<lb/>
+			stratégies d&apos;accès à la vie adulte, s&apos;inscrit dans l&apos;une ou l&apos;autre de ces façons de se
+			<lb/>
+			raconter.
+			<lb/>
+		</p>
+		
+		<head>3.2 Modélisation des trajectoires de passage à la vie adulte
+			<lb/>
+		</head>
+		
+		<p>Dernière étape du codage sélectif, la modélisation est utilisée pour déterminer s&apos;il est
+			<lb/>
+			possible de distinguer des logiques ou des trajectoires de PVA. Le rapport à soi, le
+			<lb/>
+			rapport aux autres et le rapport à la société ont agi comme variables discriminantes ou
+			<lb/>
+			comme paramètres permettant de modéliser trois trajectoires de PVA présentées au
+			<lb/>
+			<ref type="table">Tableau 5</ref> : une trajectoire d&apos;appartenance, une trajectoire d&apos;intégration et une
+			<lb/>
+			trajectoire d&apos;appropriation.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 4
+			<lb/>
+			Le rapport à soi, aux autres et à la société dans les catégories
+			<lb/>
+			Catégorie 1
+			<lb/>
+			Point tournant
+			<lb/>
+			Catégorie 2
+			<lb/>
+			Conceptions
+			<lb/>
+			Catégorie 3
+			<lb/>
+			Stratégies
+			<lb/>
+			Rapport
+			<lb/>
+			à soi
+			<lb/>
+			Redéfinir ses
+			<lb/>
+			relations en
+			<lb/>
+			fonction de soi
+			<lb/>
+			Suivre son propre
+			<lb/>
+			chemin
+			<lb/>
+			Avoir un
+			<lb/>
+			sentiment de
+			<lb/>
+			satisfaction
+			<lb/>
+			personnelle
+			<lb/>
+			S&apos;accomplir
+			<lb/>
+			autrement
+			<lb/>
+			Performer
+			<lb/>
+			S&apos;accomplir
+			<lb/>
+			Rapport
+			<lb/>
+			aux autres
+			<lb/>
+			Ne plus être privé
+			<lb/>
+			de relations
+			<lb/>
+			signifiantes
+			<lb/>
+			Exister dans les
+			<lb/>
+			liens tissés avec
+			<lb/>
+			l&apos;entourage
+			<lb/>
+			Être reconnu
+			<lb/>
+			comme autonome
+			<lb/>
+			Être à l&apos;image de
+			<lb/>
+			son entourage
+			<lb/>
+			Planifier et
+			<lb/>
+			suivre les étapes
+			<lb/>
+			Ne pas être
+			<lb/>
+			abandonné
+			<lb/>
+			Rapport
+			<lb/>
+			à la société
+			<lb/>
+			Avoir accès à un
+			<lb/>
+			nouvel univers de
+			<lb/>
+			relations
+			<lb/>
+			Devenir quelqu&apos;un
+			<lb/>
+			de bien
+			<lb/>
+			Se reconnaître de
+			<lb/>
+			la valeur
+			<lb/>
+			Être un modèle
+			<lb/>
+			Faire ses preuves
+			<lb/>
+			Redonner aux
+			<lb/>
+			autres
+			<lb/>
+		</figure>
+		
+		<p>L&apos;origine du PVA est associée à un événement considéré comme un point
+			<lb/>
+			tournant pour deux raisons : 1) il marque un changement important dans les relations;
+			<lb/>
+			2) il est à l&apos;origine d&apos;une prise de conscience. Pour certains répondants, le point
+			<lb/>
+			tournant correspond à la fin de l&apos;isolement et marque l&apos;accès à des relations
+			<lb/>
+			signifiantes. Cet événement permet à ces répondants de réaliser qu&apos;ils peuvent vivre
+			<lb/>
+			leur vie en misant sur d&apos;autres personnes et met ainsi en lumière l&apos;importance du
+			<lb/>
+			rapport aux autres dans le PVA. Pour d&apos;autres répondants, le point tournant
+			<lb/>
+			correspond à une expérience qui atténue l&apos;impression d&apos;exclusion sociale ressentie
+			<lb/>
+			jusque-là. En accédant à un nouvel univers de relations, ils développent le sentiment
+			<lb/>
+			d&apos;avoir de la valeur et de pouvoir contribuer à la société. Enfin, pour d&apos;autres, le point
+			<lb/>
+			tournant correspond à la fin de la dépendance et à la redéfinition de ses relations
+			<lb/>
+			interpersonnelles.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 5
+			<lb/>
+			Trois trajectoires de passage à la vie adulte
+			<lb/>
+			Événement Relation
+			<lb/>
+			Prise de
+			<lb/>
+			conscience
+			<lb/>
+			Conception Besoin
+			<lb/>
+			Accent Trajectoire
+			<lb/>
+			Fin de
+			<lb/>
+			l&apos;isolement
+			<lb/>
+			Accès à des
+			<lb/>
+			relations
+			<lb/>
+			signifiantes
+			<lb/>
+			Possibilité
+			<lb/>
+			de miser
+			<lb/>
+			sur les
+			<lb/>
+			relations
+			<lb/>
+			Être
+			<lb/>
+			autonome
+			<lb/>
+			aux yeux de
+			<lb/>
+			son
+			<lb/>
+			entourage
+			<lb/>
+			Être entouré
+			<lb/>
+			en faisant ce
+			<lb/>
+			qu&apos;il faut
+			<lb/>
+			Rapport
+			<lb/>
+			aux
+			<lb/>
+			autres
+			<lb/>
+			Appartenance
+			<lb/>
+			Fin de
+			<lb/>
+			l&apos;exclusion
+			<lb/>
+			Ouverture à
+			<lb/>
+			un nouvel
+			<lb/>
+			univers de
+			<lb/>
+			relations
+			<lb/>
+			Possibilité
+			<lb/>
+			de faire
+			<lb/>
+			partie de la
+			<lb/>
+			société
+			<lb/>
+			Être un
+			<lb/>
+			modèle afin
+			<lb/>
+			de se
+			<lb/>
+			démarquer
+			<lb/>
+			socialement
+			<lb/>
+			Redonner
+			<lb/>
+			aux autres
+			<lb/>
+			en ayant
+			<lb/>
+			d&apos;abord fait
+			<lb/>
+			ses preuves
+			<lb/>
+			Rapport
+			<lb/>
+			à la
+			<lb/>
+			société
+			<lb/>
+			Intégration
+			<lb/>
+			Fin de la
+			<lb/>
+			dépendance
+			<lb/>
+			Redéfinition
+			<lb/>
+			des liens en
+			<lb/>
+			fonction de
+			<lb/>
+			soi
+			<lb/>
+			Possibilité
+			<lb/>
+			de vivre
+			<lb/>
+			selon ses
+			<lb/>
+			valeurs
+			<lb/>
+			S&apos;accomplir
+			<lb/>
+			autrement
+			<lb/>
+			en partant
+			<lb/>
+			de soi
+			<lb/>
+			S&apos;accomplir
+			<lb/>
+			par la
+			<lb/>
+			performance
+			<lb/>
+			Rapport
+			<lb/>
+			à soi
+			<lb/>
+			Appropriation
+			<lb/>
+		</figure>
+		
+		<p>Quelle qu&apos;en soit la forme, la prise de conscience est associée à une conception
+			<lb/>
+			plutôt traditionnelle de la vie adulte. Si certains cherchent à s&apos;y conformer, d&apos;autres la
+			<lb/>
+			considèrent comme un moyen plutôt qu&apos;une finalité. Pour certains, l&apos;important
+			<lb/>
+			consiste à s&apos;accomplir selon ses propres valeurs, alors que pour d&apos;autres c&apos;est le
+			<lb/>
+			regard de l&apos;entourage ou celui de la société qui guide l&apos;action. Les stratégies d&apos;accès à
+			<lb/>
+			la vie adulte doivent donc être examinées en portant attention aux préoccupations qui
+			<lb/>
+			les motivent. Pour certains, le besoin central est celui de ne pas être abandonné; pour
+			<lb/>
+			d&apos;autres, le besoin de redonner aux autres incite à d&apos;abord faire ses preuves. Pour
+			<lb/>
+			d&apos;autres encore, l&apos;important se trouve dans l&apos;accomplissement que l&apos;on atteint en
+			<lb/>
+			étant performant (par exemple dans le travail, dans l&apos;entraînement physique, dans
+			<lb/>
+			l&apos;implication auprès de ses enfants). Les comportements mis en place pour combler
+			<lb/>
+			les besoins ressentis en termes d&apos;appartenance, d&apos;intégration ou d&apos;appropriation,
+			<lb/>
+			tentent aussi d&apos;éviter ce qui leur est opposé, c&apos;est-à-dire les situations d&apos;isolement,
+			<lb/>
+			d&apos;exclusion ou encore de dépendance. Le modèle général dégagé dans cette recherche
+			<lb/>
+			est illustré à la <ref type="figure">Figure 1</ref>. Sur la base de cette modélisation, il est possible de
+			faire
+			<lb/>
+			ressortir les particularités des trois trajectoires dégagées.
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Trajectoire de passage à la vie adulte.
+			<lb/>
+		</figure>
+		
+		<head>3.2.1 Trajectoire d&apos;appartenance
+			<lb/>
+		</head>
+		
+		<p>Dans une trajectoire de type « appartenance », l&apos;accent est mis sur le rapport aux
+			<lb/>
+			autres. La personne prend conscience, à la suite d&apos;un événement qui marque la fin de
+			<lb/>
+			l&apos;isolement et l&apos;accès à des relations signifiantes et rassurantes, qu&apos;il existe une
+			<lb/>
+			possibilité de vivre sa vie autrement que dans l&apos;isolement. Être adulte implique d&apos;être
+			<lb/>
+			comme tout le monde. Ce qui importe toutefois, c&apos;est moins le regard « anonyme » de
+			<lb/>
+			la société que les relations bâties et entretenues avec l&apos;entourage. En ce sens, l&apos;accès
+			<lb/>
+			au modèle conventionnel de la vie adulte est un prétexte, une façon de répondre au
+			<lb/>
+			besoin d&apos;être entouré. Les personnes cherchent à s&apos;y conformer pour être jugées
+			<lb/>
+			positivement par les personnes signifiantes de l&apos;entourage. Dans une trajectoire
+			<lb/>
+			d&apos;appartenance, devenir adulte signifie ne pas être seul. La trajectoire d&apos;appartenance
+			<lb/>
+			concerne les parcours d&apos;Ana, Chloé, Florence, Guillaume, Léa et Marie. Elle est
+			<lb/>
+			illustrée ici par l&apos;histoire d&apos;Ana et schématisée à la <ref type="figure">Figure 2</ref>.
+			<lb/>
+		</p>
+		
+		<p>Au moment de l&apos;entrevue, Ana est âgée de 35 ans. Ses années d&apos;incarcération
+			<lb/>
+			dans un pénitencier fédéral sont pour Ana un point tournant. Pendant son
+			<lb/>
+			emprisonnement, elle saisit toutes les occasions pour acquérir des habiletés sociales et
+			<lb/>
+			augmenter son estime personnelle, en participant à des formations et à des thérapies.
+			<lb/>
+			Autant d&apos;expériences qui favoriseront l&apos;obtention à sa sortie d&apos;un emploi valorisant et
+			<lb/>
+			la construction de saines relations. Pour Ana, être adulte c&apos;est être traitée comme tel,
+			<lb/>
+			avoir des droits et les faire respecter. La façon d&apos;y arriver passe par un emploi, une
+			<lb/>
+			famille, autrement dit, par une vie « comme tout le monde ». Motivée par le besoin
+			<lb/>
+			d&apos;être entourée et d&apos;éprouver un sentiment d&apos;appartenance, Ana avance dans la vie
+			<lb/>
+			une étape à la fois : d&apos;abord s&apos;inscrire à un réseau de rencontres, puis fréquenter
+			<lb/>
+			quelqu&apos;un, ensuite cohabiter pendant un temps, et enfin avoir des enfants. Petit à
+			<lb/>
+			petit, Ana s&apos;est construit un réseau de proximité avec ses collègues de travail :
+			<lb/>
+			« [J]amais je ne me suis sentie comme dans une grande famille, sauf [ici] ». Sa place
+			<lb/>
+			parmi eux est précieuse : elle se dit prête à travailler bénévolement afin de la garder.
+			<lb/>
+		</p>
+		
+		<figure>Figure 2. Trajectoire d&apos;appartenance.
+			<lb/>
+		</figure>
+		
+		<head>3.2.2 Trajectoire d&apos;intégration
+			<lb/>
+		</head>
+		
+		<p>Dans une trajectoire de type « intégration », l&apos;accent est mis sur le rapport à la
+			<lb/>
+			société. La personne prend conscience, à la suite d&apos;un événement qui marque la fin de
+			<lb/>
+			l&apos;exclusion et l&apos;ouverture à un nouvel univers relationnel, qu&apos;il existe une possibilité
+			<lb/>
+			pour elle de faire partie de la société. Être adulte implique la possibilité de devenir un
+			<lb/>
+			modèle pour les autres. Le regard de la société sur soi est capital; ce qui est important
+			<lb/>
+			c&apos;est d&apos;être considéré comme une personne de valeur. En ce sens, l&apos;accès au modèle
+			<lb/>
+			conventionnel de la vie adulte est une façon de répondre au besoin de redonner aux
+			<lb/>
+			autres, d&apos;être utile. La personne cherche à atteindre une version idéalisée de la vie
+			<lb/>
+			adulte, où la famille est par définition harmonieuse et unie, où l&apos;emploi mène à la
+			<lb/>
+			richesse, où la maison est vaste, etc. Prendre conscience de la possibilité d&apos;avoir de la
+			<lb/>
+			valeur à ses propres yeux renvoie au besoin d&apos;avoir de la valeur aux yeux de
+			<lb/>
+			l&apos;ensemble de la société. Afin d&apos;y arriver, la personne doit d&apos;abord « faire ses
+			<lb/>
+			preuves », c&apos;est-à-dire se prouver à elle-même qu&apos;elle est capable de transformer ses
+			<lb/>
+			intentions en actions réelles. Dans une trajectoire d&apos;intégration, devenir adulte
+			<lb/>
+			signifie avoir une place en société. La trajectoire d&apos;intégration concerne les parcours
+			<lb/>
+			de Béa, Brian, Danielle, David, Émile, Gabrielle, Hugo et Joseph. Elle est illustrée ici
+			<lb/>
+			par l&apos;histoire de Joseph et schématisée à la <ref type="figure">Figure 3</ref>.
+			<lb/>
+		</p>
+		
+		<p>Au moment de l&apos;entrevue, Joseph est âgé de 32 ans. C&apos;est récemment, pendant
+			<lb/>
+			une thérapie individuelle, qu&apos;il raconte avoir pris conscience de sa valeur : « Je
+			<lb/>
+			pensais que j&apos;étais un voleur, un pas bon… mais j&apos;ai de l&apos;entregent […], je suis
+			<lb/>
+			intelligent ». Depuis cette prise de conscience, Joseph a l&apos;impression que tout est
+			<lb/>
+			possible. Toute son énergie est concentrée à prouver sa valeur, en complétant un
+			<lb/>
+			diplôme d&apos;études secondaires, par exemple, mais également à se racheter auprès de
+			<lb/>
+			ses enfants : « Je veux être un modèle pour mes enfants ». Il est isolé de sa famille, a
+			<lb/>
+			peu d&apos;amis, et compte dans ses relations surtout des professionnels d&apos;aide qui le
+			<lb/>
+			valorisent énormément. Afin de prouver sa valeur comme adulte et comme personne,
+			<lb/>
+			il se met à l&apos;épreuve en se fixant d&apos;importants objectifs qui s&apos;inscrivent dans une
+			<lb/>
+			conception idéalisée de la vie adulte : il a commencé une formation pour décrocher
+			<lb/>
+			un emploi lucratif, il veut fonder sa propre compagnie et enfin s&apos;acheter un grand
+			<lb/>
+			terrain pour y accueillir ses enfants. Non seulement il veut devenir un modèle auprès
+			<lb/>
+			de sa famille, mais également au sein de sa communauté culturelle d&apos;origine.
+			<lb/>
+		</p>
+		
+		<figure>Figure 3. Trajectoire d&apos;intégration.
+			<lb/>
+		</figure>
+		
+		<head>3.2.3 Trajectoire d&apos;appropriation
+			<lb/>
+		</head>
+		
+		<p>Dans une trajectoire de type « appropriation », l&apos;accent est mis sur le rapport à soi.
+			<lb/>
+			Dans cette trajectoire, la personne prend conscience, à la suite d&apos;un événement qui
+			<lb/>
+			marque la fin de sa dépendance et la redéfinition des liens avec son réseau en fonction
+			<lb/>
+			d&apos;elle-même, qu&apos;il existe la possibilité de vivre selon ses propres valeurs. Être adulte
+			<lb/>
+			implique de s&apos;accomplir autrement, en fonction de ses propres valeurs. Le regard de
+			<lb/>
+			la société sur soi est moins important que le fait de cheminer en fonction de ce qui
+			<lb/>
+			revêt de la valeur à ses propres yeux. En ce sens, l&apos;accès au modèle conventionnel de
+			<lb/>
+			la vie adulte est un outil permettant de répondre au besoin de s&apos;accomplir. La
+			<lb/>
+			personne remplit les devoirs et responsabilités qui y sont associés parce qu&apos;ils sont
+			<lb/>
+			inévitables et qu&apos;ils sont des leviers pour faire ce qui compte vraiment à ses yeux.
+			<lb/>
+			Prendre conscience de la possibilité d&apos;avoir une vie unique et à son image renvoie au
+			<lb/>
+			besoin de s&apos;accomplir. La personne adopte ainsi des comportements de performance.
+			<lb/>
+			Dans une trajectoire d&apos;appropriation, devenir adulte signifie faire ses propres choix.
+			<lb/>
+			La trajectoire d&apos;appropriation concerne les parcours d&apos;Adam, Émilie, Francis et Jade.
+			<lb/>
+			Elle est illustrée ici par l&apos;histoire d&apos;Adam et schématisée à la <ref type="figure">Figure 4</ref>.
+			<lb/>
+		</p>
+		
+		<p>Au moment de l&apos;entrevue, Adam est âgé de 32 ans. Pendant son adolescence, il
+			<lb/>
+			s&apos;est retrouvé devant un choix : changer ou non de milieu de vie. Sa décision de
+			<lb/>
+			déménager a entraîné une modification radicale de ses habitudes de vie. Cet
+			<lb/>
+			événement lui a fait prendre conscience de la possibilité de vivre sa vie comme il le
+			<lb/>
+			désire. Il a décidé de prendre sa vie en main et de renoncer à la délinquance. C&apos;est
+			<lb/>
+			dans les compétitions sportives qu&apos;Adam a trouvé un sens à sa vie, un moteur qui lui
+			<lb/>
+			donne le sentiment de s&apos;accomplir comme individu. Pour Adam, occuper un emploi
+			<lb/>
+			et payer ses factures ne sont que des moyens pour parvenir à se réaliser autrement, à
+			<lb/>
+			emprunter un chemin différent du reste de la population : « [J]e ne suis pas prêt à dire
+			<lb/>
+			qu&apos;une personne qui a une famille, des enfants et tout ça, ce n&apos;est pas nécessairement
+			<lb/>
+			une personne modèle ».
+			<lb/>
+		</p>
+		
+		<figure>Figure 4. Trajectoire d&apos;appropriation.
+			<lb/>
+		</figure>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Cette recherche visait à mieux comprendre l&apos;expérience du passage à la vie adulte de
+			<lb/>
+			personnes ayant fait l&apos;objet d&apos;un placement jusqu&apos;à la majorité. Une idée centrale
+			<lb/>
+			s&apos;est dégagée des analyses : pour les personnes rencontrées, le sens du PVA se révèle
+			<lb/>
+			dans le rapport que la personne entretient envers la société, envers les autres ou
+			<lb/>
+			envers elle-même. Les trois trajectoires proposées représentent l&apos;aspect novateur de
+			<lb/>
+			cette recherche et une contribution importante au développement des connaissances.
+			<lb/>
+			Ainsi, notre recherche s&apos;avère utile dans le développement de programmes
+			<lb/>
+			d&apos;intervention s&apos;adressant aux jeunes adultes vivant un placement jusqu&apos;à la majorité
+			<lb/>
+			et, en amont, dans le soutien aux pratiques préventives s&apos;adressant aux familles en
+			<lb/>
+			difficulté.
+			<lb/>
+		</p>
+		
+		<p>Le principal moyen de permettre le transfert des résultats de recherche sous
+			<lb/>
+			forme d&apos;hypothèses de travail impliquant d&apos;autres contextes ou d&apos;autres populations
+			<lb/>
+			consiste à spécifier le contexte, la population et les procédures de recherche. À cet
+			<lb/>
+			égard, plusieurs informations sont fournies dans le respect de l&apos;engagement à
+			<lb/>
+			l&apos;anonymat et à la confidentialité.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse par théorisation enracinée s&apos;est avérée une démarche d&apos;analyse
+			<lb/>
+			cohérente avec notre perspective de découverte et de compréhension des phénomènes
+			<lb/>
+			humains en offrant la possibilité de dépasser la simple description du phénomène et
+			<lb/>
+			de soutenir la construction de modèles dits « théoriques ». Il reste que cette démarche
+			<lb/>
+			comporte de nombreux défis : comprendre une procédure dont l&apos;interprétation varie
+			<lb/>
+			d&apos;un auteur à l&apos;autre et consacrer le temps qu&apos;il faut à une démarche itérative
+			<lb/>
+			impliquant forcément des culs-de-sac interprétatifs obligeant à faire volte-face et à
+			<lb/>
+			dépasser l&apos;impression de « reculer ». Le plus grand défi aura toutefois été de rendre
+			<lb/>
+			cette démarche intelligible en mots. C&apos;est dans l&apos;objectif de relever ce défi que cet
+			<lb/>
+			article a été écrit.
+			<lb/>
+		</p>
+	
+	
+	</text>
+</tei>

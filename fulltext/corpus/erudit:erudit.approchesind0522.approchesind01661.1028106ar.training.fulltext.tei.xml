@@ -1,0 +1,1640 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>La méthodologie de la théorisation enracinée (MTE) est une méthodologie générale
+			<lb/>
+			qui devrait permettre aux chercheurs d&apos;avancer des théories à la fois scientifiquement
+			<lb/>
+			légitimes et innovantes (<ref type="biblio">Glaser &amp; Strauss, 1967</ref>), dans une logique inductive
+			<lb/>
+			permettant de saisir des phénomènes sociaux complexes 1 . La MTE vise ainsi à
+			<lb/>
+			développer des connaissances en les faisant émerger de l&apos;empirie, s&apos;opposant à la
+			<lb/>
+			logique de vérification des connaissances préexistantes formulées sous forme
+			<lb/>
+			d&apos;hypothèses.
+			<lb/>
+		</p>
+		
+		<p>Selon ses concepteurs, la MTE devrait être un moyen de permettre l&apos;innovation
+			<lb/>
+			au travers du processus spécifique de théorisation qu&apos;elle propose de mettre en oeuvre
+			<lb/>
+			(<ref type="biblio">Guillemette, 2006</ref>). Toutefois, de nombreux travaux, prenant la forme de retours
+			<lb/>
+			d&apos;expérience (<ref type="biblio">Fendt &amp; Sachs, 2008; Goulding, 2001</ref>), de commentaire
+			éditorial
+			<lb/>
+			(<ref type="biblio">Suddaby, 2006</ref>), de revues critiques de la MTE (<ref type="biblio">Alvesson &amp; Sköldberg, 2000;
+			<lb/>
+				Goulding, 2002</ref>) mettent en évidence les risques de non-innovation dans le processus
+			<lb/>
+			de théorisation enracinée, ou en montrent les principales limites (<ref type="biblio">Guillemette, 2006</ref>).
+			<lb/>
+			Ce risque de non-innovation pèse sur la légitimité de l&apos;utilisation de la MTE dans les
+			<lb/>
+			recherches en sciences sociales. Cet article avance que ce risque provient de la
+			<lb/>
+			tension entre la créativité et la rigueur méthodologique, deux mouvements nécessaires
+			<lb/>
+			dans la construction d&apos;une théorie élaborée avec la MTE.
+			<lb/>
+		</p>
+		
+		<p>D&apos;une part, nous abordons la créativité comme la « capacité à créer quelque
+			<lb/>
+			chose qui est à la fois nouveau et approprié » (<ref type="biblio">Sternberg &amp; Lubbart, 1999, p. 3</ref>). Cette
+			<lb/>
+			définition de la créativité nous semble adéquate dans le cadre de la MTE dans la
+			<lb/>
+			mesure où elle met en exergue deux des principaux critères de qualité des recherches
+			<lb/>
+			utilisant la MTE, à savoir le caractère novateur et le critère d&apos;adhérence. D&apos;autre part,
+			<lb/>
+			nous abordons la rigueur méthodologique comme la poursuite logique d&apos;une idée
+			<lb/>
+			(<ref type="biblio">Donaldson, Qiu, &amp; Luo, 2013</ref>). Dès lors, cette rigueur peut prendre différentes
+			<lb/>
+			formes comme spécifier le lien entre données et concepts (<ref type="biblio">Gioia, Corley, &amp; Hamilton,
+			<lb/>
+				2013</ref>), apporter des définitions claires des construits utilisés (<ref type="biblio">Suddaby, 2010</ref>), assurer
+			<lb/>
+			que les variables ou construits sont appréhendés correctement, légitimer la relation
+			<lb/>
+			causale entre deux éléments, spécifier les limites d&apos;application du modèle proposé,
+			<lb/>
+			etc. Cette rigueur se conçoit comme l&apos;application de l&apos;appareillage -principes,
+			<lb/>
+			méthodes, techniques -ceci étant nécessairement compris dans un paradigme
+			<lb/>
+			épistémologique (<ref type="biblio">Avenier &amp; Gavard-Perret, 2008</ref>) 2 . Autrement dit, la rigueur consiste
+			<lb/>
+			en l&apos;ensemble des éléments d&apos;un raisonnement logique qui assure les fondements du
+			<lb/>
+			développement d&apos;une théorie valide et robuste (<ref type="biblio">Donaldson et al., 2013</ref>).
+			<lb/>
+		</p>
+		
+		<p>Alors que dans les manuels abordant la MTE la rigueur, d&apos;une part, et la
+			<lb/>
+			créativité nécessaire au chercheur pour innover, d&apos;autre part, semblent naturellement
+			<lb/>
+			combinatoires, ces deux éléments se révèlent, en pratique, difficiles à conjuguer. Le
+			<lb/>
+			respect des méthodes et techniques de la MTE peut en réalité mener à un manque de
+			<lb/>
+			créativité, à une timidité théorique (<ref type="biblio">Morse, 1997</ref>), voire à une incapacité à générer
+			<lb/>
+			des propositions théoriques face à l&apos;ampleur de l&apos;appareillage méthodologique (
+			<ref type="biblio">Fendt
+				<lb/> &amp; Sachs, 2008
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>L&apos;argument central de cet article est de montrer que plusieurs processus
+			<lb/>
+			généralement présentés comme synchrones dans la MTE peuvent être traités de façon
+			<lb/>
+			asynchrone. En s&apos;extrayant de la simultanéité de la recherche de créativité et de
+			<lb/>
+			rigueur méthodologique, le chercheur échappe à la tension entre rigueur et créativité
+			<lb/>
+			et améliore ainsi la qualité de son processus de théorisation.
+			<lb/>
+		</p>
+		
+		<p>Notre article contribue à la pratique de la MTE de quatre façons. D&apos;abord, nous
+			<lb/>
+			mettons l&apos;accent sur un problème pratique inhérent à la MTE, mais peu mis en avant
+			<lb/>
+			dans les écrits : la recherche simultanée de rigueur et de créativité. Ensuite, nous
+			<lb/>
+			proposons une approche circulaire de la MTE qui modifie cognitivement la démarche
+			<lb/>
+			à réaliser dans le processus de théorisation. En outre, nous relevons différents
+			<lb/>
+			processus asynchrones permettant au chercheur de mieux exploiter la MTE pour
+			<lb/>
+			parvenir à être créatif et rigoureux. En définitive, nous contribuons à clarifier
+			<lb/>
+			certaines zones d&apos;ombre sur les microactivités à mettre en oeuvre par les chercheurs
+			<lb/>
+			en MTE, permettant ainsi de mieux asseoir la légitimité de la MTE comme méthode
+			<lb/>
+			de recherche pertinente pour des recherches en sciences sociales face aux critiques et
+			<lb/>
+			doutes qu&apos;elle peut générer (<ref type="biblio">Alvesson
+			&amp; Sköldberg, 2000; Goulding, 2002; Mjoset,
+				<lb/>
+				2005; Suddaby, 2006
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<head>1. Méthodologie
+			<lb/>
+		</head>
+		
+		<p>Cet article se fonde sur la pratique de la MTE par l&apos;auteur et sur l&apos;analyse des écrits
+			<lb/>
+			relatifs à la MTE. D&apos;une part, l&apos;auteur a conduit plusieurs recherches mobilisant la
+			<lb/>
+			MTE dont le dénominateur commun est le concept de sens : opérationnalisation du
+			<lb/>
+			concept de sens dans le cadre d&apos;une thèse (selon les approches de
+			<ref type="biblio">Glaser &amp; Strauss,
+				<lb/>
+				1967
+			</ref>
+			), utilisation des représentations graphiques dans le sensemaking stratégique,
+			<lb/>
+			évolution du jugement éthique dans le temps, évolution de la capacité stratégique
+			<lb/>
+			d&apos;une entreprise (selon lʼapproche <ref type="biblio">de Corley &amp; Gioia, 2004 et de Gioia et al.,
+				2013</ref>).
+			<lb/>
+			L&apos;utilisation des méthodes et procédures de la MTE nous a conduit à faire
+			<lb/>
+			l&apos;expérience de la tension entre créativité et scientificité. Au regard de cette
+			<lb/>
+			expérience, nous avons procédé à une analyse des écrits sur la MTE afin de voir si
+			<lb/>
+			des traces de cette tension pouvaient être relevées puis pour comprendre les sources
+			<lb/>
+			de cette tension.
+			<lb/>
+		</p>
+		
+		<p>Les propositions avancées dans la section 3 permettant de dépasser la tension
+			<lb/>
+			entre créativité et rigueur méthodologique sont issues 1) des pratiques que nous avons
+			<lb/>
+			mises en oeuvre dans nos recherches, 2) de l&apos;enseignement de la MTE auprès de
+			<lb/>
+			doctorants et 3) des nombreux échanges réalisés lors de l&apos;accompagnement de
+			<lb/>
+			chercheurs dans leur processus de théorisation enracinée. L&apos;ensemble des
+			<lb/>
+			propositions avancées a été comparé avec les écrits sur la MTE afin d&apos;analyser la
+			<lb/>
+			compatibilité des pratiques permettant de sortir de la tension et d&apos;assurer leur
+			<lb/>
+			cohérence avec la logique de la MTE.
+			<lb/>
+		</p>
+		
+		<head>2. Analyse : la tension entre créativité et rigueur méthodologique au sein de la
+			<lb/>
+			MTE
+			<lb/>
+		</head>
+		
+		<p>Nous montrons dans cette première partie que la MTE risque de mener le chercheur
+			<lb/>
+			dans une impasse en ce qui concerne la tension entre créativité et rigueur
+			<lb/>
+			méthodologique, menant les praticiens de la MTE à réaliser des arbitrages entre ces
+			<lb/>
+			deux nécessités. Cette impasse est générée par la vision synchrone des processus
+			<lb/>
+			visant l&apos;innovation et la légitimité des connaissances produites.
+			<lb/>
+		</p>
+		
+		<head>2.1 Créativité et rigueur méthodologique en MTE, une relation compliquée
+			<lb/>
+		</head>
+		
+		<p>La question de la créativité est récurrente dans les écrits abordant la MTE, mais
+			<lb/>
+			rarement abordée de façon explicite <ref type="biblio">(voir Cutcliffe, 2000; Glaser, 1992</ref>), voire
+			rejetée
+			<lb/>
+			comme un simple critère de qualité de la recherche (<ref type="biblio">Corbin &amp; Strauss, 2008</ref>).
+			Nous
+			<lb/>
+			dissocions ici la créativité de l&apos;innovation. Dans cet article, nous abordons la
+			<lb/>
+			créativité comme un input dans le processus de théorisation permettant au chercheur
+			<lb/>
+			de générer des idées potentiellement originales. L&apos;innovation se juge, pour sa part, sur
+			<lb/>
+			le résultat du processus créatif : les nouvelles idées, une fois mises en ordre,
+			<lb/>
+			permettront peut-être de développer des théories novatrices qui seront utilisées par les
+			<lb/>
+			autres chercheurs (<ref type="biblio">Alter, 2000; Schreiber, 2001</ref>).
+			<lb/>
+		</p>
+		
+		<p>Si les méthodes de créativité ont donné lieu à peu de propositions
+			<lb/>
+			méthodologiques en MTE (<ref type="biblio">Pozzebon, Petrini, de Mello, &amp; Garreau, 2011</ref>), on
+			trouve
+			<lb/>
+			des indices de leur importance dans plusieurs sources de la MTE. Glaser (1978) fonde
+			<lb/>
+			ainsi sa réflexion sur la sensibilité théorique autour de la question de savoir comment
+			<lb/>
+			améliorer la créativité du chercheur : « La découverte de la théorie enracinée
+			<lb/>
+			implique implicitement que le chercheur-analyste sera créatif » 3 [traduction libre]
+			<lb/>
+			(p. 20). Toutefois, l&apos;auteur lui-même avance que cela est implicite et ne fournit pas de
+			<lb/>
+			moyens pour y parvenir. De façon aussi lacunaire, Strauss et Corbin (1998) affirment
+			<lb/>
+			que « les procédures proposées ont été élaborées non pas pour être suivies de façon
+			<lb/>
+			dogmatique, mais pour être utilisées de façon créative et flexible par les chercheurs
+			<lb/>
+			selon ce qu&apos;ils jugent approprié » 4 [traduction libre] (p. 14). Ainsi, dans la version
+			<lb/>
+			straussienne de la MTE, la créativité est relative à la fois aux interprétations des
+			<lb/>
+			chercheurs, mais aussi à leur capacité à utiliser de façon novatrice et adéquate les
+			<lb/>
+			procédures et les outils de la MTE tout au long du processus de théorisation, de
+			<lb/>
+			l&apos;identification d&apos;un objet de recherche à la restitution finale des résultats. Les
+			<lb/>
+			moyens d&apos;assurer cette créativité sont laissés sous silence. On peut toutefois
+			<lb/>
+			comprendre que la créativité, si elle est étroitement liée à la sensibilité théorique à
+			<lb/>
+			laquelle elle est directement associée (
+			<ref type="biblio">Charmaz, 2006; Corbin &amp; Strauss, 2008;
+				<lb/>
+				Glaser, 1992
+			</ref>
+			), ne se limite pas à cette propriété nécessaire dans l&apos;utilisation de la
+			<lb/>
+			MTE.
+			<lb/>
+		</p>
+		
+		<p>Développée pour permettre l&apos;innovation théorique -donc de proposer un
+			<lb/>
+			caractère novateur d&apos;un point de vue théorique qui puisse être repris et réutilisé dans
+			<lb/>
+			le cadre d&apos;autres recherches -la MTE se fonde sur un ensemble de dispositifs qui
+			<lb/>
+			devrait permettre aux chercheurs d&apos;être novateurs dans la construction théorique
+			<lb/>
+			élaborée : suspension temporaire du recours à des cadres théoriques existants, objet
+			<lb/>
+			de recherche appréhendé comme un « terrain à explorer », interaction circulaire entre
+			<lb/>
+			collecte et analyse des données, procédures d&apos;analyse formelles (<ref type="biblio">Guillemette,
+				2006</ref>).
+			<lb/>
+			Toutefois, comme nous allons le montrer, la mise en oeuvre de ces dispositifs ne suffit
+			<lb/>
+			pas à générer la créativité nécessaire pour aboutir à des résultats novateurs. La raison
+			<lb/>
+			majeure repose sur la tension existant dans la MTE entre « être créatif » et « être
+			<lb/>
+			rigoureux », ces deux impératifs devant être atteints de façon concomitante. Cette
+			<lb/>
+			tension, qui peut sembler inexistante à la lecture des procédures et manuels (
+			<ref type="biblio">Corbin &amp;<lb/>
+				Strauss, 2008; Glaser &amp; Strauss, 1967; Strauss &amp; Corbin, 1990
+			</ref>
+			), ainsi que des articles
+			<lb/>
+			utilisant la MTE, se manifeste pourtant lors de la mise en oeuvre de la MTE. Suddaby
+			<lb/>
+			(2006) propose de voir une différence entre les auteurs qui écrivent à propos de la
+			<lb/>
+			MTE (les « puristes ») et ceux qui effectivement la mettent en oeuvre (les
+			<lb/>
+			« pragmatiques »). Si <ref type="biblio">Urquhart (2001)</ref> avait déjà fait cette remarque à propos des
+			<lb/>
+			questionnements ontologiques et épistémologiques, le même argument peut être
+			<lb/>
+			opposé aux éléments de méthodologie : ce n&apos;est qu&apos;en pratiquant la MTE que la
+			<lb/>
+			tension entre créativité et rigueur méthodologique s&apos;expérimente.
+			<lb/>
+		</p>
+		
+		<p>Dans la mouvance des pragmatiques, <ref type="biblio">Fendt et Sachs (2008)</ref> affirment que
+			<lb/>
+			l&apos;outillage méthodologique bride la capacité d&apos;innovation, les méthodes prenant le
+			<lb/>
+			pas sur l&apos;interprétation potentiellement originale. Ainsi, ces auteurs témoignent avoir
+			<lb/>
+			laissé de côté certaines interprétations personnelles potentiellement intéressantes et
+			<lb/>
+			novatrices pour se conformer à la logique de codage et de fracturation des données.
+			<lb/>
+			De même, ils ont la sensation d&apos;avoir « perdu beaucoup » (
+			<ref type="biblio">Fendt &amp; Sachs, 2008,
+				<lb/>
+			p. 440</ref>) en effaçant toute référence à l&apos;expérience de l&apos;auteur entre le moment où des
+			<lb/>
+			mémos ont été écrits à vif et le moment où ceux-ci ont été utilisés avec une visée
+			<lb/>
+			d&apos;abstraction théorique. Cette perte des aspects novateurs est ici directement associée
+			<lb/>
+			à la volonté de respecter scrupuleusement la rigueur méthodologique de la MTE. De
+			<lb/>
+			même, <ref type="biblio">Goulding (2001)</ref> avance que le respect des règles proposées par
+			<ref type="biblio">Strauss et
+				<lb/>
+				Corbin (1990, 1998
+			</ref>
+			) aboutit à un maillage technique tellement complexe qu&apos;il peut
+			<lb/>
+			déboucher sur une faillite du chercheur dans son projet de recherche. Dans ce cadre,
+			<lb/>
+			l&apos;omniprésence du codage risque d&apos;éloigner le chercheur de l&apos;objectif d&apos;avoir un
+			<lb/>
+			regard neuf et de l&apos;orienter vers un exercice de quantification/justification d&apos;éléments
+			<lb/>
+			peu innovants et peu intéressants au regard du terrain et des connaissances
+			<lb/>
+			préexistantes (<ref type="biblio">Glaser, 1992; Goulding, 2001, 2002</ref>). Les difficultés engendrées par
+			le
+			<lb/>
+			strict respect des normes de la MTE peuvent dès lors encourager les chercheurs à se
+			<lb/>
+			tourner vers une « Light Grounded Theory » 5 (
+			<ref type="biblio">Dey, 1999; Fendt &amp; Sachs, 2008;
+				<lb/>
+				Goulding, 2001
+			</ref>
+			), voire à travestir la méthode (<ref type="biblio">Goulding, 2002</ref>) afin de favoriser
+			<lb/>
+			l&apos;aspect novateur de la théorie développée au détriment de la rigueur.
+			<lb/>
+		</p>
+		
+		<p>Pour faire émerger des connaissances innovantes, Suddaby (2006) propose de
+			<lb/>
+			revenir à la méthode et encourage les chercheurs en MTE à se conformer uniquement
+			<lb/>
+			aux techniques et procédures dans la lignée de Strauss et Corbin (1990, 1998). C&apos;est
+			<lb/>
+			en effet le suivi des techniques et des outils proposés par la MTE qui permettrait de
+			<lb/>
+			parvenir à une théorie innovante. En accord avec cette suggestion, de récents articles
+			<lb/>
+			abordant la question de l&apos;innovation en MTE mettent l&apos;accent sur la méthode et
+			<lb/>
+			laissent l&apos;activité du chercheur au second plan. Par exemple, le projet <ref type="biblio">d&apos;O&apos;Reilly,
+			<lb/>
+				Paper et Marx (2012)</ref> est de « démystifier » la mise en place de la « méthode
+			<lb/>
+			rigoureuse » et néanmoins créative de la MTE. Pour y parvenir, les auteurs utilisent
+			<lb/>
+			des expressions comme « le chercheur sera guidé [par la technique] » 6 [traduction
+			<lb/>
+			libre] (p. 253), « la théorie se forme et se développe au travers d&apos;un processus
+			<lb/>
+			itératif » 7 [traduction libre] (p. 253), « lorsque le processus itératif de découverte
+			<lb/>
+			guide l&apos;échantillonnage théorique » 8 [traduction libre] (p. 254), ou encore « les
+			<lb/>
+			éléments fondamentaux de la MTE guident le chercheur à travers les étapes
+			<lb/>
+			successives et itératives » 9 [traduction libre] (p. 256). La tonalité de leurs propos
+			<lb/>
+			laisse entendre que c&apos;est la méthode qui génère la théorie et il ne reste au chercheur
+			<lb/>
+			qu&apos;à se laisser guider par le processus itératif de la MTE. Or, cela nous semble
+			<lb/>
+			dénaturer le processus même de la MTE, où l&apos;interaction entre le chercheur et le
+			<lb/>
+			monde social qu&apos;il étudie est fondamentale (<ref type="biblio">Cutcliffe, 2000</ref>). Dans la même
+			<lb/>
+			mouvance, <ref type="biblio">Wasserman, Clair et Wilson (2009)</ref> critiquent la faiblesse des techniques
+			<lb/>
+			actuelles de la MTE pour identifier et vérifier des relations entre différents niveaux de
+			<lb/>
+			conceptualisation. Ils suggèrent pour pallier ce problème de développer de nouveaux
+			<lb/>
+			outils inspirés des fractales. D&apos;autres outils comme les matrices de relations
+			<lb/>
+			contextuelles peuvent aussi être ajoutés (Scott<ref type="biblio">, 2004; Scott &amp; Howell, 2008</ref>).
+			On peut
+			<lb/>
+			alors imaginer une multiplication des outils sous-jacents à la MTE. Le lien logique
+			<lb/>
+			entre le suivi des techniques et l&apos;innovation théorique étant remis en cause par la
+			<lb/>
+			pratique (<ref type="biblio">Fendt &amp; Sachs, 2008; Goulding, 2001</ref>), ces outils risquent finalement
+			de
+			<lb/>
+			multiplier les techniques d&apos;analyse, de laisser la méthode guider le chercheur, de
+			<lb/>
+			mettre l&apos;accent sur la légitimité des connaissances produites aux dépens du besoin de
+			<lb/>
+			créativité nécessaire à toute recherche en MTE. Nous abondons ici dans le sens
+			<ref type="biblio">de
+				<lb/>
+				Glaser (1978)
+			</ref>
+			qui reconnaît que certaines pratiques de la MTE entravent les capacités
+			<lb/>
+			créatives du chercheur. Nous en arrivons ainsi au constat que les processus liés à la
+			<lb/>
+			créativité sont aujourd&apos;hui souvent mis de côté afin d&apos;assurer la rigueur
+			<lb/>
+			méthodologique dans la MTE.
+			<lb/>
+		</p>
+		
+		<p>La <ref type="figure">Figure 1</ref> illustre que, pour atteindre les deux objectifs de la MTE
+			<lb/>
+			(innovation et légitimité des connaissances), deux voies sont possibles. La première
+			<lb/>
+			consiste à s&apos;appuyer sur la méthode rigoureuse. La seconde voie consiste à combiner
+			<lb/>
+			créativité et rigueur méthodologique. Or, les chercheurs opèrent souvent des
+			<lb/>
+			arbitrages entre ces deux aspects. Dès lors, ils se trouvent dans une impasse quant à la
+			<lb/>
+			possibilité de générer des théories scientifiquement légitimes et innovantes.
+			<lb/>
+		</p>
+		
+		<head>2.2 Créativité vs rigueur : un problème de synchronie
+			<lb/>
+		</head>
+		
+		<p>Nous avançons une explication à la tension entre rigueur et créativité. Les techniques
+			<lb/>
+			de la MTE permettant de générer des voies d&apos;interprétation novatrices et celles
+			<lb/>
+			permettant de vérifier la légitimité des connaissances produites sont en réalité les
+			<lb/>
+			mêmes et traitées de façon synchrone. Ainsi, les procédures d&apos;analyse visant la
+			<lb/>
+			créativité et la rigueur doivent en fait être réalisées en même temps et au même
+			<lb/>
+			rythme. L&apos;aspect synchrone des processus d&apos;analyse a été présenté au coeur même de
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Tension entre créativité et rigueur méthodologique dans l&apos;atteinte des
+			<lb/>
+			objectifs de la MTE.
+			<lb/>
+		</figure>
+		
+		<p>la MTE, en particulier dans la définition du processus d&apos;échantillonnage théorique
+			<lb/>
+			comme un
+			<lb/>
+		</p>
+		
+		<p>processus de collecte de données en vue de la formulation d&apos;une théorie
+			<lb/>
+			grâce auquel le chercheur mène simultanément les opérations de collecte,
+			<lb/>
+			de codification et d&apos;analyse dans le but de décider de l&apos;orientation à
+			<lb/>
+			donner à la collecte des données pour guider la formulation de la théorie
+			<lb/>
+			émergente 10 [traduction libre] (c&apos;est nous qui soulignons) (
+			<ref type="biblio">Glaser &amp;<lb/>
+				Strauss, 1967, p. 45
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>En outre, les techniques d&apos;analyse telles que la comparaison constante, la
+			<lb/>
+			matrice conditions/conséquences (qui cherche à identifier les niveaux d&apos;analyse
+			<lb/>
+			pertinents dans la compréhension des phénomènes), la technique flip-flop (visant à
+			<lb/>
+			établir une comparaison entre un élément empirique et son opposé pour en saisir la
+			<lb/>
+			variabilité), etc. sont autant de techniques permettant à la fois d&apos;explorer les données
+			<lb/>
+			recueillies pour générer des interprétations créatives et de montrer la rigueur
+			<lb/>
+			méthodologique en respectant les préceptes de la méthode. Dès lors, les chercheurs
+			<lb/>
+			utilisent les mêmes outils pour générer les interprétations et les vérifier, et il peut être
+			<lb/>
+			difficile pour le chercheur de dissocier les deux processus. Si les deux processus de
+			<lb/>
+			génération théorique et de légitimation des connaissances produites ne sont pas
+			<lb/>
+			clairement distingués, il est compréhensible que les praticiens de la MTE ne
+			<lb/>
+			parviennent pas à se sortir de la tension vécue : la recherche de créativité se heurte
+			<lb/>
+			inexorablement à la volonté de respecter la rigueur méthodologique de la MTE.
+			<lb/>
+			Finalement, créativité et rigueur méthodologique se parasitent lorsqu&apos;elles sont
+			<lb/>
+			recherchées simultanément.
+			<lb/>
+		</p>
+		
+		<p>Plusieurs auteurs mentionnent de façon éparse les difficultés liées aux aspects
+			<lb/>
+			synchrones des différentes procédures d&apos;analyse de la MTE. Par exemple, <ref type="biblio">Goulding
+			<lb/>
+				(2001)</ref> affirme que percevoir des éléments pertinents dans les données peut ainsi
+			<lb/>
+			prendre des mois et qu&apos;en conséquence, « la simultanéité du recueil des données et de
+			<lb/>
+			l&apos;interprétation semble difficile à atteindre » 11 [traduction libre] (<ref type="biblio">Goulding, 2001,
+			<lb/>
+				p. 31</ref>). Aussi, alors que l&apos;écriture de mémos est au coeur du processus créatif
+			<lb/>
+			permettant de capter les idées novatrices, l&apos;exercice d&apos;écriture des mémos est souvent
+			<lb/>
+			entravé par la recherche d&apos;une construction théorique légitime dès les phases initiales
+			<lb/>
+			de leur écriture (<ref type="biblio">Charmaz, 2006</ref>). Il semble ainsi illusoire de produire des mémos
+			<lb/>
+			visant directement la légitimation théorique tout en captant la spontanéité de l&apos;idée
+			<lb/>
+			nouvelle. Si les chercheurs ne s&apos;extirpent pas de la nécessité de produire des mémos
+			<lb/>
+			intelligibles pour d&apos;autres personnes que pour eux-mêmes et visant à pouvoir être
+			<lb/>
+			communiqués, l&apos;exercice est alors soumis à une injonction paradoxale : capter la
+			<lb/>
+			spontanéité et communiquer des idées articulées.
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Charmaz et Goulding, malgré leur constat, ne proposent pas de piste pour
+				<lb/>
+			</ref>
+			s&apos;extraire de ce problème. Quant à <ref type="biblio">Glaser (1978)</ref>, il avance que le chercheur
+			doit
+			<lb/>
+			apprécier les conditions dans lesquelles il travaille afin d&apos;évaluer dans quelle mesure
+			<lb/>
+			le processus de découverte aide ou entrave sa créativité. <ref type="biblio">Toutefois, Glaser</ref> ne
+			propose
+			<lb/>
+			pas de moyens pratiques permettant d&apos;atteindre cette appréciation, qui repose donc
+			<lb/>
+			uniquement sur l&apos;autoévaluation. Au sein de la MTE, créativité et rigueur
+			<lb/>
+			méthodologique sont issues des mêmes techniques; l&apos;utilisation de celles-ci de façon
+			<lb/>
+			synchrone pour deux objectifs distincts (innovation et légitimité) risque de mener à
+			<lb/>
+			une impasse pratique qui nécessite une modification cognitive sur la façon
+			<lb/>
+			d&apos;appréhender la MTE. Nous proposons dans la deuxième partie de cet article de
+			<lb/>
+			passer d&apos;une vision itérative synchrone de la MTE à une conception circulaire
+			<lb/>
+			asynchrone afin de sortir de cette impasse.
+			<lb/>
+		</p>
+		
+		<head>3. Propositions : de l&apos;usage de mouvements asynchrones en MTE pour dépasser
+			<lb/>
+			la tension entre créativité et rigueur méthodologique
+			<lb/>
+		</head>
+		
+		<p>La MTE a été présentée comme un processus itératif (
+			<ref type="biblio">Charmaz, 2006; Corbin &amp;<lb/>
+				Strauss, 2008; Glaser &amp; Strauss, 1967; Strauss &amp; Corbin, 1990
+			</ref>
+			) où le chercheur
+			<lb/>
+			effectue des allers-retours entre la théorisation et les données. L&apos;itération correspond
+			<lb/>
+			à une répétition de divers mouvements permettant un cheminement vers une
+			<lb/>
+			résolution. Dans ce cadre, la MTE est parfois décrite comme un processus par étapes,
+			<lb/>
+			relativement linéaire, qui permet de construire une théorie émergente, où les
+			<lb/>
+			différents types de codage peuvent être revus sans pour autant modifier l&apos;aspect
+			<lb/>
+			successif de la vision par étapes (<ref type="biblio">Crabtree
+			&amp; Miller, 1999; OʼReilly et al., 2012;
+				<lb/>
+				Pandit, 1996
+			</ref>
+			). La <ref type="biblio">Figure 2</ref> illustre cette vision de la MTE.
+			<lb/>
+		</p>
+		
+		<p>Dans l&apos;optique de génération théorique et de vérification des propositions
+			<lb/>
+			émergentes sur l&apos;ensemble du matériau empirique récolté, il serait plus exact de parler
+			<lb/>
+			de circularité du processus de théorisation (<ref type="biblio">Strübing, 2007</ref>). La circularité induit non
+			<lb/>
+			pas le fait de cheminer vers une étape finale, mais le fait que le chercheur revient et
+			<lb/>
+		</p>
+		
+		<figure>Figure 2. Vision itérative linéaire de la MTE. Source : adapté de Pandit (1996).
+			<lb/>
+		</figure>
+		
+		<p>boucles d&apos;analyse qu&apos;il réalise. Ces boucles sont plus que des itérations dans la
+			<lb/>
+			mesure où elles permettent non seulement de générer des construits à partir d&apos;un
+			<lb/>
+			échantillon de données mais aussi de considérer l&apos;ensemble du matériau au travers de
+			<lb/>
+			ce construit -temporaire ou final. En effet, selon la logique de la MTE, le construit
+			<lb/>
+			théorique final doit refléter l&apos;ensemble des données recueillies. Dès lors, l&apos;ensemble
+			<lb/>
+			des données est passé en revue plusieurs fois, tant dans l&apos;optique de générer des
+			<lb/>
+			catégories nouvelles que dans la recherche de relations entre les catégories, dans
+			<lb/>
+			l&apos;atteinte de la saturation des catégories et dans l&apos;identification des catégories
+			<lb/>
+			centrales de l&apos;analyse. Aussi, chaque nouveau construit, chaque nouvelle relation,
+			<lb/>
+			doit refléter l&apos;ensemble des données. Si un concept émerge au cours de l&apos;analyse, le
+			<lb/>
+			chercheur doit vérifier sa pertinence pour les données précédemment recueillies.
+			<lb/>
+			Ainsi, les mouvements inductifs, permettant de générer des concepts et des relations,
+			<lb/>
+			sont complétés par des mouvements déductifs de vérification de ces éléments sur
+			<lb/>
+			l&apos;ensemble du matériau, le tout aboutissant à un raisonnement abductif où le
+			<lb/>
+			chercheur découvre des règles en associant des éléments qui n&apos;ont jamais été associés
+			<lb/>
+			auparavant (<ref type="biblio">Reichertz, 2010</ref>). Cette vision circulaire de la MTE permet de dissocier
+			<lb/>
+			et de combiner de façon asynchrone 12 , d&apos;une part, les démarches créatives visant à
+			<lb/>
+			générer des construits théoriques novateurs en allant des phénomènes empiriques vers
+			<lb/>
+			l&apos;abstraction théorique et, d&apos;autre part, les démarches visant la légitimité par le
+			<lb/>
+			respect des méthodes en passant des abstractions aux données (<ref type="figure">Figure 3</ref>).
+			<lb/>
+		</p>
+		
+		<figure>Figure 3. Vision circulaire de la MTE.
+			<lb/>
+		</figure>
+		
+		<p>Il n&apos;est alors pas nécessaire dans le même temps, dans le même mouvement
+			<lb/>
+			analytique, d&apos;atteindre à la fois créativité et rigueur, et il devient possible de combiner
+			<lb/>
+			successivement créativité et rigueur sans que la simultanéité des deux mouvements ne
+			<lb/>
+			les parasite. Cette dissociation n&apos;est pas présente dans les visions itératives de la MTE
+			<lb/>
+			où le passage des données aux abstractions théoriques ne stipule pas ce double
+			<lb/>
+			mouvement données/concepts et concepts/données et génère la perception de la
+			<lb/>
+			double contrainte créativité/rigueur à chaque étape du processus. La vision circulaire
+			<lb/>
+			de la MTE permet une combinaison asynchrone des processus de génération
+			<lb/>
+			idéationnelle et de vérification théorique qui n&apos;existe pas formellement dans les autres
+			<lb/>
+			approches qualitatives. La différence fondamentale entre la MTE et d&apos;autres
+			<lb/>
+			approches qualitatives tient selon nous à l&apos;échantillonnage théorique qui permet
+			<lb/>
+			d&apos;orienter les boucles de la collecte des données en fonction des besoins identifiés par
+			<lb/>
+			le chercheur au cours de la construction de la théorie émergente. Nous proposons de
+			<lb/>
+			montrer comment, sur les différentes pratiques de la MTE, le chercheur peut utiliser
+			<lb/>
+			de façon asynchrone les processus créatifs et les processus visant à une plus grande
+			<lb/>
+			rigueur méthodologique.
+			<lb/>
+		</p>
+		
+		<head>3.1 L&apos;échantillonnage théorique, source de la circularité en MTE
+			<lb/>
+		</head>
+		
+		<p>Nous présentons ici l&apos;échantillonnage théorique comme une des pratiques à réaliser
+			<lb/>
+			dans la MTE, qui consiste à orienter le choix des incidents à examiner afin de mener à
+			<lb/>
+			bien les objectifs de la recherche (<ref type="biblio">Glaser &amp; Strauss, 1967; Strauss &amp; Corbin,
+				1990</ref>).
+			<lb/>
+			Une fois le chercheur sur le terrain de sa recherche, la question qu&apos;il se pose est la
+			<lb/>
+			suivante : comment trouver des données intéressantes reflétant la réalité du terrain et
+			<lb/>
+			traduisant fidèlement le phénomène que je vise à analyser? Dans la MTE, cette
+			<lb/>
+			question se pose toujours de façon ex ante par rapport au recueil des données : soit il
+			<lb/>
+			s&apos;agit de la première occurrence de collecte des données, soit il s&apos;agit d&apos;une
+			<lb/>
+			occurrence future au sein des boucles dans le processus circulaire. Dans les deux cas,
+			<lb/>
+			le chercheur vise à recueillir des données concernant soit un phénomène discerné
+			<lb/>
+			intuitivement soit une catégorie conceptuelle ayant émergé au cours de l&apos;analyse.
+			<lb/>
+		</p>
+		
+		<p>Le choix de recueil des données au travers de l&apos;échantillonnage théorique
+			<lb/>
+			connaît une tension entre créativité et rigueur méthodologique. D&apos;un côté, le
+			<lb/>
+			chercheur a une théorie en développement et, de l&apos;autre, il sait qu&apos;il a la possibilité -<lb/>o
+			<lb/>
+			théoriquement infinie -de retourner étudier empiriquement des situations de son
+			<lb/>
+			choix pour asseoir la légitimité de son travail et le caractère novateur de ses travaux.
+			<lb/>
+			Dès lors, le chercheur peut viser à orienter son recueil de données en fonction de ses
+			<lb/>
+			besoins d&apos;innovation ou en fonction de ses besoins de légitimité. Vise-t-il dans un
+			<lb/>
+			premier temps à rendre compte de cas déviants par rapport au modèle en
+			<lb/>
+			développement? Ou vise-t-il dans un premier temps à saturer les catégories déjà
+			<lb/>
+			présentes dans son modèle? Le chercheur a-t-il besoin de collecter de nouvelles
+			<lb/>
+			données pour légitimer les connaissances avancées? A-t-il besoin de plus de variété,
+			<lb/>
+			car il perçoit que son échantillon ne donne pas la pleine mesure du phénomène à
+			<lb/>
+			étudier? A-t-il besoin de réfléchir sur d&apos;autres incidents lorsqu&apos;il n&apos;arrive pas à lier les
+			<lb/>
+			variations du phénomène avec les catégories conceptuelles existantes à ce moment
+			<lb/>
+			dans le modèle? Et dans ce cas, doit-il explorer au hasard des incidents sans chercher
+			<lb/>
+			la variété sur telle variable? On peut penser que le choix de l&apos;une ou l&apos;autre option va
+			<lb/>
+			générer une construction théorique potentiellement différente : la recherche initiale de
+			<lb/>
+			cas variés conduira à mettre l&apos;accent sur des différences alors que mettre l&apos;accent sur
+			<lb/>
+			la saturation des catégories risque de mener le chercheur à demeurer dans la même
+			<lb/>
+			ligne d&apos;interprétation.
+			<lb/>
+		</p>
+		
+		<p>Lors de cette pratique d&apos;échantillonnage théorique, le chercheur doit développer
+			<lb/>
+			une conscience aiguë de la circularité du processus. En effet, la circularité du
+			<lb/>
+			processus de la MTE est induite par l&apos;échantillonnage théorique qui oriente le
+			<lb/>
+			processus de recueil des données et donc, finalement, les analyses possibles dans la
+			<lb/>
+			recherche. Dès lors, le chercheur doit formaliser la traçabilité des choix effectués lors
+			<lb/>
+			de l&apos;échantillonnage théorique. Il doit aussi assurer la traçabilité des besoins qu&apos;il
+			<lb/>
+			perçoit dans ses analyses, afin d&apos;orienter dans un premier, second, troisième, énième
+			<lb/>
+			temps le protocole de recueil des données en fonction des besoins perçus
+			<lb/>
+			précédemment. La circularité implique que le recueil des données puisse être
+			<lb/>
+			réorienté autant de fois que nécessaire. Le chercheur pourra parfois orienter le recueil
+			<lb/>
+			pour viser la créativité, parfois pour viser à vérifier la légitimité des connaissances
+			<lb/>
+			émergentes. Par conséquent, il est important de prendre conscience de cette
+			<lb/>
+			possibilité quasi infinie laissée au chercheur pour mener à bien sa recherche, et ne pas
+			<lb/>
+			le contraindre dès les premiers épisodes de recueil des données à viser
+			<lb/>
+			systématiquement de façon conjointe créativité et rigueur. Il pourra dépasser ainsi la
+			<lb/>
+			tension induite par la simultanéité des deux mouvements et être créatif et rigoureux
+			<lb/>
+			de façon propice.
+			<lb/>
+		</p>
+		
+		<head>3.2 La collecte des données, générateur d&apos;idées et fondement de l&apos;interprétation
+			<lb/>
+		</head>
+		
+		<p>La MTE étant développée pour voir ce qui se cache derrière les évidences, il existe de
+			<lb/>
+			nombreuses situations où les données ne se laissent pas voir de prime abord. Le
+			<lb/>
+			chercheur doit alors mettre en place des dispositifs créatifs pour y avoir accès. Dans
+			<lb/>
+			la grande majorité des études en MTE (voir dans <ref type="biblio">Bryant
+			&amp; Charmaz, 2007; Corbin &amp;<lb/>
+				Strauss, 2008; Goulding, 2002
+			</ref>
+			), les données sont recueillies au moyen d&apos;entretiens et
+			<lb/>
+			d&apos;observations. Néanmoins, en MTE, aucune méthode de recueil des données n&apos;est a
+			<lb/>
+			priori exclue. Ainsi, on peut imaginer que les méthodes de recueil proposées par Rix-<lb/>Lièvre et <ref type="biblio">Lièvre
+				(2010)</ref> -parmi lesquelles visualiser ce que les acteurs voient au
+			<lb/>
+			travers d&apos;un système de lunettes-caméra qui enregistre ce que l&apos;individu a dans son
+			<lb/>
+			champ de vision -ou <ref type="biblio">Goulding (2002)</ref> -qui croise caméra de vidéosurveillance
+			<lb/>
+			pendant l&apos;activité étudiée, entretien individuel postactivité et focus group postactivité
+			<lb/>
+			-peuvent venir nourrir la créativité des chercheurs pour leur collecte des données. La
+			<lb/>
+			question se pose alors de savoir dans quelle mesure ces méthodes de recueil des
+			<lb/>
+			données sont pertinentes en fonction du paradigme épistémologique choisi. Par
+			<lb/>
+			exemple, dans la version straussienne de la MTE, les données sont censées
+			<lb/>
+			représenter la réalité de la situation. Le chercheur doit ainsi s&apos;efforcer de rester le plus
+			<lb/>
+			neutre possible dans son recueil des données. Le chercheur doit tenir compte de
+			<lb/>
+			toutes les influences qu&apos;il peut avoir sur le terrain étudié lorsqu&apos;il observe, lorsqu&apos;il
+			<lb/>
+			conduit des entretiens, et plus encore lorsqu&apos;il confronte ses données en cours de
+			<lb/>
+			recherche avec des acteurs du terrain, ou quand il fait une recherche-action. Par
+			<lb/>
+			exemple, le simple fait de conduire une vingtaine d&apos;entretiens avec des managers, des
+			<lb/>
+			ingénieurs et des vendeurs sur les processus d&apos;innovation dans une PME amène sans
+			<lb/>
+			doute les acteurs à discuter du thème de l&apos;innovation plus qu&apos;ils ne le feraient
+			<lb/>
+			naturellement. Et il est même possible que la présence du chercheur entraîne des
+			<lb/>
+			rumeurs et des questions sur les projets de la direction. Les différentes méthodes de
+			<lb/>
+			recueil de données par entretien (pour ne parler que d&apos;entretiens) débouchent sur des
+			<lb/>
+			données différentes : les données issues d&apos;un entretien compréhensif (
+			<ref type="biblio">Kaufmann,
+				<lb/>
+				2007
+			</ref>
+			) ou d&apos;un entretien semi-directif centré (<ref type="biblio">Romelaer, 2005</ref>) seront exploitables
+			<lb/>
+			différemment. Peut-on (ou doit-on) passer de l&apos;un à l&apos;autre au cours de la recherche
+			<lb/>
+			en fonction de l&apos;échantillonnage théorique? Les discussions non cadrées, si elles
+			<lb/>
+			peuvent faire émerger des pistes d&apos;analyse nouvelles, peuvent-elles également servir
+			<lb/>
+			de données exploitables dans l&apos;analyse du phénomène? Les questions ici posées
+			<lb/>
+			induisent une tension entre rigueur méthodologique et créativité potentielle du
+			<lb/>
+			chercheur dans le recueil des données, quelle que soit sa position épistémologique.
+			<lb/>
+		</p>
+		
+		<p>Un autre point problématique qui fonde la tension entre créativité et rigueur
+			<lb/>
+			méthodologique se trouve en l&apos;utilisation d&apos;éléments en dehors de l&apos;aire substantive.
+			<lb/>
+			Ces éléments (expérience passée du chercheur, culture générale et artistique,
+			<lb/>
+			connaissance d&apos;autres terrains proches hors du cadre de l&apos;étude, etc.) peuvent-ils être
+			<lb/>
+			considérés comme des éléments de comparaison, et non seulement comme des inputs
+			<lb/>
+			à la réflexion? Ces éléments hors de la recherche doivent-ils systématiquement être
+			<lb/>
+			insérés formellement dans le cadre de la recherche? L&apos;enjeu est alors d&apos;assurer à la
+			<lb/>
+			fois la qualité méthodologique du recueil des données par échantillonnage théorique
+			<lb/>
+			et l&apos;accès à des données intéressantes, sensibles, nécessitant la mise en place d&apos;un
+			<lb/>
+			dispositif créatif.
+			<lb/>
+		</p>
+		
+		<p>Grâce à la circularité du processus de la MTE, les données dont sont issues les
+			<lb/>
+			voies d&apos;interprétation à un moment peuvent être différentes de celles qui vont fonder
+			<lb/>
+			la légitimité de l&apos;interprétation 13 . En effet, le chercheur pourra mettre en oeuvre des
+			<lb/>
+			dispositifs créatifs lui permettant de recueillir des données qui l&apos;aident dans son
+			<lb/>
+			processus d&apos;idéation puis procéder à un échantillonnage théorique en vue de
+			<lb/>
+			poursuivre certaines pistes d&apos;interprétation. Une des voies pour s&apos;extraire de la
+			<lb/>
+			tension entre créativité et rigueur méthodologique consiste ainsi à séparer les phases
+			<lb/>
+			de recueil créatives visant le processus d&apos;idéation des phases de recueil « gérées pour
+			<lb/>
+			que les données recueillies conservent un caractère scientifique » (<ref type="biblio">Romelaer, 2005,
+			<lb/>
+				p. 116</ref>) dans le courant épistémologique choisi.
+			<lb/>
+		</p>
+		
+		<p>Dès lors, il n&apos;est pas inconcevable qu&apos;un chercheur puisse user de jeux
+			<lb/>
+			politiques sur un terrain -modifiant ainsi le déroulement de l&apos;activité -pour générer
+			<lb/>
+			des données qui feront émerger des catégories d&apos;analyse et des relations
+			<lb/>
+			potentiellement pertinentes. Sur d&apos;autres terrains, il visera à étudier ces catégories et
+			<lb/>
+			ces relations sans modifier le comportement des acteurs afin de voir dans quelles
+			<lb/>
+			mesures les premières interprétations sont légitimes. De la même façon, lors de focus
+			<lb/>
+			groups, le chercheur peut être amené à faire interagir les interviewés, soit pour
+			<lb/>
+			obtenir des données primaires relatives au phénomène étudié, soit pour recueillir
+			<lb/>
+			l&apos;interprétation des premières analyses du chercheur par les acteurs ou d&apos;autres
+			<lb/>
+			personnes proches du terrain. Les comptes rendus d&apos;analyse intermédiaires en cours
+			<lb/>
+			de recherche peuvent être utilisés par le chercheur afin non seulement de s&apos;interroger
+			<lb/>
+			sur ses analyses intermédiaires, mais aussi de recueillir de nouvelles pistes
+			<lb/>
+			d&apos;interprétation. Le chercheur vise ainsi au travers de son protocole évolutif de
+			<lb/>
+			recueil de données à remettre en cause ses potentielles interprétations en recourant à
+			<lb/>
+			l&apos;interaction avec les acteurs du terrain.
+			<lb/>
+		</p>
+		
+		<p>Finalement, dans tous les courants épistémologiques de la MTE, le chercheur a
+			<lb/>
+			la possibilité de dissocier les phases de recueil des données créatives de celles plus
+			<lb/>
+			« rigoureuses » afin de s&apos;extraire de la tension créativité/rigueur méthodologique,
+			<lb/>
+			mettant en oeuvre d&apos;une part des procédés créatifs afin de générer des données
+			<lb/>
+			potentiellement porteuses d&apos;innovation et veillant d&apos;autre part à pouvoir opposer à des
+			<lb/>
+			tiers ses interprétations sur la base de données comparables selon les catégories et les
+			<lb/>
+			relations mises en évidence.
+			<lb/>
+		</p>
+		
+		<head>3.3 Le codage ouvert : être imaginatif sans perdre l&apos;adhérence aux données
+			<lb/>
+		</head>
+		
+		<p>Le codage ouvert consiste à déterminer et à construire, au sein des données
+			<lb/>
+			recueillies, des catégories conceptuelles qui permettent de comprendre et d&apos;expliquer
+			<lb/>
+			le phénomène empirique sur lequel le chercheur porte son attention (
+			<ref type="biblio">Glaser &amp;<lb/>
+				Strauss, 1967; Strauss &amp; Corbin, 1990
+			</ref>
+			). Afin de proposer une vision renouvelée des
+			<lb/>
+			situations de gestion et d&apos;éviter le risque de proposer un construit théorique déjà mis
+			<lb/>
+			en évidence au sein de la communauté scientifique, le chercheur devra tenter de
+			<lb/>
+			définir des catégories pertinentes sur l&apos;aire substantive étudiée, et différentes de celles
+			<lb/>
+			qui sont présentes dans les écrits scientifiques. Néanmoins, le critère primordial de la
+			<lb/>
+			MTE est l&apos;adhérence aux données. L&apos;adhérence se définit comme la cohérence de la
+			<lb/>
+			théorie développée avec le phénomène étudié sur l&apos;aire substantive (
+			<ref type="biblio">Corbin &amp;<lb/>
+				Strauss, 1990; Douglas, 2003
+			</ref>
+			). Dès lors, le niveau de créativité semble être limité à la
+			<lb/>
+			perception de cohérence que chacun aura entre le construit théorique développé et le
+			<lb/>
+			phénomène empirique. Si l&apos;originalité de l&apos;analyse pousse le chercheur à construire
+			<lb/>
+			des catégories qui paraissent trop abstraites ou en décalage avec les données dont il
+			<lb/>
+			rend compte, le critère d&apos;adhérence ne sera pas respecté.
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Strauss et Corbin (1990, 1998; Corbin &amp; Strauss, 2008</ref>) proposent des
+			<lb/>
+			techniques permettant d&apos;assurer la rigueur des analyses, telles que l&apos;analyse flip-flop
+			<lb/>
+			(qui vise à générer des contrastes dans les catégories et leurs propriétés), la technique
+			<lb/>
+			far out -close in (qui propose de voir un phénomène dans ses dimensions macro et
+			<lb/>
+			micro pour en saisir la complexité), la matrice conditions/conséquences, etc.
+			<lb/>
+			Néanmoins, le trop strict respect de ces procédures, qui permet d&apos;assurer la rigueur
+			<lb/>
+			méthodologique de l&apos;analyse, nuit à la créativité du chercheur (
+			<ref type="biblio">Fendt &amp; Sachs, 2008;
+				<lb/>
+				Goulding, 2001
+			</ref>
+			) et risque de l&apos;enfermer dans une vision techniciste de la MTE
+			<lb/>
+			(<ref type="biblio">Glaser, 1992; Suddaby, 2006</ref>). En effet, la volonté des chercheurs de se conformer
+			<lb/>
+			aux règles et procédures strictes de la MTE peut soit les empêcher d&apos;un point de vue
+			<lb/>
+			cognitif de générer des interprétations novatrices (<ref type="biblio">Glaser, 1992</ref>), soit les leur
+			faire
+			<lb/>
+			abandonner au cours de la sélection des idées les plus inattaquables du point de vue
+			<lb/>
+			de la rigueur méthodologique (<ref type="biblio">Fendt &amp; Sachs, 2008</ref>). Aussi, comment obtenir des
+			<lb/>
+			catégories originales avec des données qui sont la plupart du temps ordinaires, sans
+			<lb/>
+			perdre l&apos;adhérence aux données? Alors se pose la question de savoir comment
+			<lb/>
+			développer des catégories conceptuelles novatrices tout en respectant le critère
+			<lb/>
+			fondamental d&apos;adhérence de la théorie aux données. Ici, l&apos;aspect asynchrone des
+			<lb/>
+			processus d&apos;analyse permet non seulement de faire émerger la créativité du chercheur
+			<lb/>
+			dans ses analyses, mais aussi de rester proche des données, en assurant l&apos;adhérence
+			<lb/>
+			comme critère de rigueur méthodologique.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, lors des phases de codage ouvert, le chercheur va procéder à des
+			<lb/>
+			microanalyses. Il va alors déconstruire le discours des acteurs ou toute autre forme de
+			<lb/>
+			données (archives, vidéo, notes, etc.). Il va fragmenter l&apos;ensemble des données en
+			<lb/>
+			unités de sens afin de pouvoir travailler sur des niveaux très fins d&apos;analyse. Ces
+			<lb/>
+			pratiques sont en exacte cohérence avec les pratiques méthodologiques de la MTE.
+			<lb/>
+			Les pratiques de déconstruction alternent avec des pratiques de reconstruction : le
+			<lb/>
+			chercheur, confiant de sa capacité à reconstruire des interprétations dans un cadre
+			<lb/>
+			global déterminé a posteriori, laissera plus librement cours à sa créativité dans le
+			<lb/>
+			processus de déconstruction que s&apos;il se focalise dès les premiers instants sur les
+			<lb/>
+			critères d&apos;adhérence aux données, de pertinence des analyses pour les acteurs, de
+			<lb/>
+			parcimonie des catégories, etc. Plus l&apos;auteur aura déconstruit les données recueillies,
+			<lb/>
+			plus il devra faire preuve de créativité afin de les reconstruire en leur faisant
+			<lb/>
+			« prendre forme » dans des catégories intelligibles. Le mouvement de rigueur dans la
+			<lb/>
+			déconstruction nécessite la créativité dans la reconstruction. Ici, la rigueur précède la
+			<lb/>
+			créativité, mais les deux mouvements se renforcent l&apos;un l&apos;autre.
+			<lb/>
+		</p>
+		
+		<p>À cette étape, la confiance en la circularité du processus en MTE joue un rôle
+			<lb/>
+			important. Les catégories conceptuelles émanant de la déconstruction/reconstruction
+			<lb/>
+			doivent être considérées comme potentiellement pertinentes pour l&apos;analyse. Dès lors,
+			<lb/>
+			leur utilisation dans la théorie finale, recadrée, est suspendue à la mise en oeuvre de
+			<lb/>
+			procédés de vérification qui interviennent après l&apos;émergence des catégories. Un
+			<lb/>
+			chercheur conscient du fait que ce qu&apos;il produit dans ce processus d&apos;idéation sera par
+			<lb/>
+			la suite remodelé, examiné, contrôlé, lui permet d&apos;avancer dans un premier temps
+			<lb/>
+			plus de voies d&apos;interprétation potentielles sous forme de catégories conceptuelles
+			<lb/>
+			temporaires, dont certaines seront gardées et d&apos;autres abandonnées. La construction
+			<lb/>
+			théorique ici à l&apos;oeuvre s&apos;apparente à du bricolage théorique (
+			<ref type="biblio">Boxenbaum &amp; Rouleau,
+				<lb/>
+				2011
+			</ref>
+			). Dès lors, le recours à l&apos;expérience personnelle, à l&apos;imagination, aux
+			<lb/>
+			connaissances personnelles hors du terrain pourra entrer dans le processus d&apos;idéation
+			<lb/>
+			sans que cela vienne entacher la rigueur méthodologique. La légitimité des catégories
+			<lb/>
+			avancées sera perçue sur la façon dont ces catégories rendent effectivement compte
+			<lb/>
+			du terrain, sans qu&apos;elles aient nécessairement émergé uniquement d&apos;éléments du
+			<lb/>
+			terrain. La vérification de la pertinence des catégories sur l&apos;ensemble du matériau
+			<lb/>
+			permettra in fine d&apos;asseoir la légitimité des catégories ayant émergé par le processus
+			<lb/>
+			d&apos;idéation.
+			<lb/>
+		</p>
+		
+		<head>3.4 Lecodage axial, explorer et légitimer les liens entre les catégories
+			<lb/>
+			conceptuelles
+			<lb/>
+		</head>
+		
+		<p>À la suite de la construction de catégories conceptuelles, le chercheur doit se pencher
+			<lb/>
+			sur le codage axial, qui consiste en l&apos;étude et la formalisation des liens entre ces
+			<lb/>
+			catégories. Si l&apos;on estime qu&apos;une théorie est une construction intellectuelle de liens
+			<lb/>
+			entre diverses catégories conceptuelles, l&apos;examen de la tension entre créativité et
+			<lb/>
+			rigueur méthodologique au sein du codage axial est primordial, tout comme les
+			<lb/>
+			moyens de la dépasser. La tension entre créativité et rigueur méthodologique se fonde
+			<lb/>
+			sur des éléments assez proches de ceux présents lors du codage ouvert. En effet, il
+			<lb/>
+			s&apos;agit de mettre en évidence des relations qui vont au-delà des évidences tout en
+			<lb/>
+			respectant l&apos;adhérence aux données. Le chercheur pourra ainsi explorer les liens entre
+			<lb/>
+			des catégories conceptuelles qui peuvent paraître pertinentes au regard de l&apos;aire
+			<lb/>
+			substantive.
+			<lb/>
+		</p>
+		
+		<p>Dès lors, c&apos;est au chercheur de trouver des moyens d&apos;analyse alternatifs, de
+			<lb/>
+			penser à des associations que d&apos;autres chercheurs n&apos;ont jamais effectuées ou
+			<lb/>
+			analysées assez précisément. L&apos;utilisation des outils de la version straussienne et de
+			<lb/>
+			ses développements dans la recherche des liens entre les catégories risque d&apos;enfermer
+			<lb/>
+			le chercheur dans une posture techniciste forçant la découverte de liens entre
+			<lb/>
+			catégories (<ref type="biblio">Glaser, 1992</ref>). Ces outils devraient permettre au chercheur de
+			systématiser
+			<lb/>
+			la recherche de conditions d&apos;émergence, la spécification des mécanismes, les
+			<lb/>
+			conséquences possibles du phénomène, etc. Toutefois, il est difficile, en se basant sur
+			<lb/>
+			ces techniques, de faire émerger des relations innovantes si les données ne sont pas
+			<lb/>
+			intrinsèquement originales. Le risque, réalisé dans les manuscrits transmis aux revues
+			<lb/>
+			pour publication (dʼaprès <ref type="biblio">Suddaby, 2006</ref>), est alors de voir de nombreuses recherches
+			<lb/>
+			se focaliser sur la légitimation des relations avancées, au détriment de l&apos;aspect
+			<lb/>
+			novateur de la recherche, l&apos;autre objectif de la MTE.
+			<lb/>
+		</p>
+		
+		<p>La déconstruction des phénomènes en catégories et l&apos;étude systématique des
+			<lb/>
+			liens entre ces catégories fondent la rigueur méthodologique. Le couplage entre la
+			<lb/>
+			déconstruction des phénomènes empiriques et leur reconstruction contextuelle
+			<lb/>
+			(<ref type="biblio">Morse, 1994</ref>) est particulièrement important dans le cadre du codage axial. En effet,
+			<lb/>
+			l&apos;exploration de multiples voies d&apos;interprétation possibles est d&apos;autant plus aisée que
+			<lb/>
+			le chercheur aura déconstruit le phénomène à étudier. Il est ainsi possible de
+			<lb/>
+			déconstruire le phénomène selon de multiples idées, sans se focaliser dans un premier
+			<lb/>
+			temps sur l&apos;aspect « scientifique » de la déconstruction. Le codage axial se réalise
+			<lb/>
+			avec une reconstruction des données dans un enchaînement logique : causes,
+			<lb/>
+			conséquences, conditions, contexte, etc. La technique des questions et explications
+			<lb/>
+			contrastives (<ref type="biblio">Tsang &amp; Ellsaesser, 2011</ref>) élaborée hors de la MTE, propose un
+			<lb/>
+			couplage déconstruction/reconstruction intéressant en ce sens qu&apos;il permet de générer
+			<lb/>
+			de multiples voies d&apos;interprétation tout en laissant le doute au coeur du processus de
+			<lb/>
+			génération théorique. Par ailleurs, les premières voies d&apos;interprétation dans la création
+			<lb/>
+			des liens entre catégories doivent donner cours aux idées novatrices. Ces idées seront
+			<lb/>
+			reprises par la suite dans une logique de vérification. C&apos;est uniquement à ce moment
+			<lb/>
+			que les relations seront légitimées d&apos;un point de vue scientifique.
+			<lb/>
+		</p>
+		
+		<head>3.5 Le codage sélectif, ou comment sélectionner la catégorie centrale
+			<lb/>
+		</head>
+		
+		<p>À la suite des multiples boucles d&apos;analyse lors des pratiques précédentes, le chercheur
+			<lb/>
+			doit dégager une catégorie centrale (codage sélectif). La catégorie centrale -ou les
+			<lb/>
+			catégories centrales, s&apos;il en existe plusieurs conjointement -se définit comme la
+			<lb/>
+			catégorie qui explique la plus grande variation du phénomène (<ref type="biblio">Glaser, 1992</ref>). Elle
+			<lb/>
+			émerge de l&apos;analyse de l&apos;aire substantive. Elle n&apos;est pas toujours la plus intéressante
+			<lb/>
+			au regard de ce qui se trouve dans les écrits scientifiques. La catégorie centrale peut
+			<lb/>
+			recouvrir un champ de recherche très développé auquel le chercheur pense ne pas
+			<lb/>
+			pouvoir apporter de contribution majeure.
+			<lb/>
+			Or, il se peut qu&apos;une catégorie qui apparaît à la marge du construit théorique qui
+			<lb/>
+			émerge au travers de la MTE paraisse très intéressante au chercheur pour son apport
+			<lb/>
+			dans la communauté scientifique. Le chercheur pourra alors avoir la tentation de se
+			<lb/>
+			focaliser sur des éléments en dehors de la catégorie centrale qui a émergé. Deux
+			<lb/>
+			solutions s&apos;offrent alors à lui :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Soit il poursuit son étude en orientant l&apos;échantillonnage théorique autour de
+				<lb/>
+				cette catégorie non centrale, mais pertinente au regard de l&apos;état des
+				<lb/>
+				connaissances théoriques actuelles. Il gagnera alors en capacité d&apos;innovation,
+				<lb/>
+				mais s&apos;éloignera des canons de la MTE.
+				<lb/>
+			</item>
+			
+			<item>Soit il garde son construit théorique en l&apos;état en explicitant l&apos;intérêt de la
+				<lb/>
+				catégorie à la marge. Il respecte ainsi les critères de la MTE, mais risque de
+				<lb/>
+				manquer de poids et de pertinence lors de son argumentation envers la
+				<lb/>
+				communauté scientifique.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Le chercheur va ainsi devoir faire un arbitrage entre le respect des règles de la
+			<lb/>
+			MTE et sa capacité à convaincre les lecteurs potentiels de l&apos;intérêt d&apos;une catégorie à
+			<lb/>
+			la marge dans son construit théorique. Ici encore, créativité et rigueur
+			<lb/>
+			méthodologique divergent.
+			<lb/>
+		</p>
+		
+		<p>Afin de sortir de la tension, la conscience de la circularité du processus de la
+			<lb/>
+			MTE permet de recadrer l&apos;étude. En effet, dans l&apos;application de la MTE, l&apos;objet de
+			<lb/>
+			recherche n&apos;est pas formellement spécifié au départ, le chercheur peut délimiter a
+			<lb/>
+			posteriori le phénomène sur lequel il veut se centrer. Il pourra, par rééchantillonnage
+			<lb/>
+			théorique, explorer les multiples phénomènes et sous-phénomènes sur lesquels il
+			<lb/>
+			pourra se focaliser dans son étude, en repoussant le caractère définitif de ce choix au
+			<lb/>
+			maximum. Cette position est cohérente avec les prérogatives de la MTE qui pense
+			<lb/>
+			l&apos;objet de la recherche plus comme un terrain à explorer que comme un phénomène
+			<lb/>
+			précis à étudier (<ref type="biblio">Guillemette, 2006</ref>). Dès lors, le changement de « problématique 14
+			»
+			<lb/>
+			du chercheur est tout à fait possible. Si le caractère novateur de la recherche est mis
+			<lb/>
+			en cause, ou si l&apos;insertion des connaissances produites dans les écrits existants semble
+			<lb/>
+			difficile, le chercheur pourra réaliser un échantillonnage théorique postdéfinition de la
+			<lb/>
+			ou des catégorie(s) centrale(s). Cela n&apos;implique pas un manque de rigueur
+			<lb/>
+			méthodologique et favorise le caractère potentiellement novateur des connaissances
+			<lb/>
+			produites.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>La poursuite des recherches à propos des problèmes posés par la pratique de la MTE
+			<lb/>
+			nous semble de la plus grande importance. D&apos;une part, la MTE ne pourra pas
+			<lb/>
+			longtemps être une méthodologie générale légitime dans le champ des sciences
+			<lb/>
+			sociales si les difficultés qu&apos;elle soulève ne sont pas au moins en partie atténuées ou
+			<lb/>
+			résolues. Il ne s&apos;agit pas ici de former une « police de la méthode », comme l&apos;affirme
+			<lb/>
+			<ref type="biblio">Chamberlain (2000)</ref> à propos <ref type="biblio">de Wilson et Hutchinson (1996)</ref>, mais plutôt de voir
+			<lb/>
+			comment dépasser les situations vécues par les praticiens de la MTE comme des
+			<lb/>
+			impasses structurelles inhérentes à la méthode. Dans l&apos;état actuel, les travaux relevant
+			<lb/>
+			de la MTE insistent prioritairement sur la rigueur méthodologique. En témoigne
+			<lb/>
+			l&apos;utilisation du « modèle Gioia » (
+			<ref type="biblio">Corley &amp; Gioia, 2004; Gioia et al., 2013; Langley
+				<lb/> &amp; Abdallah, 2011
+			</ref>
+			) pour présenter les études inductives qui tend à se répandre, car il
+			<lb/>
+			propose un standard pour asseoir la légitimité scientifique de la recherche. La
+			<lb/>
+			tendance actuelle délaisse ainsi la créativité pourtant nécessaire à la pertinence de
+			<lb/>
+			l&apos;utilisation de la MTE en sciences sociales au profit du caractère scientifique des
+			<lb/>
+			résultats avancés.
+			<lb/>
+		</p>
+		
+		<p>Nous proposons dans cet article une voie permettant de remettre la créativité au
+			<lb/>
+			coeur de la MTE pour que celle-ci ne pâtisse pas de la légitimité scientifique
+			<lb/>
+			nécessaire à la publication des recherches dans les revues scientifiques. Nous avons
+			<lb/>
+			montré que l&apos;échantillonnage théorique est la clé de voûte pour construire une
+			<lb/>
+			circularité dans la MTE. Cette vision permet que les différentes pratiques (orientation
+			<lb/>
+			de la collecte des données, moyens de collecte des données, codages ouvert, axial et
+			<lb/>
+			sélectif) puissent se fonder sur des processus de natures différentes : l&apos;une qui tend
+			<lb/>
+			vers une exploration idéationnelle créative, l&apos;autre vers la légitimation des
+			<lb/>
+			connaissances émergentes. Avoir conscience de la circularité du processus implique
+			<lb/>
+			que le chercheur peut s&apos;extraire d&apos;une vision synchrone de la MTE où les processus
+			<lb/>
+			visant la créativité et la rigueur méthodologique devraient avoir lieu simultanément.
+			<lb/>
+			En effet, l&apos;approche circulaire de la MTE permet de développer une vision
+			<lb/>
+			asynchrone des processus visant la créativité et la rigueur méthodologique. Le
+			<lb/>
+			chercheur peut alors explorer de façon créative des voies diverses de collecte de
+			<lb/>
+			données, d&apos;interprétation, et de confrontation des interprétations avec diverses parties
+			<lb/>
+			sans contrainte particulière sachant qu&apos;il aura à réaliser a posteriori une vérification
+			<lb/>
+			de chaque piste théorique émergente. Si certains cas sélectionnés, certaines pratiques
+			<lb/>
+			de recueil des données, certaines voies d&apos;interprétation sont jugés inappropriés aux
+			<lb/>
+			exigences scientifiques, le chercheur pourra réorienter son échantillonnage théorique,
+			<lb/>
+			adapter ses pratiques de collecte et reconsidérer ses voies d&apos;interprétation. La
+			<lb/>
+			<ref type="figure">Figure 4</ref> répertorie les microactivités que nous avons mises en évidence afin de
+			<lb/>
+			dissocier créativité et rigueur méthodologique dans le processus circulaire de la MTE.
+			<lb/>
+		</p>
+		
+		<figure>Figure 4. Créativité et rigueur dans la vision circulaire asynchrone de la MTE.
+			<lb/>
+		</figure>
+		
+		<p>Cette figure met l&apos;accent sur trois éléments que nous avons développés dans cet
+			<lb/>
+			article. Premièrement, la MTE peut se concevoir dans une optique circulaire où
+			<lb/>
+			l&apos;ensemble des données est revisité au travers des différents processus d&apos;analyse liés à
+			<lb/>
+			la MTE : échantillonnage théorique, codage ouvert, codage axial, codage sélectif.
+			<lb/>
+			Deuxièmement, dans cette optique circulaire, il est possible de dissocier les processus
+			<lb/>
+			d&apos;analyse visant la créativité de ceux visant la rigueur méthodologique.
+			<lb/>
+			Troisièmement, il existe un ensemble de microactivités lors de l&apos;analyse qui permet
+			<lb/>
+			de tendre vers ces deux objectifs.
+			<lb/>
+		</p>
+		
+		<p>L&apos;utilisation intensive de techniques méthodologiques et d&apos;analyse nuisant à la
+			<lb/>
+			créativité (<ref type="biblio">Fendt &amp; Sachs, 2008; Glaser, 1978; Goulding, 2001</ref>), il ne nous
+			semble
+			<lb/>
+			pas prioritaire de poursuivre le développement de nouvelles techniques toujours plus
+			<lb/>
+			sophistiquées pour générer la créativité. Cette voie, empruntée par certains chercheurs
+			<lb/>
+			(par exemple <ref type="biblio">Scott &amp; Howell, 2008; Wasserman et al., 2009</ref>), génère un nombre
+			<lb/>
+			croissant de techniques, une complexité grandissante de la MTE, et finalement
+			<lb/>
+			réflexion, à savoir la tension entre l&apos;utilisation de règles et techniques de la MTE et le
+			<lb/>
+			besoin de créativité des recherches en MTE. En réponse à cette tension, notre
+			<lb/>
+			approche présente l&apos;intérêt de ne consister qu&apos;en une modification de la conception
+			<lb/>
+			synchrone itérative de la MTE en une conception circulaire asynchrone.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, la prise de conscience qu&apos;il n&apos;est pas nécessaire de parvenir à la créativité
+			<lb/>
+			et la rigueur de façon simultanée permet aux chercheurs de sortir de l&apos;impasse dans
+			<lb/>
+			laquelle ils se trouvent dans la pratique. Sans renouveler fondamentalement la MTE,
+			<lb/>
+			notre proposition peut ainsi influencer la pratique de la MTE. Tout chercheur ayant
+			<lb/>
+			expérimenté le processus de génération théorique de la MTE et souhaitant parvenir à
+			<lb/>
+			un résultat innovant et reconnu comme légitime selon les critères de sa communauté
+			<lb/>
+			scientifique sait combien la combinaison de la créativité et de la rigueur est difficile.
+			<lb/>
+			Ce simple changement cognitif dissociant les deux processus de créativité et de
+			<lb/>
+			rigueur permettra aux chercheurs de s&apos;extraire des arbitrages qu&apos;ils avaient
+			<lb/>
+			régulièrement à opérer et ainsi de développer des théories plus innovantes et tout
+			<lb/>
+			aussi rigoureuses.
+			<lb/>
+		</p>
+		
+		<p>Une étape de la MTE est restée en marge de cet article : celle qui consiste à
+			<lb/>
+			choisir le phénomène initial. Ce moment est le seul où il n&apos;existe pas de circularité du
+			<lb/>
+			processus. Dès lors, le choix du terrain initial conditionne le développement d&apos;une
+			<lb/>
+			théorie enracinée qui peut être innovante sans nécessairement exiger beaucoup de
+			<lb/>
+			créativité. Si la tension entre créativité et rigueur ne trouvait pas de solution, le choix
+			<lb/>
+			d&apos;utiliser la MTE dans les sciences sociales tendrait alors à se restreindre à l&apos;analyse
+			<lb/>
+			de phénomènes nouveaux ou de terrains originaux per se, offrant dans les données le
+			<lb/>
+			caractère novateur attendu de la MTE. Le domaine des systèmes d&apos;information, qui
+			<lb/>
+			travaille sur des phénomènes empiriques nouveaux liés à l&apos;évolution rapide des
+			<lb/>
+			techniques d&apos;information et de communication, met ainsi aujourd&apos;hui l&apos;accent sur la
+			<lb/>
+			MTE comme une opportunité de découvertes majeures (<ref type="biblio">Birks
+			, Fernandez, Levina, &amp;<lb/>
+				Nasirin, 2013
+			</ref>
+			). Notre proposition contribue ainsi à ce que la MTE ne soit pas
+			<lb/>
+			restreinte à l&apos;étude de phénomènes nouveaux ou marginaux, mais continue à être une
+			<lb/>
+			méthode permettant de fournir des compréhensions nouvelles à des phénomènes
+			<lb/>
+			sociaux divers et variés.
+			<lb/>
+		</p>
+		
+		<head>Notes
+			<lb/>
+		</head>
+		
+		<note type="other">1 L&apos;objectif de cet article n&apos;est pas de rappeler les bases de la MTE. Pour cela, l&apos;auteur
+			renvoie aux
+			<lb/>
+			références et manuels explicitant la méthode, dont
+			<ref type="biblio">Glaser et Strauss (1967), Strauss et Corbin (1990,
+				<lb/>
+				1998
+			</ref>
+			), Goulding <ref type="biblio">(2002)</ref>, Charmaz <ref type="biblio">(2006) et Luckerhoff et Guillemette
+				(Éds)
+			</ref> (2013).
+			<lb/>
+			2 Nous ne prenons pas parti ici pour un paradigme épistémologique particulier, nos propos pouvant être
+			<lb/>
+			entendus dans l&apos;ensemble des paradigmes utilisés en MTE. Pour une discussion précise de ces
+			<lb/>
+			paradigmes, se référer à Simmons (2011).
+			<lb/>
+			3 « The discovery of grounded theory assumes implicitly that the analyst will be creative » (Glaser,
+			<lb/>
+			1978, p. 20).
+			<lb/>
+			4 « However, these procedures were designed not to be followed dogmatically but rather to be used
+			<lb/>
+			creatively and flexibly by researchers as they deem appropriate » (<ref type="biblio">Strauss &amp; Corbin,
+				1998, p. 14</ref>).
+			<lb/>
+			5 Nous empruntons cette formule à Matts Alvesson. Light Grounded Theory = Théorie enracinée
+			<lb/>
+			légère, non conforme aux exigences de rigueur. Tight Grounded Theory = Théorie enracinée
+			<lb/>
+			rigoureuse, conforme aux canons.
+			<lb/>
+			6 « a researcher will be guided <ref type="biblio">[by the technique]</ref> » (<ref type="biblio">Paper
+				&amp; Marx, 2012, p. 253</ref>).
+			<lb/>
+			7 « the theory is developing and forming from the data through the iterative processes » (
+			<ref type="biblio">Paper &amp;<lb/>
+				Marx, 2012, p. 253
+			</ref>
+			).
+			<lb/>
+			8 « As the iterative discovery process guided theoretical sampling » (<ref type="biblio">Paper &amp; Marx,
+				2012, p. 254</ref>).
+			<lb/>
+			9 « the key tenets of GT guided the researcher through successive and iterative stages » (
+			<ref type="biblio">Paper &amp;<lb/>
+				Marx, 2012, p. 256
+			</ref>
+			).
+			<lb/>
+			10 « Theoretical sampling is the process of data collection for generating theory whereby the analyst
+			<lb/>
+			jointly collects, codes and analyses his data and decides what data to collect next and where to find
+			<lb/>
+			them, in order to develop his theory as it emerges » (<ref type="biblio">Glaser &amp; Strauss, 1967, p.
+				45</ref>).
+			<lb/>
+			11 « […] the process of simultaneous data collection and interpretation is easier said than done »
+			<lb/>
+			(<ref type="biblio">Goulding, 2001, p. 31</ref>).
+			<lb/>
+			12 Nous faisons ici le parallèle avec les méthodes de communication asynchrone où le système qui doit
+			<lb/>
+			envoyer des données utilise de façon séquentielle les différents « espaces » de bande passante libres
+			<lb/>
+			pour envoyer des données au lieu de viser à envoyer l&apos;ensemble des données simultanément. Ce
+			<lb/>
+			système permet de réduire les besoins en bande passante d&apos;un système de communication. Pris sous la
+			<lb/>
+			forme d&apos;une métaphore des besoins en créativité et en rigueur, ce système permet de réduire les
+			<lb/>
+			besoins cognitifs limités de l&apos;individu pour parvenir in fine au même résultat.
+			<lb/>
+			13 Le chercheur devra cependant rendre compte de ses choix afin de ne pas abuser le lecteur sur la base
+			<lb/>
+			empirique sur laquelle les interprétations ont été vérifiées.
+			<lb/>
+			14 Ce terme n&apos;est pas réellement adéquat avec l&apos;esprit de la MTE, mais désigne traditionnellement
+			la
+			<lb/>
+			façon dont le chercheur pose le problème à étudier.
+			<lb/>
+		</note>
+	
+	</text>
+</tei>

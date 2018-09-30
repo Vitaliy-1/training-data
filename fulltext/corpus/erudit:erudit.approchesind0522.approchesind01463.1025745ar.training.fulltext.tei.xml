@@ -1,0 +1,1747 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Cet article partage l&apos;expérience d&apos;une recherche qui s&apos;annonçait prévisible, mais qui a
+			<lb/>
+			surpris l&apos;équipe. Présenté à la manière d&apos;un cahier de bord, ce texte décrit notre
+			<lb/>
+			parcours en trois temps. Les membres de l&apos;équipe étant tous formés à l&apos;école
+			<lb/>
+			hypothéticodéductive, notre recherche débute par une mise en contexte, une recension
+			<lb/>
+			des écrits ainsi qu&apos;une problématique en bonne et due forme. Le design de recherche
+			<lb/>
+			repose essentiellement sur une analyse de contenu médiatique, une méthodologie
+			<lb/>
+			éprouvée. Or, dès les premiers exercices de codage, il appert que la stricte analyse de
+			<lb/>
+			contenu ne permet qu&apos;un regard partiel sur la problématique énoncée. Une deuxième
+			<lb/>
+			phase de collecte de données s&apos;ajoute alors sous la forme de courts entretiens
+			<lb/>
+			individuels. La richesse des réponses recueillies amène l&apos;équipe à reconsidérer le
+			<lb/>
+			design de la recherche, tant sur le plan de la problématique que de la méthodologie.
+			<lb/>
+			La pertinence des approches épistémologiques et méthodologiques choisies au départ
+			<lb/>
+			est remise en question. Ainsi, la troisième section de l&apos;article fait état des discussions
+			<lb/>
+			qui mènent à un redéploiement dans une perspective plus inductive, reposant
+			<lb/>
+			essentiellement sur des questions de recherche ouvertes et faisant le choix de ne pas
+			<lb/>
+			vérifier d&apos;hypothèse. Le lecteur observera la réorientation de la recherche à travers les
+			<lb/>
+			prises de conscience de l&apos;équipe, l&apos;évaluation des techniques de recherche utilisées et
+			<lb/>
+			même par le changement du vocabulaire privilégié.
+			<lb/>
+		</p>
+		
+		<p>L&apos;article se termine par une réflexion critique a posteriori sur l&apos;ensemble de la
+			<lb/>
+			démarche. Nous y constatons que l&apos;équipe a délaissé une méthodologie peu
+			<lb/>
+			contestable pour une méthodologie plus téméraire. Cette aventure démontre que le
+			<lb/>
+			succès d&apos;une recherche ne repose pas strictement sur un choix méthodologique précis,
+			<lb/>
+			mais surtout sur son adéquation avec l&apos;état des connaissances sur l&apos;objet investigué.
+			<lb/>
+			Nous en concluons que les approches inductives s&apos;avèrent précieuses au moment
+			<lb/>
+			d&apos;amorcer un programme de recherche d&apos;envergure.
+			<lb/>
+		</p>
+		
+		<p>Le propos principal de cet article est une réflexion méthodologique. Or, comme
+			<lb/>
+			mentionné précédemment, ce n&apos;est pas de l&apos;objectif principal de la recherche dont ce
+			<lb/>
+			texte émane. Il nous faut donc dire quelques mots sur la recherche qui fut le théâtre de
+			<lb/>
+			cette expérience. Chercheurs en communication, nous nous intéressons aux médias et
+			<lb/>
+			à leur contenu informationnel. Toute société démocratique nécessite la présence,
+			<lb/>
+			voire la vigueur, d&apos;institutions et de mécanismes de communication permettant aux
+			<lb/>
+			citoyens d&apos;échanger entre eux et avec les gouvernements. Nous estimons, à l&apos;instar
+			<lb/>
+			d&apos;autres auteurs (<ref type="biblio">Habermas, 1978; Schlesinger, 1987; Schudson, 1995</ref>), que les
+			<lb/>
+			médias, bien qu&apos;imparfaits, jouent un rôle de premier plan dans le maintien d&apos;une
+			<lb/>
+			cohésion sociale. Considérant l&apos;importance de l&apos;information journalistique dans les
+			<lb/>
+			sociétés, nous consacrons notre recherche à l&apos;étude des transformations qu&apos;elle vit
+			<lb/>
+			sous la pression exercée par les relations publiques.
+			<lb/>
+		</p>
+		
+		<p>L&apos;étude des médias et de leurs contenus constitue un champ de recherche
+			<lb/>
+			documenté et foisonnant. Or, la majorité des travaux et les meilleures pratiques sont
+			<lb/>
+			ancrées dans le paradigme hypothéticodéductif. Nous tenions à partager notre
+			<lb/>
+			expérience pour signaler à d&apos;autres chercheurs que cette approche peut s&apos;avérer
+			<lb/>
+			limitative. Par cet article, nous désirons aussi attirer l&apos;attention des chercheurs en
+			<lb/>
+			relations publiques et en journalisme et les introduire aux démarches inductives,
+			<lb/>
+			lesquelles sont très rarement préconisées dans ces domaines.
+			<lb/>
+		</p>
+		
+		<head>1. Contexte et problématique générale
+			<lb/>
+		</head>
+		
+		<p>Le questionnement sur l&apos;importance des relations publiques dans les informations
+			<lb/>
+			journalistiques est né à la suite d&apos;une recherche sur la convergence (Francoeur, 2012).
+			<lb/>
+			La convergence est le mot d&apos;ordre dans l&apos;industrie des médias depuis les années 90
+			<lb/>
+			(<ref type="biblio">Bernier, 2008; Quinn, 2006; Winseck, 1998</ref>). Elle se manifeste de différentes
+			<lb/>
+			façons : intégration des équipes journalistiques radio, télé et Web en une seule équipe
+			<lb/>
+			multiplateforme (<ref type="biblio">Francoeur, 2012</ref>), réutilisation du même contenu journalistique dans
+			<lb/>
+			plusieurs médias d&apos;une même entreprise de presse (<ref type="biblio">Bernier, 2008</ref>), coproduction
+			de
+			<lb/>
+			contenu entre professionnels et non-professionnels (
+			<ref type="biblio">Jenkins, 2006</ref>), etc. <ref type="biblio">Singer (2004)
+				<lb/>
+			</ref>
+			parle de la convergence comme de combinaisons à géométrie variable, agençant
+			<lb/>
+			différemment les reporters, les technologies, les produits et la géographie. La
+			<lb/>
+			convergence est liée aux développements technologiques, à la fragmentation des
+			<lb/>
+			auditoires et aux impératifs économiques et règlementaires (<ref type="biblio">George, 2010</ref>).
+			<lb/>
+		</p>
+		
+		<p>La convergence a un impact sur les méthodes de travail des journalistes : la
+			<lb/>
+			recherche à l&apos;origine du présent projet a montré que les journalistes sont confrontés à
+			<lb/>
+			un manque de temps face aux nombreuses plateformes à alimenter. Ils doivent
+			<lb/>
+			adapter leurs façons de travailler à cette nouvelle réalité. Une des méthodes de travail
+			<lb/>
+			qui semble émerger est d&apos;utiliser l&apos;information fournie par des relationnistes et de la
+			<lb/>
+			mettre rapidement en ondes et en ligne, sans traitement journalistique. Cette
+			<lb/>
+			constatation au cours de la recherche <ref type="biblio">de Francoeur (2012)</ref> nous interpelle. Puisque
+			les
+			<lb/>
+			journalistes ont énoncé ces faits, nous estimons qu&apos;une nouvelle recherche est
+			<lb/>
+			nécessaire. Celle-ci pourrait vérifier, empiriquement, la présence et l&apos;importance des
+			<lb/>
+			relations publiques dans les nouvelles 1 .
+			<lb/>
+		</p>
+		
+		<p>Cette vérification serait cruciale pour qui réfléchit à ce qui distingue les deux
+			<lb/>
+			métiers liés à la création d&apos;information. Miège décrit la différence entre l&apos;information
+			<lb/>
+			journalistique et les relations publiques ainsi : « La légitimité socio-politique des
+			<lb/>
+			premières s&apos;est construite en référence à quelques-unes des valeurs fondatrices et
+			<lb/>
+			centrales des régimes politiques démocratiques; quant aux secondes, elles sont
+			<lb/>
+			toujours attachées aux phénomènes d&apos;influence et de manipulation sociales » (1997,
+			<lb/>
+			p. 158). La Fédération professionnelle des journalistes du Québec (FPJQ) indique,
+			<lb/>
+			quant à elle, dans son Guide de déontologie qu&apos;un journaliste ne doit pas être
+			<lb/>
+			confondu avec un relationniste :
+			<lb/>
+		</p>
+		
+		<p>Les journalistes doivent s&apos;abstenir d&apos;effectuer, en dehors du journalisme,
+			<lb/>
+			des tâches reliées aux communications : relations publiques, publicité,
+			<lb/>
+			promotion […]. Les journalistes ne peuvent pas communiquer un jour des
+			<lb/>
+			informations partisanes et le lendemain des informations impartiales, sans
+			<lb/>
+			susciter la confusion dans le public et jeter un doute constant sur leur
+			<lb/>
+			crédibilité et leur intégrité (<ref type="biblio">1996, article 9a</ref>).
+			<lb/>
+		</p>
+		
+		<p>La convergence (et les autres facteurs modifiant le paysage médiatique :
+			<lb/>
+			concentration, diminution des revenus publicitaires, concurrence de plus en plus forte
+			<lb/>
+			entre les médias) amène-t-elle les journalistes à abdiquer leur rôle au profit des
+			<lb/>
+			relationnistes? Les journalistes sont-ils moins des initiateurs de reportages que des
+			<lb/>
+			techniciens formatant des messages conçus par d&apos;autres -des relationnistes? La
+			<lb/>
+			convergence généralisée des médias signifie-t-elle aussi la convergence relations
+			<lb/>
+			publiques-journalisme, où les journalistes utilisent le matériel fourni par les
+			<lb/>
+			relationnistes de façon systématique (<ref type="biblio">Sissons, 2012</ref>)? Ce sont les questions
+			<lb/>
+			auxquelles nous cherchons des réponses. La mesure de la place des relations
+			<lb/>
+			publiques dans les nouvelles représenterait une première réponse à nos inquiétudes.
+			<lb/>
+		</p>
+		
+		<p>Cette problématique intéresse de nombreux chercheurs. Avant de lancer notre
+			<lb/>
+			propre recherche, nous avons examiné les écrits scientifiques qui pouvaient guider
+			<lb/>
+			notre démarche. Dans la prochaine section, nous proposons un condensé de notre
+			<lb/>
+			analyse des écrits portant sur les liens entre les relationnistes et les journalistes.
+			<lb/>
+		</p>
+		
+		<head>
+			2. Recension des écrits scientifiques
+			<lb/>
+		</head>
+		
+		<p>Nos lectures révèlent que la dynamique entre relationnistes et journalistes n&apos;est pas
+			<lb/>
+			seulement influencée par les changements dans le paysage médiatique. Elle est aussi
+			<lb/>
+			transformée par les changements au sein de l&apos;industrie des relations publiques. Cette
+			<lb/>
+			industrie est en croissance exponentielle depuis plusieurs années.
+			<lb/>
+		</p>
+		
+		<p>Depuis les années 80, les budgets de relations publiques ont explosé. <ref type="biblio">Franklin,
+			<lb/>
+			Hogan, Langley, Mosdell et Pill (2009)</ref> donnent l&apos;exemple du gouvernement
+			<lb/>
+			britannique : en dix ans, le nombre de personnes affectées à « l&apos;information » a crû de
+			<lb/>
+			presque 500 % à la santé, de 77 % à l&apos;agriculture, pêche et alimentation et de 185 %
+			<lb/>
+			au transport. En 1980, la société américaine comptait 1,2 professionnel des relations
+			<lb/>
+			publiques par journaliste. En 2008, le rapport est passé à 3,6 pour un (<ref type="biblio">Pew Research
+			<lb/>
+				Center, 2012</ref>). Au Québec, en 2011, il y avait 4 000 journalistes pour
+			<lb/>
+			13 000 professionnels des relations publiques et des communications 2 (Emploi
+			<lb/>
+			<ref type="biblio">Québec, 2011</ref>). Cette infériorité numérique des journalistes par rapport aux
+			<lb/>
+			relationnistes suscite de nombreuses questions.
+			<lb/>
+		</p>
+		
+		<p>Des études empiriques ont été menées par d&apos;imposantes équipes de recherche.
+			<lb/>
+			Elles affirment que les communiqués de presse et autres communications émanant
+			<lb/>
+			des relationnistes occupent une place prépondérante dans les nouvelles (
+			<ref type="biblio">Davis, 2002;
+				<lb/>
+				Sissons, 2012; Sullivan, 2011
+			</ref>
+			). Dans une recherche menée en
+			<ref type="biblio">Grande-Bretagne,
+				<lb/>
+				Lewis, Williams et Franklin (2008)
+			</ref>
+			ont analysé 2 207 articles de la presse écrite et
+			<lb/>
+			402 reportages radio et télé. Ils ont trouvé qu&apos;au moins 41 % des reportages écrits et
+			<lb/>
+			52 % des reportages radio et télé reprennent les communiqués des relationnistes ou
+			<lb/>
+			sont inspirés des relationnistes. Onze ans plus tôt, <ref type="biblio">Glasser et Salmon (1995)</ref>
+			<lb/>
+			affirmaient eux aussi que 51 % des communiqués de presse et autres documents
+			<lb/>
+			fournis par les relationnistes étaient utilisés par les médias pour élaborer leurs
+			<lb/>
+			nouvelles. Tremblay, Saint-Laurent, Saint-Jean et Carontini constataient la même
+			<lb/>
+			chose au Québec en 1988 : « 47 % des nouvelles font usage d&apos;éléments extraits du
+			<lb/>
+			discours de promotion » (<ref type="biblio">1988, p. 16</ref>). Ainsi, en considérant l&apos;émergence du
+			<lb/>
+			phénomène de convergence, les résultats de notre recherche devraient
+			<lb/>
+			hypothétiquement montrer une présence encore plus forte des relations publiques
+			<lb/>
+			dans les informations journalistiques.
+			<lb/>
+		</p>
+		
+		<p>Des équipes qui se sont penchées sur des problématiques similaires à ce qui
+			<lb/>
+			nous préoccupe ont constaté que la convergence entraîne une augmentation de la
+			<lb/>
+			présence des relations publiques dans les nouvelles. <ref type="biblio">Cottle et Ashton (1999)</ref> ont
+			<lb/>
+			étudié ce qui s&apos;est passé à Bristol, site choisi par la British Broadcast Company
+			<lb/>
+			(BBC) pour lancer le journalisme multiplateforme. Ils ont observé que les journalistes
+			<lb/>
+			optent davantage pour la diffusion d&apos;entrevues en direct. Ces entrevues radio ou télé
+			<lb/>
+			accueillent la plupart du temps des porte-parole, et non des acteurs des évènements.
+			<lb/>
+			C&apos;est le même constat dans les salles de cinq entreprises de presse allemandes
+			<lb/>
+			pratiquant la convergence, étudiées par Mitchelstein et Boczkowski. Les chercheurs y
+			<lb/>
+			constatent l&apos;émergence d&apos;un journalisme de seconde zone « second hand journalism »
+			<lb/>
+			(<ref type="biblio">2009, p. 569</ref>), où les impératifs sont la vitesse et l&apos;immédiat, créant une dépendance
+			<lb/>
+			accrue au matériel provenant de relationnistes. Maguire, aux États-Unis, a lui aussi
+			<lb/>
+			observé une diminution des sources non officielles présentes dans les articles, ce qui
+			<lb/>
+			suggère que moins d&apos;efforts sont consacrés à approfondir l&apos;information au-delà des
+			<lb/>
+			« sources officielles » (<ref type="biblio">cité dans Bernier, 2008, p. 48</ref>). Les sources officielles sont en
+			<lb/>
+			général des relationnistes ou des personnes formées par des relationnistes.
+			<lb/>
+		</p>
+		
+		<p>Cette recension des écrits montre la pertinence de la problématique et
+			<lb/>
+			l&apos;importance de contribuer à l&apos;effort international de démonstration de l&apos;influence des
+			<lb/>
+			relations publiques sur les informations journalistiques. Forts de ce constat, nous
+			<lb/>
+			avons alors émis l&apos;idée de pallier à un des manques dans les écrits scientifiques, soit
+			<lb/>
+			l&apos;absence de données empiriques récentes sur la présence des relations publiques dans
+			<lb/>
+			les informations journalistiques au Québec.
+			<lb/>
+		</p>
+		
+		<head>3. Problématique et questions de recherche
+			<lb/>
+		</head>
+		
+		<p>La dernière recherche québécoise portant précisément sur cette réalité remonte à plus
+			<lb/>
+			de 25 ans (<ref type="biblio">Tremblay et al., 1988</ref>). D&apos;autres études autour de problématiques
+			<lb/>
+			similaires ont toutefois été menées depuis. En 1994, Charron a réalisé un rapport sur
+			<lb/>
+			les relations entre les membres de l&apos;Assemblée nationale, les attachés de presse et les
+			<lb/>
+			journalistes de la tribune de la presse. Au milieu des années 2000, la FPJQ a produit
+			<lb/>
+			deux rapports sur les communications gouvernementales illustrant les difficultés des
+			<lb/>
+			journalistes à obtenir de l&apos;information du gouvernement du Québec (2004, 2005). À
+			<lb/>
+			la même époque, Lavigne s&apos;est penché sur l&apos;hybridation des relations publiques et du
+			<lb/>
+			journalisme (2002, 2005). Enfin, la Chaire en relations publiques de l&apos;Université du
+			<lb/>
+			Québec à Montréal 3 a réalisé des enquêtes sur la perception des journalistes et des
+			<lb/>
+			relationnistes quant au métier de chacun (<ref type="biblio">De Schepper, Kouamé-Kodia, Lacerte, &amp;<lb/>
+				Richer, 2005; Fournier &amp; Goudreau, 2006
+			</ref>
+			). Outre ces études qui datent ou qui visent
+			<lb/>
+			un domaine en particulier, il n&apos;existe pas de recherche à jour sur les questions qui
+			<lb/>
+			nous intéressent.
+			<lb/>
+		</p>
+		
+		<p>De plus, il nous paraît pertinent d&apos;actualiser ces données puisque plusieurs
+			<lb/>
+			éléments de contexte ont changé. Mentionnons entre autres :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>une multiplication des supports de diffusion de l&apos;information, le développement
+				<lb/>
+				du Web et des plateformes mobiles, ainsi que de nouveaux moyens de
+				<lb/>
+				communication (du courriel aux réseaux socionumériques en passant par les
+				<lb/>
+				blogues);
+				<lb/>
+			</item>
+			
+			<item>une concentration et une financiarisation des entreprises médiatiques qui se
+				<lb/>
+				concrétisent par la formation d&apos;entreprises de grande taille et avec l&apos;arrivée
+				<lb/>
+				d&apos;autres entreprises issues de l&apos;industrie des communications (informatique et
+				<lb/>
+				télécommunications);
+				<lb/>
+			</item>
+			
+			<item>une convergence à la fois d&apos;ordre technologique, économique, politique, social
+				<lb/>
+				et organisationnel.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Il serait donc intéressant de valider si la tendance décrite dans les écrits
+			<lb/>
+			scientifiques est vécue dans l&apos;espace médiatique québécois. C&apos;est avec cette intention
+			<lb/>
+			que s&apos;est amorcée notre démarche, l&apos;objectif principal de la recherche étant de
+			<lb/>
+			mesurer et de qualifier l&apos;importance des relations publiques dans les informations
+			<lb/>
+			journalistiques. La confirmation d&apos;une très grande présence d&apos;éléments de relations
+			<lb/>
+			publiques au sein des informations journalistiques renforcerait notre intuition selon
+			<lb/>
+			laquelle l&apos;espace public québécois est lui aussi soumis aux contingences exposées par
+			<lb/>
+			les écrits scientifiques. Cette confirmation stimulerait notre intérêt à investiguer plus
+			<lb/>
+			en profondeur la dynamique installée entre les deux groupes de professionnels
+			<lb/>
+			impliqués dans la création de contenus. Nous estimons que les liens qui unissent les
+			<lb/>
+			relationnistes et les journalistes ont nécessairement évolué en réaction aux nombreux
+			<lb/>
+			changements qu&apos;a subis leur environnement de travail.
+			<lb/>
+		</p>
+		
+		<p>En résumé, notre recherche visait à illustrer la convergence relations publiques-<lb/>journalisme en
+			quantifiant la présence des relations publiques dans le journalisme par
+			<lb/>
+			une analyse quantitative et qualitative d&apos;un corpus de nouvelles. Nous avons formulé
+			<lb/>
+			une question générale : « Dans quelle mesure les informations journalistiques
+			<lb/>
+			québécoises sont-elles influencées par les efforts de relations publiques? », suivie de
+			<lb/>
+			questions spécifiques et d&apos;hypothèses :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Q 1 : Dans quelle proportion les informations journalistiques sont-elles
+				<lb/>
+				porteuses d&apos;éléments de relations publiques?
+				<lb/>
+			</item>
+			
+			<item>Q 2 : Quelles formes prennent les éléments de relations publiques dans les
+				<lb/>
+				informations journalistiques?
+				<lb/>
+			</item>
+			
+			<item>H 1 : La majorité des informations journalistiques comporteront des éléments
+				<lb/>
+				de relations publiques.
+				<lb/>
+			</item>
+		
+			<item>H 2 : Toutes les stratégies de relations publiques peuvent, au final, viser les
+				<lb/>
+				médias, que ce soit directement ou indirectement. En conséquence, il n&apos;y a pas
+				<lb/>
+				de limite aux formes d&apos;éléments de relations publiques inclus dans les
+				<lb/>
+				informations journalistiques.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Voici donc les prémisses de notre projet de recherche. Comme énoncé dans
+			<lb/>
+			l&apos;introduction, la démarche s&apos;inscrit au départ dans une démarche
+			<lb/>
+			hypothéticodéductive classique.
+			<lb/>
+		</p>
+		
+		<head>4. Méthodologie initiale
+			<lb/>
+		</head>
+		
+		<head>
+			4.1 Design général de la recherche
+			<lb/>
+		</head>
+		
+		<p>Nous présentons ici le premier volet de la recherche amorcé sous une approche
+			<lb/>
+			hypothéticodéductive. Le projet adopte au départ un design de recherche reposant sur
+			<lb/>
+			une analyse de contenu documentaire (<ref type="biblio">Bardin, 2007</ref>). Sélectionnant des informations
+			<lb/>
+			journalistiques, nous désirons les étudier pour y repérer des traces d&apos;éléments de
+			<lb/>
+			relations publiques. Ces dernières démontreraient l&apos;importance des relations
+			<lb/>
+			publiques dans les informations journalistiques. Ayant recueilli ces items
+			<lb/>
+			d&apos;informations, nous les catégoriserons pour esquisser un portrait des traces que
+			<lb/>
+			laissent les activités de relations publiques dans les contenus journalistiques. Cette
+			<lb/>
+			démarche d&apos;abord qualitative permettait ensuite de quantifier les récurrences des
+			<lb/>
+			items dans chaque catégorie. Cette analyse de contenu et les résultats devraient nous
+			<lb/>
+			fournir les informations nécessaires pour répondre aux questions spécifiques.
+			<lb/>
+		</p>
+		
+		<head>4.2 Terrain, échantillonnage et corpus
+			<lb/>
+		</head>
+		
+		<p>Les ressources financières et humaines ainsi que le temps alloué à cette recherche
+			<lb/>
+			étant limités, il nous est impossible d&apos;analyser l&apos;ensemble des contenus médiatiques
+			<lb/>
+			de l&apos;espace public québécois. Nous déterminons un terrain de recherche précis, soit,
+			<lb/>
+			les quotidiens. Conscients des biais possibles qu&apos;entraîne cette sélection 4 , il nous faut
+			<lb/>
+			tout de même trancher pour cette première étape de la recherche. Notre choix est
+			<lb/>
+			justifié par le fait que les quotidiens offrent des contenus fixes, stables durant
+			<lb/>
+			24 heures. Ils sont plus faciles à analyser que les pages Web, dont les contenus sont
+			<lb/>
+			fluides et changent au fur et à mesure que la nouvelle évolue (<ref type="biblio">Deuze, 2008</ref>).
+			<lb/>
+		</p>
+		
+		<p>Dans le même esprit, nous décidons d&apos;analyser le plus gros titre en « une »,
+			<lb/>
+			plutôt que de nous concentrer sur un réseau d&apos;informateurs beat (i.e. domaine
+			<lb/>
+			spécialisé de couverture, par exemple : culture, sport, politique, santé, éducation, etc.)
+			<lb/>
+			en particulier. Le choix de la nouvelle ayant le plus gros titre en « une » s&apos;explique
+			<lb/>
+			par le fait que le travail journalistique présenté en « une » est celui où s&apos;exprime le
+			<lb/>
+			pouvoir décisionnel des équipes de salles de rédaction : qu&apos;est-ce qui est le plus
+			<lb/>
+			important, le plus significatif pour l&apos;intérêt public, qu&apos;est-ce qui met le plus en valeur
+			<lb/>
+			la salle de rédaction? Qu&apos;est-ce qui fait le plus vendre? Leur réponse se retrouve en
+			<lb/>
+			« une » (<ref type="biblio">Karlsson, 2010</ref>).
+			<lb/>
+		</p>
+		
+		<p>L&apos;échantillonnage s&apos;effectue parmi trois quotidiens francophones montréalais
+			<lb/>
+			(<ref type="biblio">La Presse, le Journal de Montréal, Le Devoir)</ref>. Cet échantillon peut sembler
+			<lb/>
+			restrictif 5 . Or, il permet de comparer les articles couvrant l&apos;actualité d&apos;une même
+			<lb/>
+			communauté, tout en s&apos;intéressant à des médias aux profils différents, tant sur le plan
+			<lb/>
+			de l&apos;actionnariat que du public cible. Le corpus est constitué des articles les plus
+			<lb/>
+			importants paraissant en « une » entre le 4 février et le 8 mars 2013. La collecte de
+			<lb/>
+			données se déroule sur le Web, en s&apos;assurant qu&apos;il s&apos;agit bien de la « une » de la
+			<lb/>
+			version imprimée. Au total, 75 « unes » sont analysées.
+			<lb/>
+		</p>
+		
+		<head>4.3 Outils de recherche et analyse
+			<lb/>
+		</head>
+		
+		<p>Comme l&apos;ont fait plusieurs autres équipes de recherche ayant mené des projets
+			<lb/>
+			similaires (<ref type="biblio">Lewis et al., 2008; Pew Research Center, 2010; Sissons, 2012</ref>), nous
+			<lb/>
+			procédons à un codage manuel de chacun des articles. L&apos;originalité de notre
+			<lb/>
+			démarche réside dans la création d&apos;une liste de catégories d&apos;éléments de relations
+			<lb/>
+			publiques (voir le <ref type="table">Tableau 1</ref>). Ces catégories sont inspirées des écrits les plus cités et
+			<lb/>
+			les plus récents sur les pratiques de relations publiques (
+			<ref type="biblio">Boulay, 2012; Grunig,
+				<lb/>
+				Grunig, &amp; Dozier, 2002; Kugler, 2010
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 1
+			<lb/>
+			Catégories d&apos;éléments de relations publiques
+			<lb/>
+			Extrait d&apos;un communiqué
+			<lb/>
+			de presse
+			<lb/>
+			Citation d&apos;un porte-<lb/>parole
+			<lb/>
+			Astroturfing (i.e. une
+			<lb/>
+			stratégie de
+			<lb/>
+			communication dont la
+			<lb/>
+			source est occultée et qui
+			<lb/>
+			prétend, à tort, être
+			<lb/>
+			d&apos;origine citoyenne.)
+			<lb/>
+			Référence à une
+			<lb/>
+			conférence de presse
+			<lb/>
+			Entrevue « exclusive »
+			<lb/>
+			Pseudo-événement
+			<lb/>
+			Message construit
+			<lb/>
+			Matériel de relations
+			<lb/>
+			publiques : site Web;
+			<lb/>
+			rapport annuel
+			<lb/>
+			Réseaux sociaux
+			<lb/>
+		</figure>
+		
+		<p>Deux étudiants au doctorat sont responsables de la grille de codage. Ils surlignent les
+			<lb/>
+			éléments de l&apos;article qui viennent explicitement des relations publiques. Ils classent
+			<lb/>
+			ensuite les items selon les catégories. En cas de doute, ils discutent de leur codage
+			<lb/>
+			avec les autres membres de l&apos;équipe. Or, au fil de l&apos;analyse, l&apos;équipe constate que la
+			<lb/>
+			lecture des articles n&apos;offre pas assez d&apos;information pour que le codage soit solide. Par
+			<lb/>
+			exemple, pendant La semaine de la mode (<ref type="biblio">février 2013</ref>), un article porte sur
+			<lb/>
+			l&apos;industrie de la mode et cite un designer. Le designer livre ses observations à titre
+			<lb/>
+			d&apos;expert (qui ne serait donc pas un relationniste). Or, il est aussi porte-parole de la
+			<lb/>
+			semaine de la mode : faut-il coder sa présence dans l&apos;article comme un élément de
+			<lb/>
+			relations publiques (« citation d&apos;un porte-parole »)? Ou encore : le directeur d&apos;une
+			<lb/>
+			association de garderies donne des entrevues individuelles à des journalistes, mais il
+			<lb/>
+			répète le même message tout le temps, avec les mêmes mots, pour influencer la
+			<lb/>
+			décision de la ministre à propos des subventions à venir. Faut-il le classer dans la
+			<lb/>
+			catégorie « discours construit »?
+			<lb/>
+		</p>
+		
+		<head>5. L&apos;ajout d&apos;une méthode de collecte de données ad hoc
+			<lb/>
+		</head>
+		
+		<p>À plusieurs occasions, les codeurs ont des doutes quant à leur compréhension de la
+			<lb/>
+			teneur des informations à coder. L&apos;équipe décide de vérifier, auprès des journalistes
+			<lb/>
+			signant les articles, sa compréhension de l&apos;information et le codage qu&apos;elle effectue.
+			<lb/>
+			À titre de test, quatre appels sont effectués la journée même de la parution de l&apos;article
+			<lb/>
+			en cause. Cela assure aux chercheurs que toutes les démarches liées à l&apos;article sont
+			<lb/>
+			fraîches à la mémoire du journaliste. Trois questions sont posées :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>« Comment s&apos;est fait le choix du sujet? » (Initiative du journaliste, d&apos;une
+				<lb/>
+				source? Cette source est-elle un relationniste?)
+				<lb/>
+			</item>
+			
+			<item>« Pouvez-vous m&apos;indiquer la source de cette information / citation / donnée?
+				<lb/>
+				S&apos;agit-il de relations publiques? » Par cette question, le chercheur tente de
+				<lb/>
+				valider son interprétation de l&apos;information, s&apos;il doute d&apos;une « probable »
+				<lb/>
+				présence de relations publiques dans certaines portions de l&apos;article.
+				<lb/>
+			</item>
+			
+			<item>« Avez-vous d&apos;autres remarques liées à la présence des relations publiques dans
+				<lb/>
+				les nouvelles? »
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Ces discussions permettent de raffiner le codage effectué et de confirmer
+			<lb/>
+			plusieurs des intuitions des codeurs, qui sont habitués avec les contenus médiatiques,
+			<lb/>
+			avec les pratiques journalistiques et avec la réalité des relationnistes. En effet, à
+			<lb/>
+			plusieurs occasions, ils pressentent que certaines informations provenaient des
+			<lb/>
+			relations publiques, sans toutefois que ce soit identifié comme tel. Ces appels
+			<lb/>
+			indiquent aussi à l&apos;équipe que ces discussions sont essentielles. Faut-il
+			<lb/>
+			systématiquement communiquer avec les journalistes signant les articles codés?
+			<lb/>
+			L&apos;équipe répond à l&apos;unanimité : oui. Toute recherche future devrait donc prévoir des
+			<lb/>
+			entretiens courts permettant de solidifier le codage 6 . Déjà ici, l&apos;équipe reconnaît la
+			<lb/>
+			richesse et la valeur des entretiens courts pour la compréhension du terrain et de la
+			<lb/>
+			problématique. Avec le recul que nous avons au moment d&apos;écrire ces lignes, nous
+			<lb/>
+			estimons qu&apos;il s&apos;agit là du point de rupture, c&apos;est-à-dire le premier pas vers une
+			<lb/>
+			transformation de la démarche épistémologique et méthodologique de l&apos;équipe.
+			<lb/>
+		</p>
+		
+		<head>6. Résultats et interprétation
+			<lb/>
+		</head>
+		
+		<p>L&apos;équipe a procédé aux analyses qualitatives et quantitatives des données recueillies.
+			<lb/>
+			Nous en présentons ici les résultats principaux et partageons quelques-unes de nos
+			<lb/>
+			interprétations en regard des questions et hypothèses énoncées précédemment.
+			<lb/>
+		</p>
+		
+		<head>6.1 Retour sur la première question de recherche
+			<lb/>
+		</head>
+		
+		<p>Dans quelle proportion les informations journalistiques sont-elles porteuses
+			<lb/>
+			d&apos;éléments de relations publiques?
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 2
+			<lb/>
+			Portrait de la présence d&apos;éléments de relations publiques
+			<lb/>
+			dans les informations journalistiques
+			<lb/>
+			Quotidiens
+			<lb/>
+			La Presse Le Devoir
+			<lb/>
+			Le Journal
+			<lb/>
+			de
+			<lb/>
+			Montréal
+			<lb/>
+			Total
+			<lb/>
+			Nombre de « unes » analysées
+			<lb/>
+			25
+			<lb/>
+			25
+			<lb/>
+			25
+			<lb/>
+			75
+			<lb/>
+			% de « unes » contenant des
+			<lb/>
+			éléments de relations
+			<lb/>
+			publiques
+			<lb/>
+			28 %
+			<lb/>
+			56 %
+			<lb/>
+			32 %
+			<lb/>
+			38,6 %
+			<lb/>
+			Nombre moyen d&apos;éléments
+			<lb/>
+			par « une » (contenant au
+			<lb/>
+			moins un élément)
+			<lb/>
+			2
+			<lb/>
+			1,5
+			<lb/>
+			1,12
+			<lb/>
+			1,5
+			<lb/>
+		</figure>
+		
+		<p>Nous constatons que les « unes » de la publication Le Devoir présentent plus
+			<lb/>
+			souvent des éléments provenant des relations publiques. Cela suscite des questions :
+			<lb/>
+			Est-ce parce que Le Devoir utilise plus de matériel venant des relations publiques?
+			<lb/>
+			Est-ce parce que Le Devoir identifie les éléments venant des relations publiques de
+			<lb/>
+			façon plus systématique? Est-ce parce que les autres quotidiens utilisent plus de
+			<lb/>
+			sources anonymes et qu&apos;il devient alors impossible de savoir si ces sources sont
+			<lb/>
+			issues des relations publiques? Est-ce que les articles des autres quotidiens citent
+			<lb/>
+			moins de sources? L&apos;équipe n&apos;a pas de réponse à ces questions puisqu&apos;elles
+			<lb/>
+			requerraient une autre recherche. Or, celles-ci montrent les limites de l&apos;analyse de
+			<lb/>
+			contenu dans ce cas particulier.
+			<lb/>
+		</p>
+		
+		<p>L&apos;hypothèse présumait que la majorité des informations journalistiques
+			<lb/>
+			contiendrait des éléments de relations publiques. Cette estimation se basait sur la
+			<lb/>
+			recension des écrits. En effet, des auteurs mentionnent que plus de 50 % (<ref type="biblio">Lewis et al.,
+			<lb/>
+				2008</ref>) et même jusqu&apos;à 70 % des contenus médiatiques (Pew Research Center, 2010)
+			<lb/>
+			sont issus d&apos;une initiative de relations publiques. Or, nos résultats ne semblent pas
+			<lb/>
+			corroborer ces conclusions. Est-ce en raison de tactiques d&apos;analyse ou
+			<lb/>
+			d&apos;échantillonnages différents? Pour notre part, nous analysons strictement le produit
+			<lb/>
+			journalistique final. Plusieurs autres recherches amorcent leur démarche par l&apos;étude
+			<lb/>
+			des stratégies des relationnistes, pour ensuite les discerner dans les médias. Cela
+			<lb/>
+			pourrait expliquer, en partie, la différence entre nos résultats respectifs.
+			<lb/>
+		</p>
+		
+		<head>6.2 Retour sur la deuxième question de recherche
+			<lb/>
+		</head>
+		
+		<p>Quelles formes prennent les éléments de relations publiques dans les informations
+			<lb/>
+			journalistiques?
+			<lb/>
+		</p>
+		
+		<p>Le <ref type="table">Tableau 3</ref> montre les éléments venant des relations publiques que nous estimons
+			<lb/>
+			comme étant les plus faciles à repérer : message construit, entrevue exclusive, citation
+			<lb/>
+			d&apos;un porte-parole, référence à une conférence de presse et utilisation d&apos;extraits de
+			<lb/>
+			communiqués de presse. En effet, ces éléments sont souvent présentés comme tels par
+			<lb/>
+			les journalistes. De plus, les stratégies de relations avec les médias peuvent être
+			<lb/>
+			inventives, mais la plupart d&apos;entre elles restent assez proches des modèles
+			<lb/>
+			traditionnels que sont l&apos;envoi de communiqués, la tenue de conférences de presse et
+			<lb/>
+			le partage privilégié d&apos;information (<ref type="biblio">Motulsky &amp; Vézina, 2008</ref>).
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 3
+			<lb/>
+			Récurrence et répartition des types d&apos;éléments par publication
+			<lb/>
+			Type d&apos;éléments
+			<lb/>
+			La Presse Le Devoir
+			<lb/>
+			Le Journal
+			<lb/>
+			de Montréal
+			<lb/>
+			Total
+			<lb/>
+			Extraits d&apos;un communiqué de presse
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			3
+			<lb/>
+			Citation d&apos;un porte-parole
+			<lb/>
+			5
+			<lb/>
+			8
+			<lb/>
+			4
+			<lb/>
+			17
+			<lb/>
+			Référence à une conférence de presse
+			<lb/>
+			2
+			<lb/>
+			6
+			<lb/>
+			2
+			<lb/>
+			10
+			<lb/>
+			Astroturfing
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			Pseudo-événement
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			Entrevue « exclusive »
+			<lb/>
+			2
+			<lb/>
+			0
+			<lb/>
+			1
+			<lb/>
+			3
+			<lb/>
+			Matériel de relations publiques :
+			<lb/>
+			site Web; rapport annuel
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			Réseaux sociaux
+			<lb/>
+			0
+			<lb/>
+			0
+			<lb/>
+			1
+			<lb/>
+			1
+			<lb/>
+			Message construit
+			<lb/>
+			4
+			<lb/>
+			6
+			<lb/>
+			1
+			<lb/>
+			11
+			<lb/>
+			Total
+			<lb/>
+			14
+			<lb/>
+			21
+			<lb/>
+			10
+			<lb/>
+			45
+			<lb/>
+		</figure>
+		
+		<p>Ces stratégies sont orchestrées de manière à répondre aux contingences des
+			<lb/>
+			médias tout en offrant une latitude aux relationnistes. Leur impact et leur efficacité
+			<lb/>
+			sont non seulement démontrées, mais théorisées par les concepts de mise à l&apos;agenda
+			<lb/>
+			(<ref type="biblio">Bregman, 1989; Dearing &amp; Rogers, 1996</ref>) et de construction de l&apos;agenda
+			médiatique
+			<lb/>
+			(<ref type="biblio">Curtin, 1999</ref>). De plus, les communiqués et les conférences de presse rythment les
+			<lb/>
+			couvertures des salles de presse qui cherchent à « rendre l&apos;inattendu routinier »
+			<lb/>
+			(<ref type="biblio">Tuchman, 1972, p. 660</ref>).
+			<lb/>
+		</p>
+		
+		<p>Tous les éléments identifiés dans les articles s&apos;arriment à une des catégories
+			<lb/>
+			proposées par la grille. Cela pourrait signifier que les catégories de codage sont
+			<lb/>
+			justes, objectives, mutuellement exclusives et pertinentes (<ref type="biblio">Grawitz, 2001</ref>). Or, les
+			<lb/>
+			résultats du <ref type="table">Tableau 3</ref> indiquent que nous n&apos;avons pas trouvé des traces de toutes nos
+			<lb/>
+			catégories. Aucun astroturfing ni pseudo-événement ne sont répertoriés : est-ce parce
+			<lb/>
+			qu&apos;il n&apos;y en avait pas durant la période analysée ou est-ce parce qu&apos;ils sont difficiles à
+			<lb/>
+			débusquer? Enfin, aucun matériel venant de sites Web, de fiches techniques ou de
+			<lb/>
+			rapports annuels n&apos;est détecté, ce qui est improbable. Se pourrait-il que les
+			<lb/>
+			journalistes n&apos;identifient pas toujours les sources de leurs chiffres, données et autres
+			<lb/>
+			informations? Ou considèrent-ils qu&apos;il s&apos;agit du fruit de leurs recherches et non pas du
+			<lb/>
+			matériel de relationnistes? Ces questions restent encore une fois sans réponse. Ainsi,
+			<lb/>
+			l&apos;exercice d&apos;analyse de contenu et son codage fournissent des informations d&apos;une
+			<lb/>
+			certaine valeur, mais ces informations ne nous permettent pas de répondre
+			<lb/>
+			entièrement à nos questions de recherche.
+			<lb/>
+		</p>
+		
+		<head>7. Limites et constats relativement à la démarche hypothéticodéductive amorcée
+			<lb/>
+		</head>
+		
+		<p>Les premier et deuxième volets de la recherche fournissent plusieurs données, mais
+			<lb/>
+			ils suscitent surtout des interrogations : l&apos;analyse de contenu ne peut révéler la totalité
+			<lb/>
+			des influences des relations publiques puisque plusieurs d&apos;entre elles se font en amont
+			<lb/>
+			de la rédaction d&apos;un article (mise à l&apos;agenda). Par ailleurs, l&apos;analyse de contenu a
+			<lb/>
+			posteriori ne permet pas, non plus, d&apos;appréhender la totalité des influences des
+			<lb/>
+			relations publiques, ce que les entretiens courts ont permis de faire. Pour évaluer la
+			<lb/>
+			présence réelle d&apos;éléments de relations publiques dans un article, il faudrait adopter
+			<lb/>
+			une approche ethnographique et examiner le processus de création d&apos;un article dans
+			<lb/>
+			son contexte. Ces limites de l&apos;analyse de contenu surprennent l&apos;équipe qui accordait
+			<lb/>
+			une grande valeur à cette méthode puisqu&apos;elle avait été adoptée par plusieurs autres
+			<lb/>
+			équipes étudiant des problématiques similaires.
+			<lb/>
+		</p>
+		
+		<p>Les débats et discussions de l&apos;équipe mènent à trois constats. D&apos;abord, tel que
+			<lb/>
+			l&apos;analyse des données l&apos;a démontré, la méthodologie n&apos;est pas adaptée aux questions
+			<lb/>
+			de recherche, puisqu&apos;elle ne permet d&apos;obtenir que des réponses partielles. Ensuite, il
+			<lb/>
+			semble que le design général de la recherche ne soit pas en adéquation avec la
+			<lb/>
+			problématique que nous désirons examiner. La prémisse de notre recherche est que le
+			<lb/>
+			travail multiplateforme imposé par les transformations des industries médiatiques
+			<lb/>
+			ainsi que l&apos;augmentation des relations publiques pourraient mettre en danger
+			<lb/>
+			l&apos;exercice de la profession journalistique et, par conséquent, la qualité de
+			<lb/>
+			l&apos;information disponible dans l&apos;espace public. Or, nous estimons maintenant que
+			<lb/>
+			l&apos;analyse de la présence de relations publiques dans les nouvelles -tant sur le plan de
+			<lb/>
+			leur importance que sur le plan de leur nature -est un exercice limité qui ne permet
+			<lb/>
+			pas de démontrer notre hypothèse. Deux réflexions ont émergé au sein de l&apos;équipe :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Le fait qu&apos;il y ait des éléments de relations publiques dans un article ne peut pas
+				<lb/>
+				être révélateur de la qualité ou de la valeur informative d&apos;un article. Par
+				<lb/>
+				exemple, un article en « une » faisant état d&apos;une situation d&apos;intérêt public
+				<lb/>
+				méconnue, étant le fruit d&apos;un travail journalistique d&apos;enquête et contenant une
+				<lb/>
+				citation d&apos;un relationniste, peut-il être équitablement comparé à un autre article
+				<lb/>
+				relativement peu d&apos;intérêt public mais ne contenant aucune présence de
+				<lb/>
+				relations publiques?
+				<lb/>
+			</item>
+			
+			<item>Le fait qu&apos;il y ait des éléments visibles de relations publiques dans un article ne
+				<lb/>
+				peut pas non plus être révélateur de l&apos;importance de l&apos;influence des relations
+				<lb/>
+				publiques dans l&apos;information journalistique. Un journaliste peut inclure la
+				<lb/>
+				réaction d&apos;un relationniste dans un article simplement par souci d&apos;équité et
+				<lb/>
+				d&apos;équilibre. Il peut aussi faire appel à un relationniste pour obtenir des
+				<lb/>
+				informations factuelles (date, nom ou titres précis); comme un journaliste peut
+				<lb/>
+				aussi taire la présence de matériel venant des relations publiques.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Le troisième constat découlant de cette partie de la recherche est le fait que,
+			<lb/>
+			somme toute, la problématisation ne correspond pas réellement à nos
+			<lb/>
+			questionnements sur le sujet. L&apos;équipe reconnaît s&apos;être laissé influencer par la
+			<lb/>
+			recension des écrits. En effet, de nombreuses recherches hypothéticodéductives
+			<lb/>
+			démontrent la présence et l&apos;influence des relations publiques dans les contenus
+			<lb/>
+			médiatiques. Les chercheurs en ont déduit que cela devenait nécessairement un
+			<lb/>
+			problème pour les journalistes et un danger pour la qualité de l&apos;information. C&apos;est là
+			<lb/>
+			où le bât blesse. La deuxième partie de cette logique n&apos;a pas été validée, mais elle est
+			<lb/>
+			strictement tenue pour acquise. Notre recherche repose sur les mêmes présomptions,
+			<lb/>
+			mais les données et leur analyse nous indiquent que cette corrélation de cause à effet
+			<lb/>
+			ne peut être assumée aussi simplement. Plus encore, l&apos;ensemble de nos constats nous
+			<lb/>
+			amène à nous interroger sur la pertinence des choix méthodologiques des autres
+			<lb/>
+			équipes en lien avec la problématique de l&apos;influence des relations publiques sur
+			<lb/>
+			l&apos;information journalistique. Nous estimons qu&apos;une telle recherche ne peut se baser
+			<lb/>
+			strictement sur de l&apos;analyse de contenu, mais doit aussi investiguer les relations de
+			<lb/>
+			travail établies et s&apos;adresser directement aux acteurs impliqués.
+			<lb/>
+		</p>
+		
+		<p>Ces trois constats principaux résultent de moult discussions, de remises en
+			<lb/>
+			question et de l&apos;ouverture d&apos;esprit de l&apos;équipe par rapport à sa propre démarche.
+			<lb/>
+			Aujourd&apos;hui, nous constatons que l&apos;esprit critique et la capacité à se remettre en
+			<lb/>
+			question sont des valeurs fondamentales des approches inductives.
+			<lb/>
+		</p>
+		
+		<head>8. Réorientation de la recherche dans une perspective inductive
+			<lb/>
+		</head>
+		
+		<p>Outre une réflexion sur l&apos;adéquation entre le sujet, sa problématisation et la
+			<lb/>
+			méthodologie pertinente, l&apos;équipe a posé un regard sur sa position épistémologique.
+			<lb/>
+			Reconnaissant la forte influence des données sur l&apos;orientation de la recherche et le fait
+			<lb/>
+			que les changements amenés à la planification initiale rendent obsolète une démarche
+			<lb/>
+			strictement hypothéticodéductive, l&apos;équipe sent le besoin d&apos;ouvrir ses horizons.
+			<lb/>
+		</p>
+		
+		<p>Aucun des membres n&apos;étant familiarisé avec les approches inductives, nous
+			<lb/>
+			entamons des lectures pour remédier à cette situation. Nous découvrons, entre autres,
+			<lb/>
+			que l&apos;épistémologie inductive a été adoptée par Aristote et qu&apos;elle reste présente dans
+			<lb/>
+			la littérature depuis (<ref type="biblio">Grawitz, 2001; Holland, 1986</ref>). C&apos;est toutefois au
+			tournant du
+			<lb/>
+			20 e siècle que les philosophes de la science s&apos;emparent du sujet (
+			<ref type="biblio">Broustau &amp; Le Cam,
+				<lb/>
+				2006
+			</ref>
+			). Il en émerge plusieurs conceptions et opinions à propos de l&apos;induction (
+			<ref type="biblio">Peirce,
+				<lb/>
+				1878; Popper, 1968
+			</ref>
+			), mais la majorité concède qu&apos;elle réfère à un processus
+			<lb/>
+			scientifique développé principalement autour du terrain et des données, guidé par ces
+			<lb/>
+			derniers, et ce, jusqu&apos;à l&apos;interprétation (<ref type="biblio">Corbin &amp; Strauss, 2008</ref>). L&apos;induction,
+			lorsque
+			<lb/>
+			déployée avec rigueur, peut mener à la théorisation. L&apos;induction représente aussi une
+			<lb/>
+			constituante importante du paradigme scientifique, puisqu&apos;elle permet d&apos;explorer des
+			<lb/>
+			terrains et des objets de recherche et de peaufiner les problématisations pour amorcer
+			<lb/>
+			un processus de concaténation. La concaténation est le fait de cumuler l&apos;expérience et
+			<lb/>
+			les résultats de nombreuses recherches identiques ou très similaires. Les données et
+			<lb/>
+			constats qui en découlent détiennent alors une valeur scientifique augmentée. Quivy
+			<lb/>
+			et <ref type="biblio">van Campenhoudt (1988)</ref> considèrent en effet que l&apos;induction offre la possibilité de
+			<lb/>
+			créer des définitions opérationnelles sur lesquelles on peut faire reposer des projets
+			<lb/>
+			orchestrés dans un paradigme hypothéticodéductif.
+			<lb/>
+		</p>
+		
+		<p>Ce premier contact avec les approches inductives intéresse l&apos;équipe qui y voit
+			<lb/>
+			légitimées plusieurs de ses intuitions méthodologiques. L&apos;impasse ressentie par
+			<lb/>
+			rapport aux constats découlant des deux premiers volets se dissipe alors et l&apos;équipe
+			<lb/>
+			décide de relever le nouveau défi méthodologique. L&apos;approche inductive et ses
+			<lb/>
+			corolaires (l&apos;écoute du terrain, les méthodes de collectes de données ouvertes, etc.)
+			<lb/>
+			guident donc la suite du déploiement de la recherche.
+			<lb/>
+		</p>
+		
+		<head>8.1 Une problématique précisée par les acquis de la première phase
+			<lb/>
+		</head>
+		
+		<p>L&apos;équipe revisite son approche et reprécise la problématique tout en restant fidèle à
+			<lb/>
+			son intuition de départ, à l&apos;effet que les dynamiques de travail entre les journalistes et
+			<lb/>
+			les relationnistes ont changé au cours des dernières années. Revenant aux écrits
+			<lb/>
+			scientifiques et aux changements importants qu&apos;elle décrit, l&apos;équipe oriente la
+			<lb/>
+			recherche directement auprès des acteurs, plutôt que de tenter de trouver des traces de
+			<lb/>
+			ces changements dans les contenus médiatiques produits. Nous estimons qu&apos;en
+			<lb/>
+			discutant avec les journalistes, nous pourrons en savoir plus sur les méthodes de
+			<lb/>
+			travail actuelles, sur la nature des échanges avec les relationnistes et, plus
+			<lb/>
+			généralement, sur la relation de travail entre ces deux groupes de professionnels.
+			<lb/>
+			Cette nouvelle orientation offre l&apos;occasion de percevoir, dans les discours de chacun,
+			<lb/>
+			comment se vivent réellement ces changements. Peut-être que les données statistiques
+			<lb/>
+			(nombre de journalistes vs nombre de relationnistes) et la lourde présence d&apos;éléments
+			<lb/>
+			de relations publiques nous mènent sur de fausses pistes? La forte présence des
+			<lb/>
+			relationnistes n&apos;implique pas nécessairement que le professionnel de l&apos;information ait
+			<lb/>
+			renoncé à exercer son jugement journalistique ou à développer son propre reportage.
+			<lb/>
+			Elle pourrait toutefois indiquer que le journaliste manque de marge de manoeuvre
+			<lb/>
+			(manque de temps, manque de ressources) pour éviter ou contourner les
+			<lb/>
+			relationnistes. Or, sans discussion avec les journalistes, ces intuitions ne restent que
+			<lb/>
+			présomptions.
+			<lb/>
+		</p>
+		
+		<p>Recadrant la recherche autour de la dynamique de travail entre les journalistes
+			<lb/>
+			et les relationnistes, nous rédigeons de nouvelles questions de recherche. Celles-ci
+			<lb/>
+			sont plus nombreuses et plus ouvertes. Leur grand nombre permet d&apos;explorer un
+			<lb/>
+			maximum de thèmes autour de la problématique et leur ouverture limite l&apos;orientation
+			<lb/>
+			que les questions pourraient imposer aux répondants. Ces choix s&apos;inscrivent dans la
+			<lb/>
+			perspective inductive que nous avons adoptée.
+			<lb/>
+		</p>
+		
+		
+		<figure type="box">Question générale
+			<lb/>
+			Quelle est la marge de manoeuvre des journalistes face aux relationnistes?
+			<lb/>
+			Questions spécifiques
+			<lb/>
+			Q. 1 Quelle proportion de l&apos;influence des relations publiques est visible
+			<lb/>
+			dans les informations journalistiques?
+			<lb/>
+			Q.2 Qu&apos;est-ce que les journalistes considèrent comme étant des relations
+			<lb/>
+			publiques?
+			<lb/>
+			Q. 3 Comment se vivent les échanges avec les relationnistes au quotidien?
+			<lb/>
+			Q.4 Quel est, selon les journalistes, le rôle des relations publiques dans
+			<lb/>
+			l&apos;espace public et quelle en est leur perception?
+			<lb/>
+			Q. 5 Comment les journalistes réussissent-ils à respecter leurs obligations
+			<lb/>
+			déontologiques tout en travaillant avec les relationnistes?
+			<lb/>
+			Q.6 Quels sont les facteurs influençant la fréquence et/ou la nature des
+			<lb/>
+			échanges entre relationnistes et journalistes?
+			<lb/>
+			Q.7 Les journalistes considèrent-ils qu&apos;ils ont suffisamment de marge de
+			<lb/>
+			manoeuvre face aux relationnistes (contrôle de l&apos;information, accès,
+			<lb/>
+			disponibilité...)?
+			<lb/>
+			Encadré 1. Listes de questions du troisième volet de la recherche.
+			<lb/>
+		</figure>
+		
+		<p>Nous ne formulons pas d&apos;hypothèses pour ces questions. Nous avons des
+			<lb/>
+			intuitions quant aux réponses que nous obtiendrons, mais nous préférons analyser les
+			<lb/>
+			résultats de la collecte de données et laisser le terrain parler, plutôt que de les
+			<lb/>
+			énoncer. Nous désirons respecter le caractère inductif de la démarche 7 , d&apos;autant plus
+			<lb/>
+			que notre expérience des entretiens courts nous indique que les répondants se
+			<lb/>
+			montrent généreux lors d&apos;entretiens.
+			<lb/>
+		</p>
+		
+		<head>8.2 Méthodologie de la deuxième phase
+			<lb/>
+		</head>
+		
+		<p>La majorité de nos questions trouveront des réponses à travers des entretiens
+			<lb/>
+			individuels où les journalistes pourront nous exprimer et nous expliquer leur point de
+			<lb/>
+			vue relativement à la marge de manoeuvre qu&apos;ils estiment avoir face aux
+			<lb/>
+			relationnistes. Toutefois, il faut rejoindre ces journalistes. La première phase de la
+			<lb/>
+			recherche nous a démontré que les journalistes sont ouverts à discuter de leurs articles
+			<lb/>
+			et de leurs méthodes de travail. Nous développons un design de recherche en trois
+			<lb/>
+			étapes :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>
+				1) Analyse de contenu des « unes », tel qu&apos;expérimentée dans la phase 1.
+				<lb/>
+			</item>
+			<item>
+				2) Entretien court (5 à 10 minutes) avec les journalistes.
+				<lb/>
+			</item>
+			<item>
+				3) Entretien long (40 à 60 minutes) avec les journalistes qui accepteront notre
+				<lb/>
+				invitation.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>La première partie de la démarche procure au chercheur du matériel brut pour
+			<lb/>
+			aborder le journaliste et lui poser des questions sur son travail. De plus, elle recueille
+			<lb/>
+			des données permettant de répondre à la question spécifique no 1. L&apos;analyse de
+			<lb/>
+			contenu des « unes » se déroule de la même façon que lors de la phase 1. Nous
+			<lb/>
+			conservons la même logique de terrain et d&apos;échantillonnage, ciblant ainsi les
+			<lb/>
+			journalistes qui oeuvrent aux actualités et dont les articles font la « une ». L&apos;analyse et
+			<lb/>
+			le codage sont effectués le jour même de la parution de l&apos;article, utilisant les mêmes
+			<lb/>
+			catégories. Même si la pertinence du codage a été mise en doute au tout début de la
+			<lb/>
+			recherche, nous considérons que cette étape est essentielle pour permettre une prise
+			<lb/>
+			de contact avec les répondants et pour tisser un lien entre le chercheur et le
+			<lb/>
+			participant.
+			<lb/>
+		</p>
+		
+		<p>Dans un deuxième temps, la réalisation systématique d&apos;un entretien court avec
+			<lb/>
+			le ou les journalistes ayant signé les articles analysés offre la possibilité de valider le
+			<lb/>
+			codage fait par le chercheur. Or, les réponses des journalistes seront considérées
+			<lb/>
+			comme des données analysables, ce qui n&apos;était pas le cas dans la première phase de la
+			<lb/>
+			recherche. En effet, le codage devient presque une excuse pour poser les nouvelles
+			<lb/>
+			questions rédigées. Celles-ci touchent l&apos;identité des sources et les démarches
+			<lb/>
+			entreprises pour les joindre, la proportion d&apos;information qui est inédite dans un article
+			<lb/>
+			et les ressources à la disposition du journaliste lors de la rédaction de l&apos;article. Ce
+			<lb/>
+			premier entretien court se termine avec une invitation à participer à un entretien long.
+			<lb/>
+		</p>
+		
+		<p>Les répondants volontaires peuvent ensuite participer à un entretien plus long.
+			<lb/>
+			Cette étape est en fait la plus importante pour la collecte de données puisqu&apos;elle sera
+			<lb/>
+			la plus féconde. Les entretiens, qu&apos;ils soient en personne ou par échanges de
+			<lb/>
+			courriels, sont monnaie courante dans les démarches inductives (<ref type="biblio">Ben Affana, 2012</ref>).
+			<lb/>
+			Nous avons divisé l&apos;entretien en deux blocs principaux, soit un qui porte sur les
+			<lb/>
+			relations publiques et un sur les pratiques journalistiques. Au sein du premier bloc,
+			<lb/>
+			nous organisons les questions autour de 3 thèmes : définitions des relations publiques,
+			<lb/>
+			relations de travail avec les relationnistes et, finalement, perceptions des métiers liés
+			<lb/>
+			aux relations publiques. Le bloc portant sur les pratiques journalistiques s&apos;intéresse
+			<lb/>
+			d&apos;abord aux valeurs et normes qui influent sur les décisions du journaliste, ainsi qu&apos;à
+			<lb/>
+			l&apos;impact des relations publiques sur l&apos;opérationnalisation de celles-ci. L&apos;entretien se
+			<lb/>
+			termine avec des questions sur les différents facteurs de contingences qui influencent
+			<lb/>
+			la pratique des journalistes : délais, ressources octroyées, production pour de
+			<lb/>
+			multiples plateformes, etc. La collecte de données, quant à elle, se termine après que
+			<lb/>
+			le participant ait rempli le questionnaire sociologique préparé par l&apos;équipe.
+			<lb/>
+		</p>
+		
+		<head>8.3 Analyse des données de la seconde phase
+			<lb/>
+		</head>
+		
+		<p>Les résultats de chacune des phases sont analysés individuellement, mais par le même
+			<lb/>
+			chercheur. La première phase est analysée de la même manière que lors du premier
+			<lb/>
+			volet de la démarche, qualitativement et quantitativement, puisqu&apos;il s&apos;agit d&apos;une
+			<lb/>
+			analyse de contenu documentaire classique (<ref type="biblio">Bardin, 2007; Grawitz; 2001)</ref>. En ce qui
+			<lb/>
+			a trait aux entretiens, les deux sont analysés selon les mêmes procédures. D&apos;abord, un
+			<lb/>
+			verbatim est produit pour chacun des entretiens. Des analyses lexicale et thématique
+			<lb/>
+			sont effectuées. L&apos;analyse est organisée autour de chacune des questions posées lors
+			<lb/>
+			de l&apos;entretien, puis autour des questions spécifiques de recherche. Par la suite, les
+			<lb/>
+			données des étapes 2 et 3 sont confrontées. En effet, l&apos;étape 2 réfère aux actions
+			<lb/>
+			posées sur le vif lors de la rédaction de l&apos;article et l&apos;étape 3 porte sur les idées, les
+			<lb/>
+			perceptions et les valeurs relativement à des pratiques idéales. Finalement, les
+			<lb/>
+			données du questionnaire sociologique offrent un portrait des répondants. En outre, si
+			<lb/>
+			le corpus est assez imposant, il sera intéressant d&apos;effectuer des analyses croisées entre
+			<lb/>
+			les réponses des questions ouvertes et les données du questionnaire sociologique.
+			<lb/>
+		</p>
+		
+		<head>9. Regard critique sur une démarche évolutive, voire hélicoïdale
+			<lb/>
+		</head>
+		
+		<p>Les lectures effectuées avant le redéploiement de la recherche, le recul que permet le
+			<lb/>
+			passage du temps et la réflexion sous-jacente à la rédaction de cet article nous
+			<lb/>
+			amènent à voir notre démarche sous un autre oeil. Notre processus n&apos;en fut pas un
+			<lb/>
+			d&apos;essais et d&apos;erreurs. Il a plutôt demandé une révision de notre approche
+			<lb/>
+			épistémologique pour tendre vers l&apos;induction. Nous retrouvons une certaine filiation
+			<lb/>
+			entre nos choix et la méthodologie de la théorisation enracinée (MTE) (<ref type="biblio">Luckerhoff &amp;<lb/>
+				Guillemette, 2012a</ref>). La MTE, dont les instigateurs furent Glaser et Strauss (1967),
+			<lb/>
+			est « un projet épistémologique visant à renverser l&apos;ordre traditionnel de la démarche
+			<lb/>
+			scientifique. Il s&apos;agit de donner priorité aux données, au terrain, pour ensuite avoir
+			<lb/>
+			recours aux écrits scientifiques » (<ref type="biblio">Luckerhoff &amp; Guillemette, 2012a, p. 3</ref>). Nous
+			<lb/>
+			avons pu constater les dangers de ne se laisser guider que par les écrits. Le chercheur
+			<lb/>
+			qui procède par la MTE s&apos;inspire prioritairement des données et réfère aux écrits pour
+			<lb/>
+			bonifier sa réflexion. Il continue son travail intellectuel par un constant mouvement
+			<lb/>
+			d&apos;aller-retour entre le terrain et sa théorisation pour qu&apos;au final, les derniers contacts
+			<lb/>
+			avec le terrain puissent compléter sa théorisation.
+			<lb/>
+		</p>
+		
+		<p>La MTE n&apos;a pas guidé notre démarche et nous n&apos;en avons pas parfaitement
+			<lb/>
+			respecté l&apos;esprit. Cela était impossible considérant l&apos;état de nos connaissances à son
+			<lb/>
+			sujet à ce moment. Or, force est d&apos;admettre que nous avons intuitivement fait des
+			<lb/>
+			choix qui s&apos;inscrivent dans la logique de cette approche. Nous avons fait preuve
+			<lb/>
+			d&apos;une grande flexibilité dans la réorganisation de la recherche. Nous avons aussi
+			<lb/>
+			analysé les données au fur et à mesure qu&apos;elles étaient disponibles (<ref type="biblio">Luckerhoff &amp;<lb/>
+				Guillemette, 2012b</ref>), les écoutant et orientant la recherche en conséquence. Nous
+			<lb/>
+			sommes allés jusqu&apos;à reproblématiser notre objet. Nous avons dû, à ce moment,
+			<lb/>
+			convenir qu&apos;il y avait plusieurs avenues pour aborder le même objet de recherche
+			<lb/>
+			(<ref type="biblio">Corbin, 2012</ref>). La MTE encourage l&apos;ajustement des questionnaires au fil de la
+			<lb/>
+			collecte de données (<ref type="biblio">Guillemette &amp; Lapointe, 2012</ref>), ce que nous avons fait entre le
+			<lb/>
+			deuxième et le troisième volet de la recherche. Nos préoccupations en lien avec
+			<lb/>
+			l&apos;échantillonnage ont aussi évolué au fil de la recherche. Notons l&apos;effort déployé par
+			<lb/>
+			l&apos;équipe pour bâtir un échantillonnage statistique et la justification pour démontrer
+			<lb/>
+			qu&apos;il pourrait mener à une généralisation. Au final, ce ne sont plus tant les
+			<lb/>
+			caractéristiques des répondants ou leur répartition équilibrée dans le corpus qui
+			<lb/>
+			compte, mais tout simplement la démarche idéale (utilisant leur article comme
+			<lb/>
+			hameçon) pour joindre des répondants et développer un contexte optimal pour
+			<lb/>
+			stimuler les échanges et la collecte de données. Cette perspective s&apos;apparente donc
+			<lb/>
+			plus à un échantillonnage théorique (<ref type="biblio">Luckerhoff &amp; Guillemette, 2012b</ref>) qu&apos;à un
+			<lb/>
+			échantillonnage statistique, même si dans notre cas spécifique l&apos;objectif final n&apos;en
+			<lb/>
+			était pas un de confirmation théorique.
+			<lb/>
+		</p>
+		
+		<p>Dans le présent article, nous n&apos;avons pas mentionné le cadre théorique
+			<lb/>
+			sélectionné par l&apos;équipe de recherche. Ce choix est justifié par le fait que nous en
+			<lb/>
+			étions plutôt à l&apos;exploration de celui-ci, le sachant complexe. Conséquemment, nous
+			<lb/>
+			n&apos;étions pas persuadés de sa pertinence. La théorie des champs
+			<ref type="biblio">de Bourdieu (1984)
+				<lb/>
+			</ref>
+			nous inspirait, puisqu&apos;elle permettrait de représenter le champ journalistique et le
+			<lb/>
+			champ des relations publiques comme deux entités distinctes et de réfléchir à
+			<lb/>
+			l&apos;interpénétration de ces deux champs. Pouvons-nous croire qu&apos;il s&apos;agissait là de nos
+			<lb/>
+			concepts sensibilisateurs (<ref type="biblio">Strauss, 1987</ref>)? Si c&apos;est le cas, nous ne les avons
+			pas
+			<lb/>
+			suspendus au cours des phases 1 et 2 de la recherche, présumant d&apos;une certaine
+			<lb/>
+			dynamique entre les deux champs. Nous nous en sommes rendu compte avant
+			<lb/>
+			d&apos;amorcer la phase 3, où nous avons axé la recherche sur la collecte d&apos;information,
+			<lb/>
+			tentant de minimiser l&apos;influence de notre subjectivité par divers moyens.
+			<lb/>
+		</p>
+		
+		<p>En somme, en observant la démarche de recherche menée comme un tout, et
+			<lb/>
+			non pas en trois volets indépendants, nous voyons les similitudes avec les principes
+			<lb/>
+			de la MTE, où la planification rigide n&apos;a pas raison d&apos;être (<ref type="biblio">Charmaz,
+				1995</ref>). De plus,
+			<lb/>
+			chacun des volets colligeant des données sur l&apos;objet, faisant avancer la réflexion et
+			<lb/>
+			entraînant des modifications sur le plan de la collecte de données, le déroulement de
+			<lb/>
+			notre recherche semble analogue au processus recommandé par la MTE pouvant être
+			<lb/>
+			illustré sous forme hélicoïdale (<ref type="biblio">Plouffe, 2009</ref>).
+			<lb/>
+		</p>
+		
+		<head>En conclusion, la rigueur et l&apos;écoute des données délogent l&apos;analyse de contenu
+			<lb/>
+		</head>
+		
+		<p>L&apos;équipe s&apos;est lancée dans la recherche en mettant en oeuvre les procédés structurés et
+			<lb/>
+			structurants de l&apos;analyse de contenu documentaire, articulés dans une démarche
+			<lb/>
+			hypothéticodéductive. Attentive aux résultats qu&apos;elle obtenait, et à ceux qu&apos;elle
+			<lb/>
+			n&apos;obtenait pas, elle a refusé de rester confinée à une méthodologie qui n&apos;apportait pas
+			<lb/>
+			la récolte escomptée. Le paradigme hypothéticodéductif dominant dans plusieurs
+			<lb/>
+			institutions universitaires n&apos;était pas la voie à suivre. L&apos;équipe a fait face aux doutes
+			<lb/>
+			et aux questionnements en ajustant sa méthodologie. Dans cette recherche,
+			<lb/>
+			l&apos;induction s&apos;est lentement mais certainement imposée. L&apos;équipe n&apos;a pas
+			<lb/>
+			consciemment choisi d&apos;aller vers l&apos;inductif ni de quitter l&apos;hypothéticodéductif. Elle a
+			<lb/>
+			intuitivement réorienté la recherche à quelques reprises. Ce n&apos;est qu&apos;en fin de
+			<lb/>
+			parcours, en prenant du recul, qu&apos;elle a constaté que ses décisions correspondaient à
+			<lb/>
+			une démarche inductive et, dans une certaine mesure, à une démarche de théorisation
+			<lb/>
+			enracinée.
+			<lb/>
+		</p>
+		
+		<p>L&apos;objectif de cet article est de partager une expérience de recherche où tout ne
+			<lb/>
+			se déroule pas comme prévu, mais aussi d&apos;intéresser les chercheurs des champs des
+			<lb/>
+			relations publiques et du journalisme aux approches inductives, en soulignant leur
+			<lb/>
+			richesse. Nous avons montré que l&apos;écoute du terrain et une fine connaissance de
+			<lb/>
+			l&apos;objet sont nécessaires à l&apos;atteinte de résultats de recherche significatifs. Nous avons
+			<lb/>
+			aussi illustré qu&apos;il peut être justifié de bâtir une méthodologie principalement sur les
+			<lb/>
+			« besoins de la recherche et [de l&apos;orienter] vers l&apos;objectif de recueillir de nouvelles
+			<lb/>
+			données pour mieux comprendre le phénomène à l&apos;étude » (<ref type="biblio">Luckerhoff &amp;<lb/>
+				Guillemette, 2012a, p. 6</ref>). Les approches inductives nous apparaissent primordiales
+			<lb/>
+			pour permettre l&apos;exploration de problématiques, d&apos;objets et de terrains spécifiques.
+			<lb/>
+			Faire fi des possibilités offertes par ces méthodologies peut mener au gaspillage de
+			<lb/>
+			ressources lorsqu&apos;une équipe tente de confirmer ou de valider des hypothèses qui se
+			<lb/>
+			révèlent obsolètes. Que l&apos;on perçoive l&apos;usage des méthodes inductives comme étant
+			<lb/>
+			préliminaire à des recherches confirmatoires (puisqu&apos;elles peuvent générer des
+			<lb/>
+			hypothèses) ou qu&apos;on les considère comme des approches visant la théorisation
+			<lb/>
+			importe peu. Pour notre part, la leçon retenue est de ne pas s&apos;imposer une
+			<lb/>
+			méthodologie sans s&apos;assurer de connaître et de comprendre l&apos;objet et le terrain de
+			<lb/>
+			recherche. L&apos;équipe de recherche a pu constater l&apos;abondance d&apos;informations et de
+			<lb/>
+			résultats que procurent les processus inductifs. Elle a aussi compris leur logique et
+			<lb/>
+			reconnu leur potentiel pour le développement des connaissances scientifiques dans
+			<lb/>
+			l&apos;étude des contenus médiatiques. En conséquence, l&apos;équipe évaluera
+			<lb/>
+			consciencieusement la possibilité et la pertinence d&apos;adopter une approche inductive
+			<lb/>
+			avant de s&apos;engager dans la classique démarche hypothéticodéductive.
+			<lb/>
+		</p>
+	
+	</text>
+</tei>

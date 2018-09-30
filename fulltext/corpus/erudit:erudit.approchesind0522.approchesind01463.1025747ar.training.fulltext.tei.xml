@@ -1,0 +1,1531 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Dans le contexte du plan Alzheimer 2008-2012, notre équipe a été sollicitée afin
+			<lb/>
+			d&apos;évaluer un nouveau dispositif mis en place : le Pôle d&apos;Activités et de Soins Adaptés
+			<lb/>
+			(PASA). Au sein d&apos;un environnement rassurant et permettant la déambulation, les
+			<lb/>
+			résidents des EHPAD (Établissement d&apos;Hébergement pour Personnes Agées
+			<lb/>
+			Dépendantes) présentant des troubles du comportement modérés se voient proposer
+			<lb/>
+			des activités sociales et thérapeutiques. La demande émanait d&apos;un EHPAD ayant mis
+			<lb/>
+			en place ce nouveau dispositif.
+			<lb/>
+		</p>
+		
+		<p>Cette demande rencontrait les intérêts des chercheurs de notre équipe : un
+			<lb/>
+			chercheur en psychologie, un chercheur en sciences de la communication et un
+			<lb/>
+			chercheur en sociologie. Notre équipe s&apos;intéresse aux problématiques de l&apos;autonomie
+			<lb/>
+			et du développement de la participation sociale. Or, le dispositif PASA a notamment
+			<lb/>
+			pour objectif le maintien du lien social, la mobilisation des fonctions sensorielles et
+			<lb/>
+			vise à faire retrouver les gestes de la vie quotidienne.
+			<lb/>
+			Trois objets principaux ont été assignés à l&apos;étude : 1) au-delà de seuls critères
+			<lb/>
+			quantitatifs, proposer des critères originaux d&apos;évaluation de l&apos;efficience des PASA, au
+			<lb/>
+			regard des pratiques et comportements identifiés; 2) évaluer conjointement l&apos;effet du
+			<lb/>
+			PASA sur les personnes accueillies; 3) identifier de manière critique, avec les parties
+			<lb/>
+			prenantes impliquées, les modalités sous lesquelles se constitue un modèle
+			<lb/>
+			d&apos;accompagnement et d&apos;organisation émergeant de cet espace de pratiques et de vie.
+			<lb/>
+			Les analyses visaient à cerner les enjeux suivants : en quoi et comment l&apos;introduction
+			<lb/>
+			d&apos;un PASA transforme-t-elle d&apos;une part les expériences, les vécus, les comportements
+			<lb/>
+			des personnes impliquées et, d&apos;autre part, les rapports entre les différentes parties
+			<lb/>
+			prenantes de l&apos;EHPAD? Les constats posés permettraient de repérer « ce que cela
+			<lb/>
+			dit » des compétences à l&apos;oeuvre dans ces espaces novateurs. Dans un premier temps,
+			<lb/>
+			l&apos;observation participante et l&apos;analyse situationnelle ont été mobilisées comme
+			<lb/>
+			techniques de récolte des données sur le terrain. Les entretiens semi-directifs sont
+			<lb/>
+			intervenus dans un second temps.
+			<lb/>
+		</p>
+		
+		<p>La formulation des objectifs de recherche laissait d&apos;emblée entrevoir le
+			<lb/>
+			mouvement inductif qui a été privilégié pour les atteindre. Nous nous interrogerons
+			<lb/>
+			ici sur sa nécessité : en quoi l&apos;approche inductive s&apos;est-elle imposée à nous? Cinq
+			<lb/>
+			facteurs rendaient ici l&apos;approche inductive incontournable. Le premier est
+			<lb/>
+			l&apos;interdisciplinarité. Notre équipe se composait de chercheurs de différentes
+			<lb/>
+			disciplines. Malgré nos socialisations disciplinaires, nous ne pouvions présupposer un
+			<lb/>
+			cadre théorique : le terrain et la réalité qui s&apos;y déploie devaient primer et les éléments
+			<lb/>
+			signifiants devaient en émerger. Le second facteur est la flexibilité du travail
+			<lb/>
+			collaboratif. Ne pas travailler seul implique d&apos;accepter de se laisser déplacer dans ses
+			<lb/>
+			convictions. Le troisième facteur est celui de la dimension « action » de notre
+			<lb/>
+			recherche. Comme recherche-action, nous avions négocié notre inscription dans ce
+			<lb/>
+			terrain et rappelé à de nombreuses reprises que nous n&apos;étions pas dans le cadre d&apos;une
+			<lb/>
+			prestation visant à évaluer l&apos;efficacité ou l&apos;efficience d&apos;un PASA. Mais nous devions
+			<lb/>
+			composer avec les attentes de l&apos;établissement, financeur pour partie. Le quatrième
+			<lb/>
+			facteur est notre proximité avec certains principes méthodologiques de
+			<lb/>
+			l&apos;interactionnisme symbolique. Travaillant sur des processus sociaux, les chercheurs
+			<lb/>
+			ne viennent pas valider des hypothèses préexistantes sur un terrain. Au contraire, ils
+			<lb/>
+			cherchent de nouvelles hypothèses, qu&apos;ils soumettent ensuite à l&apos;épreuve de ce
+			<lb/>
+			terrain. Enfin, le cinquième facteur est notre approche communicationnelle. Inspirée
+			<lb/>
+			notamment de l&apos;anthropologie de la communication, elle considère que les
+			<lb/>
+			organisations sont constituées dans et au travers des communications humaines.
+			<lb/>
+			Processus en construction permanente, la réalité du terrain et des comportements qui
+			<lb/>
+			vont émerger ne peut ainsi être préjugée.
+			<lb/>
+		</p>
+		
+		<head>1. L&apos;approche inductive
+			<lb/>
+		</head>
+		
+		<p>« L&apos;approche inductive élabore de façon formelle son canevas de recherche en cours
+			<lb/>
+			de collecte de données pour en faciliter l&apos;analyse rigoureuse » (
+			<ref type="biblio">Hlady Rispal, 2002,
+				<lb/>
+				p. 51
+			</ref>
+			). Si l&apos;on peut se focaliser sur une problématique, comprise ici comme manière
+			<lb/>
+			spécifique d&apos;envisager un problème et proposition de lignes de force en réponse à la
+			<lb/>
+			question initiale, cette problématique se précise néanmoins au cours de la recherche.
+			<lb/>
+			L&apos;approche inductive diffère en cela de l&apos;analyse déductive qui pense cette
+			<lb/>
+			problématique complètement a priori.
+			<lb/>
+		</p>
+		
+		<p>Dans l&apos;analyse des données, Blais et Martineau décrivent l&apos;analyse inductive
+			<lb/>
+			générale, en référence à la « general inductive approach » <ref type="biblio">de Thomas (2006)</ref>, comme
+			<lb/>
+			« un ensemble de procédures systématiques permettant de traiter des données
+			<lb/>
+			qualitatives, ces procédures étant essentiellement guidées par les objectifs de
+			<lb/>
+			recherche » (<ref type="biblio">Blais &amp; Martineau, 2006</ref>, p. 3). Cette attitude s&apos;appuie sur
+			différentes
+			<lb/>
+			stratégies, dont la lecture détaillée des données brutes dans le but de faire émerger des
+			<lb/>
+			catégories d&apos;analyse. Elle rejoint la vision stratégique de l&apos;enquête d&apos;Edgar Morin
+			<lb/>
+			(<ref type="biblio">Paillard, 2008</ref>) qui redéfinit et modifie son cours et son développement selon une
+			<lb/>
+			démarche d&apos;essais-erreurs. Pour Morin, l&apos;enquête se distingue de la recherche, cette
+			<lb/>
+			dernière étant une réflexion sur les données, tandis que l&apos;enquête est la collecte de
+			<lb/>
+			celles-ci. Les deux sont inextricablement liées. Non élaborée a priori, l&apos;enquête
+			<lb/>
+			s&apos;adapte aux situations, à la découverte de données inconnues ou de problèmes
+			<lb/>
+			ignorés. Pour Morin, il est indispensable de fonder la méthode et les techniques en
+			<lb/>
+			fonction du terrain et selon les sollicitations et les résistances du phénomène étudié.
+			<lb/>
+		</p>
+		
+		<p>L&apos;approche inductive a pour avantage de permettre de « ne pas tomber dans ce
+			<lb/>
+			piège où l&apos;on installe la théorie d&apos;entrée de jeu et où les faits, trop aisément
+			<lb/>
+			manipulables, se cantonnent dans un rôle d&apos;illustration-confirmation » (<ref type="biblio">Kaufmann,
+			<lb/>
+				2001, p. 12</ref>). Nous suivons toutefois <ref type="biblio">Guillemette (2006)</ref> quand il précise que le
+			<lb/>
+			chercheur appréhende les phénomènes avec sa sensibilité théorique et ses
+			<lb/>
+			connaissances antérieures. Celles-ci ne peuvent être ignorées. Seul le principe reste :
+			<lb/>
+			conserver un esprit assez ouvert pour ne négliger aucune explication ou direction, en
+			<lb/>
+			particulier celles non apparues lors de lectures préalables. Cette tension est un des
+			<lb/>
+			moteurs intellectuels majeurs de l&apos;induction : conserver un statut d&apos;utilité à
+			<lb/>
+			différentes options théoriques, options dont il faut s&apos;efforcer de se déprendre chaque
+			<lb/>
+			fois que nécessaire au regard du terrain.
+			<lb/>
+		</p>
+		
+		<p>Notre option consiste donc à ne pas partir d&apos;hypothèses générales à vérifier sur
+			<lb/>
+			le terrain, mais plutôt à rendre compte des expériences vécues dans leur complexité et
+			<lb/>
+			leur dynamique. Nous suivons <ref type="biblio">Winkin (2001)</ref> qui compare le mouvement de toute
+			<lb/>
+			recherche ethnographique à celui d&apos;une « double hélice ». Le chercheur part
+			<lb/>
+		</p>
+		
+		<p>[…] d&apos;une idée, encore mollement formulée, va sur le terrain, recueille
+			<lb/>
+			des données en tous sens, revient vers ses lectures et commence à
+			<lb/>
+			organiser ses données, retourne sur le terrain, lesté de questions déjà
+			<lb/>
+			mieux conceptualisées et repart enfin, avec de premières réponses, vers
+			<lb/>
+			une formulation généralisante (pp. 190-191).
+			<lb/>
+		</p>
+		
+		<p>Le va-et-vient continu entre lectures et terrain permet d&apos;affiner une
+			<lb/>
+			problématique solide. Nous espérons ainsi éviter la récolte de données tout azimut qui
+			<lb/>
+			conduirait à une désorientation du chercheur, autant que des thèses générales peu en
+			<lb/>
+			phase avec une réalité vécue par les acteurs concernés. Les résultats auxquels nous
+			<lb/>
+			parvenons correspondent à ce que Strauss décrit comme une théorie fondée :
+			<lb/>
+		</p>
+		
+		<p>Une théorie qui découle inductivement de l&apos;étude du phénomène qu&apos;elle
+			<lb/>
+			présente. C&apos;est-à-dire qu&apos;elle est découverte, développée et vérifiée de
+			<lb/>
+			façon provisoire à travers une collecte systématique de données et une
+			<lb/>
+			analyse des données relative à ce phénomène. Donc, collecte de données,
+			<lb/>
+			analyse et théorie sont en rapports réciproques étroits. On ne commence
+			<lb/>
+			pas avec une théorie pour la prouver, mais plutôt avec un domaine
+			<lb/>
+			d&apos;étude et on permet à ce qui est pertinent pour ce domaine d&apos;émerger
+			<lb/>
+			(<ref type="biblio">Strauss, 1992b, p. 53</ref>).
+			<lb/>
+		</p>
+		
+		<head>2. Un terrain particulier : le PASA
+			<lb/>
+		</head>
+		
+		<p>Un PASA 1 est un espace au sein d&apos;un EHPAD disposant d&apos;une file active d&apos;au moins
+			<lb/>
+			20 personnes admissibles parmi les résidents hébergés. 17 PASA ont ouvert en 2011.
+			<lb/>
+			Cet espace permet d&apos;accueillir dans la journée des résidents (de 12 à 14 personnes)
+			<lb/>
+			présentant des troubles du comportement modérés. Des activités sociales et
+			<lb/>
+			thérapeutiques sont proposées au sein de ce pôle. Lors de nos premières rencontres
+			<lb/>
+			avec la direction, le PASA venait d&apos;ouvrir et nous avons commencé nos immersions
+			<lb/>
+			en son sein un peu moins d&apos;un an après son ouverture.
+			<lb/>
+		</p>
+		
+		<head>3. Les techniques d&apos;enquête
+			<lb/>
+		</head>
+		
+		<p>Dans une perspective inductive, compréhensive et qualitative, le but était de
+			<lb/>
+			comprendre et le saisir de l&apos;intérieur les ressorts et les processus à l&apos;oeuvre, plutôt que
+			<lb/>
+			d&apos;expliquer à partir de facteurs préconçus. Seuls quelques indicateurs quantitatifs ont
+			<lb/>
+			été constitués. Notre démarche a été d&apos;opter pour trois méthodes complémentaires :
+			<lb/>
+			l&apos;observation participante, l&apos;analyse situationnelle et les entretiens compréhensifs.
+			<lb/>
+		</p>
+		
+		<head>3.1 L&apos;observation participante
+			<lb/>
+		</head>
+		
+		<p>L&apos;observation participante telle que nous l&apos;avons déployée se fonde sur la démarche
+			<lb/>
+			anthropologique (<ref type="biblio">Winkin, 2001</ref>). Cette méthode permet un accès direct aux
+			<lb/>
+			événements et aux situations. Elle prend également en compte les éléments non
+			<lb/>
+			verbaux de la communication, ce qui est particulièrement important ici au vu du
+			<lb/>
+			public. En effet, ce que les médecins (<ref type="biblio">Ploton, 2009; Rigaud, 2001</ref>) appellent le
+			<lb/>
+			« syndrome démentiel de la maladie d&apos;Alzheimer » se caractérise par un déficit lent et
+			<lb/>
+			progressif au niveau de la mémoire, couplé à des perturbations d&apos;une ou plusieurs
+			<lb/>
+			fonctions supérieures. Or, ce n&apos;est pas parce que les personnes atteintes de la maladie
+			<lb/>
+			d&apos;Alzheimer ne communiquent plus verbalement qu&apos;elles ne communiquent plus. Ne
+			<lb/>
+			plus pouvoir s&apos;exprimer verbalement n&apos;invalide pas le respect, objectivable, d&apos;une
+			<lb/>
+			série de règles implicites dans les interactions, chez les personnes accueillies au
+			<lb/>
+			PASA et souffrant de la maladie d&apos;Alzheimer. Si la communication verbale n&apos;était
+			<lb/>
+			plus manifeste chez certaines personnes rencontrées au sein du PASA, une
+			<lb/>
+			communication non verbale subsistait longtemps, largement mobilisée.
+			<lb/>
+		</p>
+		
+		<p>Que ce soit en s&apos;adaptant aux proxémies de la culture médico-sociale,
+			<lb/>
+			c&apos;est-à-dire en acceptant qu&apos;un soignant puisse pénétrer dans leur sphère
+			<lb/>
+			intime à n&apos;importe quel moment, ou en s&apos;opposant à toute forme
+			<lb/>
+			d&apos;intrusion -se référant dès lors aux proxémies sociales -, ces personnes
+			<lb/>
+			montrent que les règles spatiales du « savoir-vivre en société » sont
+			<lb/>
+			toujours bien intégrées et utilisées à bon escient (
+			<ref type="biblio">Delamarre, 2011, p. 27</ref>)
+				<lb/>
+		</p>
+		
+		<p>La définition biomédicale de la démence, soulignant la prégnance des
+			<lb/>
+			composantes cognitives dans la définition de la dégénérescence, ne mentionne que la
+			<lb/>
+			dimension langagière, verbale de la communication. Elle introduit le risque de limiter
+			<lb/>
+			la lecture de la communication à cette seule dimension (cognitive), chez les personnes
+			<lb/>
+			interagissant avec les personnes atteintes. Tautologiquement, le malade ne
+			<lb/>
+			correspondant plus à l&apos;image de ce sujet rationnel ainsi défini par la pleine possession
+			<lb/>
+			de ses fonctions exécutives supérieures, il ne serait plus vraiment en mesure de
+			<lb/>
+			communiquer. Ce présupposé serait un raccourci trop rapide né d&apos;un implicite assumé
+			<lb/>
+			au quotidien. Nous devions être attentifs à ce risque. L&apos;observation participante,
+			<lb/>
+			accédant aux autres composantes de la relation, a permis la valorisation d&apos;autres
+			<lb/>
+			formes d&apos;intelligence de cette relation : des composantes émotionnelles et affectives
+			<lb/>
+			en particulier, des signes heureusement disponibles au-delà du langage et une
+			<lb/>
+			rationalité strictement cognitive. Notre vision de la communication comme
+			<lb/>
+			interaction constante dans des contextes d&apos;action qui lui donnent signification
+			<lb/>
+			permettait également d&apos;éviter ce biais. La maladie d&apos;Alzheimer ne devrait donc pas
+			<lb/>
+			être uniquement considérée sous l&apos;angle du déficit et de la rationalité cognitive, mais
+			<lb/>
+			aussi à travers ce qu&apos;elle fait faire (<ref type="biblio">Guichet &amp; Hennion, 2009</ref>).
+			<lb/>
+		</p>
+		
+		<p>Huit journées complètes et deux demi-journées, de septembre à décembre 2011,
+			<lb/>
+			ont été consacrées à l&apos;observation participante. Le choix des journées s&apos;est fait tantôt
+			<lb/>
+			de façon aléatoire, tantôt pour assister à des événements particuliers, tels les repas
+			<lb/>
+			thérapeutiques. Durant ceux-ci, les résidents cuisinent ensemble leur repas de midi,
+			<lb/>
+			auquel des professionnels participent. Une aide-soignante a également été suivie
+			<lb/>
+			durant toute une matinée, pour assister aux toilettes dans les étages et au repas des
+			<lb/>
+			résidents. Enfin, un plein après-midi a été consacré aux activités d&apos;animation. Lors de
+			<lb/>
+			ces journées au PASA, la chercheuse participait aux activités, interagissant avec les
+			<lb/>
+			résidents et les aides-soignantes, allant jusqu&apos;à les assister dans l&apos;animation.
+			<lb/>
+		</p>
+		
+		<p>Cette démarche est qualifiée d&apos;observation participante en référence aux
+			<lb/>
+			conceptions de l&apos;École de Chicago : l&apos;observation est en effet toujours participante,
+			<lb/>
+			selon celle-ci. L&apos;objectif est bien de « rendre le monde étudié visible de l&apos;intérieur »
+			<lb/>
+			(<ref type="biblio">Coulon, 2002, p. 103</ref>), c&apos;est-à-dire de comprendre, de l&apos;intérieur, la
+			vision du monde
+			<lb/>
+			et la rationalité des actions des individus concernés. La position de la chercheuse est
+			<lb/>
+			passée de celle de « complete observer » (« observateur complet ») à celle de
+			<lb/>
+			« participant as observer » (« participant comme observateur ») (<ref type="biblio">Gold, 1958</ref>). En
+			<lb/>
+			effet, la chercheuse s&apos;est d&apos;abord présentée comme telle aux personnes présentes au
+			<lb/>
+			PASA. Elle a cité succinctement ses objectifs, puis a expliqué qu&apos;elle était là pour
+			<lb/>
+			observer ce qui se passait, mais qu&apos;il était possible de lui demander de l&apos;aide si besoin
+			<lb/>
+			était. Les sollicitations furent d&apos;abord peu nombreuses, puis les interactions avec les
+			<lb/>
+			résidents et les soignantes se sont multipliées, conduisant finalement les aides-<lb/>soignantes à lui
+			confier certaines tâches d&apos;animation.
+			<lb/>
+		</p>
+		
+		<p>L&apos;observation participante, ici, s&apos;inscrit aussi dans la continuité d&apos;Erving
+			<lb/>
+			Goffman, entre une attention de tous les instants à ce qui se passe et un
+			<lb/>
+			désengagement permis par l&apos;écriture. En fin de journée, l&apos;auteure consignait en effet
+			<lb/>
+			les interactions verbales et non verbales dont elle avait été témoin. Cette
+			<lb/>
+			retranscription non exhaustive se faisait selon la méthode du carnet de recherche de
+			<lb/>
+			Morin (<ref type="biblio">Derèze, 2009</ref>). Les contraintes financières et matérielles ont conduit cette
+			<lb/>
+			chercheuse à se limiter à dix journées, mais il faut noter qu&apos;elle était arrivée à une
+			<lb/>
+			certaine saturation des données, peu d&apos;événements nouveaux significatifs étant
+			<lb/>
+			identifiés.
+			<lb/>
+		</p>
+		
+		<head>3.2 L&apos;analyse situationnelle
+			<lb/>
+		</head>
+		
+		<p>L&apos;analyse situationnelle s&apos;appuie conjointement sur l&apos;anthropologie de la
+			<lb/>
+			communication (
+			<ref type="biblio">Winkin, 1995, 2001</ref>) et la praxéologie motrice (<ref type="biblio">Oboeuf, 2010;
+				<lb/>
+				Parlebas, 1999
+			</ref>
+			). Cette démarche d&apos;observation s&apos;est focalisée sur quatre situations
+			<lb/>
+			sociales : atelier cuisine, activités motrices, repas, transitions entre les activités. Le
+			<lb/>
+			cadrage (<ref type="biblio">Goffman, 1991</ref>), moins large que pour l&apos;observation participante,
+			était
+			<lb/>
+			cependant plus détaillé. Ces deux techniques de récolte étaient donc intéressantes à
+			<lb/>
+			mobiliser sur un même terrain. Pour chacune des situations, la même démarche était
+			<lb/>
+			suivie. Le but était de mettre en lien les contraintes de chacune (rapports possibles
+			<lb/>
+			d&apos;un résident aux autres résidents, aux soignants, à l&apos;espace, au temps et aux objets)
+			<lb/>
+			avec les communications que le résident pouvait actualiser dans cette situation. Les
+			<lb/>
+			différents sous-rôles pouvant émerger au sein d&apos;une situation ont d&apos;abord été
+			<lb/>
+			identifiés. Ils sont une déconstruction du rôle de « résident », plus proche de ce qui se
+			<lb/>
+			passe in situ. Mangeur, Agresseur, Parleur, En attente, Fuyeur sont quelques-uns des
+			<lb/>
+			sous-rôles que l&apos;on retrouve dans la situation Repas. Un sous-rôle est donc « l&apos;unité
+			<lb/>
+			comportementale de base du fonctionnement d&apos;une situation sociale » (
+			<ref type="biblio">Parlebas,
+				<lb/>
+				1999, p. 344
+			</ref>
+			). C&apos;est en endossant un sous-rôle que le résident participe à la
+			<lb/>
+			communication. Le sous-rôle renvoie à une classe fonctionnelle de conduites
+			<lb/>
+			regroupant des actions jugées équivalentes. Si l&apos;on peut manger plus ou moins
+			<lb/>
+			rapidement, avec ou sans aide, l&apos;unité comportementale reste la même : Mangeur.
+			<lb/>
+			Étiqueter chaque sous-rôle d&apos;un substantif met l&apos;accent sur l&apos;interaction dominante
+			<lb/>
+			liée à la séquence envisagée. Puis le chercheur a observé les cheminements entre
+			<lb/>
+			sous-rôles pour y repérer les dynamiques possibles au sein d&apos;une situation. Il
+			<lb/>
+			déterminait ainsi tous les changements de sous-rôles possibles dans le réseau des
+			<lb/>
+			sous-rôles. Ces changements sont représentatifs des contraintes inhérentes à une
+			<lb/>
+			situation sociale donnée. Leur mise en lien avec les communications actualisées par
+			<lb/>
+			les résidents permet de construire de manière inductive une grille d&apos;observation
+			<lb/>
+			situationnelle.
+			<lb/>
+		</p>
+		
+		<p>Des observations préliminaires ont permis de déterminer les sous-rôles, leur
+			<lb/>
+			articulation et les communications pertinentes au sein de chaque situation analysée.
+			<lb/>
+			On parle ici de « communication » parce que, lorsqu&apos;elle a lieu (lorsqu&apos;elle est
+			<lb/>
+			« actualisée »), un ou plusieurs participants y réagissent de manière répétée dans le
+			<lb/>
+			temps. Lorsque le comportement n&apos;est interprété par aucun autre protagoniste, ou
+			<lb/>
+			seulement de manière éparse au cours du temps, on parlera « d&apos;indice ». Si ce dernier
+			<lb/>
+			peut être communicatif, il n&apos;est pas un signe objectivé par les personnes comme
+			<lb/>
+			faisant partie de la communication. Si tous les indices étaient jugés communicatifs,
+			<lb/>
+			étudier la communication au sein d&apos;une situation sociale serait impossible : « pour
+			<lb/>
+			que la communication ait encore un sens aux yeux d&apos;un participant, il faut qu&apos;il y ait
+			<lb/>
+			des &quot;blancs&quot;, des différences, des contrastes » (<ref type="biblio">Winkin, 2001, p. 102</ref>).
+			Il faut du
+			<lb/>
+			temps pour extraire l&apos;ensemble des signes au sein d&apos;une situation. Le chercheur
+			<lb/>
+			avance par tâtonnements successifs; il apprend à voir. Ce qui paraît insignifiant ou
+			<lb/>
+			anodin au départ se révèle d&apos;une grande richesse lorsqu&apos;apparaissent « des
+			<lb/>
+			récurrences comportementales qui nous amènent à parler en termes de règles, de
+			<lb/>
+			codes » (<ref type="biblio">Winkin, 2001, p. 148</ref>). La dimension inductive de cette seconde méthode
+			<lb/>
+			est, comme pour la précédente, intrinsèque et fondamentale pour la validité
+			<lb/>
+			compréhensive de ses résultats. L&apos;étape préliminaire s&apos;est étalée sur trois mois à la fin
+			<lb/>
+			de l&apos;année 2011. Elle a nécessité près de 80 heures d&apos;observation. Une fois les grilles
+			<lb/>
+			construites, 70 heures d&apos;observation supplémentaires ont été nécessaires : 35 heures
+			<lb/>
+			pour le prétest, 35 heures pour le post-test.
+			<lb/>
+		</p>
+		
+		<head>3.3 Les entretiens compréhensifs
+			<lb/>
+		</head>
+		
+		<p>Cette méthode a eu pour visée de rendre justice aux représentations des principaux
+			<lb/>
+			acteurs professionnels. Pour compléter l&apos;observation participante et l&apos;analyse
+			<lb/>
+			situationnelle, elle s&apos;est intéressée aux discours recueillis dans l&apos;échange. La visée
+			<lb/>
+			spécifique était d&apos;éclairer et de contextualiser sur des plans individuels et
+			<lb/>
+			symboliques les observations concurrentes.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse des discours s&apos;est voulue compréhensive. Les thèmes introduits au
+			<lb/>
+			cours des entretiens étaient en lien direct avec l&apos;observation du terrain concerné par
+			<lb/>
+			d&apos;autres modalités. L&apos;enquêteur a puisé dans des rencontres trimestrielles organisées
+			<lb/>
+			au PASA et dans l&apos;observation participante et l&apos;analyse situationnelle pour préparer
+			<lb/>
+			les entretiens. Une question pouvait aussi être ajoutée ou nuancée au regard des
+			<lb/>
+			échanges entre les trois chercheurs impliqués. Ce mode de collaboration
+			<lb/>
+			approfondissait les entretiens ultérieurs autant que les démarches de terrain menées
+			<lb/>
+			par les deux autres collègues. Le « guide » d&apos;entretien est donc resté souple tout au
+			<lb/>
+			long de l&apos;étude, s&apos;adaptant d&apos;un entretien à l&apos;autre, voire durant chaque entretien.
+			<lb/>
+			Cette souplesse à plusieurs niveaux était cohérente avec l&apos;outil (entretien
+			<lb/>
+			compréhensif) et avec l&apos;approche inductive de l&apos;étude. Notre option épistémologique
+			<lb/>
+			était que les discours recueillis alimentent la conceptualisation progressive du
+			<lb/>
+			chercheur, plutôt que de chercher à les faire entrer dans des concepts préélaborés. Il
+			<lb/>
+			s&apos;agissait de s&apos;inscrire dans la perspective de l&apos;entretien compréhensif ou
+			<lb/>
+			d&apos;élucidation (<ref type="biblio">Kaufmann, 1996</ref>), avec pour veine plus générale d&apos;inspiration
+			celle de
+			<lb/>
+			la méthodologie de la théorisation enracinée (<ref type="biblio">Glaser &amp; Strauss, 2010</ref>), dont
+			cette
+			<lb/>
+			modalité d&apos;entretien est d&apos;ailleurs l&apos;une des continuités selon Kaufmann.
+			<lb/>
+		</p>
+		
+		<p>Les entretiens se sont étendus sur cinq mois. 15 ont été menés, d&apos;une durée de
+			<lb/>
+			45 à 90 minutes. Si, dans les analyses, les professionnels exerçant en prise directe
+			<lb/>
+			avec le PASA ont eu la part belle, chaque entretien a néanmoins été intégré dans la
+			<lb/>
+			mise en contexte de l&apos;ensemble, comme dans le croisement des perspectives décelées.
+			<lb/>
+			Le modus operandi a été le suivant : recueil, puis transcription écrite intégrale de
+			<lb/>
+			chaque entretien; relecture et commentaire détaillé de chacun, tantôt sur des points
+			<lb/>
+			théoriques ou conceptuels, tantôt sur des aspects pratiques, tantôt sur les liens avec
+			<lb/>
+			d&apos;autres entretiens; rapprochement de l&apos;ensemble des commentaires selon leurs
+			<lb/>
+			convergences et divergences, vers une conceptualisation plus aboutie des modèles de
+			<lb/>
+			fonctionnement, des interrogations résiduelles et pistes d&apos;action pratique; enfin,
+			<lb/>
+			induction des commentaires analytiques et construction d&apos;une lecture d&apos;ensemble du
+			<lb/>
+			terrain pour parvenir à une vision compréhensive du croisement des subjectivités. La
+			<lb/>
+			phase de rédaction du rapport a par la suite eu lieu.
+			<lb/>
+		</p>
+		
+		<p>Les thèmes d&apos;analyse ont été constitués au long de ce processus itératif. Elles
+			<lb/>
+			résumaient les lignes de force traversant le PASA. Leur pertinence s&apos;est fondée sur un
+			<lb/>
+			croisement régulier des perspectives de chaque chercheur.
+			<lb/>
+		</p>
+		
+		<head>4. Les différents éléments légitimant une démarche inductive
+			<lb/>
+		</head>
+		
+		<head>4.1 L&apos;interdisciplinarité
+			<lb/>
+		</head>
+		
+		<p>Historiquement, notre choix institutionnel de construire une équipe pluridisciplinaire
+			<lb/>
+			a été guidé par la complexité inhérente à nos champs d&apos;expertise : les situations de
+			<lb/>
+			handicap et l&apos;autonomie, notamment liées au vieillissement ou à la maladie
+			<lb/>
+			chronique. Dans la présente recherche, nous ne pouvions travailler de manière
+			<lb/>
+			monodisciplinaire. La prise en charge de la maladie d&apos;Alzheimer convoque, au-delà
+			<lb/>
+			des seules disciplines médicales, d&apos;autres disciplines telles que la psychologie, la
+			<lb/>
+			sociologie, les sciences de l&apos;information et de la communication, le droit et l&apos;éthique.
+			<lb/>
+			Réfléchir sur la manière dont un PASA transforme les comportements des parties
+			<lb/>
+			prenantes nécessitait aussi de se pencher sur des aspects individuels, interpersonnels
+			<lb/>
+			ou organisationnels.
+			<lb/>
+		</p>
+		
+		<p>Nous sommes cependant conscients des difficultés que pose la collaboration
+			<lb/>
+			entre des disciplines qui sont chacune « constituées d&apos;un certain nombre de principes
+			<lb/>
+			fondateurs, d&apos;hypothèses générales, de concepts qui déterminent un champ d&apos;étude et
+			<lb/>
+			permettent en même temps de construire le phénomène en objet d&apos;analyse »
+			<lb/>
+			(<ref type="biblio">Charaudeau, 2010, p. 200</ref>). <ref type="biblio">Selon Edgar Morin (1990, para. 1)</ref> 2 ,
+			<lb/>
+		</p>
+		
+		<p>la discipline est une catégorie organisationnelle au sein de la connaissance
+			<lb/>
+			scientifique ; elle y institue la division et la spécialisation du travail et elle
+			<lb/>
+			répond à la diversité des domaines que recouvrent les sciences. Bien
+			<lb/>
+			qu&apos;englobée dans un ensemble scientifique plus vaste, une discipline tend
+			<lb/>
+			naturellement à l&apos;autonomie, par la délimitation de ses frontières, le
+			<lb/>
+			langage qu&apos;elle constitue, les techniques qu&apos;elle est amenée à élaborer ou
+			<lb/>
+			à utiliser, et éventuellement par les théories qui lui sont propres.
+			<lb/>
+		</p>
+		
+		<p>Nous suivons Morin lorsqu&apos;il plaide pour oser l&apos;interdisciplinarité. L&apos;institution
+			<lb/>
+			disciplinaire entraîne à la fois un risque d&apos;hyperspécialisation du chercheur et de
+			<lb/>
+			réification de l&apos;objet étudié, dont on pourrait oublier qu&apos;il est extrait ou construit.
+			<lb/>
+			L&apos;objet de la discipline serait alors perçu comme une chose en soi. Ses liaisons et
+			<lb/>
+			solidarités avec d&apos;autres objets, traités par d&apos;autres disciplines, seraient négligées,
+			<lb/>
+			ainsi qu&apos;avec l&apos;univers dont l&apos;objet fait partie. La frontière disciplinaire, son langage
+			<lb/>
+			et ses concepts propres isoleront alors la discipline par rapport aux autres et aux
+			<lb/>
+			problèmes qui, eux, chevauchent les disciplines. L&apos;esprit hyper-disciplinaire devient
+			<lb/>
+			un esprit de propriétaire qui interdit toute incursion étrangère dans sa parcelle de
+			<lb/>
+			savoir.
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Charaudeau (2010) et Koren (2010)</ref> plaident pour une interdisciplinarité
+			<lb/>
+			focalisée : faire de l&apos;interdisciplinarité depuis une seule discipline, pour pouvoir
+			<lb/>
+			considérer les concepts dans leur cadre théorique et les interroger à la lumière d&apos;une
+			<lb/>
+			autre discipline, en expliquant dans quelle mesure et à quelles fins ils peuvent être
+			<lb/>
+			empruntés et intégrés. Il nous semble que c&apos;est ici une volonté de conserver un
+			<lb/>
+			ancrage identifié pour mieux aller explorer d&apos;autres territoires conceptuels qui prime :
+			<lb/>
+			prendre des apports ici et là reviendrait à tordre les concepts ou à leur faire dire des
+			<lb/>
+			choses qu&apos;ils ne voulaient pas dire. Or, ce qui devrait primer selon nous, est le terrain
+			<lb/>
+			et la réalité qui s&apos;y déploie. La théorie doit être au service de la compréhension de ce
+			<lb/>
+			qui s&apos;y déroule et non pas l&apos;inverse. Les théories déployées par chaque discipline sont
+			<lb/>
+			donc bel et bien pour nous des outils, dont nous n&apos;oublierons pas, avec l&apos;usage, leurs
+			<lb/>
+			ancrages initiaux, mais qui permettent surtout de mieux comprendre la réalité, quitte à
+			<lb/>
+			les adapter un peu, voire à agir sur celle-ci.
+			<lb/>
+		</p>
+		
+		<p>Dans une recherche interdisciplinaire comme la nôtre, le cadre théorique
+			<lb/>
+			commun ne peut préexister. Nous ne partions pas vierges de socialisations
+			<lb/>
+			disciplinaires et de recherches précédentes, mais nous ne pouvions nous imposer
+			<lb/>
+			réciproquement une manière de lire la réalité. Les éléments signifiants pour nos trois
+			<lb/>
+			disciplines devaient donc émerger du terrain. C&apos;est un signe distinctif des approches
+			<lb/>
+			inductives, particulièrement marqué dans l&apos;approche par théorisation enracinée : la
+			<lb/>
+			nécessité de partir des données, non de la théorie.
+			<lb/>
+		</p>
+		
+		<p>Ainsi, au-delà de méthodes respectives qui nous étaient familières, nous avons
+			<lb/>
+			rapidement échangé régulièrement sur nos premiers résultats. Des similarités dans ces
+			<lb/>
+			résultats sont vite apparues aux deux chercheurs en immersion. En faire part au
+			<lb/>
+			troisième d&apos;entre eux a permis qu&apos;il ajuste ses entretiens aux spécificités des
+			<lb/>
+			situations rencontrées sur ce terrain, insoupçonnables a priori. Citons pour exemple
+			<lb/>
+			la relation entre professionnels et personnes accueillies. L&apos;échange entre nous a
+			<lb/>
+			d&apos;abord confirmé ce thème comme essentiel pour l&apos;enquête par entretiens. Surtout,
+			<lb/>
+			cet échange a conduit à approfondir les points suivants : la personnalisation de la
+			<lb/>
+			relation; le lien établi par les professionnels entre cette personnalisation et leur
+			<lb/>
+			conception de la mémoire chez les personnes démentes; l&apos;intégration, dans leur
+			<lb/>
+			pratique, de stratégies propres à chaque personne accompagnée, entre missions
+			<lb/>
+			professionnelles et singularités découvertes dans un apprivoisement progressif. Ces
+			<lb/>
+			échanges entre chercheurs ont ainsi mis « la puce à l&apos;oreille » de chacun de nous,
+			<lb/>
+			nous forçant à revenir encore et encore sur chaque thème.
+			<lb/>
+		</p>
+		
+		<head>4.2 La flexibilité du travail collaboratif
+			<lb/>
+		</head>
+		
+		<p>Plusieurs discussions formelles ou informelles, lors de repas pris dans l&apos;EHPAD par
+			<lb/>
+			exemple, ont fait émerger une préoccupation : la parole des résidents manquait.
+			<lb/>
+		</p>
+		
+		<p>Contrairement à nos préjugés initiaux, notre fréquentation de l&apos;établissement traçait la
+			<lb/>
+			possibilité d&apos;inclure la parole de certains résidents sur ce qu&apos;ils vivaient et ce qui était
+			<lb/>
+			important pour eux. Malgré de vifs débats, nés de socialisations disciplinaires
+			<lb/>
+			différentes, un accord minimal s&apos;est fait sur la méthode à déployer : les questionnaires
+			<lb/>
+			de Condorcet (<ref type="biblio">Collard, 1998</ref>). Si les questions en ont été préétablies avant sa
+			<lb/>
+			passation, leur formulation était directement issue de notre immersion antérieure dans
+			<lb/>
+			ce terrain. Elles n&apos;auraient pu naître autrement, en cohérence avec notre démarche
+			<lb/>
+			inductive.
+			<lb/>
+		</p>
+		
+		<p>À partir d&apos;une question (Selon vous, qu&apos;est-ce qui explique le mieux votre bien-<lb/>être?), six
+			modalités de réponse exclusive étaient proposées (Être dans un lieu
+			<lb/>
+			accueillant, Se sentir utile, Se sentir libre, Être en bonne santé, Avoir des relations
+			<lb/>
+			sociales, Ne pas s&apos;ennuyer, Avoir une belle apparence). La valeur de chaque modalité
+			<lb/>
+			était comparée systématiquement aux autres comme suit : « Pour vous, qu&apos;est-ce qui
+			<lb/>
+			compte le plus, être en bonne santé ou avoir des relations sociales? ».
+			<lb/>
+		</p>
+		
+		<p>Ce choix s&apos;est fondé sur trois motifs. D&apos;abord, le questionnaire n&apos;est pas
+			<lb/>
+			contraignant et les modalités sont compréhensibles par les résidents. Des échanges
+			<lb/>
+			informels avaient montré qu&apos;il était difficile de mettre en place des entretiens ou des
+			<lb/>
+			questionnaires plus classiques auprès des personnes accueillies. Ensuite, il permettait
+			<lb/>
+			d&apos;intégrer directement les résidents dans une réflexion sur leur bien-être. Enfin, la
+			<lb/>
+			comparaison par paires permet de relever des incohérences dans les réponses des
+			<lb/>
+			interrogés : c&apos;est l&apos;« effet Condorcet ». L&apos;individu ne maîtrisant pas la portée
+			<lb/>
+			analytique des réponses qu&apos;il donne, les chercheurs pouvaient répondre aux questions
+			<lb/>
+			suivantes : professionnels et familles sont-ils plus cohérents dans leurs réponses que
+			<lb/>
+			les résidents? Les représentations du bien-être sont-elles convergentes? Les résultats
+			<lb/>
+			furent probants : les résidents, pourtant rarement interrogés sur ce thème, furent les
+			<lb/>
+			plus cohérents! En outre, ce qui comptait pour eux était distinct de ce qu&apos;en disaient
+			<lb/>
+			familles et professionnels.
+			<lb/>
+		</p>
+		
+		<p>Cet exemple illustre lui aussi notre logique inductive; la nécessité de l&apos;outil a
+			<lb/>
+			émergé du terrain, et ce, parce que nous y sommes entrés l&apos;esprit ouvert, prêts à être
+			<lb/>
+			bousculés dans nos convictions par ce que nous découvrions.
+			<lb/>
+		</p>
+		
+		<head>4.3 La dimension « action » de notre recherche
+			<lb/>
+		</head>
+		
+		<p>La dimension « action » de notre recherche a agi comme facilitateur d&apos;une démarche
+			<lb/>
+			inductive. La convention établie avec l&apos;établissement cofinanceur de notre recherche
+			<lb/>
+			explicitait des conditions de réalisation garantissant notre indépendance, en
+			<lb/>
+			particulier quant à la fonction critique de la recherche. En lien avec l&apos;auto-évaluation
+			<lb/>
+			de leurs pratiques, les professionnels attendaient aussi d&apos;être bousculés. Pourtant nous
+			<lb/>
+			avons dû plusieurs fois rappeler que nous ne réalisions pas un travail de consultance,
+			<lb/>
+			que nous agissions dans une logique de compréhension mais non de jugement. Une
+			<lb/>
+			attente normative s&apos;exprimait en effet de leur part : quels étaient les « bons » et les
+			<lb/>
+			« mauvais » comportements? Plutôt que de l&apos;ignorer, nous avons circonscrit cette
+			<lb/>
+			attente en nous attachant à coconstruire d&apos;éventuelles préconisations avec tous les
+			<lb/>
+			acteurs, pour rendre collectivement manifestes les possibles éléments d&apos;amélioration.
+			<lb/>
+			Cela renforçait le va-et-vient permanent entre terrain et théorie. Nos contacts
+			<lb/>
+			permanents avec l&apos;équipe et les réunions trimestrielles consacrées à notre travail, en
+			<lb/>
+			plus de la discussion collective du rapport final, limitaient le risque d&apos;une analyse
+			<lb/>
+			théorique surplombante sans lien avec leur réalité.
+			<lb/>
+		</p>
+		
+		<p>Nous concevons la recherche-action comme une recherche participative. Nous
+			<lb/>
+			nous éloignons de la rupture épistémologique qui voudrait que savoir commun et
+			<lb/>
+			savoir scientifique soient séparés par des frontières étanches. L&apos;homme contemporain
+			<lb/>
+			produit une connaissance réflexive sur lui-même et sur ses propres expériences : il
+			<lb/>
+			élabore ses propres hypothèses et pistes de réflexion. Ce savoir social n&apos;est pourtant
+			<lb/>
+			pas transparent. Le chercheur se doit notamment d&apos;être attentif aux conditions de
+			<lb/>
+			production d&apos;un discours et se demander ce qui, dans ce discours, est dû à sa présence
+			<lb/>
+			en tant que chercheur. <ref type="biblio">Avec Kaufmann (1996)</ref>, nous pensons qu&apos;objectiver les
+			<lb/>
+			connaissances élaborées avec les acteurs de terrain se construit peu à peu, grâce aux
+			<lb/>
+			concepts mis en évidence et organisés entre eux. Le rôle du chercheur est également
+			<lb/>
+			de fournir les cadres méthodologiques adéquats pour appréhender ce savoir
+			<lb/>
+			« commun ». La connaissance de l&apos;acteur sur lui-même et sur ses propres expériences
+			<lb/>
+			n&apos;est pas automatiquement éclairante et valide selon les critères des sciences sociales
+			<lb/>
+			(<ref type="biblio">Van Campenhoudt, Chaumont, &amp; Franssen, 2005</ref>). <ref type="biblio">Kaufmann (1996)</ref> le souligne
+			<lb/>
+			également : les références conceptuelles du chercheur sont des conditions nécessaires
+			<lb/>
+			pour continuer à apprendre du savoir commun, même une fois l&apos;objet de la recherche
+			<lb/>
+			circonscrit. Les savoirs s&apos;élaborent ainsi en coconstruction avec les acteurs de terrain.
+			<lb/>
+			Notre position est médiane entre le chercheur-expert détenteur absolu du savoir et la
+			<lb/>
+			position ethnométhodologique voulant que « savoir commun » et « savoir
+			<lb/>
+			scientifique » s&apos;enchaînent dans une continuité parfaite.
+			<lb/>
+		</p>
+		
+		<head>4.4 Proximité avec l&apos;interactionnisme symbolique
+			<lb/>
+		</head>
+		
+		<p>Notre proximité intellectuelle commune avec l&apos;interactionnisme symbolique nous a
+			<lb/>
+			également conduits à privilégier l&apos;approche inductive. L&apos;interactionnisme
+			<lb/>
+			symbolique, une des formes de la sociologie compréhensive (<ref type="biblio">Le Breton, 2008</ref>),
+			<lb/>
+			trouve ses prémisses chez Simmel, puis chez des sociologues de Chicago tels Park ou
+			<lb/>
+			Thomas qui en donneront les premières formulations avant que Mead ne lui confère
+			<lb/>
+			une matrice théorique. Dans la même perspective, l&apos;analyses
+			<ref type="biblio">de Strauss (1959/1992a,
+				<lb/>
+				1992b
+			</ref>
+			) dans le champ de la santé sont aussi des références privilégiées. Nous
+			<lb/>
+			reprenons à <ref type="biblio">Morrissette (2011)</ref> les intérêts communs de cette tradition : l&apos;expérience
+			<lb/>
+			quotidienne des acteurs, une vision interprétative du monde et le partage de
+			<lb/>
+			préférences méthodologiques, telles que le travail de terrain avec des données de
+			<lb/>
+			première main.
+			<lb/>
+		</p>
+		
+		<p>Notre approche théorique s&apos;est aussi appuyée sur les travaux
+			<ref type="biblio">de Goffman
+				<lb/>
+				(1991; Winkin, 1988 ) et de Kaufmann (2001)</ref>. Les comportements quotidiens des
+			<lb/>
+			hommes y sont considérés comme négociés par chacun dans une sorte
+			<lb/>
+			d&apos;improvisation permanente, soumise toutefois à des règles conduisant les
+			<lb/>
+			négociations. Le « banal », c&apos;est-à-dire ces comportements semblant naturels derrière
+			<lb/>
+			lesquels se cachent une série de règles implicites et qui permettent de structurer la vie
+			<lb/>
+			en société, est alors notre cible. Ces règles s&apos;acquièrent lors de la socialisation au sein
+			<lb/>
+			de différents groupes d&apos;appartenance. Leurs membres partagent certains rites
+			<lb/>
+			d&apos;interaction et codes communicationnels communs, différents des autres groupes.
+			<lb/>
+			Une socialisation s&apos;opère au sein de ces groupes; des logiques communicationnelles
+			<lb/>
+			et stratégiques propres se mettent en place. Cette socialisation s&apos;opérationnalise, se
+			<lb/>
+			consolide ou se modifie lors des interactions. Elle permet à tout un chacun de savoir
+			<lb/>
+			comment il convient de se comporter dans une situation donnée. « [Ê]tre âgé, et plus
+			<lb/>
+			spécifiquement être âgé dans le contexte d&apos;une institution pour personnes âgées,
+			<lb/>
+			nécessite la maîtrise (habituellement implicite) de règles organisant l&apos;adaptation du
+			<lb/>
+			comportement communicatif à ce contexte. » (<ref type="biblio">Sigman 1979, dans Winkin, 2000,
+			<lb/>
+				p. 256</ref>). Sigman ajoute que l&apos;adhésion à ces règles ou leur transgression se répercute
+			<lb/>
+			sur la définition du statut, du rôle que les membres de l&apos;institution s&apos;accordent
+			<lb/>
+			mutuellement.
+			<lb/>
+		</p>
+		
+		<p>Au PASA, et plus largement dans l&apos;EHPAD, nous désirions identifier
+			<lb/>
+			d&apos;éventuels rites d&apos;interaction et des codes communicationnels implicites communs
+			<lb/>
+			aux personnes appartenant aux mêmes groupes. Nous avons également identifié des
+			<lb/>
+			confrontations entre individus ne partageant pas les mêmes « codes ». Nous nous
+			<lb/>
+			sommes également interrogés sur l&apos;existence d&apos;une culture propre au PASA, de règles
+			<lb/>
+			implicites guidant les comportements qui se distingueraient de la culture globale de
+			<lb/>
+			l&apos;établissement. Ceci suggérait des modalités sous lesquelles se constitue un modèle
+			<lb/>
+			d&apos;accompagnement et d&apos;organisation émergeant d&apos;un espace de pratiques et de vie.
+			<lb/>
+		</p>
+		
+		<p>L&apos;observation participante a permis de comprendre de l&apos;intérieur les logiques et
+			<lb/>
+			les langages des acteurs observés. Comme pour une démarche ethnométhodologique
+			<lb/>
+			(<ref type="biblio">Coulon, 2007</ref>), il s&apos;agissait d&apos;un apprentissage progressif en immersion dans le
+			<lb/>
+			quotidien des acteurs. La perspective de l&apos;interactionnisme symbolique retient en
+			<lb/>
+			effet que les faits sociaux ne sont pas des choses en soi, mais des activités sociales en
+			<lb/>
+			chantier. On parle de processus sociaux et non plus de faits objectifs et contraignants.
+			<lb/>
+			Le chercheur ne vient pas valider des hypothèses. Au contraire, il vient en chercher
+			<lb/>
+			qui seront soumises à l&apos;épreuve de l&apos;observation et remaniées, dans un va-et-vient
+			<lb/>
+			permanent entre théorie provisoire et terrain. La démarche des interactionnistes est
+			<lb/>
+			fondamentalement inductive.
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Guillemette et Luckerhoff (2009)</ref> citent <ref type="biblio">Blumer (1969)</ref> pour souligner que la
+			<lb/>
+			recherche scientifique devrait être empirique, son but étant de s&apos;ajuster
+			<lb/>
+			progressivement à la résistance de la réalité : aucune découverte ou théorie
+			<lb/>
+			scientifique ne peut fixer définitivement les connaissances qu&apos;ont les humains du
+			<lb/>
+			monde empirique. <ref type="biblio">Strauss (1992a, 1993)</ref> affirme aussi que la réalité ne peut être
+			<lb/>
+			simplement découverte telle qu&apos;elle est, sans le filtre de l&apos;interprétation, mais la
+			<lb/>
+			science ne doit pas pour autant se limiter à l&apos;étude de ce filtre ou de ce qui est
+			<lb/>
+			construit par l&apos;esprit humain. Ces auteurs plaident donc pour une validation de
+			<lb/>
+			l&apos;interprétation par la confrontation avec le monde empirique concret, validation qui
+			<lb/>
+			n&apos;annule pas le caractère construit de l&apos;interprétation. Et lorsque <ref type="biblio">Foucart (2011)</ref>
+			<lb/>
+			définit l&apos;interactionnisme par le fait que l&apos;ordre d&apos;influence des différents facteurs ne
+			<lb/>
+			peut jamais être résolu en théorie, a priori, antérieurement à une recherche qui porte
+			<lb/>
+			sur les phénomènes concrets, et que chaque situation a sa propre combinaison de
+			<lb/>
+			facteurs qui ne peut être découverte que par l&apos;analyse précise de la réalité empirique,
+			<lb/>
+			il renforce encore notre attachement à l&apos;induction consubstantielle à
+			<lb/>
+			l&apos;interactionnisme symbolique.
+			<lb/>
+		</p>
+		
+		<head>4.5 L&apos;approche communicationnelle
+			<lb/>
+		</head>
+		
+		<p>L&apos;approche communicationnelle s&apos;inspire de l&apos;anthropologie de la communication
+			<lb/>
+			(<ref type="biblio">Winkin, 2001</ref>) qui considère la culture comme tout ce qu&apos;il faut savoir pour
+			en être
+			<lb/>
+			membre et des travaux de l&apos;école de Montréal, avec des auteurs comme <ref type="biblio">Taylor et Van
+			<lb/>
+				Every (2000)</ref> notamment. La communication y est constitutive de la réalité sociale.
+			<lb/>
+		</p>
+		
+		<p>Dans ce sous-domaine de la communication, les chercheurs ont été au-<lb/>delà d&apos;une approche de la
+			communication comme processus
+			<lb/>
+			d&apos;organisation, pour se concentrer sur la manière dont la communication
+			<lb/>
+			comme organisante produit des configurations qui persistent dans le
+			<lb/>
+			temps 3 [traduction libre] (<ref type="biblio">Putnam &amp; Nicotera, 2009, p. 26</ref>).
+			<lb/>
+		</p>
+		
+		<p>Selon cette approche, les organisations sont constituées dans et au travers des
+			<lb/>
+			communications humaines (<ref type="biblio">Vasquez &amp; Cooren, 2013</ref>). Elles se constituent par un jeu
+			<lb/>
+			d&apos;interactions médiatisées par des objets et des espaces. Il s&apos;agit là d&apos;une approche
+			<lb/>
+			pragmatique : « le monde de la vie quotidienne est quelque chose que nous devons
+			<lb/>
+			modifier par nos actions ou qui les modifie » (<ref type="biblio">Schütz, 2008, p. 106</ref>). La
+			<lb/>
+			communication viendra modifier ce monde ou modifiera nos actions en réaction.
+			<lb/>
+		</p>
+		
+		<p>À notre sens, tout n&apos;est pas communication, mais tout est potentiellement
+			<lb/>
+			communication. C&apos;est dans la performance et par le regard porté sur lui que le
+			<lb/>
+			caractère communicationnel de l&apos;objet ou du comportement apparaîtra ou non. Ainsi,
+			<lb/>
+			un même objet pourra revêtir une signification communicationnelle forte dans une
+			<lb/>
+			interaction sans être intégré comme signifiant dans un autre. Tout élément aura
+			<lb/>
+			toutefois ce potentiel communicationnel puisqu&apos;il pourra devenir performance de la
+			<lb/>
+			culture. Nos comportements vont donc jouer un rôle dans une culture
+			<lb/>
+			communicationnelle en émergence, ils vont s&apos;agréger à l&apos;ensemble des variables qui
+			<lb/>
+			pèsent sur la construction d&apos;une partition communicationnelle propre à une situation.
+			<lb/>
+			L&apos;approche inductive ne préjuge pas de ce qui va émerger d&apos;un terrain, elle s&apos;inscrit
+			<lb/>
+			parfaitement dans notre conviction que la réalité est un processus en constitution
+			<lb/>
+			permanente, qui s&apos;élabore collectivement.
+			<lb/>
+		</p>
+		
+		<head>5. Quelques résultats : une culture communicationnelle propre au PASA
+			<lb/>
+		</head>
+		
+		<p>Selon une double visée de compréhension et d&apos;action, nous avons parcouru nos
+			<lb/>
+			données à la recherche d&apos;occurrences significatives permettant d&apos;établir une culture
+			<lb/>
+			communicationnelle propre au dispositif étudié. Plusieurs hypothèses sont nées,
+			<lb/>
+			associées à des pistes d&apos;action possibles pour l&apos;organisation qui s&apos;emparerait des
+			<lb/>
+			enjeux d&apos;un PASA. Nous présenterons pour conclure quelques apports concrets d&apos;une
+			<lb/>
+			approche inductive dans un travail collectif.
+			<lb/>
+		</p>
+		
+		<p>Des éléments précis comptent pour le personnel du PASA : avoir du temps,
+			<lb/>
+			personnaliser la relation, permettre aux personnes âgées atteintes de la maladie
+			<lb/>
+			d&apos;Alzheimer de rester actrices de leur vie et de conserver un maximum d&apos;autonomie
+			<lb/>
+			et de liberté. Par la culture qui s&apos;y déploie, à laquelle les membres se socialisent par
+			<lb/>
+			immersion, le PASA permet de réaliser une partie de ces finalités. Dans cette culture,
+			<lb/>
+			la flexibilité des rôles et des places évite de se cantonner à une relation purement
+			<lb/>
+			complémentaire : d&apos;un côté celui qui prend soin et de l&apos;autre celui qui est fragile. De
+			<lb/>
+			plus, cette culture est directement liée à l&apos;importance accordée aux relations
+			<lb/>
+			individuelles et au fait que les professionnels vont au-delà d&apos;une relation strictement
+			<lb/>
+			professionnelle. La connaissance des résidents, dans le temps, permet de ne plus les
+			<lb/>
+			voir comme des objets de soins, mais comme de véritables sujets. Les activités
+			<lb/>
+			proposées, assorties de réponses rapides aux sollicitations et d&apos;une grande capacité
+			<lb/>
+			d&apos;adaptation, désamorcent nombre de conflits ou troubles du comportement. Or, la
+			<lb/>
+			possibilité organisationnelle de prendre le temps, d&apos;être disponibles et à l&apos;écoute en
+			<lb/>
+			permanence pour l&apos;ensemble des personnes accueillies, pour les professionnels du
+			<lb/>
+			PASA, est la condition de possibilité de ce modèle.
+			<lb/>
+		</p>
+		
+		<p>Toutefois, certains comportements ne semblaient parfois pas en cohérence avec
+			<lb/>
+			des règles communicationnelles du PASA. C&apos;est peut-être là le signe d&apos;un
+			<lb/>
+			changement de culture, d&apos;une « contamination » par une autre culture présente dans
+			<lb/>
+			l&apos;établissement. En effet, le PASA s&apos;inscrit dans une organisation globale : résidents
+			<lb/>
+			et professionnels quittent cet espace pour en rejoindre d&apos;autres, dont la culture
+			<lb/>
+			communicationnelle peut être bien différente. Pour penser voir se développer le
+			<lb/>
+			transfert des effets bénéfiques du PASA à d&apos;autres espaces, une réflexion globale et
+			<lb/>
+			non cloisonnée semble nécessaire.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse situationnelle a permis de relever un processus de désamorçage des
+			<lb/>
+			troubles du comportement. Dans ce processus, la posture d&apos;attente passive du résident
+			<lb/>
+			est remobilisée de manière répétée par les soignants, dans une anticipation
+			<lb/>
+			permanente qui nécessite l&apos;observation de signes avant-coureurs de difficultés. Ainsi
+			<lb/>
+			le résident est-il presque toujours actif : la part d&apos;attente passive se révèle faible en
+			<lb/>
+			comparaison de sa part active. Le profil des soignants se révéla un élément capital,
+			<lb/>
+			même si c&apos;est dans le creuset de l&apos;expérience du PASA que naissent des compétences
+			<lb/>
+			que l&apos;on ne peut complètement anticiper dans une formation plus classique. Au fil du
+			<lb/>
+			temps, les résidents ont aussi montré une entraide et une attention aux autres
+			<lb/>
+			croissantes. Le désamorçage est donc une clef importante pour expliquer le bon
+			<lb/>
+			déroulement des situations sociales au PASA.
+			<lb/>
+		</p>
+		
+		<p>Nous avons également mis en évidence que le lien social s&apos;y tisse au fil du
+			<lb/>
+			temps : les communications verbales entre résidents augmentent, les comportements
+			<lb/>
+			d&apos;écoute évoluent positivement, des comportements de soutien verbal ou d&apos;aide
+			<lb/>
+			physique apparaissent. En outre, les résidents évoluent vers la constitution de sous-<lb/>groupes. Or,
+			former un groupe est un marqueur du fonctionnement social régulier.
+			<lb/>
+			Sur tous ces plans, des contrastes ont pu être établis avec d&apos;autres espaces de
+			<lb/>
+			l&apos;organisation.
+			<lb/>
+		</p>
+		
+		<p>La culture communicationnelle du PASA renseignait aussi sur le modèle
+			<lb/>
+			d&apos;accompagnement en son sein. Celui-ci, centré sur la relation plutôt que sur les
+			<lb/>
+			aspects techniques du soin, pointe l&apos;importance des soignants et de leur motivation au
+			<lb/>
+			sein du dispositif. Pour que le projet aboutisse, les ASG (aides-soignantes
+			<lb/>
+			gérontologiques) ne peuvent simplement prester leurs heures sans s&apos;investir
+			<lb/>
+			davantage. Certaines caractéristiques notables montraient que les ASG recrutées
+			<lb/>
+			étaient considérées comme volontaires, repérées comme efficaces par leur
+			<lb/>
+			encadrement. Leur expérience antérieure auprès des personnes accueillies et leur
+			<lb/>
+			rapport distancié par rapport aux normes prescrites leur avaient permis de développer
+			<lb/>
+			des conduites particulières. Or, notre identification de ce profil n&apos;a été possible que
+			<lb/>
+			par la confrontation constante au terrain et le frottement des concepts et des
+			<lb/>
+			méthodes, pour mieux construire avec les acteurs de terrain une compréhension des
+			<lb/>
+			enjeux du dispositif, physique autant qu&apos;organisationnel; soit, le mouvement
+			<lb/>
+			d&apos;induction. L&apos;analyse des communications a été le socle fédérateur à partir duquel
+			<lb/>
+			cette convergence a pu croître.
+			<lb/>
+		</p>
+		
+		<p>Un autre résultat est apparu, précieux pour l&apos;ancrage des concepts dans un
+			<lb/>
+			contexte spécifique, quitte à les en détacher dans une tentative ultérieure de
+			<lb/>
+			généralisation. Il appuie encore la légitimité d&apos;une approche inductive pour une
+			<lb/>
+			recherche-action. Une immersion dans le contexte du PASA semble inévitable pour
+			<lb/>
+			développer les caractéristiques du modèle d&apos;accompagnement que ce dispositif
+			<lb/>
+			illustre. La formalisation d&apos;un PASA devrait donc être renégociée régulièrement, les
+			<lb/>
+			jalons de cette renégociation étant à anticiper par l&apos;organisation, par exemple dans des
+			<lb/>
+			temps de partage de l&apos;expérience des professionnels du PASA vers les autres équipes,
+			<lb/>
+			voire des temps de retour sur l&apos;expérience de ceux qui n&apos;y auraient fait qu&apos;un séjour.
+			<lb/>
+			Ce serait un premier levier de partage d&apos;une culture commune innovante, autant
+			<lb/>
+			qu&apos;une façon de tirer parti d&apos;un PASA comme espace de formation particulier. Un
+			<lb/>
+			séjour répété en PASA pour différents profils professionnels, expérience réflexive qui
+			<lb/>
+			serait également partagée dans des temps d&apos;analyse de cette circulation, travaillerait
+			<lb/>
+			en ce sens. Les professionnels d&apos;autres espaces disposeraient ainsi d&apos;une part
+			<lb/>
+			commune de cette expérience qui naît au coeur de ce dispositif.
+			<lb/>
+		</p>
+		
+		<p>Très inductivement, nous n&apos;avons que peu à peu pris conscience de l&apos;esprit
+			<lb/>
+			général de notre analyse : mettre en exergue que le savoir qui se développe par
+			<lb/>
+			l&apos;expérience au sein d&apos;un PASA ne doit pas rester celui dont sont dépositaires les
+			<lb/>
+			seuls acteurs en interaction avec le PASA. Le modèle du désamorçage continu par
+			<lb/>
+			exemple, ou les possibilités physiques permettant d&apos;être vigilant tout en étant dans
+			<lb/>
+			l&apos;action auprès des personnes, sont de précieux guides à la réflexion sur d&apos;autres
+			<lb/>
+			initiatives, ailleurs dans l&apos;organisation, qu&apos;il convient de reprendre collectivement. À
+			<lb/>
+			partir du constat qu&apos;une culture spécifique se développait au PASA, plus apparentée à
+			<lb/>
+			celle de la relation à l&apos;autre qu&apos;à une prise en charge technique du soin, notre
+			<lb/>
+			réflexion croisée a aussi permis d&apos;avancer la proximité d&apos;une culture du PASA avec
+			<lb/>
+			celle de l&apos;animation sociale, par contraste avec une culture et des pratiques des autres
+			<lb/>
+			services plus proches d&apos;un modèle sanitaire de prise en charge. Or, ce dernier résultat
+			<lb/>
+			n&apos;est pas né d&apos;un modèle prédictif des pratiques, mais grâce à deux couches croisées
+			<lb/>
+			d&apos;analyses : celle des échanges entre chercheurs et professionnels et celle des
+			<lb/>
+			échanges entre les différents chercheurs et leurs points de vue respectifs. Ainsi la
+			<lb/>
+			communauté perçue entre les cultures concernées (PASA et animation sociale) s&apos;est
+			<lb/>
+			finalement révélée fondée sur le rapport des professionnels au transfert de gestes et
+			<lb/>
+			d&apos;attitudes relevés chez les résidents vers d&apos;autres contextes, plutôt qu&apos;à la non-prise
+			<lb/>
+			en compte de la relation dans le soin technique. Ces éléments n&apos;auraient pu être
+			<lb/>
+			rapprochés sans ce double croisement inductif par essence.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Nous nous sommes interrogés sur les raisons qui nous avaient conduits à privilégier
+			<lb/>
+			une approche inductive pour réfléchir à l&apos;évaluation d&apos;un PASA. Cinq
+			<lb/>
+			caractéristiques ont été avancées. L&apos;interdisciplinarité a nécessité que nous partions
+			<lb/>
+			de ce que nous avions en commun au-delà de nos différentes disciplines : le terrain.
+			<lb/>
+			Un espace et des situations particulières ont permis la rencontre, suscité les échanges,
+			<lb/>
+			mis en évidence les rapprochements. Ce que nous vivions sur ce terrain a parfois
+			<lb/>
+			donné lieu également à des débats sur la manière de poursuivre nos investigations.
+			<lb/>
+			Cette richesse née du croisement de nos trois disciplines a d&apos;ailleurs été
+			<lb/>
+			insuffisamment exploitée : l&apos;articulation de nos différents apports aurait mérité plus
+			<lb/>
+			de temps encore. Nos travaux respectifs se sont enrichis mutuellement et nous ne
+			<lb/>
+			nous sommes pas bornés à juxtaposer des connaissances, mais nous ne sommes pas
+			<lb/>
+			tout à fait parvenus à une véritable transdisciplinarité. <ref type="biblio">Hamel (2005, p. 110)</ref> indique
+			<lb/>
+			en effet que celle-ci cherche à « outrepasser les disciplines afin d&apos;atteindre l&apos;unité de
+			<lb/>
+			la connaissance en gommant pour ce faire toute réduction et toute spécialisation vues,
+			<lb/>
+			de manière péjorative, comme freins au savoir que la science cherche délibérément à
+			<lb/>
+			dominer ». Nous n&apos;avons pu gommer totalement toute réduction et spécialisation, ne
+			<lb/>
+			serait-ce que dans le choix de notre récolte des données ou dans l&apos;analyse
+			<lb/>
+			individualisée de nos résultats. La flexibilité du travail collaboratif, elle, aura pourtant
+			<lb/>
+			permis le recours à un outil non envisagé d&apos;emblée, mais qui répondait au mieux aux
+			<lb/>
+			caractéristiques du terrain.
+			<lb/>
+		</p>
+		
+		<p>La dimension « action » de notre recherche, dans les échanges réguliers avec les
+			<lb/>
+			professionnels et ceux des réunions trimestrielles, où nous présentions des points
+			<lb/>
+			d&apos;étape, nous a tenus éloignés du risque d&apos;une position en surplomb. Nos remarques
+			<lb/>
+			venaient modifier le terrain étudié, mais celles des professionnels modifiaient notre
+			<lb/>
+			regard sur les choses. Elles permettaient de valider ou rectifier les premières
+			<lb/>
+			hypothèses élaborées chemin faisant.
+			<lb/>
+		</p>
+		
+		<p>Les quatrième et cinquième caractéristiques sont liées : notre proximité avec
+			<lb/>
+			l&apos;interactionnisme symbolique et l&apos;école de Montréal selon lesquels, concevant la
+			<lb/>
+			réalité sociale comme un processus, les socialisations s&apos;opérationnalisent, se
+			<lb/>
+			consolident et se modifient lors des interactions. Nous fondant sur l&apos;idée que la
+			<lb/>
+			communication est constitutive de la réalité sociale et que les organisations sont
+			<lb/>
+			fondées dans et au travers des communications humaines, nous sommes contraints de
+			<lb/>
+			pratiquer sans cesse un va-et-vient entre théorie provisoire et terrain qui permet
+			<lb/>
+			l&apos;ajustement de celle-ci.
+			<lb/>
+		</p>
+		
+		<p>Depuis la construction de la récolte des données jusqu&apos;à l&apos;analyse de celles-ci,
+			<lb/>
+			l&apos;approche inductive a été le guide autant que le garde-fou qui nous a permis de
+			<lb/>
+			« coller » au mieux à la réalité spécifique de la situation étudiée, sans « adhérence »
+			<lb/>
+			excessive. L&apos;un des gages de ce succès a été la réaction des acteurs de terrain avec
+			<lb/>
+			lesquels nous avons évolué. Nos avancées et conclusions leur ont toujours semblé
+			<lb/>
+			familières, presque d&apos;évidence, pourtant leurs articulations et leurs conséquences ne
+			<lb/>
+			manquaient jamais de susciter surprise, doute, intérêt, méfiance, satisfaction,
+			<lb/>
+			questionnement des pratiques, débat… Autant de marqueurs de la genèse de
+			<lb/>
+			connaissances qui faisaient sens. Lors des réunions trimestrielles, les acteurs n&apos;étaient
+			<lb/>
+			jamais indifférents à ce que nous produisions et n&apos;hésitaient pas à nous interpeller
+			<lb/>
+			quand nos conclusions préliminaires ne correspondaient pas à leur vision des choses.
+			<lb/>
+			Une rencontre faisant suite à la remise du rapport final a témoigné du fait que nous
+			<lb/>
+			avions collé de près aux réalités de terrain sans nous départir d&apos;un certain regard,
+			<lb/>
+			différent de celui des intervenants quotidiens du PASA. En effet, des professionnels
+			<lb/>
+			plus extérieurs à cet espace nous ont reproché notre proximité avec les aides-<lb/>soignantes : « quand je
+			lis votre rapport, j&apos;ai l&apos;impression que je lis quelque chose qui
+			<lb/>
+			a été écrit par l&apos;une d&apos;entre elles 4 ». Or, celles-ci se sont senties parfois trahies par ce
+			<lb/>
+			même travail. Assurément, nous n&apos;étions pas réellement un membre de l&apos;équipe :
+			<lb/>
+			nous étions bien restés chercheurs de bout en bout. La réaction des professionnelles
+			<lb/>
+			attachées au PASA manifestait qu&apos;elles se « trompaient » pourtant parfois dans la
+			<lb/>
+			façon qu&apos;elles avaient de nous considérer, donc de se comporter. Ceci rejoint Schütz
+			<lb/>
+			(2008) lorsqu&apos;il distingue l&apos;observateur « lambda » du chercheur; le premier observe
+			<lb/>
+			les interactions à partir de sa situation biographique propre à l&apos;intérieur du monde
+			<lb/>
+			social, tandis que le chercheur observe avec un système de pertinences différent de
+			<lb/>
+			celui de la vie quotidienne. Le problème scientifique qui occupe le chercheur, ou son
+			<lb/>
+			objet de recherche, va conditionner ces structures de pertinences, qui fonctionneront
+			<lb/>
+			comme schèmes de sélection et d&apos;interprétation. Ici, ce que nous jugions pertinent ou
+			<lb/>
+			non l&apos;était bien en fonction de notre problématique et de nos connaissances
+			<lb/>
+			scientifiques sur le sujet, non d&apos;une réserve de connaissances socialement dérivées et
+			<lb/>
+			approuvées. Le regard porté sur le monde était différent : nous voyions les mêmes
+			<lb/>
+			choses, mais ne les regardions pas de la même manière.
+			<lb/>
+		</p>
+		
+		<p>Nos conclusions ont par ailleurs été reprises dans le rapport d&apos;évaluation du
+			<lb/>
+			Plan Alzheimer 2008-2012 (<ref type="biblio">Ankri &amp; Van Broeckhoven, 2013</ref>), un marqueur de plus
+			<lb/>
+			de sa pertinence professionnelle. L&apos;interdisciplinarité et la volonté d&apos;épauler
+			<lb/>
+			utilement les professionnels dans leur réflexion sur l&apos;accompagnement des personnes
+			<lb/>
+			atteintes de la maladie d&apos;Alzheimer ont été les jalons de cet accomplissement.
+			<lb/>
+		</p>
+		
+		<head>Notes</head>
+	
+	
+	</text>
+</tei>

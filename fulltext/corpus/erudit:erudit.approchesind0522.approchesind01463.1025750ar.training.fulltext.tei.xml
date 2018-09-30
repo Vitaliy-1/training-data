@@ -1,0 +1,1752 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>La communication sociale se préoccupe de tous les niveaux d&apos;interaction, là où le
+			<lb/>
+			social aussi bien que les paramètres individuels s&apos;établissent. La réalisation de
+			<lb/>
+			grandes enquêtes afin de répondre à des besoins sociaux ou encore de mieux les
+			<lb/>
+			cerner constitue une activité intellectuelle qui risque fort de se produire au cours
+			<lb/>
+			d&apos;une carrière. Cette grande préoccupation de l&apos;Autre se manifestera jusque dans les
+			<lb/>
+			choix méthodologiques. Il ne faudra pas se surprendre du rôle primordial consacré à
+			<lb/>
+			l&apos;induction et de manière plus précise à la méthodologie de la théorisation enracinée
+			<lb/>
+			(MTE). Ce texte fait état de notre propre expérience; il se situe dans le voisinage de
+			<lb/>
+			l&apos;étude de cas et de l&apos;histoire de vie.
+			<lb/>
+		</p>
+		
+		<p>La méthodologie de la théorisation enracinée (MTE) se taille de plus en plus
+			<lb/>
+			une place dans l&apos;univers de la recherche universitaire. L&apos;induction, moteur puissant
+			<lb/>
+			de la pensée humaine, fait son nid en science où les mécaniques formelles classiques
+			<lb/>
+			démontrent chaque jour certaines limites. Chose certaine, le réel peut accueillir plus
+			<lb/>
+			d&apos;une démarche scientifique et personne ne peut prétendre à son explication totale et
+			<lb/>
+			finie. Dans les pages qui suivent, nous souhaitons effectuer une rétrospective de deux
+			<lb/>
+			démarches de grande envergure qui ont emprunté les principes de la MTE. De
+			<lb/>
+			manière un peu dilettante, avouons-le, nos manières de faire voulaient créer les
+			<lb/>
+			conditions qui permettraient d&apos;être le plus respectueux possible de l&apos;intentionnalité
+			<lb/>
+			des personnes consultées. Il appert toutefois que ces expériences d&apos;enquête
+			<lb/>
+			consacrées à un large public se conforment très bien à l&apos;esprit et parfois même à la
+			<lb/>
+			lettre de la MTE. Si les termes n&apos;étaient pas toujours étiquetés selon le vocabulaire
+			<lb/>
+			attribué à la MTE, la démarche méthodologique, elle, était parfaitement similaire.
+			<lb/>
+		</p>
+		
+		<p>Les deux enquêtes paraissent fort différentes, mais toujours dans les deux
+			<lb/>
+			domaines qui ont balisé notre carrière, soit la communication en situation d&apos;urgence
+			<lb/>
+			dans toutes ses dimensions et le rôle des médias en société. La dichotomie n&apos;est ici
+			<lb/>
+			qu&apos;apparente et il importe de rappeler les thèses
+			<ref type="biblio">de Beck (2003) et de Giddens (1994)
+				<lb/>
+			</ref>
+			qui toutes les deux font de la réflexivité le seul outil de dépassement de la société du
+			<lb/>
+			risque vers une modernité authentique. Cette fameuse réflexivité instaurée à l&apos;échelle
+			<lb/>
+			d&apos;une société ne peut s&apos;obtenir que par une circulation véritable de l&apos;information,
+			<lb/>
+			libre, de qualité et exempte des excès de la marchandisation; vaste chantier s&apos;il en est
+			<lb/>
+			un.
+			<lb/>
+		</p>
+		
+		<p>Dans une étude, l&apos;attitude réflexive nécessaire contre la société du risque prend
+			<lb/>
+			le visage de la prévention de la propagation d&apos;une maladie vectorielle. C&apos;est la
+			<lb/>
+			prévention de la dengue. Dans l&apos;autre étude, on se penche sur les moyens d&apos;accéder à
+			<lb/>
+			une modernité authentique qui nous permettraient un jour d&apos;échapper à cette fameuse
+			<lb/>
+			société du risque où se manifestent, et vont se manifester, nombre d&apos;incidents
+			<lb/>
+			dommageables à l&apos;être humain. La société du risque, c&apos;est la société où l&apos;on crée des
+			<lb/>
+			bidonvilles, où l&apos;on pratique la déforestation, où l&apos;on produit industriellement sans se
+			<lb/>
+			soucier des lieux de contagion (<ref type="biblio">Dodet &amp; Saluzzo, 1997</ref>) et où l&apos;on crée
+			ainsi les
+			<lb/>
+			conditions propices à la propagation des vecteurs, et donc des maladies qu&apos;ils
+			<lb/>
+			véhiculent. Pour en arriver à ne plus accepter cette prémisse de la généralisation du
+			<lb/>
+			risque et en demeurer la victime, il nous faut développer une réflexion sociale sur la
+			<lb/>
+			manière dont nous vivons, sur notre manière d&apos;habiter la planète. C&apos;est à ce chapitre
+			<lb/>
+			que le rôle des médias entre en jeu, c&apos;est à ce chapitre qu&apos;une activité d&apos;information
+			<lb/>
+			durable doit accompagner le développement durable. C&apos;est donc en cohérence aussi
+			<lb/>
+			bien que dans une constance théorique que les deux grandes études se sont déroulées
+			<lb/>
+			à quelques années d&apos;intervalle.
+			<lb/>
+		</p>
+		
+		<p>La première traite des risques d&apos;une récidive épidémique dans les régions
+			<lb/>
+			françaises d&apos;outre-mer (<ref type="biblio">Corriveau, Philippon, &amp; Yébakima, 2003</ref>). Sur l&apos;expertise
+			<lb/>
+			collégiale intitulée La dengue dans les départements français d&apos;Amérique : comment
+			<lb/>
+			optimiser la lutte contre cette maladie?, nous avons agi comme rapporteur, ce qui
+			<lb/>
+			nous a consacré aussi comme un des codirecteurs de cette enquête avec Bernard
+			<lb/>
+			Philippon et André Yébakima. Cette démarche, parrainée par l&apos;Institut de recherche
+			<lb/>
+			pour le développement (IRD) situé à Paris, s&apos;est déroulée sur plusieurs années et a
+			<lb/>
+			mis à contribution une liste importante de chercheurs chevronnés (voir l&apos;Annexe 1).
+			<lb/>
+			Rappelons que l&apos;IRD est une institution pionnière dans le domaine des expertises
+			<lb/>
+			collégiales. Cette expérience nous a beaucoup appris et la démarche novatrice revient
+			<lb/>
+			de plein droit aux chercheurs de ce prestigieux institut. Nous relaterons ici ce que
+			<lb/>
+			nous avons vécu, mais de l&apos;intérieur du processus. Celles et ceux qui voudraient en
+			<lb/>
+			savoir davantage peuvent consulter le site de l&apos;IRD à cet effet 1 .
+			<lb/>
+			L&apos;autre étude portait sur l&apos;état de l&apos;information au Québec en 2008. Le rapport
+			<lb/>
+			initial de cette enquête peut être consulté sur le site du Conseil de presse 2 . Dans cette
+			<lb/>
+			démarche, en tant que président du Conseil de presse, nous avons réalisé cette
+			<lb/>
+			enquête avec l&apos;aide d&apos;une équipe. Il importe de mentionner les contributions de
+			<lb/>
+			Nathalie Verge et de Guy Amyot qui ont agi tour à tour à titre de secrétaire général,
+			<lb/>
+			mais nous devons souligner particulièrement le travail de Marie-Ève Carignan
+			<lb/>
+			comme analyste à qui nous devons un énorme effort de collation des données et de
+			<lb/>
+			mise en cohérence. Dans cette enquête toutefois, la confrontation avec la MTE ne
+			<lb/>
+			s&apos;est pas réalisée dans un seul mouvement, mais s&apos;est effectuée en deux temps, à
+			<lb/>
+			partir du moment où, quelques années plus tard, nous en avons fait un élément
+			<lb/>
+			important d&apos;un volume publié avec Guillaume Sirois dont le titre est L&apos;information :
+			<lb/>
+			la nécessaire perspective citoyenne (<ref type="biblio">Corriveau &amp; Sirois, 2012</ref>).
+			<lb/>
+		</p>
+		
+		<p>Nous verrons une à une ces expériences et tenterons d&apos;établir leur compatibilité
+			<lb/>
+			avec la MTE.
+			<lb/>
+		</p>
+		
+		<head>1. La lutte contre la dengue dans les départements français d&apos;Amérique
+			<lb/>
+		</head>
+		
+		<p>La dengue, maladie vectorielle sévère et trop souvent mortelle contre laquelle nous
+			<lb/>
+			n&apos;avons ni vaccin ni médicament spécifique, possède quatre souches principales et est
+			<lb/>
+			d&apos;une grande complexité virale. Cette maladie est transmise d&apos;un humain à l&apos;autre
+			<lb/>
+			principalement par un moustique anthropophile, l&apos;Aedes Aegypti. La femelle pique les
+			<lb/>
+			humains lors d&apos;un repas de sang afin de nourrir ses oeufs; c&apos;est une loi fondamentale
+			<lb/>
+			de la survie des espèces. Le décor est ainsi mis pour la création d&apos;un problème
+			<lb/>
+			sociosanitaire majeur. Les moustiques se répandent en profitant de l&apos;eau stagnante où
+			<lb/>
+			les femelles déposent leurs oeufs. Eau stagnante que l&apos;on retrouve autour des
+			<lb/>
+			domiciles, et ce, aussi bien dans les pots à fleurs, dans les gouttières que dans les
+			<lb/>
+			déchets abandonnés le long des voies publiques. Un seul propriétaire délinquant aussi
+			<lb/>
+			bien qu&apos;un beau cimetière plein de fleurs peut infester tout un quartier. Un seul
+			<lb/>
+			voyageur infecté peut déclencher une vague épidémique dans le lieu qu&apos;il visite. Un
+			<lb/>
+			seul oeuf infecté à la suite d&apos;un repas de sang effectué sur une personne en Asie peut
+			<lb/>
+			éclore dans une flaque d&apos;eau sur le pont d&apos;un navire dans les Caraïbes et produire un
+			<lb/>
+			insecte vecteur de la maladie. L&apos;habitude de vie des riches comme des pauvres aussi
+			<lb/>
+			bien que la multiplication des échanges de biens et services favorisent l&apos;éclosion
+			<lb/>
+			d&apos;épidémies. Pas surprenant que la dengue soit la maladie vectorielle qui connaît la
+			<lb/>
+			plus grande propagation dans le monde et que ce soit une des priorités de
+			<lb/>
+			l&apos;Organisation mondiale de la santé. En absence de prophylaxie comme de
+			<lb/>
+			médicament curatif, la communication sociale demeure notre seule arme.
+			<lb/>
+		</p>
+		
+		<p>À la suite de problèmes épidémiques répétés et grâce au leadership du Conseil
+			<lb/>
+			général de la Martinique, les autorités des départements français d&apos;outre-mer
+			<lb/>
+			d&apos;Amérique ont sollicité l&apos;IRD afin d&apos;améliorer leur combat contre cette menace à la
+			<lb/>
+			santé des populations. Ayant réalisé plusieurs campagnes de communication contre la
+			<lb/>
+			dengue sur divers continents, mon nom a été retenu par l&apos;IRD. C&apos;est donc dans ce
+			<lb/>
+			cadre que se situe l&apos;expertise collégiale. Rappelons succinctement en quoi consiste
+			<lb/>
+			une telle entreprise. Sous la direction de quelques chercheurs, une communauté où
+			<lb/>
+			sévit un problème formule plusieurs questions au monde scientifique dans l&apos;espoir de
+			<lb/>
+			pouvoir collectivement articuler une réponse mieux coordonnée à ce problème.
+			<lb/>
+			L&apos;équipe de direction ayant été alimentée par la communauté doit par la suite
+			<lb/>
+			identifier les personnes qui, dans le monde scientifique, sont les mieux en mesure de
+			<lb/>
+			trouver une réponse à ces questions cruciales exprimées par la population. L&apos;équipe
+			<lb/>
+			de direction regroupe alors ces chercheurs venus du monde entier afin de former un
+			<lb/>
+			collège d&apos;experts et travaille avec eux à formuler ces réponses. Une fois l&apos;exercice
+			<lb/>
+			terminé, les réponses et les recommandations qui en découlent sont acheminées par
+			<lb/>
+			l&apos;équipe de direction à la communauté de manière à les aider à résoudre le problème
+			<lb/>
+			auquel elle est confrontée. Divers problèmes sont ainsi abordés, qui vont de la
+			<lb/>
+			propagation du méthyle mercure dans le bassin versant de l&apos;Amazonie jusqu&apos;à la
+			<lb/>
+			question cruciale de l&apos;énergie, du développement dans un territoire éloigné jusqu&apos;à la
+			<lb/>
+			lutte contre une maladie vectorielle, comme dans le cas qui nous occupe.
+			<lb/>
+			Comme codirecteur, nous avons eu la chance de travailler avec deux sommités
+			<lb/>
+			internationales, messieurs Philippon et Yébakima. Ensemble, nous avons établi la
+			<lb/>
+			séquence organisationnelle suivante :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>a) La consolidation administrative (2000);
+				<lb/>
+			</item>
+			
+			<item>b) L&apos;atelier initial (2001);
+				<lb/>
+			</item>
+			
+			<item>c) La synthèse des questions (2001);
+				<lb/>
+			</item>
+			
+			<item>d) La constitution d&apos;une équipe de chercheurs internationaux (2001);
+				<lb/>
+			</item>
+			
+			<item>e) La rencontre de l&apos;équipe de chercheurs (2002);
+				<lb/>
+			</item>
+			
+			<item>f) La visite sur le terrain et les rencontres de différents acteurs locaux (2002);
+				<lb/>
+			</item>
+			
+			<item>g) La production des réponses et recommandations (2002);
+				<lb/>
+			</item>
+			
+			<item>h) La rencontre des autorités sanitaires et politiques (2003);
+				<lb/>
+			</item>
+			
+			<item>i) La publication des résultats de l&apos;expertise (2003).
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Nous utiliserons cette séquence opérationnelle comme point de référence
+			<lb/>
+			puisqu&apos;à chacune de ces étapes, des éléments de méthodologie furent convoqués. En
+			<lb/>
+			nous inspirant des principes directeurs de la méthodologie de la théorisation enracinée
+			<lb/>
+			(MTE) (Guillemette <ref type="biblio">&amp; Luckerhoff, 2009; Luckerhoff &amp; Guillemette, 2012</ref>),
+			nous
+			<lb/>
+			tenterons d&apos;établir les filiations méthodologiques entre notre démarche lors de
+			<lb/>
+			l&apos;expertise collégiale et la MTE, en prenant comme repère les grands gestes inductifs
+			<lb/>
+			de la MTE que sont : l&apos;exploration et l&apos;inspection, l&apos;emergent-fit, l&apos;échantillonnage
+			<lb/>
+			théorique, le recours aux écrits scientifiques, la sensibilité théorique et la circularité
+			<lb/>
+			de la démarche. Afin de mieux saisir comment cette grande parenté est possible, nous
+			<lb/>
+			devons expliquer chacune de ces grandes étapes opérationnelles.
+			<lb/>
+		</p>
+		
+		<head>1.1 La consolidation administrative
+			<lb/>
+		</head>
+		
+		<p>Comme codirecteur du projet, notre premier devoir a été de consolider le maillage
+			<lb/>
+			politico-financier qui allait nous permettre de mettre en oeuvre ce qui s&apos;est imposé
+			<lb/>
+			d&apos;emblée : une expertise collégiale. Il ne faut pas négliger ces premiers gestes
+			<lb/>
+			administratifs, car en filigrane le demandeur peut préciser plusieurs éléments
+			<lb/>
+			importants qui vont baliser tout le reste de la démarche. S&apos;engager financièrement à
+			<lb/>
+			soutenir une démarche inductive n&apos;est pas une chose très courante dans les milieux
+			<lb/>
+			administratifs et cela a nécessité beaucoup d&apos;explications et de discussions. Les
+			<lb/>
+			points les plus litigieux tournent surtout autour de la validité scientifique et de la
+			<lb/>
+			planification administrative. Dans le cas d&apos;une expertise collégiale, la sélection des
+			<lb/>
+			personnes qui vont participer à l&apos;atelier initial demeure un moment méthodologique
+			<lb/>
+			crucial. Le bailleur de fonds voudra, puisqu&apos;il s&apos;engage au nom d&apos;une collectivité,
+			<lb/>
+			s&apos;assurer que sa communauté est équitablement représentée lors de l&apos;atelier initial.
+			<lb/>
+			C&apos;est un aspect intéressant qui signifie ni plus ni moins que la mise en place des
+			<lb/>
+			conditions à la représentativité des assises de l&apos;induction, en plus d&apos;y retrouver les
+			<lb/>
+			éléments pour garantir l&apos;exploration et une inspection adéquate de la problématique
+			<lb/>
+			retenue.
+			<lb/>
+		</p>
+		
+		<p>La conséquence majeure qui émerge de cette première étape sera le large
+			<lb/>
+			éventail des intervenants retenus. Quelques exemples nous aident à mieux
+			<lb/>
+			comprendre la nécessité aussi bien que l&apos;ampleur du phénomène en cause. Bien
+			<lb/>
+			évidemment, on y retrouvera les médecins. L&apos;un, urgentiste, désire actualiser au
+			<lb/>
+			maximum son savoir et connaître où en est rendue la recherche de pointe dans le
+			<lb/>
+			procédé curatif. L&apos;autre s&apos;inquiète des caractéristiques virales de la maladie et des
+			<lb/>
+			complexités reliées aux diverses souches du virus avec toutes les conséquences que
+			<lb/>
+			l&apos;on peut imaginer dans l&apos;approche envers le patient. Mais le médecin appartenant au
+			<lb/>
+			réseau sentinelle ainsi que les infirmières qui y sont rattachées veulent savoir où on
+			<lb/>
+			en est dans l&apos;élaboration d&apos;un vaccin. Ces personnes s&apos;inquiètent aussi de toute la
+			<lb/>
+			mécanique de circulation d&apos;informations et des divers réseaux qui véhiculent cette
+			<lb/>
+			même information. Encore d&apos;autres acteurs de la santé s&apos;interrogent sur la structure
+			<lb/>
+			organisationnelle dans la réponse médicale et sociale à la dengue. Ici, le spectre
+			<lb/>
+			s&apos;élargit; ce sont des ingénieurs sanitaires, des administrateurs et autres décideurs qui
+			<lb/>
+			sont inclus dans la mécanique inductive et qui sont invités à participer à l&apos;atelier
+			<lb/>
+			initial. Des questions d&apos;ordre communicationnel risquent alors de se manifester et
+			<lb/>
+			cela interpellera plus tard d&apos;autres aspects de la MTE. Qui dit maladie vectorielle dit
+			<lb/>
+			connaissance en entomologie, et là aussi des questions fondamentales se posent :
+			<lb/>
+			questions sur le comportement du moustique vecteur, sur sa reproduction, sur sa
+			<lb/>
+			résistance aux divers produits utilisés pour le contrôler, etc. Les aspects sociaux ne
+			<lb/>
+			sont pas à négliger; celles et ceux qui s&apos;occupent des familles décimées aussi bien que
+			<lb/>
+			les responsables politiques ont leurs préoccupations à exprimer. Les gestionnaires et
+			<lb/>
+			les administrateurs publics ont aussi leurs questions à poser, par exemple combien
+			<lb/>
+			coûte une épidémie? Le comité de direction veille donc à bien représenter le large
+			<lb/>
+			éventail des domaines interpelés par la maladie. Il invite à l&apos;atelier initial les
+			<lb/>
+			principales personnes qui sont en interaction avec la problématique de la dengue. La
+			<lb/>
+			qualité de l&apos;induction en dépend. Mais ce choix, bien qu&apos;il se fasse tout au début de
+			<lb/>
+			l&apos;expertise, aura des conséquences sur un aspect important de la démarche en MTE.
+			<lb/>
+			Nous faisons référence ici à l&apos;échantillonnage théorique (
+			<ref type="biblio">Charmaz, 2002, 2006;
+				<lb/>
+				Corbin &amp; Strauss, 2008; Glaser, 1978, 2001; Glaser &amp; Strauss, 1967
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Concrètement, pour les chercheurs consultés, l&apos;échantillonnage théorique
+			<lb/>
+			signifie que les personnes, les lieux et les situations où ils vont collecter
+			<lb/>
+			des données empiriques sont choisis en fonction de leur capacité à
+			<lb/>
+			favoriser l&apos;émergence et la construction de la théorie (Guillemette
+			<ref type="biblio">&amp;<lb/>
+				Luckerhoff, 2009, p. 8
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>On prend conscience ici que l&apos;expertise collégiale est vraiment imprégnée des
+			<lb/>
+			principes de la MTE dans sa totalité et qu&apos;aucune des étapes n&apos;est indifférente ou peu
+			<lb/>
+			importante. Dans cette première phase, que certains pourraient juger instrumentale, se
+			<lb/>
+			joue donc la mise en place des conditions favorables à l&apos;éclosion d&apos;une mécanique
+			<lb/>
+			inductive à large spectre. Grâce à cette première étape, l&apos;atelier initial profite des
+			<lb/>
+			conditions nécessaires pour devenir le moment charnière de toute l&apos;expertise
+			<lb/>
+			collégiale.
+			<lb/>
+		</p>
+		
+		<head>1.2 L&apos;atelier initial et la synthèse des questions
+			<lb/>
+		</head>
+		
+		<p>L&apos;atelier initial s&apos;est déroulé sur trois jours en février 2001. Plus d&apos;une trentaine de
+			<lb/>
+			personnes ont discuté des principales questions qui devaient être posées au monde
+			<lb/>
+			scientifique. Rappelons que ces personnes possédaient elles-mêmes un large bagage
+			<lb/>
+			de compétences tant technique que pratique. C&apos;est l&apos;appui de la recherche qui est ici
+			<lb/>
+			convoqué, les acteurs sur le terrain voulant obtenir l&apos;aide de celles et ceux dont la
+			<lb/>
+			profession est de se consacrer à la recherche à temps plein. Cet atelier de facture
+			<lb/>
+			hautement dialogique nous laisse un souvenir impérissable quant à la maturité et à la
+			<lb/>
+			qualité des échanges. Cette discussion très argumentée sur le réel est en soi porteuse
+			<lb/>
+			de la mécanique inductive. Ces allers-retours, ces points de convergence, cette
+			<lb/>
+			formulation de consensus autour de certaines questions donnent déjà accès à une
+			<lb/>
+			certaine forme de savoir. Il faut reconnaître la grande richesse des échanges entre les
+			<lb/>
+			acteurs des différents domaines qui couvrent plusieurs aspects de la lutte contre la
+			<lb/>
+			dengue. Formuler une question témoigne d&apos;une compréhension des limites de la
+			<lb/>
+			connaissance dans un domaine précis du savoir. Cela suppose évidemment un aller-<lb/>retour entre savoir et
+			application de ce savoir. Cela postule une posture théorique
+			<lb/>
+			parente de l&apos;emergent-fit. La formulation de 88 questions originelles par les membres
+			<lb/>
+			de l&apos;atelier, puis leur reformulation en onze questions dans cinq domaines différents
+			<lb/>
+			vont établir le cadre de l&apos;induction. Ce processus de réduction des questions suppose,
+			<lb/>
+			quant à lui, nombre de synthèses, d&apos;élagages, de recoupements, de mobilité
+			<lb/>
+			intellectuelle, tout cela pour en venir à isoler un noyau dur à partir duquel l&apos;expertise
+			<lb/>
+			pourra se poursuivre dans la satisfaction de tous les partenaires et des commanditaires
+			<lb/>
+			de l&apos;aventure scientifique qui se met en place. La lecture des questions formulées
+			<lb/>
+			selon divers thèmes est instructive (voir <ref type="box">l&apos;Encadré 1</ref>).
+			<lb/>
+		</p>
+		
+		<p>À la lecture des thèmes retenus et des questions qui s&apos;y rattachent, on s&apos;inscrit
+			<lb/>
+			donc dans plusieurs réalités. Il devient facile de mesurer à quel point nous sommes
+			<lb/>
+			éloignés d&apos;une approche hypothéticodéductive et à quel point l&apos;induction est
+			<lb/>
+			nécessaire. Avec un tel cadrage, les autres étapes de la MTE pourront donc être
+			<lb/>
+			convoquées tour à tour.
+			<lb/>
+		</p>
+		
+		<head>1.3 La constitution et la rencontre d&apos;une équipe de chercheurs internationaux
+			<lb/>
+		</head>
+		
+		<p>Afin d&apos;identifier les chercheurs les mieux placés pour fournir une réponse adéquate
+			<lb/>
+			aux questions soulevées lors de l&apos;atelier initial, l&apos;équipe de direction n&apos;a pas le choix
+			<lb/>
+			d&apos;effectuer une immense recension des écrits scientifiques qui traitent des sujets
+			<lb/>
+		</p>
+		
+		<figure type="box">Thème 1 : recherche entomologique et lutte antivectorielle
+			<lb/>
+			Question 1 : « Comment améliorer les connaissances sur les populations d&apos;Ae.
+			<lb/>
+			Aegypti afin de définir des indicateurs pertinents de détection précoce des risques
+			<lb/>
+			épidémiques et optimiser, en période inter ou intraépidémique, la stratégie de lutte
+			<lb/>
+			antivectorielle, seule méthode de prévention et de lutte actuellement disponible? »
+			<lb/>
+			Question 2 : « Quels sont les partenaires sociaux dans la lutte contre la dengue et
+			<lb/>
+			quel rôle peut y jouer la participation communautaire? »
+			<lb/>
+			Question 3 : « Quelles peuvent être les conséquences d&apos;une catastrophe naturelle de
+			<lb/>
+			type cyclonique sur la survenue d&apos;une épidémie de dengue, et comment en limiter les
+			<lb/>
+			conséquences? »
+			<lb/>
+			Thème 2 : surveillance épidémiologique
+			<lb/>
+			Question 4 : « Quels devraient être les objectifs d&apos;un système national ou régional de
+			<lb/>
+			surveillance de la dengue, dans les domaines de l&apos;alerte et du suivi des tendances? »
+			<lb/>
+			Question 5 : « Quels devraient être les seuils d&apos;intervention (cas suspects ou
+			<lb/>
+			probables, cas confirmés, formes sévères) et comment les déterminer? »
+			<lb/>
+			Question 6 : « Quel peut être l&apos;apport des outils de détection et de caractérisation des
+			<lb/>
+			virus dans la surveillance et le contrôle de la dengue? »
+			<lb/>
+			Thème 3 : expression clinique de la dengue
+			<lb/>
+			Question 7 : « La recherche sur les mécanismes physiopathologiques des formes
+			<lb/>
+			sévères de la dengue peut-elle améliorer la prise en charge de la maladie? »
+			<lb/>
+			Thème 4 : facteurs organisationnels et systèmes d&apos;information
+			<lb/>
+			Question 8 : « Facteurs organisationnels locaux d&apos;optimisation de la lutte contre la
+			<lb/>
+			dengue : que faut-il attendre de la mise en oeuvre d&apos;un système d&apos;alerte, de
+			<lb/>
+			procédures standardisées de circulation de l&apos;information et d&apos;une information
+			<lb/>
+			préventive adaptée de la population? »
+			<lb/>
+			Question 9 : « Facteurs organisationnels régionaux de la lutte contre la dengue : que
+			<lb/>
+			peut-on attendre d&apos;un réseau d&apos;échanges et d&apos;information entre pays de la Caraïbe? »
+			<lb/>
+			Question 10 : « Quel pourrait être l&apos;apport des nouvelles technologies de
+			<lb/>
+			l&apos;information en vue de l&apos;amélioration de la surveillance et du contrôle de la
+			<lb/>
+			dengue? »
+			<lb/>
+			Thème 5 : impact économique de la dengue
+			<lb/>
+			Question 11 : « Comment peut-on évaluer le poids économique de la dengue en
+			<lb/>
+			période d&apos;endémie et en période d&apos;épidémie? »
+			<lb/>
+			Encadré 1. Les grands thèmes de l&apos;expertise collégiale (Source : Corriveau,
+			<lb/>
+			Philippon, &amp; Yébakima, 2003)
+			<lb/>
+		</figure>
+		
+		<p>abordés. À cet égard, ils remplissent les conditions prévues par
+			<ref type="biblio">Guillemette et
+				<lb/>
+				Luckerhoff (2009)
+			</ref>
+			aux étapes de l&apos;exploration et de l&apos;inspection dans la MTE.
+			<lb/>
+			Nombre de critères doivent être satisfaits dans cette quête d&apos;experts : le domaine de
+			<lb/>
+			connaissance demeure incontestablement celui qui prime, mais l&apos;angle d&apos;approche, la
+			<lb/>
+			date de publication, la personnalité du chercheur, son aptitude à travailler dans un
+			<lb/>
+			espace collégial doivent aussi être envisagées. Une recension des écrits classique
+			<lb/>
+			n&apos;aura pas à se préoccuper de ces derniers paramètres puisque c&apos;est le chercheur lui-<lb/>même qui
+			fera la liaison entre le domaine de connaissance et le domaine enquêté. Ici,
+			<lb/>
+			ce n&apos;est pas tout à fait la même chose. L&apos;équipe de direction doit non seulement
+			<lb/>
+			dépister un savoir, mais elle doit aussi identifier un savoir qui est porté par une
+			<lb/>
+			personne apte à établir des liaisons, une personne apte à l&apos;interaction. Cette dernière
+			<lb/>
+			remarque doit nous faire aussi prendre conscience du caractère collectif de la mise en
+			<lb/>
+			oeuvre de la MTE en de pareils cas. On imagine souvent le chercheur seul avec ses
+			<lb/>
+			données ou encore avec une équipe restreinte; peu souvent on se représente le
+			<lb/>
+			chercheur dans une équipe où il n&apos;y a pas d&apos;assistants, mais bien des pairs qui
+			<lb/>
+			possèdent des spécificités scientifiques parentes, mais aussi parfois très distinctes.
+			<lb/>
+			Disons tout de même que c&apos;est un immense privilège de non seulement pouvoir
+			<lb/>
+			réaliser cette recension des écrits, mais aussi de pouvoir échanger avec les experts
+			<lb/>
+			parmi les meilleurs au monde dans leur domaine. Vous trouverez à l&apos;Annexe 1 le nom
+			<lb/>
+			des chercheurs et les questions auxquelles ils furent associés. Cette exploration et
+			<lb/>
+			cette inspection nous conduit évidemment à l&apos;articulation de l&apos;emergent-fit (<ref type="biblio">Corbin
+			&amp;<lb/>
+				Strauss, 1990, 2008; Glaser, 1978, 1992, 1998; Glaser &amp; Strauss, 1967
+			</ref>
+			). Voyons en
+			<lb/>
+			quoi le concept s&apos;articule dans l&apos;expertise collégiale.
+			<lb/>
+		</p>
+		
+		<p>La première rencontre avec les chercheurs est particulièrement chargée, dès les
+			<lb/>
+			premières heures. Les pairages se réalisent, les alliances se font sur les affinités et sur
+			<lb/>
+			la connaissance, mais aussi sur la découverte du savoir des autres. Nous n&apos;entrerons
+			<lb/>
+			pas ici dans toute la dynamique interactionnelle des rapports entre les individus, nous
+			<lb/>
+			laisserons cela aux spécialistes de l&apos;animation. Mais il importe de mettre en lumière
+			<lb/>
+			la mécanique d&apos;appropriation des experts à l&apos;égard des problèmes et des réponses à
+			<lb/>
+			apporter aux questions soulevées lors de l&apos;atelier initial. Grâce à ce que, en MTE, on
+			<lb/>
+			appelle la sensibilité théorique (
+			<ref type="biblio">Corbin &amp; Strauss 2008; Dey, 1999; Glaser, 1978,
+				<lb/>
+				1995, 1998; Glaser &amp; Strauss, 1967; Strauss, 1987
+			</ref>
+			), l&apos;équipe de direction a réalisé un
+			<lb/>
+			premier temps de l&apos;emergent-fit, mais les experts ont chacun dans leur domaine
+			<lb/>
+			poursuivi sur cette lancée en se référant aux travaux de leurs collègues et à leur
+			<lb/>
+			propre recherche. La production d&apos;esquisses de travail, l&apos;échange entre experts, la
+			<lb/>
+			rétroaction des membres du bureau de direction qui ont assisté à l&apos;atelier initial, tout
+			<lb/>
+			cela contribue à ce que Guillemette et Luckerhoff identifient comme élément
+			<lb/>
+			caractéristique de l&apos;emergent-fit : « les chercheurs confrontent constamment les
+			<lb/>
+			concepts et les énoncés avec les données empiriques; ceci leur permet de juger de
+			<lb/>
+			l&apos;adéquation entre leurs ébauches théoriques et les données empiriques » (<ref type="biblio">2009, p. 7</ref>).
+			<lb/>
+			Mais, et c&apos;est ce qui est particulier à cette expertise collégiale, les experts ont voulu
+			<lb/>
+			aller plus loin et se rendre sur le terrain avant de formuler leurs réponses et
+			<lb/>
+			recommandations. À l&apos;origine, cette étape n&apos;était pas prévue et elle a suscité nombre
+			<lb/>
+			de frissons administratifs.
+			<lb/>
+		</p>
+		
+		<head>1.4 La visite sur le terrain et les rencontres avec différents acteurs locaux
+			<lb/>
+		</head>
+		
+		<p>Nous venons de le mentionner, c&apos;est à la demande expresse des experts que cette
+			<lb/>
+			étape de travail fut insérée dans le programme de l&apos;expertise. Cela nous apprend deux
+			<lb/>
+			choses. Tout d&apos;abord, même chez les chercheurs de grand renom, la nécessité de
+			<lb/>
+			s&apos;alimenter du terrain demeure une condition sine qua non. L&apos;approche inductive ne
+			<lb/>
+			peut ici être considérée comme un fait mineur et encore moins réalisée par des
+			<lb/>
+			apprentis sorciers. Ce sont des chercheurs robustes qui plaident pour sa mise en
+			<lb/>
+			oeuvre. Ensuite, nous réalisons aussi que l&apos;emergent-fit connaît une deuxième phase et
+			<lb/>
+			l&apos;échantillonnage théorique pourra atteindre une grande maturité. En rencontrant les
+			<lb/>
+			collectivités et les acteurs qui y sont à l&apos;oeuvre, les experts se forcent donc à prendre
+			<lb/>
+			une distance vis-à-vis de leurs propres écrits, ils se confrontent au réel et laissent de
+			<lb/>
+			côté leurs préconceptions. C&apos;est une démarche fort parente au fameux bracketing ou à
+			<lb/>
+			la suspension théorique que l&apos;on retrouve dans la MTE. En agissant de la sorte, les
+			<lb/>
+			experts
+			assurent une forte circularité à leur recherche. Cette mise à distance favorise
+			<lb/>
+			l&apos;éclosion d&apos;idées neuves et diminue la présence de préconceptions.
+			<lb/>
+		</p>
+		
+		<head>1.5 La production des réponses et recommandations
+			<lb/>
+		</head>
+		
+		<p>Les experts n&apos;ont pas été capables de fournir des réponses à toutes les dimensions des
+			<lb/>
+			questions formulées. Nous pensons à la date de la venue d&apos;un vaccin, par exemple.
+			<lb/>
+			Mais l&apos;explication était très claire quant aux difficultés de le produire. Il est difficile
+			<lb/>
+			aussi de déterminer de manière exacte le coût d&apos;une épidémie, sans faire de longues
+			<lb/>
+			études économiques qui à elles seules sont plusieurs fois plus dispendieuses que
+			<lb/>
+			l&apos;expertise collégiale elle-même. Mais encore là, les grands modèles d&apos;enquête furent
+			<lb/>
+			expliqués. Par ailleurs, 21 recommandations qui touchent l&apos;ensemble des thèmes
+			<lb/>
+			abordés furent émises à la suite de cette expertise. Ce sont là de précieux guides
+			<lb/>
+			d&apos;action pour les décideurs. Si les percées médicales sont longues à obtenir, il y avait
+			<lb/>
+			plusieurs solutions sociales et organisationnelles accessibles à courte portée. Rien
+			<lb/>
+			n&apos;indique toutefois qu&apos;elles soient beaucoup plus faciles à mettre en place. Les
+			<lb/>
+			résistances sociales, culturelles et organisationnelles semblent tout aussi coriaces que
+			<lb/>
+			les problèmes biologiques.
+			<lb/>
+		</p>
+		
+		<p>Lors de cette étape fort importante pour les communautés, la sensibilité
+			<lb/>
+			théorique des experts est à son apogée. Rappelons ce que nos références en MTE en
+			<lb/>
+			disent :
+			<lb/>
+		</p>
+		
+		<p>[…] l&apos;expression « sensibilité théorique », pour les chercheurs en MTE,
+			<lb/>
+			renvoie à l&apos;idée d&apos;instrument de lecture avec lequel ils s&apos;immergent dans
+			<lb/>
+			les données empiriques pour en laisser émerger une analyse. Pour Strauss
+			<lb/>
+			et Corbin (1998), avoir une sensibilité théorique signifie être capable de
+			<lb/>
+			donner du sens aux données empiriques et être capable de dépasser
+			<lb/>
+			l&apos;évidence de premier niveau pour découvrir ce qui semble caché au sens
+			<lb/>
+			commun (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, p. 13</ref>).
+			<lb/>
+		</p>
+		
+		<p>En fait, c&apos;est le sens premier de la présence des experts, car on leur demande de
+			<lb/>
+			faire exactement cela, « donner du sens aux données empiriques et être capable de
+			<lb/>
+			dépasser l&apos;évidence de premier niveau pour découvrir ce qui semble caché au sens
+			<lb/>
+			commun » (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009, p. 13</ref>). C&apos;est grâce à leur
+			savoir qu&apos;ils
+			<lb/>
+			peuvent le faire. Mais la préoccupation du terrain va prendre divers visages à cette
+			<lb/>
+			étape. En répondant à des questions formulées par le terrain, l&apos;équipe de direction
+			<lb/>
+			veille à ce que les réponses soient aussi accessibles aux acteurs du terrain. Il n&apos;est
+			<lb/>
+			donc pas question de formuler des réponses qui s&apos;inscrivent dans un sociolecte
+			<lb/>
+			universitaire, dans un jargon scientifique inaccessible.
+			<lb/>
+		</p>
+		
+		<p>La formulation de recommandations constitue aussi un geste méthodologique
+			<lb/>
+			que nous devons souligner. Pensons-y un peu, formuler une recommandation c&apos;est se
+			<lb/>
+			mettre dans la position de l&apos;Autre. C&apos;est tenter de vivre sa situation et réfléchir aux
+			<lb/>
+			améliorations possibles. À bien y penser, c&apos;est une manière quasi absolue de respecter
+			<lb/>
+			ce qui émerge du corpus. Là aussi la notion de circularité est présente.
+			<lb/>
+		</p>
+		
+		<head>1.6 La rencontre des autorités sanitaires et politiques
+			<lb/>
+		</head>
+		
+		<p>La restitution des réponses formulées par les experts aux préoccupations exprimées
+			<lb/>
+			par la collectivité s&apos;est effectuée dans le même esprit qui a animé les étapes
+			<lb/>
+			antérieures. Le collège d&apos;experts a pu formuler plusieurs recommandations qui
+			<lb/>
+			couvrent l&apos;ensemble des thèmes abordés. C&apos;est le domaine organisationnel qui peut
+			<lb/>
+			fournir des réponses plus rapides, notamment au chapitre du partage de l&apos;information,
+			<lb/>
+			et ce, aussi bien à l&apos;échelle de la région Caraïbe que sur le territoire français comme
+			<lb/>
+			tel. La réponse sur le coût d&apos;une épidémie doit aussi inciter les décideurs à adopter
+			<lb/>
+			des mesures de prévention. La communication, en dehors du partage administratif de
+			<lb/>
+			l&apos;information, mais orientée vers les populations, s&apos;avère être une donnée cruciale. La
+			<lb/>
+			question médicale, on s&apos;en doute, demeure préoccupante puisque la solution par le
+			<lb/>
+			vaccin reste hors de portée pour l&apos;instant, mais la présence d&apos;un vaccin ne pourrait
+			<lb/>
+			non plus éliminer l&apos;importance des mécanismes généraux de prévention. L&apos;induction
+			<lb/>
+			a nettement permis de saisir la complexité réelle de la maladie hors de toutes lectures
+			<lb/>
+			naïves et de recettes miracles. C&apos;est donc avec certains experts que nous avons
+			<lb/>
+			rencontré les décideurs et leur avons soumis les résultats de l&apos;expertise. L&apos;idée
+			<lb/>
+			d&apos;avoir certains experts dans différents départements français d&apos;Amérique était une
+			<lb/>
+			autre occasion de partager la connaissance avec les acteurs sur le terrain. L&apos;objectif
+			<lb/>
+			n&apos;est pas uniquement de livrer, mais aussi de pouvoir expliquer par la voix de certains
+			<lb/>
+			experts eux-mêmes. C&apos;est quelque part une forme de respect de l&apos;induction.
+			<lb/>
+		</p>
+		
+		<head>1.7 La publication des résultats de l&apos;expertise
+			<lb/>
+		</head>
+		
+		<p>On pourrait s&apos;attendre à ce que la publication de l&apos;expertise ne soit qu&apos;un geste
+			<lb/>
+			d&apos;édition. Ce n&apos;est pas tout à fait le cas, puisque le souci d&apos;accessibilité et de partage
+			<lb/>
+			a pris la forme cette fois de la publication d&apos;un CD-ROM, ce qui, surtout pour
+			<lb/>
+			l&apos;époque, démontrait la volonté de rendre les données facilement accessibles et en
+			<lb/>
+			facilitait le partage. Ce partage fut d&apos;ailleurs largement répandu; nous n&apos;avons qu&apos;à
+			<lb/>
+			penser à André Yébakima qui a acheté un exemplaire de l&apos;expertise pour chaque
+			<lb/>
+			membre de son service.
+			<lb/>
+		</p>
+		
+		<p>On le constate; entre l&apos;expertise collégiale et la MTE la parenté est évidente. Il
+			<lb/>
+			est tout aussi évident de comprendre pourquoi cette expertise fut des entreprises les
+			<lb/>
+			plus stimulantes de notre carrière.
+			<lb/>
+		</p>
+		
+		<p>Passons maintenant à la deuxième grande enquête publique, celle qui concerne
+			<lb/>
+			l&apos;examen de la situation de l&apos;information au Québec.
+			<lb/>
+		</p>
+		
+		<head>2. L&apos;état de l&apos;information au Québec : l&apos;avis du public
+			<lb/>
+		</head>
+		
+		<p>Nous sommes en 2008. La crise économique gronde dans une société dite de
+			<lb/>
+			l&apos;information. Curieusement, personne n&apos;a dans l&apos;histoire du Québec consulté les
+			<lb/>
+			citoyens dans leur région sur l&apos;état de l&apos;information. Tout le monde prétend alors se
+			<lb/>
+			situer dans une mutation fondamentale de la société sans en avoir la moindre lecture
+			<lb/>
+			un tant soit peu articulée ni documentée. Le Conseil de presse amorce donc une
+			<lb/>
+			tournée pour faire le bilan de la situation de l&apos;information partout sur le territoire du
+			<lb/>
+			Québec. Cette initiative fut préparée de longue date, d&apos;abord inscrite dans un plan de
+			<lb/>
+			développement, puis approuvée par une forte majorité des membres du conseil
+			<lb/>
+			d&apos;administration. La tournée était toutefois perçue comme non souhaitable par
+			<lb/>
+			nombre d&apos;entreprises de presse. Plusieurs l&apos;ont acceptée en la croyant non réalisable
+			<lb/>
+			en fonction des maigres moyens financiers du Conseil de presse; l&apos;honneur était sauf
+			<lb/>
+			sans grand péril. À quoi bon s&apos;opposer officiellement à quelque chose d&apos;impossible à
+			<lb/>
+			faire? Après de longues discussions, le soutien financier de Patrimoine canadien allait
+			<lb/>
+			rendre possible la tournée du Québec. Sous l&apos;excellente gouverne logistique de la
+			<lb/>
+			secrétaire générale Mme Verge et fort de son mandat de garantir le droit du public à
+			<lb/>
+			une information libre et de qualité, le Conseil a mené rondement cette opération.
+			<lb/>
+		</p>
+		
+		<p>La grogne bien dissimulée des entreprises de presse allait éclater au grand jour
+			<lb/>
+			lors de la conclusion de l&apos;activité, certaines d&apos;entre elles voulant même interdire au
+			<lb/>
+			Conseil la publication des résultats de la tournée. Pire encore, alors que nous voulions
+			<lb/>
+			discuter avec les entreprises de presse et des experts de l&apos;information des constats de
+			<lb/>
+			la tournée, les entreprises ont orchestré une paralysie administrative du Conseil de
+			<lb/>
+			presse. Nous avons produit à l&apos;Annexe 2 une synthèse de ce que les citoyens ont
+			<lb/>
+			exprimé sur la situation de l&apos;information au Québec. Avec ce dernier épisode, on
+			<lb/>
+			réalise que les entreprises de presse ne tolèrent aucune réglementation, pas plus
+			<lb/>
+			qu&apos;une autoréglementation. « Seul et sans contrepouvoir » semble être leur devise. Ils
+			<lb/>
+			vous diront que le pouvoir judiciaire existe, mais l&apos;Association du Barreau canadien,
+			<lb/>
+			qui représente quelque 37 000 juristes, notaires, professeurs de droit et étudiants en
+			<lb/>
+			droit, déclare que l&apos;accès à la justice est déplorable au Canada 3 . Devant d&apos;immenses
+			<lb/>
+			conglomérats et leur batterie d&apos;avocats, le combat est perdu à l&apos;avance. Devant donc
+			<lb/>
+			le blocage des entreprises de presse, nous avons démissionné du Conseil 4 et poursuivi
+			<lb/>
+			une réflexion sur l&apos;état de l&apos;information au Québec. Pouvoir et induction ne font
+			<lb/>
+			toujours pas bon ménage, nous y reviendrons.
+			<lb/>
+		</p>
+		
+		<p>Ces éléments contextuels sont nécessaires, car non seulement ils cadrent
+			<lb/>
+			l&apos;ensemble de la démarche initiale, mais ils expliquent pourquoi nous avons senti la
+			<lb/>
+			nécessité de poursuivre la réflexion avec l&apos;apport des données obtenues dans la
+			<lb/>
+			tournée et en faire un volume. Ici donc, ce qui était censé se réaliser avec les
+			<lb/>
+			entreprises de presse et les experts, s&apos;est continué avec mon assistant Guillaume
+			<lb/>
+			Sirois. Ces précisions sont importantes parce que cette volonté même de prolonger la
+			<lb/>
+			recherche nous situe au plein coeur d&apos;une démarche orientée sur la MTE, une
+			<lb/>
+			démarche où le terrain alimente le chercheur et, dans un va-et-vient, structure sa
+			<lb/>
+			recherche. Cela nous situe en plein coeur de la MTE, à l&apos;étape de la circularité de la
+			<lb/>
+			recherche où se produit le fameux emergent-fit. Ici encore, nous établirons une
+			<lb/>
+			séquence de tout le processus de manière à mieux isoler l&apos;arrimage de cette démarche
+			<lb/>
+			d&apos;enquête publique avec la MTE. Les principaux mouvements de cette enquête furent
+			<lb/>
+			donc les suivants :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>a) L&apos;identification des thèmes de discussions et leur partage dans l&apos;espace public;
+				<lb/>
+			</item>
+			
+			<item>b) Le paramétrage et les rencontres socioéconomiques;
+				<lb/>
+			</item>
+			
+			<item>c) Les assemblées publiques;
+				<lb/>
+			</item>
+			
+			<item>d) Le rapport de la tournée;
+				<lb/>
+			</item>
+			
+			<item>e) La recherche et sa diffusion après le blocage des entreprises de presse.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Comme nous l&apos;avons mentionné antérieurement, cela représente l&apos;ensemble de
+			<lb/>
+			la démarche d&apos;enquête au-delà de la tournée du Québec. Signalons tout de même que,
+			<lb/>
+			dans les suites à la tournée, il y avait une étape prévue où experts et entreprises de
+			<lb/>
+			presse devaient débattre afin d&apos;articuler des solutions. L&apos;esprit de l&apos;induction était
+			<lb/>
+			prévu initialement, mais il s&apos;est finalement exprimé sous une autre forme. Une lecture
+			<lb/>
+			étape par étape nous en apprend davantage.
+			<lb/>
+		</p>
+		
+		<head>2.1 L&apos;identification des thèmes de discussions et leur partage dans l&apos;espace
+			<lb/>
+			public
+			<lb/>
+		</head>
+		
+		<p>L&apos;établissement des thèmes de discussion lors de grandes enquêtes publiques risque
+			<lb/>
+			de se faire différemment d&apos;une enquête mise en oeuvre par un seul chercheur.
+			<lb/>
+			Nuançons tout de même cette affirmation, car même dans une équipe de recherche,
+			<lb/>
+			les débats qui déterminent les grandes orientations peuvent être longs et houleux.
+			<lb/>
+			Dans le cas qui nous intéresse, le conseil d&apos;administration du Conseil de presse a
+			<lb/>
+			discuté et adopté les grands thèmes de recherche. Les thèmes sont formulés de
+			<lb/>
+			manière très large, de façon à ne pas donner une orientation spécifique aux réponses
+			<lb/>
+			éventuelles. L&apos;induction ne doit pas être biaisée ni orientée.
+			<lb/>
+		</p>
+		
+		<p>Nous avons pris comme élément qui soutient notre discussion sur le partage un
+			<lb/>
+			communiqué de presse présenté à <ref type="box">l&apos;Annexe 3</ref>. Ce document inventorie d&apos;abord les
+			<lb/>
+			grands thèmes retenus pour l&apos;enquête : « Le Conseil souhaite notamment obtenir
+			<lb/>
+			l&apos;opinion du public et de représentants d&apos;organismes socioéconomiques ». Le
+			<lb/>
+			communiqué démontre aussi le large spectre d&apos;auditoire pressenti dans toutes les
+			<lb/>
+			régions du Québec. Dès le départ, le désir de s&apos;inscrire dans une démarche inductive
+			<lb/>
+			est manifesté. Les points d&apos;ancrage proposés de l&apos;induction suivent tout de suite
+			<lb/>
+			après. On y fait état de grands thèmes tels que la qualité de l&apos;information locale et
+			<lb/>
+			régionale, la couverture de la réalité des régions par les médias nationaux, l&apos;accès à
+			<lb/>
+			l&apos;information régionale, la diversité des voix éditoriales, etc. Mais pour se faire une
+			<lb/>
+			idée plus juste, il faut se référer à <ref type="box">l&apos;Annexe 2</ref> où les grands points sont répertoriés.
+			<lb/>
+			Mais, là encore, ce n&apos;est pas complet puisque le rôle même du Conseil de presse fut
+			<lb/>
+			discuté et la qualité du français abordée. Il importe de mentionner que certains sous-<lb/>thèmes furent
+			repris à la suite des premières audiences; nous pensons particulièrement
+			<lb/>
+			à la qualité du français parlé sur les ondes radiophoniques. La connaissance générale
+			<lb/>
+			du Québec fut aussi une dimension ajoutée en cours de processus. Cela présuppose de
+			<lb/>
+			notre part une certaine analyse qui arrive au constat que des éléments risquent de
+			<lb/>
+			nous manquer afin de bien mener notre enquête. <ref type="biblio">Guillemette et Luckerhoff (2009)</ref>
+			<lb/>
+			parlent de circularité et de synchronicité entre analyse et collecte de données. Cela
+			<lb/>
+			traduit à nouveau une approche très imprégnée de la MTE.
+			<lb/>
+		</p>
+		
+		<head>2.2 Le paramétrage et les rencontres socioéconomiques
+			<lb/>
+		</head>
+		
+		<p>La volonté d&apos;écouter la population et de s&apos;inscrire ni plus ni moins dans une conduite
+			<lb/>
+			fortement inspirée de la MTE s&apos;est exprimée dans la structure même de la démarche
+			<lb/>
+			de recherche. Dès nos premiers pas, les acteurs socioéconomiques nous ont avisés
+			<lb/>
+			que la présence des journalistes entravait leur désir de parole et nous ont demandé de
+			<lb/>
+			ne pas les accepter lors de ces rencontres. Devant cette requête généralisée qui en
+			<lb/>
+			disait long sur le climat entre acteurs de développement et journalistes, nous avons
+			<lb/>
+			accepté de ne pas admettre les journalistes lors des rencontres avec les représentants
+			<lb/>
+			socioéconomiques des régions. Cet épisode nous amène à formuler un autre
+			<lb/>
+			commentaire concernant une approche qui réclame la participation citoyenne.
+			<lb/>
+			Revenons encore une fois au communiqué de presse. Deux extraits méritent notre
+			<lb/>
+			attention et cela n&apos;est pas sans conséquences dans une approche inductive où l&apos;on
+			<lb/>
+			sollicite des gens sur le terrain afin de participer à notre recherche.
+			<lb/>
+		</p>
+		
+		<p>Il est important pour le Conseil de mieux comprendre la réalité vécue en
+			<lb/>
+			matière d&apos;information tant dans les régions plus urbaines que rurales, et
+			<lb/>
+			ce, afin d&apos;orienter nos réflexions et nos prises de position futures […]
+			<lb/>
+			Au terme de cette tournée, nous avons comme objectif de publier un
+			<lb/>
+			diagnostic juste de la situation et mettre les forces du public, des
+			<lb/>
+			journalistes et des médias d&apos;information à profit pour renforcer la liberté
+			<lb/>
+			de presse et la qualité de l&apos;information au Québec (voir <ref type="box">l&apos;Annexe 3</ref>).
+			<lb/>
+		</p>
+		
+		<p>Ces extraits nous indiquent clairement que le chercheur doit faire connaître
+			<lb/>
+			l&apos;intentionnalité de la recherche; il doit en partager le sens. Mais comme on l&apos;observe
+			<lb/>
+			ici, cette intentionnalité n&apos;en est pas une de fermeture, mais bien d&apos;ouverture où les
+			<lb/>
+			portes sont toutes grandes ouvertes de manière à profiter de ce que l&apos;induction
+			<lb/>
+			pourrait nous permettre de découvrir.
+			<lb/>
+		</p>
+		
+		<head>2.3 Les assemblées publiques
+			<lb/>
+		</head>
+		
+		<p>Nous conservons un souvenir impérissable de ces rencontres. Il faut souligner le très
+			<lb/>
+			grand respect et la très grande maturité des personnes qui se sont exprimées. En un
+			<lb/>
+			sens, ce n&apos;est peut-être pas très surprenant, car les gens qui ont l&apos;information comme
+			<lb/>
+			préoccupation démontrent forcément un regard très analytique sur la société et sur la
+			<lb/>
+			manière dont elle devrait évoluer. Tout ce bagage de réflexions joint à celui exprimé
+			<lb/>
+			lors des rencontres socioéconomiques va conduire à des constats bien articulés. Lors
+			<lb/>
+			de la tournée du Québec, de nombreuses choses nous furent expliquées par les
+			<lb/>
+			citoyens et les acteurs de développement, que ce soit en santé, en développement du
+			<lb/>
+			territoire, en culture, etc. Les acteurs de développement nous ont expliqué, par
+			<lb/>
+			exemple, le rôle que joue la presse écrite dans les questions posées à l&apos;Assemblée
+			<lb/>
+			nationale. Si votre région n&apos;a pas de quotidien, comme c&apos;est le cas de la majorité des
+			<lb/>
+			régions administratives du Québec, les préoccupations de cette partie du territoire
+			<lb/>
+			risquent d&apos;être ignorées par l&apos;Assemblée nationale pendant de longs moments. Ce
+			<lb/>
+			genre d&apos;information est fondamental à la bonne compréhension du réel, mais ces
+			<lb/>
+			explications ne se retrouvent pas dans les livres qui traitent de l&apos;information.
+			<lb/>
+		</p>
+		
+		<p>En fait, la très grande majorité des informations qui se retrouvent à <ref type="box">l&apos;Annexe 2</ref>
+			<lb/>
+			sont totalement inédites. Prenons par exemple la grande disparité qui existe entre le
+			<lb/>
+			marché de l&apos;information et le découpage administratif des régions. Cela a des
+			<lb/>
+			conséquences financières énormes pour les organisations publiques qui doivent
+			<lb/>
+			informer l&apos;ensemble de leurs commettants sur un même territoire. Pour le même
+			<lb/>
+			évènement, on doit faire quatre et parfois jusqu&apos;à sept communiqués de presse
+			<lb/>
+			différents, acheter des espaces publicitaires dans cinq ou six médias et faire autant de
+			<lb/>
+			conférences de presse. Nous ne connaissions rien de tout cela au point de départ et,
+			<lb/>
+			sur plusieurs aspects, la dimension des problèmes nous était totalement insoupçonnée.
+			<lb/>
+			Nous pourrions facilement prendre cet exemple pour témoigner de la force de
+			<lb/>
+			l&apos;induction, et ce, plus particulièrement dans les grandes enquêtes publiques. Il est
+			<lb/>
+			renversant de voir la capacité explicative des acteurs sur le terrain. Notre grande
+			<lb/>
+			surprise d&apos;ailleurs fut, comme nous l&apos;avons mentionné, de voir des acteurs de
+			<lb/>
+			développement s&apos;approprier la tournée d&apos;un bout à l&apos;autre du Québec. Toutes ces
+			<lb/>
+			personnes et les organisations qui les mandatent constituent un cumul formidable de
+			<lb/>
+			connaissances et de réflexions. Comme chercheur nous devons utiliser une approche
+			<lb/>
+			qui doit permettre à tout ce savoir de faire surface. Un questionnaire basé sur des
+			<lb/>
+			variables fixes, à partir d&apos;un cadre théorique prédéterminé n&apos;aurait pas pu faire éclore
+			<lb/>
+			cette connaissance et cela encore moins avec des questions aux réponses fermées. Ce
+			<lb/>
+			n&apos;est sans doute pas par hasard que les entreprises de presse nous ont souvent blâmés
+			<lb/>
+			pour notre approche. Toutes ces réalités que l&apos;on tente d&apos;occulter ne pourront que
+			<lb/>
+			mettre les entreprises de presse mal à l&apos;aise si elles font surface. Mais ce recueil
+			<lb/>
+			d&apos;informations recèle une autre forme de potentiel; il constitue la matrice ultérieure à
+			<lb/>
+			l&apos;enracinement des données empiriques et permet l&apos;échantillonnage théorique. Nous y
+			<lb/>
+			reviendrons.
+			<lb/>
+		</p>
+		
+		<head>2.4 Le rapport de la tournée
+			<lb/>
+		</head>
+		
+		<p>La parole citoyenne a été d&apos;une limpidité incontestable. Ce sont les acteurs de
+			<lb/>
+			développement dans tous les domaines de la vie qui ont donné le ton aux discussions.
+			<lb/>
+			Biais de l&apos;information, manque de suivi, carence dans l&apos;analyse, manque de rigueur,
+			<lb/>
+			sensationnalisme; les citoyens ont dressé un tableau assez sombre de l&apos;état de
+			<lb/>
+			l&apos;information au Québec, et ce, d&apos;un bout à l&apos;autre du territoire. Mais ce tableau était
+			<lb/>
+			expliqué et cela nous a grandement impressionné. Les gens ont non seulement bien
+			<lb/>
+			décrit des situations, mais en ont expliqué les causes et ont même présenté les
+			<lb/>
+			solutions qu&apos;il faudrait envisager pour remédier aux différents problèmes. Ce qui en
+			<lb/>
+			ressort est particulièrement marquant : l&apos;information ne doit plus demeurer une
+			<lb/>
+			denrée industrielle administrée au seul critère économique. C&apos;est le potentiel
+			<lb/>
+			d&apos;émancipation de toute une société qui risque d&apos;en souffrir. L&apos;induction ici s&apos;est
+			<lb/>
+			transformée en parole citoyenne.
+			<lb/>
+		</p>
+		
+		<p>Nous avions comme objectif, dans notre vision initiale, de discuter des constats
+			<lb/>
+			de la tournée avec les entreprises de presse. Nous pensions nous adjoindre des
+			<lb/>
+			experts, conjointement sélectionnés, afin de travailler à produire des réponses aux
+			<lb/>
+			grandes doléances du public. Bien que nous ayons finalement pu produire un rapport
+			<lb/>
+			et le diffuser lors du colloque sur le 35 e anniversaire du Conseil de presse, la
+			<lb/>
+			planification initiale fut totalement enrayée. Ce qui s&apos;est passé par la suite appartient
+			<lb/>
+			à l&apos;histoire. Les entreprises de presse n&apos;ayant pas réussi à bloquer la diffusion des
+			<lb/>
+			résultats ont par la suite systématiquement orchestré la paralysie du Conseil de presse.
+			<lb/>
+			Ce triste épisode de la liberté d&apos;expression au Québec soulève de nombreuses
+			<lb/>
+			questions tant sur la privatisation de la recherche que sur le rôle de l&apos;organisme qui
+			<lb/>
+			supposément assure le droit à la libre circularité de l&apos;information. Faire taire
+			<lb/>
+			l&apos;instance qui doit assurer la pluralité des voix est lourd de signification. Il ne faut pas
+			<lb/>
+			trop se surprendre que la Grande-Bretagne ait finalement opté pour un cadre législatif
+			<lb/>
+			formel relativement aux entreprises de presse.
+			<lb/>
+		</p>
+		
+		<p>Avec le recul des années, un autre enseignement peut ressortir d&apos;un tel
+			<lb/>
+			évènement. En effet, force est de constater ce que nous ne retrouvons jamais
+			<lb/>
+			mentionné dans les livres de méthodologie; c&apos;est que l&apos;induction fait peur! Lorsque
+			<lb/>
+			des gens ont des intérêts à préserver, des choses à cacher, des illusions à maintenir, la
+			<lb/>
+			démarche inductive peut créer de sérieux problèmes. Dans l&apos;induction on ne peut
+			<lb/>
+			écraser le réel sous le carcan d&apos;un cadre théorique ou d&apos;une vision bien figée et
+			<lb/>
+			préétablie; c&apos;est le réel qui vient à nous. Et c&apos;est bien cela qui déplaisait le plus aux
+			<lb/>
+			entreprises de presse, elles étaient dans un processus sur lequel elles n&apos;avaient aucun
+			<lb/>
+			contrôle, peu importe leur force de marketing, la puissance de leur contentieux ou
+			<lb/>
+			leur pouvoir économique d&apos;influence. Cette vision du réel leur était insoutenable.
+			<lb/>
+			Devant cette fin dramatique de la tournée, nous avons jugé une autre étape nécessaire.
+			<lb/>
+		</p>
+		
+		<head>2.5 La recherche et sa diffusion après le blocage des entreprises de presse
+			<lb/>
+		</head>
+		
+		<p>À l&apos;origine, nous voulions produire un livre qui terminerait ce qui avait été entrepris
+			<lb/>
+			par la tournée et écrire sur les solutions possibles. Pour faire cela, toutefois, une étape
+			<lb/>
+			était nécessaire et elle n&apos;était pas facile. Il nous fallait mieux comprendre le
+			<lb/>
+			comportement des entreprises de presse et le comportement qu&apos;elles avaient eu durant
+			<lb/>
+			la tournée constituait le point central à enquêter. Comment le faire en maintenant la
+			<lb/>
+			distance nécessaire, comment arriver à expliquer le plus objectivement possible? Une
+			<lb/>
+			longue recherche théorique fut nécessaire à cette étape-ci et la méthode de
+			<lb/>
+			contextualisation par les communications concomitantes de <ref type="biblio">Mucchielli et Noy (2005)</ref>
+			<lb/>
+			a finalement été retenue. Cette démarche de compréhension répond en tout point à ce
+			<lb/>
+			que Garfinkel (cité dans <ref type="biblio">Coulon, 1987</ref>) identifie comme une posture d&apos;indifférence,
+			<lb/>
+			posture nécessaire au chercheur qui adopte la MTE.
+			<lb/>
+		</p>
+		
+		<p>Cette quête de compréhension va aller au-delà de ce que nous avions imaginé
+			<lb/>
+			puisque cela a finalement abouti à une explication plus approfondie des paroles du
+			<lb/>
+			public et des grands constats que nous avons finalement senti le besoin de théoriser.
+			<lb/>
+			Rien ne s&apos;est produit dans une linéarité parfaite. Ce fut plutôt le riche résultat de
+			<lb/>
+			fréquents allers-retours entre les données sur le terrain, ce que nous avions vécu et les
+			<lb/>
+			écrits scientifiques. C&apos;est grâce à cette démarche caractéristique de la MTE, par
+			<lb/>
+			exemple, que le concept d&apos;intelligence territoriale, articulé à partir du pouvoir de
+			<lb/>
+			l&apos;information, est venu coiffer nombre de propos tenus par les acteurs régionaux.
+			<lb/>
+			Tout cela nous a conduits à une autre révélation de taille qui tient à l&apos;imprécision
+			<lb/>
+			théorique du concept d&apos;information lui-même. Au final, c&apos;est toute la tournée qui fut
+			<lb/>
+			utilisée comme tremplin théorique. On retrouve ici les moments clés de la MTE :
+			<lb/>
+			l&apos;emergent-fit, la sensibilité théorique tout comme la circularité de la recherche. Ce
+			<lb/>
+			parcours ne nous a nullement empêché de produire des pistes de solutions, au
+			<lb/>
+			contraire. Mais ces solutions étaient bien assises sur la réalité tout en étant
+			<lb/>
+			théoriquement soutenables. Notre ouvrage y a nettement gagné en robustesse.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Quelques éléments doivent être soulignés à la fin de cette rétrospective. La question
+			<lb/>
+			éthique qui prend forme dans le respect de l&apos;induction et de ce qu&apos;elle permet de faire
+			<lb/>
+			émerger demeure un incontournable de la recherche, mais cela est encore plus vrai
+			<lb/>
+			dans le cas de grandes enquêtes publiques. La dimension éthique a évidemment été
+			<lb/>
+			plus problématique dans la tournée du Conseil de presse. Le caractère collectif de
+			<lb/>
+			l&apos;information rassemblée, la somme des données provenant d&apos;acteurs actifs,
+			<lb/>
+			compétents, répartis sur tout un territoire donne aussi à cette induction un incroyable
+			<lb/>
+			potentiel de connaissance. Cela demeure fondamentalement vrai pour les deux
+			<lb/>
+			enquêtes revues ici. Il ressort clairement aussi que la sensibilité théorique ne constitue
+			<lb/>
+			d&apos;aucune manière une entrave à la démarche des grandes enquêtes. Il est intéressant
+			<lb/>
+			de constater que cette sensibilité peut s&apos;exercer par un collège d&apos;experts aussi bien
+			<lb/>
+			que par un individu dans une démarche plus classique avec un chercheur et son
+			<lb/>
+			assistant. Le respect de ce que l&apos;induction nous apporte en ajustant notre procédure
+			<lb/>
+			d&apos;enquête demeure une chose fort importante qui a été appliquée dans les deux
+			<lb/>
+			démarches. Ces allers-retours entre le terrain et le texte scientifique, là où la
+			<lb/>
+			connaissance s&apos;institue, demeurent nécessaires dans les deux cas, et la généralisation
+			<lb/>
+			n&apos;est pas anodine. Pour dire les choses encore plus simplement, la MTE est tout à fait
+			<lb/>
+			non seulement appropriée aux grandes enquêtes publiques, mais elle devrait en être la
+			<lb/>
+			formule à retenir.
+			<lb/>
+		</p>
+		
+		<figure type="box">
+			Annexe 2
+			<lb/>
+			Un survol de la tournée des régions du Conseil de presse du Québec (2008)
+			<lb/>
+			UN SURVOL DE LA TOURNÉE DES RÉGIONS
+			<lb/>
+			DU CONSEIL DE PRESSE DU QUÉBEC (2008)
+			<lb/>
+			• 17 régions consultées
+			<lb/>
+			• 31 rencontres administratives à huis
+			<lb/>
+			clos où plus de 200 organismes y
+			<lb/>
+			collaborent
+			<lb/>
+			• 17 assemblées publiques, plus de
+			<lb/>
+			500 participants
+			<lb/>
+			• 30 mémoires reçus par le Conseil
+			<lb/>
+			• 167 questionnaires remplis sur l&apos;état de
+			<lb/>
+			l&apos;information
+			<lb/>
+			LE DIAGNOSTIC
+			<lb/>
+			La représentation des régions dans les
+			<lb/>
+			médias nationaux
+			<lb/>
+			• La couverture est nettement
+			<lb/>
+			insuffisante.
+			<lb/>
+			• Il y a une sous-couverture des réalités
+			<lb/>
+			vécues par les communautés autochtones,
+			<lb/>
+			ethniques et anglophones.
+			<lb/>
+			• Le manque de représentation donne
+			<lb/>
+			l&apos;impression qu&apos;il ne se passe rien en
+			<lb/>
+			région. Les gens s&apos;interrogent donc s&apos;ils
+			<lb/>
+			savent vraiment ce qui se passe au
+			<lb/>
+			Québec.
+			<lb/>
+			• La situation explique en partie l&apos;exode
+			<lb/>
+			des jeunes et la difficulté de recrutement
+			<lb/>
+			pour les entreprises régionales.
+			<lb/>
+			• Il y a un impact négatif sur le plan
+			<lb/>
+			politique en raison de la mauvaise
+			<lb/>
+			compréhension des problèmes vécus en
+			<lb/>
+			région.
+			<lb/>
+			• La couverture est déformée en raison du
+			<lb/>
+			sensationnalisme.
+			<lb/>
+			L&apos;information régionale
+			<lb/>
+			• Une importance du quotidien écrit
+			<lb/>
+			régional est souhaitée dans les 11 régions
+			<lb/>
+			ou il n&apos;y en a pas.
+			<lb/>
+			• La diffusion dans les stations de radio
+			<lb/>
+			régionales est inégale.
+			<lb/>
+			• Le rapport de proximité entre les
+			<lb/>
+			journalistes et les intervenants locaux est
+			<lb/>
+			potentiellement dangereux.
+			<lb/>
+			• La couverture périphérique des grands
+			<lb/>
+			centres (Longueuil, Lévis, Laval) est
+			<lb/>
+			faible.
+			<lb/>
+			• La faiblesse de l&apos;information
+			<lb/>
+			radiophonique est due en partie au
+			<lb/>
+			piratage des médias écrits et à la
+			<lb/>
+			personnalité de certains animateurs.
+			<lb/>
+			• Le marché de l&apos;information ne
+			<lb/>
+			correspond pas aux obligations
+			<lb/>
+			administratives des organisations
+			<lb/>
+			publiques, ce qui amène des frais inutiles.
+			<lb/>
+			• Il y a une mauvaise qualité langagière
+			<lb/>
+			dans les stations radiophoniques.
+			<lb/>
+		</figure>
+		
+		<figure type="box">
+			Annexe 2
+			<lb/>
+			Un survol de la tournée des régions du Conseil de presse du Québec (2008) (suite)
+			<lb/>
+			LE DIAGNOSTIC
+			<lb/>
+			Il faudrait reprendre ici la ligne LE DIAGNOSTIC
+			<lb/>
+			L&apos;information locale
+			<lb/>
+			• Elle est tributaire de la densité de la
+			<lb/>
+			population.
+			<lb/>
+			• Le marché publicitaire est souvent
+			<lb/>
+			insuffisant pour soutenir les médias
+			<lb/>
+			locaux.
+			<lb/>
+			• Il manque de journalistes.
+			<lb/>
+			• Les budgets sont restreints.
+			<lb/>
+			• Elle est inaccessible dans les zones non
+			<lb/>
+			câblées.
+			<lb/>
+			• Il y a peu d&apos;émissions en direct.
+			<lb/>
+			• Sa couverture est limitée, ce qui réduit
+			<lb/>
+			le sentiment d&apos;appartenance à une région.
+			<lb/>
+			• La concentration des hebdos conduit à
+			<lb/>
+			un laminage de l&apos;information et à une
+			<lb/>
+			augmentation phénoménale de la
+			<lb/>
+			publicité.
+			<lb/>
+			L&apos;information nationale
+			<lb/>
+			• L&apos;accès aux principaux médias
+			<lb/>
+			électroniques (radio et télévision) ne
+			<lb/>
+			cause pas de problème majeur.
+			<lb/>
+			• L&apos;accès aux médias écrits nationaux est
+			<lb/>
+			problématique pour plusieurs régions
+			<lb/>
+			éloignées.
+			<lb/>
+			• La qualité de l&apos;information est affectée
+			<lb/>
+			par le sensationnalisme et la préséance à
+			<lb/>
+			couvrir les évènements-chocs,
+			<lb/>
+			spectaculaires et négatifs; médiatisation
+			<lb/>
+			des conflits au détriment de nouvelles
+			<lb/>
+			d&apos;intérêt public.
+			<lb/>
+			• On dénonce la dictature du
+			<lb/>
+			commentaire et la confusion des genres
+			<lb/>
+			(vrai à d&apos;autres échelles aussi).
+			<lb/>
+			• Le souci de la rentabilité est plus
+			<lb/>
+			important que celui d&apos;informer.
+			<lb/>
+			L&apos;information internationale
+			<lb/>
+			• Constat plutôt positif, en grande partie à cause d&apos;Internet qui agit comme source
+			<lb/>
+			complémentaire d&apos;information.
+			<lb/>
+			Tableau mis à jour à partir de l&apos;excellente synthèse de Fernandez Communication de
+			<lb/>
+			la revue Quorum, 33(8), décembre 2008 -janvier 2009, p. 9.
+			<lb/>
+		</figure>
+		
+		<figure type="box">Annexe 3
+			<lb/>
+			Communiqué de presse qui annonce la tournée du Conseil de presse
+			<lb/>
+			COMMUNIQUÉ
+			<lb/>
+			Pour diffusion immédiate
+			<lb/>
+			L&apos;info a rendez-vous avec les régions :
+			<lb/>
+			Le Conseil de presse lance sa première tournée du Québec
+			<lb/>
+			Montréal, le 17 janvier 2008 -Le Conseil de presse entreprend une tournée du
+			<lb/>
+			Québec durant laquelle il souhaite prendre le pouls du public et des organismes
+			<lb/>
+			socioéconomiques sur la santé de l&apos;information. Le Conseil s&apos;intéresse à la façon dont
+			<lb/>
+			les régions sont desservies par les médias locaux ou nationaux, tant écrits
+			<lb/>
+			qu&apos;électroniques. Il s&apos;agit d&apos;une première tournée pour le Conseil de presse depuis sa
+			<lb/>
+			fondation, il y a 35 ans.
+			<lb/>
+			À compter du 7 février, le Conseil visitera donc chaque région du Québec afin d&apos;y
+			<lb/>
+			tenir une assemblée publique. Le Conseil souhaite notamment obtenir l&apos;opinion du
+			<lb/>
+			public et de représentants d&apos;organismes socioéconomiques à l&apos;égard de l&apos;accès et de
+			<lb/>
+			la qualité de l&apos;information locale et régionale, de la couverture de la réalité des
+			<lb/>
+			régions par les médias nationaux, de la progression de la popularité des médias
+			<lb/>
+			d&apos;information sur Internet, de la crédibilité qui leur est accordée, etc. Le Conseil
+			<lb/>
+			entend aussi mieux informer la population sur son rôle de tribunal d&apos;honneur des
+			<lb/>
+			médias d&apos;information.
+			<lb/>
+			« Il est important pour le Conseil de mieux comprendre la réalité vécue en matière
+			<lb/>
+			d&apos;information tant dans les régions plus urbaines que rurales, et ce, afin d&apos;orienter nos
+			<lb/>
+			réflexions et nos prises de position futures dans divers dossiers tels que celui de
+			<lb/>
+			l&apos;accès à l&apos;information régionale ou de la diversité des voix éditoriales », a déclaré le
+			<lb/>
+			président du Conseil, M. Raymond Corriveau, rappelant que le Conseil rend en
+			<lb/>
+			moyenne une centaine de décisions par année à l&apos;égard des médias québécois.
+			<lb/>
+			Cette tournée, qui bénéficie du soutien financier de Patrimoine canadien, permettra au
+			<lb/>
+			Conseil de faire écho aux préoccupations et aux besoins de la population et de tenir
+			<lb/>
+			compte du nouveau marché dans lequel évoluent les entreprises de presse. « Au terme
+			<lb/>
+			de cette tournée, nous avons comme objectif de publier un diagnostic juste de la
+			<lb/>
+			situation et mettre les forces du public, des journalistes et des médias d&apos;information à
+			<lb/>
+			profit pour renforcer la liberté de presse et la qualité de l&apos;information au Québec.
+			<lb/>
+			L&apos;information, elle aussi, doit être durable », a conclu le président.
+			<lb/>
+			Les informations détaillées au sujet de la tournée ainsi que le calendrier sont
+			<lb/>
+			disponibles dans la section réservée à cette fin sur le site Internet du Conseil de presse
+			<lb/>
+			au www.conseildepresse.qc.ca.
+			<lb/>
+			Le Conseil de presse du Québec est un organisme à but non lucratif composé de
+			<lb/>
+			représentants des entreprises de presse, de journalistes et de membres du public. Il
+			<lb/>
+			agit comme tribunal d&apos;honneur de la presse, en faveur du respect de la liberté de
+			<lb/>
+			presse et du droit du public à l&apos;information.
+			<lb/>
+		</figure>
+		
+		<p>Source : Marie-Eve Carignan, responsable des communications
+			<lb/>
+			Conseil de presse du Québec
+			<lb/>
+			Téléphone : 514 529-2818
+			<lb/>
+		</p>
+		
+		<p>Renseignements : Nathalie Verge, secrétaire générale
+			<lb/>
+			Conseil de presse du Québec
+			<lb/>
+			Téléphone : 514 529-2818
+		</p>
+	
+	
+	</text>
+</tei>

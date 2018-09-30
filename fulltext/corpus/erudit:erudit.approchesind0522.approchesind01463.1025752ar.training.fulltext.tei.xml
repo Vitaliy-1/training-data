@@ -1,0 +1,1447 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>En théorie des organisations, il existe une multitude d&apos;écoles qui prônent chacune
+			<lb/>
+			divers principes de gestion et de management (Miller, 2006; Plane, 2008). Nous ne
+			<lb/>
+			cherchons pas à en faire ici la synthèse ni la genèse. Nous manquerions d&apos;espace pour
+			<lb/>
+			cela. En guise d&apos;introduction, nous pouvons constater de manière brève et claire le
+			<lb/>
+			contraste entre le fonctionnalisme et l&apos;interprétativisme en théorie des organisations.
+			<lb/>
+			Ces écoles et leur genèse sont la manifestation historique de deux principales façons
+			<lb/>
+			de penser l&apos;organisation, c&apos;est-à-dire des paradigmes. Nous définissons et
+			<lb/>
+			caractérisons ici le paradigme interprétatif en l&apos;opposant au paradigme le plus
+			<lb/>
+			courant, à savoir le paradigme fonctionnaliste. En effet, d&apos;après <ref type="biblio">Putnam (1982)</ref>, c&apos;est
+			<lb/>
+			à ce deuxième paradigme qu&apos;appartiennent les courants de pensée classique
+			<lb/>
+			(taylorisme, fordisme, bureaucratie), humaniste, et même parfois systémique comme
+			<lb/>
+			celui de l&apos;école de la contingence. Ces courants de pensée ont tous la particularité de
+			<lb/>
+			fonder la communication organisationnelle sur les capacités et les motivations des
+			<lb/>
+			acteurs (et de l&apos;organisation) à faire circuler l&apos;information, cette circulation étant
+			<lb/>
+			déterminée de l&apos;extérieur par le degré plus ou moins centralisé, stratifié et formalisé
+			<lb/>
+			de l&apos;organisation ou encore par le niveau plus ou moins complexe et dynamique de
+			<lb/>
+			l&apos;environnement et de la technologie. Par contraste, le paradigme interprétatif insiste
+			<lb/>
+			sur le fait que ce n&apos;est pas la circulation de l&apos;information qui constitue le processus
+			<lb/>
+			critique et fondamental de l&apos;acte de s&apos;organiser; la circulation semble être déterminée
+			<lb/>
+			par une pléthore d&apos;autres facteurs. Le processus critique est lié à ce que les acteurs
+			<lb/>
+			font de cette information générée elle-même par des processus et des formes
+			<lb/>
+			d&apos;interprétation reliés à la capacité des acteurs à contrôler et à animer des interactions
+			<lb/>
+			(<ref type="biblio">Daft &amp; Weick, 1984; Maitlis, 2005</ref>). Il s&apos;agit là d&apos;un bouleversement
+			<lb/>
+			épistémologique et ontologique qui a eu et continue d&apos;avoir d&apos;énormes répercussions
+			<lb/>
+			sur les plans de la méthodologie et des approches méthodologiques.
+			<lb/>
+		</p>
+		
+		<p>Le but de cette contribution est de clarifier la correspondance entre les
+			<lb/>
+			approches méthodologiques inductives, d&apos;une part, et les approches théoriques
+			<lb/>
+			interprétatives, d&apos;autre part, en procédant à une démarche d&apos;analyse conceptuelle. Ce
+			<lb/>
+			type d&apos;analyse consiste à vérifier les correspondances ou l&apos;absence éventuelle de
+			<lb/>
+			correspondances entre des termes ou des idées, leur sens et la classe d&apos;objets à
+			<lb/>
+			laquelle le terme et le sens renvoient dans le monde réel (
+			<ref type="biblio">Collier &amp; Gerring, 2009;
+				<lb/>
+				Gerring, 1999; Quéré, 1991
+			</ref>
+			). L&apos;analyse conceptuelle permet ainsi de statuer sur la
+			<lb/>
+			mesure à laquelle les concepts méthodologiques (tels que, par exemple, l&apos;analyse
+			<lb/>
+			interactionnelle) qui forment notre corpus reflètent, recoupent et saisissent (d&apos;où leur
+			<lb/>
+			pertinence) les attributs, les caractéristiques et les propriétés des objets d&apos;induction
+			<lb/>
+			considérés par l&apos;approche interprétative, et en particulier la théorie de l&apos;équivalence,
+			<lb/>
+			comme étant des réalités par rapport auxquelles les acteurs s&apos;orientent. Nous
+			<lb/>
+			décrirons les limites de la pertinence de ces approches méthodologiques par rapport à
+			<lb/>
+			la complexité de ces objets pour, en conclusion, proposer une démarche inductive, la
+			<lb/>
+			stratégie de recherche multiétagée, que nous estimons adaptée à cette complexité
+			<lb/>
+			théorique.
+			<lb/>
+		</p>
+		
+		<p>Dans cette contribution, nous distinguons, d&apos;une part, la méthodologie comme
+			<lb/>
+			un ensemble plus générique de moyens pour résoudre le problème de la preuve et,
+			<lb/>
+			d&apos;autre part, les approches méthodologiques comme moyens plus spécifiques à
+			<lb/>
+			l&apos;intérieur de chaque méthodologie ayant pour objectif particulier de rendre visibles
+			<lb/>
+			les objets ou les dimensions dont elle postule l&apos;existence. Nous distinguons également
+			<lb/>
+			les conceptions théoriques plus proches de ce que l&apos;on appellerait des paradigmes (les
+			<lb/>
+			grandes explications ou compréhensions des phénomènes sociaux qui orientent et
+			<lb/>
+			servent de fondation aux problèmes théoriques plus restreints), d&apos;une part, des
+			<lb/>
+			approches théoriques qui sont des expressions plus spécifiques de ces conceptions ou
+			<lb/>
+			paradigmes, d&apos;autre part. Notre intention est d&apos;examiner les approches
+			<lb/>
+			méthodologiques retenues pour accompagner les approches interprétatives de la
+			<lb/>
+			communication organisationnelle.
+			<lb/>
+		</p>
+		
+		<p>Étant donné le lien postulé entre théorie et méthode dans l&apos;approche inductive,
+			<lb/>
+			notre objectif est de discuter de la pertinence des approches méthodologiques dans la
+			<lb/>
+			compréhension des objets de recherche fondamentaux mis de l&apos;avant par la
+			<lb/>
+			conception interprétative (les objets d&apos;induction organisationnels dont nous traiterons
+			<lb/>
+			plus bas), et tout particulièrement par la théorie de l&apos;équivalence.
+			<lb/>
+		</p>
+		
+		<head>1. Approches méthodologiques et théories des organisations : le cas de la théorie
+			<lb/>
+			de l&apos;équivalence
+			<lb/>
+		</head>
+		
+		<p>La théorie de l&apos;équivalence s&apos;insère dans le grand débat des années quatre-vingt-dix
+			<lb/>
+			en sciences sociales qui concernait la question de la relation entre micro et macro,
+			<lb/>
+			autrement dit, entre la structure et l&apos;action. La théorie de la structuration de <ref type="biblio">Giddens
+			<lb/>
+				(1984)</ref> stipule, par exemple, que les acteurs mobilisent dans leurs actions des
+			<lb/>
+			structures pour justifier et influencer d&apos;autres acteurs et, ce faisant, contribuent à la
+			<lb/>
+			reproduction de ces structures. La théorie de l&apos;équivalence traduit en termes
+			<lb/>
+			communicationnels la dynamique micro-macro et leur interdépendance en montrant
+			<lb/>
+			qu&apos;il s&apos;agit en réalité de la relation qu&apos;un texte (aussi permanent qu&apos;une structure)
+			<lb/>
+			entretient avec la conversation. La conversation est ainsi un espace social où les
+			<lb/>
+			acteurs agissent les uns avec/contre/pour les autres grâce à des textes ou des
+			<lb/>
+			interprétations qu&apos;ils mobilisent et renforcent ou reproduisent par le fait même de
+			<lb/>
+			cette utilisation 1 . La communication comme ce lieu d&apos;intersection du texte et de la
+			<lb/>
+			conversation est donc un processus conversationnel/interactionnel dont la finalité est
+			<lb/>
+			de produire une interprétation commune du flot des événements 2 . Le locus de la
+			<lb/>
+			communication organisante, à partir de ces deux dimensions, est dans l&apos;acte
+			<lb/>
+			d&apos;énonciation allocutif (qui tient compte de l&apos;autre), acte d&apos;énonciation allocutif
+			<lb/>
+			pouvant, compte tenu de la finalité du projet de communication, se caractériser par un
+			<lb/>
+			texte énonciatif, descriptif, narratif ou argumentatif. Nous parlons ici non pas de types
+			<lb/>
+			de texte, mais des fonctions de base du discours, c&apos;est-à-dire leur finalité
+			<lb/>
+			(<ref type="biblio">Charaudeau, 1992</ref>). Les hypothèses sur la nature du lieu de la communication ou de
+			<lb/>
+			l&apos;intersection entre texte et conversation doivent pouvoir préciser la nature de cet acte
+			<lb/>
+			allocutif (<ref type="biblio">Katambwe &amp; Liénard, 2013</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le locus de l&apos;organisation est dans le dialogue comme activité spécifique de
+			<lb/>
+			(méta)communication et l&apos;interprétation est un processus de co-construction d&apos;un
+			<lb/>
+			concept ou d&apos;une idée conjointe à l&apos;intérieur d&apos;un dialogue plus ou moins contracté
+			<lb/>
+			(<ref type="biblio">Baxter, 2011</ref>). Le dialogue est, de notre point de vue, une pratique métadiscursive (et
+			<lb/>
+			donc relationnelle, d&apos;après <ref type="biblio">Watzlawick, Helmick Beavin, &amp; Jackson, 1972
+			</ref>
+			), logée
+			<lb/>
+			dans le préfixe re- (recadrer, redéfinir, réparer, reformuler, remodeler, redire,
+			<lb/>
+			réaffirmer, récapituler, reconnaître, récriminer, reprendre, réinterpréter, réviser,
+			<lb/>
+			revoir, commenter, etc.) mutualisé 3 . Le re-mutualisé dénote le fait d&apos;une reprise
+			<lb/>
+			propositionnelle ou intentionnelle plus ou moins explicite et plus ou moins inclusive
+			<lb/>
+			de soi-même et de l&apos;autre interlocuteur avec qui on se trouve ainsi lié ou engagé dans
+			<lb/>
+			une relation qui se déploie dans une diversité de dispositifs 4 et de procédures de
+			<lb/>
+			communication et d&apos;information (<ref type="biblio">Mucchielli, 2001</ref>). La modalisation est le
+			concept
+			<lb/>
+			central du mécanisme de communication à l&apos;oeuvre dans l&apos;organisation (
+			<ref type="biblio">Taylor,
+				<lb/>
+				Cooren, Giroux, &amp; Robichaud, 1996
+			</ref>
+			). Ce préfixe mutualisé caractérise la
+			<lb/>
+			modalisation allocutive spécifique à l&apos;oeuvre dans la dynamique conversation-texte. Il
+			<lb/>
+			s&apos;agit d&apos;un métadiscours qui, implicitement ou explicitement, inclut les intentions
+			<lb/>
+			et/ou les contenus propositionnels d&apos;autrui, à cause de son caractère mutualiste
+			<lb/>
+			(<ref type="biblio">Cissna &amp; Anderson, 2002</ref>). La communication d&apos;organisation, ou la
+			communication
+			<lb/>
+			organique (<ref type="biblio">Ford &amp; Ford, 2009</ref>), est marquée par ces reprises permettant de lier
+			et
+			<lb/>
+			d&apos;engager nos interlocuteurs (Florès, 1982) avec plus ou moins de stratégie (
+			<ref type="biblio">Argyris,
+				<lb/>
+				2003; Brown &amp; Levinson, 1978; Fischer &amp; Adams, 1994; Orbe, 2002
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Selon Taylor et Robichaud (2004)</ref>, le dialogue est un mécanisme
+			<lb/>
+			conversationnel et fondamentalement binaire : « &quot;Dialogue&quot; fait référence à une
+			<lb/>
+			propriété formelle de la conversation ordinaire : celle de sa constitution bipartite » 5
+			<lb/>
+			<ref type="biblio">[</ref>traduction libre] (p. 400). Or, dans le dialogue considéré comme activité de
+			<lb/>
+			communication, le lien se noue autour d&apos;un objet commun émergeant simultanément,
+			<lb/>
+			d&apos;une part, de l&apos;inclusion ou de l&apos;exclusion des propositions et des acteurs qui les
+			<lb/>
+			portent et, d&apos;autre part, de l&apos;explicitation ou de l&apos;implicitation des sous-textes, c&apos;est-à-
+			<lb/>dire des présuppositions ou des propositions/connaissances d&apos;arrière-plan 6 derrière les
+			<lb/>
+			actes ou objets X et Y de A et B et communes à ces deux derniers.
+			<lb/>
+		</p>
+		
+		<p>La théorie de l&apos;équivalence, que nous venons de présenter brièvement, nous
+			<lb/>
+			permet d&apos;identifier les dimensions ou thèmes qui forment les objets de la recherche
+			<lb/>
+			organisationnelle dans une approche interprétative. <ref type="biblio">Putnam et Fairhurst (2001)</ref> ont
+			<lb/>
+			constitué dans une catégorisation semblable à la nôtre, mais pour l&apos;analyse du
+			<lb/>
+			discours, une liste de huit objets discursifs encadrant la recherche organisationnelle
+			<lb/>
+			dans ce domaine précis (codes, structure, fonction, langage des utilisateurs, sens,
+			<lb/>
+			texte, contexte et intertextualité). Comme le montre la <ref type="figure">Figure 1</ref>, nous appelons nos
+			<lb/>
+			dimensions primordiales des « objets d&apos;induction organisationnels » parce qu&apos;ils ne
+			<lb/>
+			sont pas directement apparents dans les opinions et les déclarations des acteurs
+			<lb/>
+			individuels et parce qu&apos;ils doivent être inférés par des raisonnements
+			<lb/>
+			méthodologiques inductifs basés sur des indices situationnels ou des « descriptions
+			<lb/>
+			épaisses ».
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Disque des objets d&apos;induction organisationnels.
+			<lb/>
+		</figure>
+		
+		<p>Les objets d&apos;induction organisationnels sont des émergences (<ref type="biblio">Mucchielli, 2007</ref>)
+			<lb/>
+			qui, en tant que tels, sont toujours et par essence le produit d&apos;une coconstruction
+			<lb/>
+			conversationnelle et textuelle. Celle-ci fait intervenir ou tient compte de plus ou
+			<lb/>
+			moins tous les interlocuteurs impliqués dans la situation de communication. Par
+			<lb/>
+			exemple, la stratégie tient toujours compte (de façon correcte ou incorrecte) des
+			<lb/>
+			acteurs sur qui le destinateur veut agir. De même, un texte est le produit des
+			<lb/>
+			conversations des uns et des autres. Les objets d&apos;induction organisationnels sont des
+			<lb/>
+			dimensions des systèmes d&apos;interprétation dont les qualités locales et émergentes se
+			<lb/>
+			constituent au moyen de mécanismes de convergence entre des acteurs ou des
+			<lb/>
+			groupes d&apos;acteurs et qu&apos;une démarche inductive doit pouvoir mettre en évidence. Vis-<lb/>à-vis des
+			approches interprétatives de l&apos;organisation, et en particulier de la théorie de
+			<lb/>
+			l&apos;équivalence, ces deux critères nous permettent de retenir les dimensions suivantes
+			<lb/>
+			comme objets d&apos;induction organisationnels :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>1) Les actions ou les actes discursifs dont la mise en évidence des récurrences et
+				<lb/>
+				des formes dans des séquences d&apos;actes (action-réaction) dénote des relations
+				<lb/>
+				entre les acteurs. La question d&apos;intérêt est ici celle de savoir catégoriser qui fait
+				<lb/>
+				(ou dit) quoi à qui.
+				<lb/>
+			</item>
+			
+			<item>2) Les thèmes qui émergent de l&apos;action ou du discours des protagonistes, la
+				<lb/>
+				question étant de savoir de quoi ceux-ci parlent, de quoi il s&apos;agit ou de quoi
+				<lb/>
+				retournent leurs interactions en dernière analyse.
+				<lb/>
+			</item>
+			
+			<item>3) Les justifications où la question devient celle de savoir ce que sont les
+				<lb/>
+				arguments typiques sur lesquels les acteurs fondent et légitiment ce qu&apos;ils disent
+				<lb/>
+				et font (les évaluations et les jugements qu&apos;ils portent).
+				<lb/>
+			</item>
+			
+			<item>4) Les stratégies qui sont des logiques d&apos;action, c&apos;est-à-dire des rationalités sous-<lb/>jacentes
+				par lesquelles ces acteurs lient ce qu&apos;ils font ou disent aux idéaux
+				<lb/>
+				auxquels ils souscrivent. La question ici est de connaître la manière ou la forme
+				<lb/>
+				avec laquelle l&apos;action ou le dire est convoyé 7 ainsi que la raison sous-jacente à
+				<lb/>
+				cette forme.
+				<lb/>
+			</item>
+			
+			<item>5) L&apos;interprétation commune a trait au sens partagé par les acteurs, aux consensus
+				<lb/>
+				et aux compréhensions autour de ce qui se fait et se dit dans une situation. La
+				<lb/>
+				question ici est de savoir ce qu&apos;un énoncé donné veut dire pour les participants.
+				<lb/>
+			</item>
+			
+			<item>6) Le sous-texte est « l&apos;inconscient du texte »; il s&apos;agit des précompréhensions ou
+				<lb/>
+				des significations préalables sous-jacentes aux dires et aux actions que les
+				<lb/>
+				acteurs portent individuellement et qui influent sur leurs interprétations de la
+				<lb/>
+				situation. Les sous-textes sont un autre matériau qui permet d&apos;étayer des
+				<lb/>
+				mondes organisationnels. La question ici est de savoir ce que sont, dans une
+				<lb/>
+				situation donnée, les présuppositions, les connaissances d&apos;arrière-plan ou
+				<lb/>
+				encore les préstructurations et les préfigurations qui vont (co)orienter les
+				<lb/>
+				interactions.
+				<lb/>
+			</item>
+			
+			<item>7) Les mondes organisationnels cohérents sont les idéaux de référence auxquels
+				<lb/>
+				renvoient les justifications et les rationalités des acteurs tels qu&apos;inférés (ces
+				<lb/>
+				idéaux) de leurs propos et actions. Ils permettent d&apos;envisager les possibilités
+				<lb/>
+				d&apos;accord et de consensus entre les acteurs. La question est de connaître ce à
+				<lb/>
+				quoi renvoient au niveau social, au-delà du contexte immédiat et des personnes
+				<lb/>
+				directement impliquées, les dires et les actions des uns et des autres.
+				<lb/>
+			</item>
+			
+			<item>8) Les règles sont la manifestation plus ou moins explicite des normes de
+				<lb/>
+				comportement qui découlent des valeurs ou des idéaux des participants et que
+				<lb/>
+				ceux-ci vont utiliser dans la production et la reproduction de leur système. La
+				<lb/>
+				question ici est de savoir à quelles règles les dires et les actions satisfont et à
+				<lb/>
+				quoi elles servent comme ressources et contraintes dans l&apos;action collective.
+				<lb/>
+			</item>
+			
+			<item>9) Les dispositifs de communication sont des systèmes d&apos;encadrement et
+				<lb/>
+				d&apos;interprétation plus ou moins dialogiques qui déterminent la prise en compte
+				<lb/>
+				de multiples cadres de connaissances et des compréhensions pour décider et
+				<lb/>
+				agir collectivement. Ils déterminent par la suite les modèles de communication
+				<lb/>
+				ordinaires et les procédures de communication et de circulation de l&apos;information
+				<lb/>
+				dans l&apos;organisation. La question est d&apos;identifier les acteurs ou les catégories
+				<lb/>
+				d&apos;acteurs qui y interviennent typiquement, les thématiques qui y sont opérées et
+				<lb/>
+				la manière plus ou moins inclusive de les opérer. Le processus de l&apos;enaction
+				<lb/>
+				organisationnelle chez <ref type="biblio">Weick (1979)</ref> est un exemple d&apos;un tel dispositif de
+				<lb/>
+				communication et donc d&apos;organisation qui prend en compte et relie
+				<lb/>
+				l&apos;interprétation, la conversation et la diffusion de l&apos;information.
+				<lb/>
+			</item>
+		</list>
+		
+		<head>2. Induction et approches méthodologiques naturalistes et textuelles
+			<lb/>
+		</head>
+		
+		<p>Comme méthode, l&apos;induction est un mode de raisonnement méthodologique dont le
+			<lb/>
+			but est de partir du concret vers l&apos;abstrait en cernant les caractéristiques essentielles
+			<lb/>
+			d&apos;un phénomène (<ref type="biblio">Deslauriers, 1997</ref>). C&apos;est une démarche non expérimentale,
+			non
+			<lb/>
+			statistique, qualitative qui fonctionne à l&apos;inverse des méthodes hypothético-<lb/>déductives, soit de
+			bas en haut. Un de ses buts est l&apos;intégration de cas négatifs dans la
+			<lb/>
+			mesure où ils ont le potentiel de calibrer l&apos;hypothèse ou la proposition en cours.
+			<lb/>
+			Ainsi, au fur et à mesure des observations, la proposition est définie grosso modo au
+			<lb/>
+			départ, s&apos;affine, se reformule, se redéfinit et doit épouser tous les faits. L&apos;ensemble de
+			<lb/>
+			la situation ou de l&apos;organisation choisie devant être examiné, il n&apos;y a pas
+			<lb/>
+			d&apos;échantillonnage à proprement parler.
+			<lb/>
+		</p>
+		
+		<p><ref type="biblio">Cressey (1953, p. 16</ref>), par exemple, suggère de considérer les étapes suivantes
+			<lb/>
+			comme composantes de la démarche d&apos;induction :
+			<lb/>
+		</p>
+		
+		<list>
+			<item>Le sujet est défini synthétiquement;
+				<lb/>
+			</item>
+			
+			<item>Une proposition théorique provisoire est avancée;
+				<lb/>
+			</item>
+			
+			<item>Chaque cas d&apos;une classe de phénomène (de communication, en ce qui nous
+				<lb/>
+				concerne) est confronté à cette proposition théorique provisoire 8 ;
+				<lb/>
+			</item>
+			
+			<item>D&apos;autres reformulations de la proposition sont avancées afin d&apos;inclure tous les
+				<lb/>
+				cas, y compris les négatifs;
+				<lb/>
+			</item>
+			
+			<item>La plausibilité d&apos;une proposition théorique définitive est fonction de la
+				<lb/>
+				saturation des cas, peu importe leur nombre;
+				<lb/>
+			</item>
+			
+			<item>La possibilité d&apos;une analyse des cas, dans des situations plus ou moins
+				<lb/>
+				connexes, sera prévue pour démontrer la fiabilité de la théorie ou de l&apos;ensemble
+				<lb/>
+				des propositions découvertes.
+				<lb/>
+			</item>
+		</list>
+		
+		<p>Par la description détaillée d&apos;une situation particulière, on peut voir que cette
+			<lb/>
+			démarche permet d&apos;extraire et de comprendre des propriétés signifiantes d&apos;une classe
+			<lb/>
+			d&apos;objets.
+			<lb/>
+		</p>
+		
+		<p>Les approches méthodologiques qui se fondent sur l&apos;induction sont
+			<lb/>
+			nombreuses 9 . Pour cet article, nous nous limiterons à un certain nombre d&apos;entre elles
+			<lb/>
+			qui ont la caractéristique d&apos;être les plus souvent mobilisées dans la recherche
+			<lb/>
+			organisationnelle. Il s&apos;agit de : l&apos;analyse du discours (AD1), l&apos;analyse du dialogue
+			<lb/>
+			(AD2), l&apos;analyse textuelle (AT), l&apos;analyse thématique (ATh), l&apos;analyse rhétorique
+			<lb/>
+			(ARh), la recherche-action (RA), l&apos;analyse conversationnelle (AC), la grounded
+			<lb/>
+			theory (théorisation ancrée/méthodologie de la théorisation enracinée)
+			<lb/>
+			(GT/TA/MTE), la grounded practical theory (théorisation ancrée pratique, GPT),
+			<lb/>
+			l&apos;analyse par catégories conceptualisantes (ACC), l&apos;enquête pragmatique systémique
+			<lb/>
+			(EPS) 10 , l&apos;analyse interactionnelle (AI) et l&apos;ethnographie de la communication (EC).
+			<lb/>
+		</p>
+		
+		<head>2.1 L&apos;analyse du discours
+			<lb/>
+		</head>
+		
+		<p>Le discours est un acte ou une action de communication qui se produit grâce au
+			<lb/>
+			langage; c&apos;est une façon de nommer cette activité de communication qui consiste à
+			<lb/>
+			faire des choses avec/pour/contre d&apos;autres acteurs en utilisant le langage (
+			<ref type="biblio">Johnstone,
+				<lb/>
+				2008; Potter &amp; Wetherell, 2003
+			</ref>
+			). L&apos;idée ici ne consiste pas à analyser le langage du
+			<lb/>
+			point de vue grammatical ou syntaxique. Il s&apos;agit au contraire d&apos;examiner de quelles
+			<lb/>
+			manières les acteurs utilisent ce langage pour dire ou faire des choses entre eux.
+			<lb/>
+			S&apos;agissant de l&apos;analyse du discours, les avis divergent sur cette conception. Il en est
+			<lb/>
+			d&apos;ailleurs pour penser que le discours n&apos;est pas seulement ce qui se dit et la manière
+			<lb/>
+			de le dire pour agir, mais également la manière de penser et de relier ensemble des
+			<lb/>
+			connaissances pour agir (des idéologies, des conceptions ou points de vue implicites
+			<lb/>
+			ainsi que des rationalisations). Considérant que le discours est une interaction qui se
+			<lb/>
+			réalise dans des textes et par la parole, <ref type="biblio">Van Dijk (2011)</ref> y inclut, en plus de
+			<lb/>
+			l&apos;interaction en tant que telle, la sémantique, la narration, l&apos;argumentation, la
+			<lb/>
+			sémiotique, la pragmatique, la cognition, l&apos;analyse conversationnelle et le dialogue.
+			<lb/>
+			Le discours serait ainsi coextensif aux approches méthodologico-théoriques de la
+			<lb/>
+			communication avec chaque fois une tournure différente dans la définition, histoire
+			<lb/>
+			de correspondre à l&apos;approche particulière. Pour la communication organisationnelle, il
+			<lb/>
+			ne fait aucun doute que le discours est coextensif à l&apos;organisation. Le discours est une
+			<lb/>
+			pratique sensée et constitutive de l&apos;organisation dans la mesure où c&apos;est au travers du
+			<lb/>
+			langage qu&apos;on divise, coordonne, institutionnalise et rend visible l&apos;organisation.
+			<lb/>
+			Même si la manière de voir la relation discours-organisation varie, et même si les
+			<lb/>
+			perspectives théoriques semblent nombreuses, l&apos;objectif de l&apos;analyse du discours reste
+			<lb/>
+			celui de mettre au jour les postulats et les présuppositions que recèle implicitement le
+			<lb/>
+			discours et qui lui permettent de cadrer et de servir en même temps de ressource et de
+			<lb/>
+			contexte aux interactions (<ref type="biblio">Mumby &amp; Mease, 2011</ref>). On peut voir de ce point de vue
+			<lb/>
+			que celui qui contrôle le discours (qui impose ces dénominations, expressions,
+			<lb/>
+			étiquettes et autres énoncés) est aussi celui qui contrôle le pouvoir.
+			<lb/>
+		</p>
+		
+		<p>C&apos;est l&apos;une des raisons pour lesquelles l&apos;approche critique adopte l&apos;analyse du
+			<lb/>
+			discours. Elle permet plus facilement l&apos;étude empirique des relations de domination
+			<lb/>
+			dans les systèmes sociaux ou organisationnels.
+			<lb/>
+		</p>
+		
+		<head>2.2 L&apos;analyse du dialogue
+			<lb/>
+		</head>
+		
+		<p>Le dialogue est un ensemble « de processus et de produits conjointement co-<lb/>construits dans des
+			activités coordonnés, contextualisés et mutuellement
+			<lb/>
+			interdépendants de ceux qui y prennent part » 11 [traduction libre] (<ref type="biblio">Markova &amp; Linell,
+			<lb/>
+				1996, p. 355</ref>). Il est souvent confondu avec la conversation à cause de son caractère
+			<lb/>
+			séquentiel (le sens d&apos;un énoncé dépendant de celui qui le précède) et assimilé à du
+			<lb/>
+			discours parce que la compréhension de ce qui s&apos;y passe en termes d&apos;actes dépend du
+			<lb/>
+			contexte plus large spécifiant la raison de l&apos;activité ou du projet que construisent ceux
+			<lb/>
+			qui dialoguent. Comme nous pouvons le voir, le point de vue analytique force à des
+			<lb/>
+			définitions plus strictes. Nous avons décrit l&apos;analyse conversationnelle et l&apos;analyse du
+			<lb/>
+			discours (variant en fonction des perspectives du chercheur) de façon à mieux les
+			<lb/>
+			distinguer d&apos;une analyse du dialogue. L&apos;analyse du dialogue peut elle aussi varier en
+			<lb/>
+			fonction de la perspective du dialogue retenue (
+			<ref type="biblio">Luzzati, Beacco, Mir-Samii, Murat, &amp;<lb/>
+				Vivet, 1997
+			</ref>
+			). Mais, en règle générale, elle consiste à identifier des points de vue
+			<lb/>
+			différents (des sous-textes) portés par les acteurs et à examiner la manière conjointe et
+			<lb/>
+			interdépendante avec laquelle ils comprennent et coordonnent ce qu&apos;ils font ensemble
+			<lb/>
+			de ces points de vue. La conjonction n&apos;implique pas seulement des acteurs humains;
+			<lb/>
+			elle concerne aussi l&apos;interaction homme-machine (<ref type="biblio">Vernant, 1997</ref>). Le terme
+			<lb/>
+			opératoire ici est la production conjointe des extrants (décision, concepts,
+			<lb/>
+			compréhensions) dans cette activité dialogique.
+			<lb/>
+		</p>
+		
+		<head>2.3 L&apos;analyse textuelle
+			<lb/>
+		</head>
+		
+		<p>Les textes sont des traces interprétables qui rendent observables des activités de
+			<lb/>
+			communication et donc d&apos;organisation. Ils font partie des événements et permettent
+			<lb/>
+			de les représenter matériellement. Il s&apos;agit d&apos;objets symboliques spécifiques qui ont la
+			<lb/>
+			capacité d&apos;être reproductibles « Les textes…sont des formes définies de nombre, de
+			<lb/>
+			mots et d&apos;images qu&apos;on fait exister dans des formes matériellement reproductibles » 12
+			<lb/>
+			[traduction libre] (<ref type="biblio">Smith, 2001, p. 164</ref>). Ils comprennent des éléments tels que des
+			<lb/>
+			documents, des articles, des manuels, mais aussi des retranscriptions d&apos;échanges
+			<lb/>
+			verbaux entre des acteurs (<ref type="biblio">Fairclough, 2003</ref>). Mais les textes ont aussi un statut
+			<lb/>
+			ontologique, en ce qu&apos;ils sont constitutifs des organisations dans la mesure où ils
+			<lb/>
+			permettent la médiation, la régulation et l&apos;autorisation des acteurs, bref la
+			<lb/>
+			coordination de leurs activités en transcendant leurs limites spatio-temporelles
+			<lb/>
+			(<ref type="biblio">Smith, 2001; Taylor &amp; Van Every, 2000</ref>). Cette reproductibilité permet au texte
+			et à
+			<lb/>
+			ses intentions sous-jacentes (sous-texte), en étant localement prise en compte par des
+			<lb/>
+			acteurs chaque fois particuliers, d&apos;organiser les relations entre ceux-ci en fonction de
+			<lb/>
+			l&apos;interprétation qu&apos;ils en font. Elle permet également la reproduction à des niveaux
+			<lb/>
+			supérieurs de réalités locales particulières, par exemple, étendre des règles de
+			<lb/>
+			comportements pertinentes à une dyade ou à une clique à l&apos;ensemble d&apos;une
+			<lb/>
+			organisation spatialement éloignée. Avec une définition aussi large, l&apos;analyse
+			<lb/>
+			textuelle peut être conçue de plusieurs manières, parfois contradictoires. Ainsi,
+			<lb/>
+			l&apos;analyse textuelle à connotation plus linguistique (Jeandillou, 1997) suggère que
+			<lb/>
+			l&apos;objectif d&apos;une telle analyse est celui d&apos;extraire le modèle abstrait ou la forme qui
+			<lb/>
+			gouverne l&apos;agencement des énoncés d&apos;un discours en faisant abstraction des
+			<lb/>
+			contextes. Au contraire, Fairclough (2003) stipule pour sa part que l&apos;objectif d&apos;une
+			<lb/>
+			analyse textuelle est celui de décrire et de comprendre les effets sociaux du texte ainsi
+			<lb/>
+			que la manière dont l&apos;interprétation des acteurs et les contextes d&apos;énonciation
+			<lb/>
+			participent à ces effets, par exemple, grâce à la recontextualisation.
+			<lb/>
+		</p>
+		
+		<head>2.4 L&apos;analyse thématique
+			<lb/>
+		</head>
+		
+		<p>L&apos;analyse thématique est un travail de réduction ou de synthèse sur un corpus dont la
+			<lb/>
+			taille est toujours variable. La synthèse, comme il se doit, réduit la taille du corpus à
+			<lb/>
+			des proportions gérables d&apos;où l&apos;on peut voir simplement exprimé l&apos;essentiel de ce qui
+			<lb/>
+			a été dit et son importance. Cette réduction est possible grâce à la dénomination
+			<lb/>
+			(<ref type="biblio">Paillé &amp; Mucchielli, 2003</ref>) ou catégorisation (<ref type="biblio">Mucchielli, 2010</ref>). Il s&apos;agit
+			pour le
+			<lb/>
+			chercheur de parvenir à étiqueter sous un seul vocable un ensemble regroupé
+			<lb/>
+			d&apos;énoncés ou de propos de son corpus, vocable ou nom qui qualifie et rend bien ce
+			<lb/>
+			dont il est question dans ces propos. L&apos;objectif de l&apos;analyse thématique est en effet de
+			<lb/>
+			déterminer ce dont il s&apos;agit « au fond » dans des propos échangés ou écrits par les
+			<lb/>
+			acteurs d&apos;intérêt pour la recherche, mais aussi de déterminer l&apos;importance relative de
+			<lb/>
+			ces thèmes dans un dispositif de communication et/ou dans un discours donné.
+			<lb/>
+			L&apos;analyse thématique peut se définir comme un processus systématique de repérage,
+			<lb/>
+			de regroupement et d&apos;examen des propos d&apos;un corpus, son but est « la transposition
+			<lb/>
+			d&apos;un corpus donné en un certain nombre de thèmes représentatifs du contenu analysé,
+			<lb/>
+			et ce, en rapport avec l&apos;orientation de recherche (la problématique) » (<ref type="biblio">Mucchielli,
+			<lb/>
+				2010, p. 124</ref>). Paillé et <ref type="biblio">Mucchielli (2003)</ref> font une distinction importante entre
+			<lb/>
+			rubrique et thèmes, distinction sous laquelle, disent-ils, il existe de nombreuses
+			<lb/>
+			confusions. La différence entre les deux se situe au niveau du degré de généralité et
+			<lb/>
+			d&apos;objectivité de la rubrique. Le nom que le thème appose sur des propos est toujours
+			<lb/>
+			un nom qui renseigne sur l&apos;orientation ou la teneur de ces propos sans les interpréter
+			<lb/>
+			ni les théoriser. La dénomination pour une rubrique assimile cette dernière à un titre
+			<lb/>
+			de journal.
+			<lb/>
+		</p>
+		
+		<head>2.5 L&apos;analyse rhétorique
+			<lb/>
+		</head>
+		
+		<p><ref type="biblio">D&apos;après O&apos;Keefe (1988)</ref>, il y aurait trois types de logique de base pour la conception
+			<lb/>
+			de messages. La logique conventionnelle est une manière de concevoir le message qui
+			<lb/>
+			va se conformer à certains canons afin de permettre au destinateur d&apos;obtenir un effet
+			<lb/>
+			recherché chez le destinataire. La logique expressive est celle où le destinateur du
+			<lb/>
+			message communique de manière directe et explicite ce qu&apos;il a à dire. Il existe
+			<lb/>
+			toutefois une troisième logique appelée logique rhétorique. Dans la logique
+			<lb/>
+			rhétorique, les messages sont conçus de telle manière qu&apos;ils puissent satisfaire aux
+			<lb/>
+			buts relationnels et fonctionnels des communicateurs impliqués dans la situation. La
+			<lb/>
+			situation est une notion importante en rhétorique. C&apos;est elle qui exige ou détermine la
+			<lb/>
+			réponse que des communicateurs doivent apporter à une situation pour la résoudre.
+			<lb/>
+			<ref type="biblio">D&apos;après Bitzer (1968)</ref>, la situation est ce qui pose l&apos;exigence de cette réponse. C&apos;est
+			<lb/>
+			le complexe formé par les personnes, les événements, les objets et les relations, qui
+			<lb/>
+			vit une problématique urgente qui ne peut se résoudre que grâce à une communication
+			<lb/>
+			susceptible d&apos;induire ce complexe (qui change la donne) à corriger la situation
+			<lb/>
+			problématique et à l&apos;amener vers l&apos;idéal. Pour cela le message rhétorique conçu pour
+			<lb/>
+			résoudre le problème (le sens à donner à la situation) doit d&apos;abord tenir compte des
+			<lb/>
+			contraintes de la situation pour s&apos;y adapter et, ensuite, l&apos;auditoire doit pouvoir réagir
+			<lb/>
+			au message rhétorique de façon conséquente.
+			<lb/>
+		</p>
+		
+		<head>2.6 La recherche-action
+			<lb/>
+		</head>
+		
+		<p>La recherche-action est une démarche qui consiste à appliquer sur une situation
+			<lb/>
+			problématique des connaissances pertinentes en communication en vue d&apos;y apporter
+			<lb/>
+			des solutions satisfaisantes (<ref type="biblio">Lavoie, Marquis, &amp; Laurin, 1996</ref>). C&apos;est une
+			activité de
+			<lb/>
+			recherche et de consultation qui poursuit deux objectifs simultanément : celui de
+			<lb/>
+			transformer la réalité organisationnelle et de produire des connaissances scientifiques
+			<lb/>
+			au sujet de cette transformation. Il s&apos;agit d&apos;intervenir dans une situation
+			<lb/>
+			organisationnelle donnée, avec les outils méthodologiques appropriés, pour apporter
+			<lb/>
+			des solutions concrètes à la problématique vécue par l&apos;organisation. Ce faisant, les
+			<lb/>
+			intervenants-chercheurs produisent des connaissances scientifiques sur la dynamique
+			<lb/>
+			de cette organisation et, de façon cumulative, sur la dynamique des organisations
+			<lb/>
+			(<ref type="biblio">Dolbec &amp; Prud&apos;homme, 2009</ref>). Il s&apos;agit, dans la recherche action, de
+			partir du vécu
+			<lb/>
+			des acteurs et de leurs actions et interprétations pour se construire de proche en
+			<lb/>
+			proche des propositions chaque fois plus généralisantes sur la dynamique de leurs
+			<lb/>
+			relations et communications.
+			<lb/>
+		</p>
+		
+		<head>2.7 L&apos;analyse conversationnelle
+			<lb/>
+		</head>
+		
+		<p>L&apos;une des formes fondamentales dans laquelle se manifeste toute organisation sociale
+			<lb/>
+			est la conversation, cas particulier de la communication sociale qui permet par le
+			<lb/>
+			langage ou la parole d&apos;interrelier ensemble des acteurs dans l&apos;accomplissement d&apos;un
+			<lb/>
+			but commun. Dans la perspective ethnométhodologique, la conversation est définie
+			<lb/>
+			comme « toute communication verbale où la répartition des tours de parole n&apos;est pas
+			<lb/>
+			préformée » (<ref type="biblio">Baylon &amp; Mignot, 1994, p. 262</ref>). Dans sa structure, elle est faite
+			de
+			<lb/>
+			séquences de paires adjacentes servant entre elles de contexte pour la compréhension
+			<lb/>
+			des contenus indexicaux que recèle la conversation. La conversation est toujours une
+			<lb/>
+			pratique qui consiste pour les acteurs à faire ou à projeter du sens les uns pour les
+			<lb/>
+			autres au sujet de ce qu&apos;ils sont en train de faire ensemble (activité ou pratique
+			<lb/>
+			sociale), à partir de ce que chacun fait. L&apos;objectif de l&apos;analyse conversationnelle est
+			<lb/>
+			« d&apos;expliquer les méthodes ou les pratiques que les gens utilisent pour construire les
+			<lb/>
+			actions et les activités du quotidien » (<ref type="biblio">Pomerantz &amp; Fehr, 2011, p. 166</ref>). Des formes
+			<lb/>
+			d&apos;interactions apparaîtront ainsi qui vont typifier, par exemple, comment
+			<lb/>
+			fonctionnellement, mais surtout structurellement, certains acteurs peuvent parler plus
+			<lb/>
+			que d&apos;autres, interrompre, respecter les tours de parole, rester cohérents et établir des
+			<lb/>
+			rapports (<ref type="biblio">Kerbrat-Orecchioni, 1990</ref>). La méthode de l&apos;analyse conversationnelle
+			<lb/>
+			insiste sur l&apos;observation itérative. Elle seule permet l&apos;identification des ordres
+			<lb/>
+			conversationnels, des formes ou des régularités, et ce, dans les activités et les actions
+			<lb/>
+			que les premières appellent dans les tours de parole (monopolisés ou pas; objets de
+			<lb/>
+			lutte ou pas), dans la pertinence rétrospective des actions de chacun (et qui démontre
+			<lb/>
+			leur compréhension), dans les réparations et les manières de sauver sa face et celle
+			<lb/>
+			des autres, dans la nature des connaissances d&apos;arrière-plan qui sont chaque fois
+			<lb/>
+			présumées, attendues et projetées dans les actions des participants (projetant cette
+			<lb/>
+			fois-ci des relations plus ou moins stratégiques entre les participants), et, enfin, dans
+			<lb/>
+			la façon de délimiter des épisodes d&apos;interaction (de manière formelle ou informelle,
+			<lb/>
+			sur certains thèmes).
+			<lb/>
+		</p>
+		
+		<head>2.8 La grounded theory (GT), méthodologie de la théorisation enracinée (MTE),
+			<lb/>
+			théorisation ancrée (TA)
+			<lb/>
+		</head>
+		
+		<p>La théorisation ancrée est une approche qui précise un phénomène donné à partir de
+			<lb/>
+			l&apos;observation systématique des cas ou des situations qu&apos;elle considère comme des
+			<lb/>
+			instances de ce phénomène (<ref type="biblio">Laperrière, 1997</ref>). Elle cherche à produire la théorie
+			<lb/>
+			pertinente d&apos;un phénomène, c&apos;est-à-dire pas tant l&apos;explication, mais plutôt la
+			<lb/>
+			compréhension de ce dernier : « La théorisation ancrée vise d&apos;abord l&apos;élaboration
+			<lb/>
+			d&apos;une théorie, certes enracinée dans la réalité empirique, mais n&apos;en constituant pas
+			<lb/>
+			une description » (<ref type="biblio">Laperrière, 1997, p. 309</ref>). La démarche s&apos;intéresse
+			également aux
+			<lb/>
+			processus sociaux fondamentaux qui sous-tendent le phénomène à l&apos;étude. Cette
+			<lb/>
+			théorie a pour unité d&apos;analyse les incidents ou les problèmes concrets reliés à la
+			<lb/>
+			dynamique des phénomènes psychologiques ou sociaux tels que vécus par les acteurs
+			<lb/>
+			dans une situation exemplaire. Ces incidents sont considérés comme des indicateurs
+			<lb/>
+			et des catégories de concepts qui se vérifient à partir des indices de la situation et du
+			<lb/>
+			contexte qu&apos;on intègre jusqu&apos;à saturation. Il devient possible d&apos;éprouver la
+			<lb/>
+			plausibilité d&apos;une interprétation provisoire de ces incidents et des stratégies mises en
+			<lb/>
+			place par les acteurs pour les résoudre. Les techniques de comparaison dans la TA
+			<lb/>
+			permettent de faire ressortir des similitudes et des contrastes dans les données
+			<lb/>
+			relatives aux actions et/ou aux relations. Le <ref type="table">Tableau 3</ref> fait ressortir les ressemblances
+			<lb/>
+			entre les étapes majeures de l&apos;analyse inductive décrites par la théorisation ancrée et
+			<lb/>
+			celles que l&apos;on retrouve dans ce qu&apos;on appelle la méthodologie de la théorisation
+			<lb/>
+			enracinée. Cela dit, des auteurs font aussi ressortir des différences, comme par
+			<lb/>
+			exemple <ref type="biblio">Méliani (2013)</ref>.
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 1
+			<lb/>
+			Comparaison des étapes inductives dans la TA et la MTE
+			<lb/>
+			Théorisation ancrée (TA)
+			<lb/>
+			Méthodologie de la théorisation
+			<lb/>
+			enracinée (MTE)
+			<lb/>
+			1. Collecte des données topologiques sur
+			<lb/>
+			la situation étudiée, en vue de permettre
+			<lb/>
+			la contextualisation des analyses;
+			<lb/>
+			2. Collecte et analyse simultanées des
+			<lb/>
+			données;
+			<lb/>
+			3. Confrontation continue des résultats
+			<lb/>
+			aux théories existantes et à la théorie
+			<lb/>
+			émergente par rapport à l&apos;objet d&apos;étude;
+			<lb/>
+			4. Découpage des données en unités
+			<lb/>
+			d&apos;analyse (incidents);
+			<lb/>
+			5. Focalisation progressive de la
+			<lb/>
+			codification : passage de la codification
+			<lb/>
+			ouverte (foisonnement initial de
+			<lb/>
+			catégories conceptuelles) à la
+			<lb/>
+			codification axiale (hiérarchisation des
+			<lb/>
+			catégories les unes par rapport aux
+			<lb/>
+			autres, formulation et vérification
+			<lb/>
+			d&apos;hypothèses sur leurs relations
+			<lb/>
+			dynamiques) et à la codification sélective
+			<lb/>
+			(intégration de la théorie autour d&apos;une
+			<lb/>
+			catégorie centrale, par rapport à laquelle
+			<lb/>
+			les autres catégories sont situées en tant
+			<lb/>
+			que propriétés).
+			<lb/>
+			1. Collecte et analyse systématique et
+			<lb/>
+			simultanées des données qualitatives;
+			<lb/>
+			2. Échantillonnage théorique qui stipule
+			<lb/>
+			que le choix des données à collecter doit
+			<lb/>
+			être déterminé uniquement par les
+			<lb/>
+			besoins de la théorie en construction et
+			<lb/>
+			non pas par des fins de représentativité
+			<lb/>
+			statistiques (non prônées par le
+			<lb/>
+			positivisme classique);
+			<lb/>
+			3. Révision par les acteurs de leurs
+			<lb/>
+			représentations et de leur comportement
+			<lb/>
+			en fonction des résultats qu&apos;ils
+			<lb/>
+			obtiennent; le chercheur doit expliquer
+			<lb/>
+			ces comportements en les reliant à leurs
+			<lb/>
+			interprétations et à leur contexte dans
+			<lb/>
+			une proposition théorique;
+			<lb/>
+			4. Comparaison constante;
+			<lb/>
+			5. Analyse simultanée dans un processus
+			<lb/>
+			itératif (stratégie) de recherche active de
+			<lb/>
+			contrastes et de similitudes à travers les
+			<lb/>
+			données et si possible sur plusieurs sites
+			<lb/>
+			ou périodes de temps.
+			<lb/>
+		</figure>
+		
+		<head>2.9 La grounded practical theory
+			<lb/>
+		</head>
+		
+		<p><ref type="biblio">Craig et Tracy (1995)</ref> se sont attelés à construire une démarche d&apos;investigation
+			<lb/>
+			permettant de lier la pratique, c&apos;est-à-dire ce que les acteurs font ensemble, à la
+			<lb/>
+			théorie, c&apos;est-à-dire la compréhension de la pratique, et ce, dans le but de donner de la
+			<lb/>
+			cohérence au couple théorie-pratique et de permettre une adaptation mutuelle; ils ont
+			<lb/>
+			appelé cette démarche la grounded practical theory (GPT). Cette dernière tient
+			<lb/>
+			compte des dimensions interprétatives et morales d&apos;une pratique, elle se fonde sur la
+			<lb/>
+			conversation entre et avec les acteurs, sans surimposer un cadre intellectuel à celle-ci.
+			<lb/>
+			Elle ne dicte pas mais informe et rend possible l&apos;émergence des propositions
+			<lb/>
+			concernant divers problèmes, techniques et idéaux de la communication dans
+			<lb/>
+			l&apos;organisation. « La reconstruction théorique d&apos;une pratique signifie qu&apos;une pratique
+			<lb/>
+			est typifiée ou idéalisée de façon que les cas particuliers qui l&apos;illustre peuvent être
+			<lb/>
+			reformulés dans des termes plus généraux et moins spécifiques qui dépendent moins
+			<lb/>
+			des particularités de leurs contextes » 13 [traduction libre] (<ref type="biblio">Craig &amp; Tracy, 1995,
+			<lb/>
+				p. 252</ref>). La GPT analyse les discours, autrement appelés des actes de communication,
+			<lb/>
+			à trois niveaux : soit le niveau technique (comment s&apos;effectuent, concrètement, les
+			<lb/>
+			pratiques), le niveau des problèmes (contextuellement, en quoi cette pratique n&apos;est
+			<lb/>
+			pas efficiente) et le niveau philosophique (en quête de la situation idéale). La GPT se
+			<lb/>
+			concentre particulièrement au niveau des problèmes puisque ces derniers sont ceux
+			<lb/>
+			qui mettent en exergue les actions, les pratiques, les façons de faire et les stratégies à
+			<lb/>
+			évaluer, à modifier, à reformuler, etc. C&apos;est au niveau des problèmes qu&apos;une stratégie
+			<lb/>
+			d&apos;action se crée (niveau technique) et qu&apos;une réflexion normative (niveau
+			<lb/>
+			philosophique) permet de déterminer la situation idéale.
+			<lb/>
+		</p>
+		
+		<head>2.10 L&apos;analyse par catégories conceptualisantes
+			<lb/>
+		</head>
+		
+		<p>Le sens des représentations et des vécus des acteurs peut être catégorisé à l&apos;aide de
+			<lb/>
+			concepts pertinents et appropriés (<ref type="biblio">Paillé &amp; Mucchielli, 2003</ref>). Cette méthode
+			<lb/>
+			d&apos;analyse jette les bases d&apos;une théorisation des phénomènes étudiés de façon directe,
+			<lb/>
+			sans qu&apos;il y ait de décalage entre l&apos;annotation du corpus et la conceptualisation des
+			<lb/>
+			données. Elle permet de mettre en exergue ce qu&apos;il y a de central dans la TA et la
+			<lb/>
+			MTE, à savoir le sens qui émerge de la dynamique d&apos;une situation problématique.
+			<lb/>
+			Pour Paillé et Mucchielli, les unités d&apos;analyse sont des actions sociales qui ont lieu
+			<lb/>
+			autour des problèmes et des incidents advenant dans le vécu des acteurs d&apos;une
+			<lb/>
+			situation. En ce sens cette approche méthodologique s&apos;apparente à la GPT.
+			<lb/>
+		</p>
+		
+		<p>La méthode des catégories conceptualisantes enclenche le processus d&apos;inférence
+			<lb/>
+			par le truchement de la tension entre singularité de l&apos;action et généralité du concept.
+			<lb/>
+			En effet, il s&apos;agit ici d&apos;efforts divergents qui isolent, délimitent, extraient une donnée
+			<lb/>
+			de son contexte pour lui accorder toute l&apos;attention alors que l&apos;effort convergent
+			<lb/>
+			rassemble, compare, amalgame, réintroduit le contexte. Il y a une alternance entre ces
+			<lb/>
+			deux efforts dans l&apos;analyse, créant ainsi la tension entre singularité et généralité. La
+			<lb/>
+			généralité est découverte par induction à force d&apos;accumulation de matériaux
+			<lb/>
+			apparentés; elle passe en partie par la saturation des catégories une fois que l&apos;analyste
+			<lb/>
+			y a vu la généralité recherchée.
+			<lb/>
+		</p>
+		
+		<head>2.11 L&apos;enquête pragmatique systémique
+			<lb/>
+		</head>
+		
+		<p>Pour évoluer, participer, avancer, il faut connaître. Or, les participants connaissent en
+			<lb/>
+			interaction, par le dialogue. Ce dialogue est composé de conversations non réflexives
+			<lb/>
+			permettant une évolution du sens, et qui sont mises en exergue par l&apos;enquête
+			<lb/>
+			pragmatique systémique (EPS). Dès qu&apos;une personne interagit, elle voit et crée du
+			<lb/>
+			sens au travers du langage et, de ce fait, construit une réalité. <ref type="biblio">Pour Cronen (2001)</ref>, les
+			<lb/>
+			échanges doivent être examinés sous le point de vue des participants. À chaque fois
+			<lb/>
+			que nous entrons dans une conversation, nous avons des attentes qui orientent ces
+			<lb/>
+			interactions. L&apos;enquête pragmatique systémique (EPS) se caractérise par l&apos;affirmation
+			<lb/>
+			selon laquelle les actes de langage sont constitutifs d&apos;une situation dans la mesure où
+			<lb/>
+			ils sont utilisés de part et d&apos;autre pour créer du sens. Chaque contribution
+			<lb/>
+			conversationnelle s&apos;interprète dépendamment du contexte des autres contributions; de
+			<lb/>
+			cette façon, il y a une cohérence qui émerge des interactions pour englober toute la
+			<lb/>
+			situation. Cette cohérence décrit la manière dont le sens est obtenu dans une
+			<lb/>
+			conversation. Les conversations deviennent alors une série d&apos;événements ou d&apos;actes
+			<lb/>
+			qui s&apos;interconnectent de façon complexe et qui sont affectés par chacun des
+			<lb/>
+			participants qui les affectent en retour.
+			<lb/>
+		</p>
+		
+		<head>3. Critique des approches méthodologiques inductives
+			<lb/>
+		</head>
+		
+		<p>Les approches méthodologiques vont de pair avec les théories et les problèmes
+			<lb/>
+			théoriques qui les inspirent; ces dernières vont en effet donner sens aux données que
+			<lb/>
+			ces approches sont susceptibles de recueillir. Les méthodologies inductives, mais tout
+			<lb/>
+			particulièrement les approches méthodologiques inductives, doivent être mobilisées et
+			<lb/>
+			utilisées d&apos;une manière adaptée à la théorie dont elles sont au départ l&apos;émanation
+			<lb/>
+			(<ref type="biblio">Gephardt, 2004</ref>). Il existe, comme nous l&apos;avons montré, une diversité de
+			<lb/>
+			méthodologies qui correspondent effectivement à la diversité des conceptions
+			<lb/>
+			théoriques. Mais les approches méthodologiques particulières qui découlent des
+			<lb/>
+			quatre grandes méthodologies (l&apos;expérimentation, l&apos;enquête/sondage, l&apos;enquête
+			<lb/>
+			naturaliste et l&apos;analyse de textes) ne semblent pas refléter individuellement ni être en
+			<lb/>
+			mesure d&apos;intégrer la complexité de la communication organisationnelle compte tenu
+			<lb/>
+			des dimensions multiples de celle-ci en tant que système d&apos;interprétation. Nous avons
+			<lb/>
+			abordé cette complexité quand il a été question des objets d&apos;induction
+			<lb/>
+			organisationnels, objets interdépendants, censés être taclés dans la recherche en
+			<lb/>
+			communication organisationnelle, particulièrement dans la perspective interprétative.
+			<lb/>
+			Ceux-ci, comme on l&apos;a vu dans la <ref type="figure">Figure 1</ref>, manifestent entre eux une unité théorique
+			<lb/>
+			logique et cohérente que les approches méthodologiques particulières peinent à
+			<lb/>
+			rendre, semblant ainsi incapables de refléter la complexité théorique du phénomène
+			<lb/>
+			qui les concerne.
+			<lb/>
+		</p>
+		
+		<p>Les approches méthodologiques sont des solutions aux problèmes reliés à la
+			<lb/>
+			construction de la preuve des propositions et des modélisations au sujet des objets ou
+			<lb/>
+			des dimensions dont les théories indiquent l&apos;existence. Les méthodes, tout comme les
+			<lb/>
+			approches méthodologiques disponibles, doivent correspondre ainsi aux exigences
+			<lb/>
+			des conceptions et des approches théoriques qui mettent de l&apos;avant ces objets. Ces
+			<lb/>
+			méthodes sont réputées incomplètes lorsqu&apos;elles ne parviennent pas à inclure ou à
+			<lb/>
+			rendre visibles, à partir des solutions qu&apos;elles offrent, les objets ou les dimensions que
+			<lb/>
+			l&apos;approche théorique intègre.
+			<lb/>
+		</p>
+		
+		<head>Conclusion et proposition d&apos;une stratégie appropriée aux systèmes
+			<lb/>
+			d&apos;interprétation
+			<lb/>
+		</head>
+		
+		<p>Les approches méthodologiques incomplètes ne peuvent pas rendre visible la
+			<lb/>
+			dynamique des systèmes d&apos;interprétation, sinon que partiellement. C&apos;est pourquoi
+			<lb/>
+			nous avons besoin de les compléter dans une stratégie méthodologique à plusieurs
+			<lb/>
+			niveaux. La combinaison des approches méthodologiques, au-delà de la
+			<lb/>
+			conventionnelle triangulation qui concerne certaines méthodologies, est
+			<lb/>
+			recommandée par la plupart des chercheurs (notamment <ref type="biblio">Baxter, 2011; Gephardt,
+			<lb/>
+				2004; Paillé &amp; Mucchielli, 2012</ref>). Le <ref type="table">Tableau 2</ref> sur les objets d&apos;induction
+			<lb/>
+			organisationnels est une façon possible d&apos;envisager ces combinaisons.
+			<lb/>
+		</p>
+		
+		<p>Par exemple, il est clair que l&apos;analyse textuelle et l&apos;analyse thématique sont
+			<lb/>
+			d&apos;une grande complémentarité entre elles, mais aussi avec plusieurs autres approches
+			<lb/>
+			méthodologiques. Elles complètent bien les approches ethnographiques (<ref type="biblio">Fairclough,
+			<lb/>
+				2003; Gephardt, 1993</ref>), l&apos;analyse du discours dans presque toute sa variété, l&apos;analyse
+			<lb/>
+			dialogique (<ref type="biblio">Baxter, 2011</ref>), l&apos;analyse interactionnelle, la grounded theory, ainsi que
+			<lb/>
+			l&apos;analyse rhétorique. On peut également voir que la théorisation ancrée s&apos;accommode
+			<lb/>
+			très bien de la recherche-action et de la théorisation ancrée pratique (grounded
+			<lb/>
+			practical theory, GPT). Avant tout, toute stratégie de recherche multiétagée devrait
+			<lb/>
+			toujours réfléchir à la possibilité d&apos;intégrer l&apos;analyse thématique et textuelle, dans la
+			<lb/>
+			mesure où on doit considérer qu&apos;elles permettent de nommer les objets et les
+			<lb/>
+			processus qui participent à l&apos;interprétation des événements organisationnels.
+			<lb/>
+		</p>
+		
+		<p>Une stratégie de recherche multiétagée se déploie à trois niveaux dans le sens
+			<lb/>
+			de montées successives en généralité : une approche méthodologique préliminaire,
+			<lb/>
+			une approche méthodologique intermédiaire et une approche méthodologique
+			<lb/>
+			centrale. L&apos;approche méthodologique préliminaire est celle qui va faire le travail
+			<lb/>
+			d&apos;analyse permettant d&apos;identifier et de décrire les objets d&apos;induction organisationnels
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 2
+			<lb/>
+			Approches méthodologiques et objets d&apos;induction organisationnels
+			<lb/>
+			Légende : AD1 : Analyse du discours; AD2 : Analyse du dialogue; AI : Analyse
+			<lb/>
+			interactionnelle; AC : Analyse conversationnelle; RA : Recherche-action;
+			<lb/>
+			GT/MTE/TA : grounded theory (théorisation ancrée/méthodologie de la théorisation
+			<lb/>
+			enracinée); GPT : grounded practical theory (théorisation ancrée pratique); ATe :
+			<lb/>
+			analyse textuelle; EC : Ethnographie de la communication; ACC : analyse par
+			<lb/>
+			catégories conceptualisantes; CMM : coordinated management of meaning; Ath :
+			<lb/>
+			Analyse thématique; ARh : Analyse rhétorique.
+			<lb/>
+		</figure>
+		
+		<p>d&apos;intérêt pour le chercheur. L&apos;analyse textuelle et l&apos;analyse thématique sont les
+			<lb/>
+			candidates toutes désignées à cette étape du déblayage des données. Elles enclenchent
+			<lb/>
+			le processus de réduction ou de synthèse du corpus; elles permettent d&apos;y repérer de
+			<lb/>
+			manière appropriée pour le chercheur les objets sur lesquels vont s&apos;appliquer les
+			<lb/>
+			analyses intermédiaires (par exemple les dires et les faits permettent d&apos;identifier et
+			<lb/>
+			d&apos;extraire du corpus des relations entre acteurs, des thèmes et des dispositifs de
+			<lb/>
+			communication). Le but des approches méthodologiques intermédiaires est d&apos;utiliser
+			<lb/>
+			ces différents objets préliminaires pour en induire des règles, des stratégies et des
+			<lb/>
+			justifications. La fonction des approches méthodologiques centrales est de comparer
+			<lb/>
+			les différentes catégories intermédiaires pour en déterminer la dynamique particulière
+			<lb/>
+			à l&apos;oeuvre; des dynamiques prenant chaque fois en charge plusieurs catégories
+			<lb/>
+			d&apos;objets en même temps pour faire émerger, par exemple, des sous-textes, des
+			<lb/>
+			mondes et des interprétations.
+			<lb/>
+		</p>
+		
+		<p>Toutefois, la grande difficulté de ces combinaisons d&apos;approches dans ces trois
+			<lb/>
+			niveaux tient au fait que l&apos;induction, comme le montre le
+			<ref type="table">Tableau 2</ref>, et donc les
+			<lb/>
+			approches méthodologiques qui s&apos;en réclament, implique souvent un processus
+			<lb/>
+			itératif entre les données et des propositions théoriques (même en évolution). La
+			<lb/>
+			proposition ou la théorie à l&apos;origine d&apos;une approche méthodologique donnée peut ne
+			<lb/>
+			pas être complémentaire avec celle qui accompagne l&apos;approche méthodologique avec
+			<lb/>
+			laquelle on voudrait établir une combinaison. On court ainsi le risque d&apos;avoir des
+			<lb/>
+			positions épistémologiques et ontologiques contradictoires, qui peuvent se refléter
+			<lb/>
+			dans l&apos;interprétation des résultats de recherche. C&apos;est d&apos;ailleurs la raison pour laquelle
+			<lb/>
+			on a une pléthore de versions de l&apos;analyse du discours; les propositions théoriques
+			<lb/>
+			que chacune d&apos;elles applique ne sont pas toujours compatibles entre elles. Par
+			<lb/>
+			exemple, l&apos;analyse critique du discours à la <ref type="biblio">Phillips et Jorgensen (2002)</ref> est appariée à
+			<lb/>
+			une théorie du discours qui n&apos;est pas celle adoptée par <ref type="biblio">Fairclough (2003)</ref> dans son
+			<lb/>
+			type d&apos;analyse critique du discours. Cela nous laisse avec l&apos;option qui consisterait à
+			<lb/>
+			s&apos;appuyer sur une théorie qui démonte les mécanismes de convergence ou
+			<lb/>
+			d&apos;interprétation commune et qui est en soi assez compréhensive, telle que, par
+			<lb/>
+			exemple, la théorie de l&apos;équivalence, susceptible de servir alors d&apos;appui dans le
+			<lb/>
+			raisonnement méthodologique inductif ainsi que pour l&apos;interprétation en cours des
+			<lb/>
+			données. Autrement dit, la stratégie de recherche multiétagée est d&apos;autant plus
+			<lb/>
+			pertinente qu&apos;il s&apos;agit de faire la preuve d&apos;approches théoriques complexes, capables
+			<lb/>
+			d&apos;embrasser les différents objets d&apos;induction organisationnels dans leur
+			<lb/>
+			interdépendance. Toutefois, les théories et les modèles moins complexes peuvent tout
+			<lb/>
+			de même profiter d&apos;une stratégie de recherche multiétagée, même limitée, dans la
+			<lb/>
+			mesure où la plupart du temps on y mobilise plus qu&apos;un seul objet. Un modèle est un
+			<lb/>
+			modèle justement parce qu&apos;il met en relation plusieurs dimensions théoriques.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse du discours comme approche méthodologique procède comme on l&apos;a
+			<lb/>
+			vu à l&apos;appariement théorie-méthode. Mais, bien souvent, les théories actuelles et les
+			<lb/>
+			modélisations qui en découlent 14 développent de moins en moins les aspects
+			<lb/>
+			méthodologiques de leurs conceptions théoriques, ayant comme résultat que les
+			<lb/>
+			approches méthodologiques en cours semblent, la plupart du temps, décrochées de
+			<lb/>
+			leurs considérations théoriques d&apos;origine. Les choix des approches méthodologiques
+			<lb/>
+			textuelles et naturalistes sont faits dans l&apos;ignorance de ces ancrages, mais seulement
+			<lb/>
+			au gré des opportunités qu&apos;y trouve le chercheur.
+			<lb/>
+		</p>
+		
+		<p>Il est possible pour une théorie, et ceci devrait être la norme à en croire
+			<lb/>
+			<ref type="biblio">Bourdieu, Chamboredon et Passeron (1983)</ref>, de spécifier des approches
+			<lb/>
+			méthodologiques compatibles et d&apos;élaborer sur la manière dont les objets dont elle
+			<lb/>
+			prétend l&apos;existence peuvent être rendus visibles par ces approches méthodologiques.
+			<lb/>
+			Plus la théorie ou le modèle sera complexe (comportant plusieurs objets
+			<lb/>
+			d&apos;induction), plus elle devra spécifier des combinaisons d&apos;approches
+			<lb/>
+			méthodologiques reliées, cohérentes et pertinentes non seulement entre elles, mais
+			<lb/>
+			aussi entre ces approches et les objets d&apos;induction mobilisés par les théories et les
+			<lb/>
+			modèles.
+			<lb/>
+		</p>
+	
+	
+	</text>
+</tei>

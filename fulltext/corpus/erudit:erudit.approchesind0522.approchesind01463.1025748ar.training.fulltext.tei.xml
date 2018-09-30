@@ -1,0 +1,1389 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>
+			Introduction
+			<lb/>
+		</head>
+		<p>Aux États-Unis, plus de 93 % des individus écoutent la radio 1 . En 2012, le temps
+			<lb/>
+			moyen d&apos;écoute pour une personne qui apprécie la musique était de 200 heures par
+			<lb/>
+			année 2 . Le site billboard.com recense d&apos;ailleurs les chansons les plus populaires, et
+			<lb/>
+			ce, parmi plus de 30 palmarès différents. Cette étude s&apos;intéresse à l&apos;un de ces
+			<lb/>
+			palmarès, soit le palmarès Christian Songs, qui fait état des meilleures chansons de la
+			<lb/>
+			musique rock chrétienne diffusées sur les stations de radio américaines. Lorsque l&apos;on
+			<lb/>
+			pense au terme musique rock chrétienne, il semble exister un paradoxe entre les
+			<lb/>
+			valeurs hédonistes, liées au rock, et les valeurs conservatrices, liées à la chrétienté
+			<lb/>
+			(<ref type="biblio">Martin &amp; Segrave, 1993</ref>). Conséquemment, comment est-il possible de chanter un
+			<lb/>
+			chant nouveau au Seigneur à l&apos;aide d&apos;un style de musique (le rock) symboliquement
+			<lb/>
+			lié au sexe et à la drogue?
+			<lb/>
+		</p>
+		
+		<p>Afin de répondre à cette question et à plusieurs autres, nous ferons état d&apos;une
+			<lb/>
+			démarche méthodologique, qui s&apos;est déclinée en trois étapes, pour mieux comprendre
+			<lb/>
+			la musique rock chrétienne. La première étape a consisté à présenter les résultats
+			<lb/>
+			d&apos;une métaétude des paroles de chansons (<ref type="biblio">Zhao, 1991</ref>), laquelle nous a amenés à
+			<lb/>
+			considérer l&apos;utilisation du modèle des valeurs <ref type="biblio">de Schwartz (1992)</ref>. Par la
+			suite, lors de
+			<lb/>
+			la deuxième étape, nous avons tenté d&apos;appliquer ce cadre théorique à notre corpus de
+			<lb/>
+			chansons de musique rock chrétienne, et ce, avec un succès mitigé. En effet,
+			<lb/>
+			l&apos;utilisation de ce modèle théorique s&apos;est avérée insuffisante, ce qui nous a motivés à
+			<lb/>
+			laisser émerger les catégories de notre corpus de chansons. Nous avons alors modifié
+			<lb/>
+			notre approche hypothético-déductive et nous sommes tournés vers une méthodologie
+			<lb/>
+			inductive lors de la troisième étape afin de dresser le portrait de la musique rock
+			<lb/>
+			chrétienne. Pour compléter le portrait de la musique rock chrétienne, nous avons aussi
+			<lb/>
+			quantifié les catégories de notre analyse inductive ainsi que certains indicateurs liés
+			<lb/>
+			aux chansons, tels que le rythme, la durée et le genre de l&apos;artiste.
+			<lb/>
+		</p>
+		
+		<p>Il est important de préciser que, malgré le changement d&apos;approche, nous
+			<lb/>
+			désirions dresser un portrait qualitatif et quantitatif de la musique rock chrétienne. Il
+			<lb/>
+			existe, cependant, une certaine tension quant à l&apos;utilisation d&apos;une approche mixte. En
+			<lb/>
+			effet, certains auteurs ne prônent pas la mixité des approches (
+			<ref type="biblio">Castro &amp; Bronfman,
+				<lb/>
+				2000; Smith &amp; Heshusius, 1986
+			</ref>
+			), contrairement à d&apos;autres qui s&apos;intéressent à la
+			<lb/>
+			complémentarité entre ces approches (
+			<ref type="biblio">Behrens &amp; Smith, 1996; Creswell &amp; Plano
+				<lb/>
+				Clark, 2007; Fielding &amp; Schreier, 2001; Patton, 1987; Pinard, Potvin, &amp; Rousseau,
+				<lb/>
+				2004; Reichardt &amp; Rallis, 1994; Rousseau, 1996; Savoie-Zajc &amp; Karsenti, 2000; St-
+				<lb/>
+				Cyr-Tribble &amp; Saintonge, 1999
+			</ref>
+			). Pour notre part, nous souhaitions emprunter des
+			<lb/>
+			méthodes de travail à ces deux approches « afin d&apos;effectuer une recherche la plus
+			<lb/>
+			utile et la plus instructive possible » (<ref type="biblio">Savoie-Zajc &amp; Karsenti, 2000, p. 132</ref>).
+			<lb/>
+		</p>
+		
+		<p>Dans notre cas, l&apos;utilisation d&apos;une méthodologie mixte se justifiait à partir des
+			<lb/>
+			travaux <ref type="biblio">de Creswell et Plano Clark (2007)</ref>. Ces auteurs proposent quatre types
+			<lb/>
+			majeurs de modèles de méthodes mixtes : la triangulation, le modèle de
+			<lb/>
+			complémentarité, le modèle explicatif et le modèle exploratoire. Selon les
+			<lb/>
+			motivations et les objectifs du chercheur, ce dernier utilisera l&apos;un ou l&apos;autre de ces
+			<lb/>
+			modèles à suivre pour réaliser son étude. La triangulation est l&apos;approche la plus
+			<lb/>
+			utilisée et la plus connue. Elle permet au chercheur de bénéficier des avantages des
+			<lb/>
+			méthodes quantitatives (un échantillon de grande taille et la généralisation par
+			<lb/>
+			exemple) ainsi que des méthodes qualitatives (la recherche en profondeur et
+			<lb/>
+			l&apos;interprétation, par exemple). Un chercheur choisira ce modèle lorsqu&apos;il désire
+			<lb/>
+			renforcer la richesse de son étude en combinant des résultats liés à un même
+			<lb/>
+			phénomène. Le modèle de complémentarité, quant à lui, utilise une deuxième
+			<lb/>
+			méthode dans le but de supporter la première. Il est notamment utile lors des études à
+			<lb/>
+			grande envergure et lorsque plusieurs questions de recherche sont posées. La
+			<lb/>
+			prémisse de ce modèle réside dans le fait que chacune de ces questions nécessite des
+			<lb/>
+			données de nature différente afin de bien y répondre. Le modèle explicatif vise,
+			<lb/>
+			comme son nom l&apos;indique, à utiliser la méthode qualitative pour clarifier le sens des
+			<lb/>
+			résultats quantitatifs. Finalement, le dernier modèle est dit exploratoire. C&apos;est celui
+			<lb/>
+			que nous utilisons dans notre étude. Il nous permet d&apos;utiliser la méthode qualitative
+			<lb/>
+			pour analyser nos données tout en les quantifiant en tant que résultats. De plus, ce
+			<lb/>
+			modèle convient à notre étude étant donné que nous cherchons à mieux comprendre
+			<lb/>
+			les indicateurs des valeurs de la continuité du modèle de <ref type="biblio">Schwartz (1992)</ref>.
+			<lb/>
+			L&apos;induction nous permettra donc de bonifier ce cadre théorique et d&apos;interpréter nos
+			<lb/>
+			résultats lors de la phase de la discussion.
+			<lb/>
+		</p>
+		
+		<head>1. Métaétude des analyses de contenu de paroles de chansons
+			<lb/>
+		</head>
+		
+		<p>Cinq aspects sont mis de l&apos;avant dans notre métaétude afin de synthétiser les
+			<lb/>
+			25 recherches ayant utilisé l’analyse de contenu comme méthode pour décrire les
+			<lb/>
+			paroles de chansons : l&apos;année de parution des écrits, la méthodologie utilisée, le sujet
+			<lb/>
+			analysé, la période étudiée ainsi que le corpus complètent la synthèse.
+			<lb/>
+		</p>
+		
+		<p>À la lumière des <ref type="table">Tableaux 1 et 2</ref>, nous avons décelé que onze études utilisent
+			<lb/>
+			une méthodologie inductive (
+			<ref type="biblio">Aday &amp; Austin, 2000; Bretthaueur, Zimmerman, &amp;<lb/>
+				Banning, 2006; Cole, 1971; Cooper, 1985; Diamond, Bermudez, &amp; Schensul, 2006;
+				<lb/>
+				Markert, 2001; Ostlund &amp; Kinnier, 1997; Primack, Dalton, Carroll, Agarwal, &amp; Fine,
+				<lb/>
+				2008; Primack, Gold, Schwarz, &amp; Dalton, 2008; Van Sickel, 2005; Weitzer &amp;<lb/>
+				Kubrin, 2009
+			</ref>
+			), neuf utilisent une méthodologie déductive (
+			<ref type="biblio">Carey, 1969; Friedman,
+				<lb/>
+				1986; Hunnicutt &amp; Andrews, 2009; Livengood &amp; Ledoux Book, 2004; Murphey,
+				<lb/>
+				1992; Pedelty &amp; Thompson, 2009; Petrie, Pennebaker, &amp; Sivertsen, 2008; Pettijohn
+				<lb/> &amp; Sacco, 2009; West &amp; Martindale, 1996
+			</ref>
+			) et cinq une méthodologie mixte (
+			<ref type="biblio">Dukes,
+				<lb/>
+				Bisel, Borega, Lobato, &amp; Owens, 2003; Freudiger &amp; Almquist, 1978; Herd, 2009;
+				<lb/>
+				Hust, Brown, &amp; L&apos;Engle, 2008; Primack, Nuzzo, Rice, &amp; Sargent, 2012
+			</ref>
+			). Aussi, nous
+			<lb/>
+			avons constaté que l&apos;utilisation de la méthodologie mixte est plus récente que les
+			<lb/>
+			deux autres puisque 80 % de ces études ont été réalisées après les années 2000. De
+			<lb/>
+			plus, depuis la fin des années 90, la méthodologie inductive semble être la plus prisée
+			<lb/>
+			(50 % du nombre d&apos;études au total depuis 1997).
+			<lb/>
+		</p>
+		
+		<p>Il est également possible de voir une certaine évolution sur le plan de l&apos;étude
+			<lb/>
+			des différents styles musicaux. Le rap et le country sont des styles apparemment
+			<lb/>
+			jeunes en tant qu&apos;objets d&apos;étude. Les chercheurs s&apos;y intéressent majoritairement
+			<lb/>
+			depuis les années 2000 alors que les périodes étudiées débutent dans les années 1950
+			<lb/>
+			et se terminent au début des années 2000. La musique chrétienne, quant à elle, n&apos;est
+			<lb/>
+			étudiée que par un groupe de chercheurs. Effectivement, Livengood et Ledoux Book
+			<lb/>
+			(2004) étudient les mots liés à la religion dans les chansons rock chrétienne. Ils
+			<lb/>
+			classent les mots religieux en trois catégories : explicites, modérés et ambigus. Leur
+			<lb/>
+			corpus fait aussi partie des plus récents (1998 à 2002) et leur recherche n&apos;est pas
+			<lb/>
+			guidée par un modèle théorique. Nous avons, par le fait même, constaté que peu
+			<lb/>
+			d&apos;études sont théoriques (
+			<ref type="biblio">Carey, 1969; Hunnicutt &amp; Andrews, 2009; Primack, Dalton,
+				<lb/>
+				Carroll, Agarwal, &amp; Fine, 2008; Primack, Gold, Schwarz, &amp; Dalton, 2008</ref>), c&apos;est-à-
+				<lb/>
+			dire qu&apos;elles découlent d&apos;une théorie ou d&apos;un modèle en particulier.
+			<lb/>
+		</p>
+		
+		<p>Comme il est possible de le constater dans les
+			<ref type="table">Tableaux 1 et 2</ref>, les premières
+			<lb/>
+			analyses de contenu de paroles de chansons se rapportent davantage aux relations
+			<lb/>
+			interpersonnelles, alors que, depuis une dizaine d&apos;années, les sujets les plus
+			<lb/>
+			populaires sont liés au contenu sexuel, à la violence et aux substances ayant une
+			<lb/>
+			connotation sociale négative (la drogue, l&apos;alcool et le tabac). À la lumière de cette
+			<lb/>
+			analyse, les thèmes aujourd&apos;hui prisés par les chercheurs semblent être le reflet d&apos;un
+			<lb/>
+			vieux conflit entre différents groupes sociaux ainsi qu&apos;entre plusieurs générations.
+			<lb/>
+			Comme le mentionnent <ref type="biblio">Martin et Segrave (1993)</ref>, lorsque les paroles de chansons
+			<lb/>
+			d&apos;artistes noirs ont percé le marché dans les années 50, elles ont remis en question les
+			<lb/>
+			valeurs de la classe moyenne « blanche ». La musique populaire de cette époque
+			<lb/>
+			parlait aussi de sexualité et faisait la promotion d&apos;un certain affranchissement de
+			<lb/>
+			l&apos;autorité adulte. À cet égard, la musique rock était considérée comme sensuelle et
+			<lb/>
+			une célébration du sexe par les jeunes, contrairement aux valeurs en vigueur à cette
+			<lb/>
+			époque et prônées par les adultes.
+			<lb/>
+		</p>
+		
+		<p>Dans cette même période récente, on peut remarquer un autre élément
+			<lb/>
+			contextuel qui oriente la recherche sur les paroles de chansons : les évènements du
+			<lb/>
+			11 septembre 2001. À cet effet, l&apos;étude de <ref type="biblio">Van Sickel (2005)</ref> est unique en son genre.
+			<lb/>
+			Ce chercheur a volontairement choisi de ne pas analyser les chansons qui ont suivi les
+			<lb/>
+			attentats du 11 septembre 2001 afin de ne pas biaiser les résultats de son étude
+			<lb/>
+			longitudinale (de 1960 à 2000).
+			<lb/>
+		</p>
+		
+		<figure type="table">Tableau 1
+			<lb/>
+			<ref type="biblio">Synthèse des analyses de contenu aux États-Unis, 1969-2006
+				<lb/>
+			</ref>
+			Année de
+			<lb/>
+			publication
+			<lb/>
+			Auteur(s)
+			<lb/>
+			Objet(s)
+			<lb/>
+			Période
+			<lb/>
+			étudiée
+			<lb/>
+			Corpus
+			<lb/>
+			(chansons)
+			<lb/>
+			Méthodologie
+			<lb/>
+			1969
+			<lb/>
+			Carey
+			<lb/>
+			Amour
+			<lb/>
+			1955-1966
+			<lb/>
+			227
+			<lb/>
+			Déductive
+			<lb/>
+			1971
+			<lb/>
+			Cole
+			<lb/>
+			Thèmes à
+			<lb/>
+			l&apos;adolescence
+			<lb/>
+			1960-1969
+			<lb/>
+			93
+			<lb/>
+			Inductive
+			<lb/>
+			1978
+			<lb/>
+			Freudiger et
+			<lb/>
+			Almquist
+			<lb/>
+			Stéréotypes
+			<lb/>
+			1972-1973
+			<lb/>
+			151
+			<lb/>
+			Mixte
+			<lb/>
+			1985
+			<lb/>
+			Cooper
+			<lb/>
+			Stéréotypes
+			<lb/>
+			1946-1976
+			<lb/>
+			1164
+			<lb/>
+			Inductive
+			<lb/>
+			1986
+			<lb/>
+			Friedman
+			<lb/>
+			Marques
+			<lb/>
+			1946-1980
+			<lb/>
+			256
+			<lb/>
+			Déductive
+			<lb/>
+			1992
+			<lb/>
+			Murphey
+			<lb/>
+			Vocabulaire
+			<lb/>
+			1987
+			<lb/>
+			50
+			<lb/>
+			Déductive
+			<lb/>
+			1996
+			<lb/>
+			West et
+			<lb/>
+			Martindale
+			<lb/>
+			The Beatles
+			<lb/>
+			1962-1970
+			<lb/>
+			183
+			<lb/>
+			Déductive
+			<lb/>
+			1997
+			<lb/>
+			Ostlund et
+			<lb/>
+			Kinnier
+			<lb/>
+			Thématiques 1950-1989
+			<lb/>
+			100
+			<lb/>
+			Inductive
+			<lb/>
+			2000
+			<lb/>
+			Aday et Austin
+			<lb/>
+			Vieillesse
+			<lb/>
+			1950-1955
+			<lb/>
+			52
+			<lb/>
+			Inductive
+			<lb/>
+			2001
+			<lb/>
+			Markert
+			<lb/>
+			Drogues
+			<lb/>
+			1960-1998
+			<lb/>
+			751
+			<lb/>
+			Inductive
+			<lb/>
+			2003
+			<lb/>
+			Dukes, Bisel,
+			<lb/>
+			Borega,
+			<lb/>
+			Lobato et
+			<lb/>
+			Owens
+			<lb/>
+			Amour
+			<lb/>
+			1958-1998
+			<lb/>
+			100
+			<lb/>
+			Mixte
+			<lb/>
+			2004
+			<lb/>
+			Livengood et
+			<lb/>
+			Ledoux Book
+			<lb/>
+			Vocabulaire
+			<lb/>
+			religieux
+			<lb/>
+			1998-2002
+			<lb/>
+			100
+			<lb/>
+			Déductive
+			<lb/>
+			2005
+			<lb/>
+			Van Sickel
+			<lb/>
+			Idéologie
+			<lb/>
+			1960-2000
+			<lb/>
+			1217
+			<lb/>
+			Inductive
+			<lb/>
+			2006
+			<lb/>
+			Bretthauer,
+			<lb/>
+			Zimmerman et
+			<lb/>
+			Banning
+			<lb/>
+			Stéréotypes
+			<lb/>
+			1998-2003
+			<lb/>
+			120
+			<lb/>
+			Inductive
+			<lb/>
+		</figure>
+		
+		<figure type="table">Tableau 2
+			<lb/>
+			<ref type="biblio">Synthèse des analyses de contenu aux États-Unis, 2006-2012
+				<lb/>
+			</ref>
+			Année de
+			<lb/>
+			publication
+			<lb/>
+			Auteur(s)
+			<lb/>
+			Objet(s)
+			<lb/>
+			Période
+			<lb/>
+			étudiée
+			<lb/>
+			Corpus
+			<lb/>
+			(chansons)
+			<lb/>
+			Méthodologie
+			<lb/>
+			2006
+			<lb/>
+			Diamond,
+			<lb/>
+			Bermudez et
+			<lb/>
+			Schensul
+			<lb/>
+			Ecstasy
+			<lb/>
+			1996-2003
+			<lb/>
+			69
+			<lb/>
+			Inductive
+			<lb/>
+			2008
+			<lb/>
+			Hust, Brown et
+			<lb/>
+			L&apos;Engle
+			<lb/>
+			Contenu
+			<lb/>
+			sexuel
+			<lb/>
+			2000-2002
+			<lb/>
+			88
+			<lb/>
+			Mixte
+			<lb/>
+			2008
+			<lb/>
+			Petrie,
+			<lb/>
+			Pennebaker et
+			<lb/>
+			Sivertsen
+			<lb/>
+			The Beatles
+			<lb/>
+			1960-1970
+			<lb/>
+			185
+			<lb/>
+			Déductive
+			<lb/>
+			2008
+			<lb/>
+			Primack, Dalton,
+			<lb/>
+			Carroll, Agarwal
+			<lb/>
+			et Fine
+			<lb/>
+			Substances
+			<lb/>
+			illicites
+			<lb/>
+			2005
+			<lb/>
+			279
+			<lb/>
+			Inductive
+			<lb/>
+			2008
+			<lb/>
+			Primack, Gold,
+			<lb/>
+			Schwarz et
+			<lb/>
+			Dalton
+			<lb/>
+			Contenu
+			<lb/>
+			sexuel
+			<lb/>
+			2005
+			<lb/>
+			279
+			<lb/>
+			Inductive
+			<lb/>
+			2009
+			<lb/>
+			Herd
+			<lb/>
+			Violence
+			<lb/>
+			1979-1997
+			<lb/>
+			340
+			<lb/>
+			Mixte
+			<lb/>
+			2009
+			<lb/>
+			Hunnicutt et
+			<lb/>
+			Andrews
+			<lb/>
+			Violence
+			<lb/>
+			1989-2000
+			<lb/>
+			329
+			<lb/>
+			Déductive
+			<lb/>
+			2009
+			<lb/>
+			Pedelty et
+			<lb/>
+			Thompson
+			<lb/>
+			11 septembre
+			<lb/>
+			2001
+			<lb/>
+			1998-2004
+			<lb/>
+			1280
+			<lb/>
+			Déductive
+			<lb/>
+			2009
+			<lb/>
+			Pettijohn et
+			<lb/>
+			Sacco
+			<lb/>
+			Valeurs
+			<lb/>
+			1955-2003
+			<lb/>
+			49
+			<lb/>
+			Déductive
+			<lb/>
+			2009
+			<lb/>
+			Weitzer et
+			<lb/>
+			Kubrin
+			<lb/>
+			Stéréotypes
+			<lb/>
+			1992-2000
+			<lb/>
+			403
+			<lb/>
+			Inductive
+			<lb/>
+			2012
+			<lb/>
+			Primack, Nuzzo,
+			<lb/>
+			Rice et Sargent
+			<lb/>
+			Marques et
+			<lb/>
+			substances
+			<lb/>
+			2005-2007
+			<lb/>
+			793
+			<lb/>
+			Mixte
+			<lb/>
+		</figure>
+		
+		<p><ref type="biblio">Pedelty et Thompson (2009)</ref>, pour leur part, analysent les paroles des chansons de
+			<lb/>
+			1998 à 2004 dans le but d&apos;observer si les émotions exprimées, comme la colère et la
+			<lb/>
+			tristesse, diffèrent entre la période avant et celle après les attentats du 11 septembre
+			<lb/>
+			2001. <ref type="biblio">Pettijohn et Sacco (2009)</ref>, de leur côté, se fondent sur un index du climat
+			social
+			<lb/>
+			(taux de chômage, revenu annuel par habitant, indice des prix à la consommation,
+			<lb/>
+			mortalité, naissance, mariage, divorce, suicide, homicide), qu&apos;ils créent eux-mêmes,
+			<lb/>
+			afin d&apos;interpréter les différences dans les thématiques des chansons entre 1955 et
+			<lb/>
+			2003. Selon leurs résultats, lorsque le contexte social et économique est tendu, les
+			<lb/>
+			paroles de chansons sont plus réconfortantes, romantiques et profondes. Cependant,
+			<lb/>
+			leur corpus est très limité puisque les chercheurs n&apos;ont codé qu&apos;une seule chanson par
+			<lb/>
+			année, soit la plus populaire.
+			<lb/>
+		</p>
+		
+		<p>Cette synthèse, réalisée dans un processus inductif, a été effectuée à l&apos;aide
+			<lb/>
+			d&apos;études provenant des États-Unis. Bien que des analyses de contenu à propos de
+			<lb/>
+			paroles de chansons existent pour le Québec (
+			<ref type="biblio">Doyon, 2009; Laabidi, 2010; Lechaune,
+				<lb/>
+				1997
+			</ref>
+			), le <ref type="biblio">Canada (Bénéteau, 2004; McDonald &amp; Sparling, 2010</ref>), la France
+			<lb/>
+			(<ref type="biblio">Marcadet, 2000; Mucchielli, 1999</ref>), la Grande-Bretagne (<ref type="biblio">Gammon,
+				1984</ref>),
+			<lb/>
+			l&apos;Allemagne (<ref type="biblio">Stehle, 2013</ref>) et même l&apos;Irak (<ref type="biblio">Abu-Haidar,
+				1995</ref>), il est important de
+			<lb/>
+			mentionner qu&apos;une des limites de notre métaétude est que celle-ci ne s&apos;attarde qu&apos;à la
+			<lb/>
+			chanson aux États-Unis. Néanmoins, nous avons fait le choix de limiter notre corpus
+			<lb/>
+			à ce pays étant donné que le palmarès de la musique rock chrétienne est propre à
+			<lb/>
+			celui-ci. Toutefois, la consultation de ces études nous amène à constater que peu de
+			<lb/>
+			chercheurs s&apos;intéressent aux valeurs présentes dans les paroles de chansons, et ce,
+			<lb/>
+			malgré l&apos;appel de <ref type="biblio">Carey (1969)</ref> à cet effet. Si l&apos;on se fie aux idées de <ref type="biblio">Morling et
+			<lb/>
+				Lamoreaux (2008)</ref>, ce produit culturel semble être le miroir de la culture étatsunienne
+			<lb/>
+			et reflète probablement des valeurs propres à ce pays (<ref type="biblio">Imada, 2012</ref>). Afin d&apos;étudier
+			<lb/>
+			les paroles de chansons d&apos;un palmarès américain, soit le Billboard Christian Songs,
+			<lb/>
+			nous nous insérerons dans le nouveau courant de recherche de ces analyses de
+			<lb/>
+			contenu et nous utiliserons donc une méthodologie de type mixte.
+			<lb/>
+		</p>
+		
+		<head>2. Problématique initiale
+			<lb/>
+		</head>
+		
+		<p>Comme suggéré par Carey <ref type="biblio">(1969)</ref>, il importe d&apos;analyser les valeurs qui sont
+			prônées
+			<lb/>
+			dans la musique. Pour ce faire, nous avons analysé 65 compositions s’étant retrouvées
+			<lb/>
+			au numéro 1 du palmarès américain Christian Songs, entre 2003 et 2011, à l&apos;aide du
+				<lb/>
+				modèle des valeurs de <ref type="biblio">Schwartz (1992)
+			</ref>
+			. Il est à noter que les résultats de la
+			<lb/>
+			classification de ces chansons ont été trouvés sur le site www.billboard.com et leurs
+			<lb/>
+			paroles sur le site www.elyrics.net. Le genre de l&apos;artiste, la durée de la chanson, le
+			<lb/>
+			nombre de semaines passées au numéro 1, ainsi que le rythme (BPM) ont aussi été
+			<lb/>
+			comptabilisés pour chacune des chansons afin d&apos;en détailler le portrait.
+			<lb/>
+		</p>
+		
+		<head>2.1 Le modèle des valeurs de Schwartz (1992)
+			<lb/>
+		</head>
+		
+		<p>Au début de cette étude, le modèle des valeurs de <ref type="biblio">Schwartz (1992)</ref> devait servir de
+			<lb/>
+			cadre théorique à cette étude. En effet, le but de ce projet était de déterminer les
+			<lb/>
+			valeurs les plus présentes dans les chansons rock chrétiennes. Le modèle choisi était
+			<lb/>
+			précisément en lien avec l&apos;individu, ses buts et ses principes de vie. Selon Schwartz
+			<lb/>
+			(1992), le but ou la motivation qu&apos;exprime une valeur est ce qui la distingue des
+			<lb/>
+			autres. Son modèle est en fait une typologie contenant dix types motivationnels de
+			<lb/>
+			valeurs : autonomie, stimulation, hédonisme, accomplissement, pouvoir, sécurité,
+			<lb/>
+			conformité, tradition, bienveillance et universalisme. Ces types motivationnels
+			<lb/>
+			découlent de trois exigences universelles : les besoins individuels en tant
+			<lb/>
+			qu&apos;organisme biologique, la nécessité d&apos;interactions sociales coordonnées, de même
+			<lb/>
+			que la survie et le bien-être des groupes. Les individus utilisent ces types
+			<lb/>
+			motivationnels pour sélectionner, justifier et évaluer des actions ou des évènements.
+			<lb/>
+			Nous trouvions que ce modèle permettait de déceler les valeurs prônées dans les
+			<lb/>
+			chansons populaires de la musique rock chrétienne.
+			<lb/>
+		</p>
+		
+		<head>2.2 Définition des valeurs
+			<lb/>
+		</head>
+		
+		<p>Chaque valeur possède un but spécifique qu&apos;il importe de préciser. De plus, chacune
+			<lb/>
+			d&apos;elles se rattache à des valeurs d&apos;ordre supérieur : dépassement de soi, changement,
+			<lb/>
+			affirmation de soi et continuité. La partie suivante présente une brève définition de
+			<lb/>
+			chacune des dix valeurs ainsi que le quadrant auquel elles se rapportent. Auparavant,
+			<lb/>
+			voici la <ref type="figure">Figure 1</ref> illustrant le positionnement des dix valeurs dans les quadrants :
+			<lb/>
+		</p>
+		
+		<figure>Figure 1. Modèle des valeurs de Schwartz (1992).
+			<lb/>
+		</figure>
+		
+		<p>Le quadrant lié au changement est caractérisé par les valeurs d&apos;autonomie, de
+			<lb/>
+			stimulation et d&apos;hédonisme qui misent sur les nouvelles idées, les nouvelles actions et
+			<lb/>
+			les nouvelles expériences. Les valeurs de cette catégorie font référence à une
+			<lb/>
+			ouverture au changement. L&apos;objectif de l&apos;autonomie est l&apos;indépendance de l&apos;action et
+			<lb/>
+			de la pensée, le contrôle et la maîtrise de ses besoins. La créativité, la liberté, la
+			<lb/>
+			curiosité et l&apos;indépendance sont aussi liées à l&apos;autonomie. La valeur de la stimulation
+			<lb/>
+			renvoie à la nouveauté, à l&apos;enthousiasme et à l&apos;envie de relever des défis. L&apos;audace
+			<lb/>
+			est de mise ainsi qu&apos;une vie variée et excitante. L&apos;objectif de l&apos;hédonisme, quant à lui,
+			<lb/>
+			est de satisfaire des besoins vitaux et d&apos;en retirer du plaisir ou de la gratification
+			<lb/>
+			personnelle.
+			<lb/>
+		</p>
+		
+		<p>Dans le quadrant de l&apos;affirmation de soi, la réussite, le pouvoir et une parcelle
+			<lb/>
+			de l&apos;hédonisme visent l&apos;émancipation de soi et la poursuite de ses propres intérêts. La
+			<lb/>
+			valeur de l&apos;accomplissement réfère au succès personnel, au fait d&apos;être performant
+			<lb/>
+			selon les normes culturelles dominantes et d&apos;avoir des compétences socialement
+			<lb/>
+			reconnues afin d&apos;obtenir l&apos;approbation sociale. Les résultats sont orientés vers le
+			<lb/>
+			succès et la reconnaissance sociale. Le but de la valeur du pouvoir est d&apos;avoir un
+			<lb/>
+			statut social prestigieux et de pouvoir contrôler des personnes ou des ressources.
+			<lb/>
+			L&apos;autorité et la richesse sont des indicateurs de cette valeur.
+			<lb/>
+		</p>
+		
+		<p>Le quadrant de la continuité vise la stabilité, la préservation et l&apos;ordre.
+			<lb/>
+			Contrairement au quadrant de l&apos;ouverture au changement, les valeurs de sécurité, de
+			<lb/>
+			tradition et de conformité ne promeuvent pas le changement. La sécurité fait
+			<lb/>
+			référence à la stabilité, qu&apos;elle soit personnelle, interpersonnelle ou sociétale. De plus,
+			<lb/>
+			elle concerne les intérêts collectifs, familiaux ou nationaux. Le sens de
+			<lb/>
+			l&apos;appartenance, l&apos;harmonie intérieure et l&apos;amitié sont valorisés. La valeur de la
+			<lb/>
+			conformité est liée à la modération des actions, des goûts et des préférences afin de ne
+			<lb/>
+			pas contrarier les interactions du groupe. La politesse, l&apos;obéissance et l&apos;autodiscipline
+			<lb/>
+			font référence à la conformité. Finalement, la tradition vise le respect des coutumes,
+			<lb/>
+			des croyances et de l&apos;ordre social de son groupe, veille à honorer les ancêtres et fait la
+			<lb/>
+			promotion de l&apos;humilité.
+			<lb/>
+		</p>
+		
+		<p>Le quadrant du dépassement de soi met l&apos;accent sur le renoncement à ses
+			<lb/>
+			propres besoins et intérêts pour le bien des autres, contrairement au quadrant lié à
+			<lb/>
+			l&apos;affirmation de soi. Nous retrouvons, dans cette catégorie, les valeurs de
+			<lb/>
+			bienveillance et d&apos;universalisme. La bienveillance réfère au souci et au bien-être des
+			<lb/>
+			autres. Elle est liée à la préservation et à l&apos;amélioration des personnes de notre
+			<lb/>
+			entourage immédiat. L&apos;indulgence, la loyauté, l&apos;honnêteté, la justice sociale et
+			<lb/>
+			l&apos;égalité font référence à cette valeur. L&apos;universalisme vise la survie des personnes,
+			<lb/>
+			des groupes ou de la nature. La protection, la tolérance et la compréhension renvoient
+			<lb/>
+			à cette valeur. Cela se produit notamment lorsqu&apos;une personne prend conscience de la
+			<lb/>
+			limite des ressources naturelles, sur lesquelles la vie dépend.
+			<lb/>
+		</p>
+		
+		<head>3. Problèmes rencontrés
+			<lb/>
+		</head>
+		
+		<p>Nous avons commencé le projet par un prétest en codant la présence des valeurs dans
+			<lb/>
+			les chansons à l&apos;aide du modèle des valeurs de <ref type="biblio">Schwartz (1992)</ref>. Selon les
+			définitions
+			<lb/>
+			des dix valeurs du modèle de Schwartz présentées ci-haut, nous avons codé la
+			<lb/>
+			présence (1) ou l&apos;absence (0) d&apos;une valeur dans dix chansons sélectionnées au hasard.
+			<lb/>
+			Ce prétest nous a permis de démontrer que les valeurs liées au quadrant de la
+			<lb/>
+			continuité étaient présentes dans chaque chanson, ce qui posait un questionnement
+			<lb/>
+			quant à la richesse de nos données. En sachant que les valeurs liées à la continuité
+			<lb/>
+			sont présentes dans chacune des chansons, et non simplement dans la majorité d&apos;entre
+			<lb/>
+			elles, comment pouvions-nous enrichir nos résultats? <ref type="biblio">Gherardi et Turner (1987)
+				<lb/>
+			</ref>
+			suggèrent que le problème consiste à savoir quand il est utile de compter et quand il
+			<lb/>
+			est « difficile ou inapproprié de compter » (<ref type="biblio">Miles &amp; Huberman, 2003, p. 82</ref>).
+			Nous
+			<lb/>
+			nous sommes donc tournés vers une approche inductive afin de bonifier notre
+			<lb/>
+			analyse. Contrairement à notre approche première, l&apos;induction permet au chercheur
+			<lb/>
+			de passer du spécifique vers le général, c&apos;est-à-dire qu&apos;il n&apos;existe pas de cadre
+			<lb/>
+			théorique préétabli (<ref type="biblio">Blais &amp; Martineau, 2006</ref>).
+			<lb/>
+		</p>
+		
+		<p>À cette étape, nous souhaitions décliner les indicateurs des valeurs pouvant être
+			<lb/>
+			liées au quadrant de la continuité afin d&apos;affiner nos résultats. L&apos;approche inductive
+			<lb/>
+			nous permettait donc de faire apparaître des dimensions qui étaient encore
+			<lb/>
+			inexplorées. Puisque notre étude comporte des éléments qualitatifs, mais aussi
+			<lb/>
+			quantitatifs, nous avons décidé de nous inscrire dans une approche inductive générale
+			<lb/>
+			(<ref type="biblio">Blais &amp; Martineau, 2006; Thomas, 2006</ref>), au lieu de nous inscrire dans les
+			traditions
+			<lb/>
+			de recherches spécialisées comme la phénoménologie (<ref type="biblio">Van Manen, 1990</ref>), la
+			<lb/>
+			théorisation enracinée (<ref type="biblio">Corbin &amp; Strauss, 2008; Luckerhoff &amp; Guillemette,
+				2012</ref>) ou
+			<lb/>
+			encore l&apos;analyse de discours (<ref type="biblio">Potter &amp; Wetherell, 1994</ref>). L&apos;approche
+			inductive
+			<lb/>
+			générale, selon <ref type="biblio">Blais et Martineau (2006, p. 3)</ref>, « s&apos;appuie sur différentes stratégies
+			<lb/>
+			utilisant prioritairement la lecture détaillée des données brutes pour faire émerger des
+			<lb/>
+			catégories à partir des interprétations du chercheur qui s&apos;appuie sur ces données
+			<lb/>
+			brutes ». Cependant, comme l&apos;approche inductive générale et la méthodologie de la
+			<lb/>
+			théorisation enracinée (MTE) se ressemblent sur plusieurs points, il importe de
+			<lb/>
+			préciser que nous avons eu recours à certaines idées provenant de la MTE,
+			<lb/>
+			notamment en ce qui concerne les stratégies d&apos;analyse. Ainsi, nous trouvions
+			<lb/>
+			important de capturer la complexité de cette situation et d&apos;en faire une analyse d&apos;un
+			<lb/>
+			autre niveau. Un des avantages de la MTE est de permettre une meilleure
+			<lb/>
+			compréhension de notre problème de recherche (<ref type="biblio">Creswell &amp; Plano Clark, 2007</ref>). Bien
+			<lb/>
+			que cette méthode soit relativement récente, puisqu&apos;elle est apparue à la fin des
+			<lb/>
+			années 1950, il n&apos;en demeure pas moins qu&apos;elle est de plus en plus populaire au sein
+			<lb/>
+			des sciences humaines et sociales.
+			<lb/>
+		</p>
+		
+		<p>Lorsque nous nous sommes inscrits dans une approche inductive, nous avons
+			<lb/>
+			recommencé à zéro l&apos;analyse de contenu de nos chansons. Au lieu de coder
+			<lb/>
+			directement la présence (1) ou l&apos;absence (0) d&apos;une valeur dans une chanson, nous
+			<lb/>
+			avons attaché des mots-clés à des segments de texte. Cette méthode s&apos;est avérée plus
+			<lb/>
+			complexe que la première pour laquelle nous avions opté. En effet,
+			<lb/>
+		</p>
+		
+		<p>la difficulté la plus sérieuse et la plus centrale de l&apos;utilisation des données
+			<lb/>
+			qualitatives vient du fait que les méthodes d&apos;analyse ne sont pas
+			<lb/>
+			clairement formulées. Pour les données quantitatives, il existe des
+			<lb/>
+			conventions précises que le chercheur peut utiliser (<ref type="biblio">Miles, 1979, p. 591</ref>).
+			<lb/>
+		</p>
+		
+		<p>Nous devions donc mettre de côté notre cadre théorique précédent et nous
+			<lb/>
+			laisser imprégner du sens des chansons.
+			<lb/>
+		</p>
+		
+		<p>Nous nous sommes penchés sur les 65 chansons, les unes après les autres, au
+			<lb/>
+			hasard. À cette étape du codage, le plus difficile pour nous a été de stimuler le
+			<lb/>
+			processus d&apos;induction et de prendre du recul par rapport à nos connaissances. Nous
+			<lb/>
+			devions prendre une distance par rapport aux écrits scientifiques que nous avions
+			<lb/>
+			consultés et par rapport à notre ancien cadre théorique afin de voir les nouvelles
+			<lb/>
+			possibilités qu&apos;offraient nos données. De plus, nous devions mettre de côté nos idées
+			<lb/>
+			préconçues et nos hypothèses de départ afin de nous laisser guider par les données
+			<lb/>
+			elles-mêmes. Le but de ce codage était d&apos;arriver à un niveau d&apos;abstraction pour
+			<lb/>
+			trouver des termes permettant de saisir le sens des données. <ref type="biblio">Corbin et Strauss (2008)</ref>
+			<lb/>
+			suggèrent que « la meilleure approche pour effectuer un codage est de relaxer et de
+			<lb/>
+			laisser sa pensée et son intuition travailler pour soi » 3 [traduction libre] (p. 160).
+			<lb/>
+		</p>
+		
+		<head>4. Apports de la procédure inductive
+			<lb/>
+		</head>
+		
+		<p>La procédure que nous avons adoptée a permis de faire ressortir onze catégories que
+			<lb/>
+			nous avons ensuite reprises pour une nouvelle phase d&apos;analyse de notre corpus, les
+			<lb/>
+			65 textes de chansons. Lors de la première lecture d&apos;une chanson, celle-ci était
+			<lb/>
+			annotée de concepts ou d&apos;étiquettes qui ressortaient d&apos;un mot ou d&apos;un groupe de
+			<lb/>
+			mots. Dans leur livre Basics of qualitative research, <ref type="biblio">Corbin et Strauss (2008)</ref>
+			<lb/>
+			proposent plusieurs stratégies d&apos;analyse de données qualitatives. Lors de la lecture
+			<lb/>
+			d&apos;une chanson, nous utilisions certaines de ces stratégies. Entre autres, nous pensions
+			<lb/>
+			aux divers sens d&apos;un mot ou d&apos;un groupe de mots. Une deuxième stratégie a consisté
+			<lb/>
+			à utiliser nos expériences personnelles, en tant que chercheurs, pour obtenir un sens
+			<lb/>
+			similaire à celui évoqué par la chanson. Puisque nous partageons une même culture,
+			<lb/>
+			celle de la société nord-américaine, nous pouvions utiliser nos repères afin de mieux
+			<lb/>
+			comprendre le sens d&apos;une chanson. Cependant, une des difficultés rencontrées lors de
+			<lb/>
+			l&apos;analyse des chansons a été la langue. Bien que nous soyons compétents dans la
+			<lb/>
+			langue de Shakespeare, l&apos;utilisation de référents culturels ou d&apos;un jargon spécifique à
+			<lb/>
+			un groupe ou à une région américaine, dans une chanson, augmentait le niveau de
+			<lb/>
+			complexité de notre analyse.
+			<lb/>
+		</p>
+		
+		<p>Il est important de noter que nous avons seulement lu les paroles des chansons
+			<lb/>
+			et que nous ne les avons pas écoutées. Ce choix a été fait en tenant compte du fait que
+			<lb/>
+			le mélange de la mélodie et des paroles fournit une source d&apos;expression des émotions
+			<lb/>
+			chez un individu (<ref type="biblio">Mott, 1921</ref>). Nous cherchions, dès le début de notre étude, à
+			<lb/>
+			distinguer ces deux aspects afin de les analyser séparément. Nous ne voulions, en
+			<lb/>
+			aucun cas, que la mélodie ou le rythme influence l&apos;analyse des paroles.
+			<lb/>
+		</p>
+		
+		<p>Nous avons ensuite effectué de plus amples lectures qui nous ont permis de
+			<lb/>
+			standardiser nos concepts et de les regrouper en catégories distinctes. Au terme de ces
+			<lb/>
+			lectures, l&apos;analyse de contenu des paroles des 65 chansons indiquait la présence de
+			<lb/>
+			onze catégories : la dévotion, la présence de Dieu, l&apos;espoir, la déférence, la sécurité,
+			<lb/>
+			l&apos;altruisme, l&apos;autonomie, la dignité, la modération, le pardon et la famille. Chacune de
+			<lb/>
+			ces catégories a été minutieusement développée et définie avant d&apos;être utilisée dans
+			<lb/>
+			une nouvelle phase de l&apos;analyse du corpus. Cette façon de procéder est typiquement
+			<lb/>
+			inductive. Afin de comprendre en profondeur le codage des textes des 65 chansons
+			<lb/>
+			rock chrétiennes, ci-dessous se trouve une définition de chacune des catégories
+			<lb/>
+			relevées ainsi que quelques exemples de mots-clés qui ont permis de cibler une valeur
+			<lb/>
+			dans un texte.
+			<lb/>
+		</p>
+		
+		<p>La catégorie de la dévotion a été repérée lors de références à l&apos;adoration, à
+			<lb/>
+			l&apos;attachement à une religion et à ses pratiques, à l&apos;amour inconditionnel, à la loyauté,
+			<lb/>
+			au fait de se battre pour l&apos;entité religieuse (par exemple Dieu, Jésus, le Seigneur, le
+			<lb/>
+			>Père) et au courage transmis par cette dernière. Des termes tels que worship [vénérer]
+			<lb/>
+			et love [aimer] nous indiquaient la présence de la dévotion. Puis, la présence de
+			Dieu
+			<lb/>
+			renvoie à l&apos;utilisation de l&apos;entité religieuse pour soi ou pour aider les autres. Elle a été
+			<lb/>
+			observée, entre autres, par le terme closer [plus près].
+			Cela est considéré comme une
+			<lb/>
+			extension de Dieu, c&apos;est-à-dire que la personne a le sentiment que Dieu est présent en
+			<lb/>
+			elle, ou autour d&apos;elle. Elle se sent bien en sa présence et ce sentiment lui permet de
+			<lb/>
+			passer à travers des moments difficiles. La catégorie de l&apos;espoir a aussi émergé. Ce
+			<lb/>
+			thème regroupe tout ce qui a trait au changement, à un futur meilleur. Le terme hope
+			<lb/>
+			[espoir] est représentatif de cette catégorie. Plus précisément, lorsque l&apos;on voit
+			<lb/>
+			l&apos;entité, les doutes et les temps noirs s&apos;effacent, elle nous donne confiance et nous
+			<lb/>
+			aide à nous en sortir. La déférence à l&apos;autorité, quant à elle, renvoie au respect
+			<lb/>
+			inconditionnel pour l&apos;entité religieuse. Le terme King [Roi], débutant par une
+			<lb/>
+			majuscule, est un exemple saillant. Ensuite, la sécurité est liée au confort. À cet effet,
+			<lb/>
+			le mot safe [en sécurité] est apparu à plusieurs reprises. Dans cette catégorie,
+			<lb/>
+			l&apos;endroit, ou la personne, se fait rassurant, ce qui fait en sorte qu&apos;une personne se sent
+			<lb/>
+			comme chez elle. L&apos;altruisme est une catégorie qui réfère à l&apos;entraide, mais surtout au
+			<lb/>
+			fait d&apos;aider les autres sans rien attendre en retour. Un exemple d&apos;un groupe de mots se
+			<lb/>
+			retrouvant dans cette catégorie est feeding the hungry [nourrir les affamés]. Pris
+			dans
+			<lb/>
+			le contexte d&apos;une chanson, ces mots-clés laissent entrevoir une volonté d&apos;aider et de
+			<lb/>
+			se préoccuper des autres. Ensuite, l&apos;autonomie reflète la notion de liberté pour les
+			<lb/>
+			humains, qu&apos;elle soit à travers l&apos;entité religieuse ou non. Dans ce cas, les humains
+			<lb/>
+			gèrent seuls les problèmes et les combats. Nous retrouvons, dans cette catégorie, des
+			<lb/>
+			mots-clés comme free to be me [libre d&apos;être moi-même]. La catégorie de la dignité
+			<lb/>
+			renvoie au fait d&apos;être digne ou non de ce que l&apos;entité offre ou donne à un individu.
+			<lb/>
+			Elle inclut notamment le groupe de mots don&apos;t deserve [ne mérite pas]. Dans les
+			<lb/>
+			textes traitant de la dignité, la relation entre le chanteur et l&apos;entité religieuse est
+			<lb/>
+			omniprésente. Puis, la modération est une catégorie qui va à l&apos;encontre de l&apos;excès
+			<lb/>
+			dans la vie de tous les jours et s&apos;associe à la notion de paix. Le pardon a également
+			<lb/>
+			été repéré comme étant une catégorie importante dans les paroles. Il est lié à la notion
+			<lb/>
+			de demander pardon, mais aussi à celle de pardonner. Finalement, la famille est un
+			<lb/>
+			terme faisant surtout référence au mariage ainsi qu&apos;aux enfants. Des termes tels que
+			<lb/>
+			kids [enfants] et wife [épouse] nous ont permis de circonscrire cette catégorie.
+			<lb/>
+		</p>
+		
+		<p>Dans notre cas, nous partions du principe que la principale caractéristique des
+			<lb/>
+			mots était leur distribution quantitative. À la suite de la construction de cette liste de
+			<lb/>
+			onze catégories, nous avons codé la présence (1) ou l&apos;absence (0) de ces indicateurs
+			<lb/>
+			dans les 65 chansons.
+			<lb/>
+		</p>
+		
+		<head>5. Résultats
+			<lb/>
+		</head>
+		
+		<p>La méthode mixte utilisée dans notre étude nous a permis de dresser un portrait type
+			<lb/>
+			de la musique rock chrétienne, que nous décrivons dans cette section. D&apos;un point de
+			<lb/>
+			vue descriptif, les artistes composant et interprétant ce type de musique sont à
+			<lb/>
+			80 % des hommes. Dans ce média, ils semblent surreprésentés par rapport aux
+			<lb/>
+			femmes. La <ref type="figure">Figure 2</ref> en fait état. De plus, en moyenne, un numéro 1 de ce Billboard
+			<lb/>
+			reste au sommet de ce palmarès 6,8 semaines (E.T.= 5,2), est d&apos;une durée de
+			<lb/>
+			4 min 7 s (E.T.= 42 secondes) et le rythme associé à celui-ci est de 85,4 BPM (E.T.=
+			<lb/>
+			17,3).
+			<lb/>
+		</p>
+		
+		<figure>Figure 2. Le genre des artistes.
+			<lb/>
+			Groupe
+			<lb/>
+			masculin
+			<lb/>
+			41,5%
+			<lb/>
+			Homme
+			<lb/>
+			38,5%
+			<lb/>
+			Groupe
+			<lb/>
+			mixte
+			<lb/>
+			13,8%
+			<lb/>
+			Femme
+			<lb/>
+			6,2%
+			<lb/>
+		</figure>
+		
+		<p>Pour ce qui est des onze catégories, comme il est possible de le remarquer à la
+			<lb/>
+			Figure 3, la dévotion (86,2 %), la présence de Dieu (75,4 %,) et l&apos;espoir (63,1 %) sont
+			<lb/>
+			les plus présentes parmi les numéros 1 du palmarès Christian Songs. À titre
+			<lb/>
+			d&apos;exemple, « j&apos;ai été conçu pour toi, conçu pour t&apos;adorer et être aimé de toi » 4
+			<lb/>
+			[traduction libre] (TobyMac, Made to love) réfère à la dévotion. « Je donne ma vie au
+			<lb/>
+			Seul Enfant qui fût, qui est et qui sera, laissons les louanges résonner, car Il est tout,
+			<lb/>
+			car Il est tout » 5 [traduction libre] (Chris August, Starry night) illustre la catégorie de
+			<lb/>
+			la déférence. Aussi, l&apos;utilisation de la majuscule reflète la présence d&apos;une entité
+			<lb/>
+			religieuse dans le texte. Par ailleurs, la catégorie de la présence de Dieu se retrouve
+			<lb/>
+			dans la citation suivante : « le temps a passé et nous le voyons face à face, tous les
+			<lb/>
+			doutes sont effacés, pour toujours nous vénèrerons le roi » 6 [traduction libre] (Mercy
+			<lb/>
+			Me, All of creation). En plus de faire référence à la présence concrète de l&apos;entité
+			<lb/>
+			religieuse, cet extrait est lié à la dévotion ainsi qu&apos;à la déférence à l&apos;autorité.
+			<lb/>
+		</p>
+		
+		<p>Il est également intéressant de mettre de l&apos;avant que la valeur de l&apos;autonomie
+			<lb/>
+			est présente dans notre analyse, mais qu&apos;elle fait également partie du modèle des
+			<lb/>
+			valeurs de <ref type="biblio">Schwartz (1992)</ref>. En effet, dans les chansons rock chrétiennes, l&apos;autonomie
+			<lb/>
+			réfère à la bonté de l&apos;entité religieuse. Cette dernière permet à un individu d&apos;être libre
+			<lb/>
+			ou l&apos;aide à se libérer de ses problèmes et de ses tourments. Dans une culture
+			<lb/>
+			individualiste comme celle de l&apos;Amérique du Nord, il est tout de même d&apos;intérêt de
+			<lb/>
+			constater que les artistes qui chantent à propos de Dieu mettent de l&apos;avant cette
+			<lb/>
+			valeur.
+			<lb/>
+		</p>
+		
+		<figure>Figure 3. Récurrence des catégories.
+			<lb/>
+			16,9 %
+			<lb/>
+			16,9 %
+			<lb/>
+			20 %
+			<lb/>
+			23,1 %
+			<lb/>
+			26,2 %
+			<lb/>
+			41,5 %
+			<lb/>
+			47,7 %
+			<lb/>
+			53,8 %
+			<lb/>
+			63,1 %
+			<lb/>
+			75,4 %
+			<lb/>
+			86,2 %
+			<lb/>
+			0%
+			<lb/>
+			50%
+			<lb/>
+			100%
+			<lb/>
+			Famille
+			<lb/>
+			Pardon
+			<lb/>
+			Modération
+			<lb/>
+			Dignité
+			<lb/>
+			Autonomie
+			<lb/>
+			Altruisme
+			<lb/>
+			Sécurité
+			<lb/>
+			Déférence
+			<lb/>
+			Espoir
+			<lb/>
+			Présence de Dieu
+			<lb/>
+			Dévotion
+			<lb/>
+		</figure>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>Au terme de cet article, il est important de comprendre que l&apos;induction et la déduction
+			<lb/>
+			ne sont pas propres à une démarche en particulier. Dans notre cas, il a été
+			<lb/>
+			enrichissant, pour la partie qualitative de notre recherche, de faire appel à la logique
+			<lb/>
+			de l&apos;induction en laissant émaner les catégories de notre corpus. Notre étude
+			<lb/>
+			démontre que l&apos;approche inductive nous a permis de sortir de l&apos;impasse
+			<lb/>
+			épistémologique résultant d&apos;une approche hypothético-déductive. En clair,
+			<lb/>
+			l&apos;utilisation du modèle de <ref type="biblio">Schwartz (1992)</ref> limitait nos résultats au quadrant de la
+			<lb/>
+			continuité. L&apos;approche inductive, quant à elle, a permis de mettre à jour des données
+			<lb/>
+			plus riches et de nouvelles catégories qui aident à mieux cerner ce quadrant, et par
+			<lb/>
+			conséquent la musique rock chrétienne.
+			<lb/>
+		</p>
+		
+		<head>Notes
+			<lb/>
+		</head>
+	
+	</text>
+</tei>

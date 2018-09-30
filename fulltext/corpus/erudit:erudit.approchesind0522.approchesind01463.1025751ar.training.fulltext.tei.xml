@@ -1,0 +1,1565 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<head>Introduction
+			<lb/>
+		</head>
+		
+		<p>Toute la difficulté, mais aussi, il faut le dire, toute l&apos;originalité
+			<lb/>
+			épistémologique des Sic [sciences de l&apos;information et de la
+			<lb/>
+			communication] tient à la nécessité dans laquelle elles se trouvent de
+			<lb/>
+			devoir construire leur objet de recherche comme objet scientifique en
+			<lb/>
+			adoptant une posture vis-à-vis de l&apos;objet concret qu&apos;elles étudient […].
+			<lb/>
+			On peut observer, et éprouver, cette particularité dans la situation quasi
+			<lb/>
+			expérimentale que constitue la situation de thèse. […] la thèse prend la
+			<lb/>
+			forme d&apos;une initiation (au sens fort d&apos;un rite) caractérisée par un
+			<lb/>
+			apprentissage de la capacité à résister (on serait tenté de dire, à survivre)
+			<lb/>
+			au régime d&apos;incertitude qu&apos;engendre la nécessité de recalculer à
+			<lb/>
+			intervalles réguliers la position : d&apos;estimer la relation juste entre le cadre
+			<lb/>
+			théorique, le terrain, les résultats attendus et la méthode employée
+			<lb/>
+			(<ref type="biblio">Davallon &amp; Jeanneret, 2006, pp. 205-208</ref>).
+			<lb/>
+		</p>
+		
+		<p>Cet article met au jour la compréhension du parcours épistémologique et
+			<lb/>
+			méthodologique que nous avons mis en oeuvre lors d&apos;une démarche de recherche
+			<lb/>
+			menée dans le champ de la muséologie. Selon une approche en MTE, nous proposons
+			<lb/>
+			de faire émerger les gestes implicites qui ont été posés lors de la problématisation.
+			<lb/>
+			Pour articuler l&apos;exposé, la problématique de la recherche en muséologie est définie en
+			<lb/>
+			première partie comme problème de recherche. En deuxième partie, la méthode pour
+			<lb/>
+			analyser les étapes de construction de la problématique est expliquée. Il en résulte des
+			<lb/>
+			changements de paradigmes dans les formulations successives de la problématique
+			<lb/>
+			qui s&apos;inscrivent dans l&apos;épistémologie de la MTE avec des ancrages en
+			<lb/>
+			phénoménologie et en herméneutique.
+			<lb/>
+		</p>
+		
+		<p>Notre intérêt s&apos;est porté sur l&apos;étude d&apos;une seule recherche en muséologie et plus
+			<lb/>
+			spécifiquement sur sa phase de problématisation. Le but est d&apos;analyser en profondeur
+			<lb/>
+			la construction en itération du problème de recherche dans un domaine pensé de
+			<lb/>
+			manière variée et où traditionnellement la méthodologie demeure peu explicitée. En
+			<lb/>
+			effet, <ref type="biblio">Davallon et Jeanneret (2006)</ref> mentionnent, d&apos;une part, que la construction de
+			<lb/>
+			l&apos;objet de recherche est une « entreprise à risques », que le chercheur doit avancer
+			<lb/>
+			dans un « régime d&apos;incertitude » et, d&apos;autre part, que « ce type de fonctionnement
+			<lb/>
+			serait certainement à étudier de plus près » (p. 208).
+			<lb/>
+			De plus, définie tour à tour comme une science appliquée par <ref type="biblio">Rivière (1989)</ref>,
+			<lb/>
+			une discipline scientifique par <ref type="biblio">Stransky (1995)</ref>, un champ de théories et de pratiques
+			<lb/>
+			par <ref type="biblio">Meunier et Luckerhoff (2012)</ref> ou encore un domaine de recherches par <ref type="biblio">Schiele
+			<lb/>
+				(2012)</ref>, la muséologie est constamment pensée presque exclusivement dans son
+			<lb/>
+			espace disciplinaire et son caractère scientifique.
+			<lb/>
+		</p>
+		
+		<p>Cette réflexion historique sur le champ de la muséologie débute en 1958, lors
+			<lb/>
+			de la rencontre du Conseil international des musées (ICOM) à Rio
+			de Janeiro
+				<lb/>
+				(<ref type="biblio">Meunier, 2012
+			</ref>
+			). Dans les années 1970, une volonté de théorisation émerge avec
+			<lb/>
+			l&apos;arrivée des formations universitaires à Paris et avec les travaux sur le statut de la
+			<lb/>
+			muséologie entamés en 1977 par les membres du Comité international pour la
+			<lb/>
+			muséologie/International Committee for Museology (ICOFOM). Au cours de la
+			<lb/>
+			décennie 1980, l&apos;élaboration théorique réalisée dans les pays de l&apos;Est sur la
+			<lb/>
+			« métamuséologie » influence considérablement les travaux de l&apos;ICOFOM (
+			<ref type="biblio">Schiele,
+				<lb/>
+				2012, p. 82
+			</ref>
+			). La muséologie est alors envisagée comme l&apos;étude de la « muséalité »,
+			<lb/>
+			qui caractérise la relation particulière de l&apos;homme à la réalité en contexte muséal
+			<lb/>
+			(<ref type="biblio">Stransky, 1995</ref>). En ce sens, la muséalisation est un processus qui conduit à une
+			<lb/>
+			appropriation spécifique de la réalité à travers les collections (<ref type="biblio">Stransky, 1995</ref>).
+			<lb/>
+		</p>
+		
+		<p>Parallèlement, la muséologie connaît un tournant en éducation notamment en
+			<lb/>
+			Amérique du Nord, puis en sciences de l&apos;information et de la communication.
+			<lb/>
+			L&apos;exposition est dès lors conceptualisée en tant que lieu d&apos;apprentissage (
+			<ref type="biblio">Allard &amp;
+			<lb/>
+			Boucher, 1991) et en tant que média (Davallon, 1999
+			</ref>
+			). En somme, « la muséologie se
+			<lb/>
+			situe à l&apos;intersection de différentes disciplines des sciences humaines » (
+			<ref type="biblio">Gob &amp;<lb/>
+				Drouguet, 2006, p. 17
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>Dans la recension des écrits sur ce qu&apos;est la muséologie, <ref type="biblio">Jeanneret (2012)
+			<lb/>
+			</ref>
+			souligne plusieurs enjeux liés à la question identitaire de la muséologie, comme
+			<lb/>
+			l&apos;instrumentalisation des savoirs. Il propose à ce sujet de s&apos;intéresser à la production
+			<lb/>
+			et à la circulation des savoirs, mais aussi aux liens serrés entre l&apos;observation des
+			<lb/>
+			pratiques et la théorisation. L&apos;auteur encourage l&apos;activité réflexive moins sur les
+			<lb/>
+			revendications disciplinaires que sur l&apos;élaboration des savoirs ordinaires,
+			<lb/>
+			institutionnels, experts et académiques comme l&apos;histoire des questionnements des
+			<lb/>
+			chercheurs. Il met en exergue la « saveur », selon le mot de Barthes (cité dans
+			<lb/>
+			<ref type="biblio">Jeanneret, 2012, p. IX</ref>), dans le bien commun qui existe à travers un concours de
+			<lb/>
+			recherches diversifiées menées en muséologie.
+			<lb/>
+		</p>
+		
+		<p>Pour exister, ce bien commun n&apos;exige nullement que tous pensent de
+			<lb/>
+			même, utilisent les mêmes méthodes, hiérarchisent pareillement les
+			<lb/>
+			appartenances : il suffit, et ce n&apos;est pas rien, qu&apos;ils soient tous sensibles à
+			<lb/>
+			une série d&apos;exigences qui conditionnent leurs prétentions épistémiques
+			<lb/>
+			(<ref type="biblio">Jeanneret, 2012, p. ix</ref>).
+			<lb/>
+		</p>
+		
+		<p>Selon cette perspective de porter un regard distancié sur la production de
+			<lb/>
+			nouvelles connaissances en muséologie, nous proposons d&apos;analyser notre propre
+			<lb/>
+			démarche de recherche intitulée Donner la parole aux autochtones. Quel est le
+			<lb/>
+			potentiel de reconnaissance de l&apos;exposition à plusieurs points de vue dans les
+			<lb/>
+			musées? Ce projet de recherche était consacré aux pratiques collaboratives entre les
+			<lb/>
+			musées canadiens et les autochtones depuis la colonisation de leur territoire. Il visait à
+			<lb/>
+			comprendre les modalités de prise en compte, de monstration et de reconnaissance
+			<lb/>
+			des points des vues de ces peuples dans le média exposition. La recherche a été
+			<lb/>
+			réalisée entre 2007 et 2013 dans le cadre du programme de doctorat international en
+			<lb/>
+			muséologie, médiation, patrimoine à l&apos;Université du Québec à Montréal et à
+			<lb/>
+			l&apos;Université d&apos;Avignon et des Pays de Vaucluse.
+			<lb/>
+		</p>
+		
+		<p>L&apos;objectif est d&apos;expliciter la démarche épistémologique et méthodologique que
+			<lb/>
+			nous avons réalisée dans notre projet de recherche doctorale, mais aussi de rendre
+			<lb/>
+			compte des paradigmes sous-jacents du processus scientifique de cette recherche en
+			<lb/>
+			muséologie. Il s&apos;agit, entre autres, d&apos;interroger le cadrage épistémologique, c&apos;est-à-<lb/>
+			dire de mettre au jour la « construction de la thèse » conçue en tant que « travail
+			<lb/>
+			d&apos;ajustement et de calage continu jusqu&apos;à la rédaction finale » (
+			<ref type="biblio">Davallon &amp; Jeanneret,
+				<lb/>
+				2006, p. 208</ref>).
+			<lb/>
+		</p>
+		
+		<p>Nous nous concentrons sur les étapes de reformulation de la problématique qui
+			<lb/>
+			demeurent associées à l&apos;interprétation des données des quatre enquêtes de terrain
+			<lb/>
+			menées durant notre recherche doctorale et sur les emprunts théoriques et
+			<lb/>
+			épistémologiques à <ref type="biblio">Ricoeur (1983, 1984, 1985, 1986)</ref>.
+			<lb/>
+		</p>
+		
+		<p>L&apos;identification de l&apos;objet de recherche et du problème de recherche a constitué
+			<lb/>
+			la problématique elle-même. Elle a donc constitué la première étape de la démarche
+			<lb/>
+			de recherche. Elle correspond à la prise de conscience de l&apos;écart entre ce que nous
+			<lb/>
+			savons et ce que nous devrions savoir (<ref type="biblio">Chevrier, 2003</ref>). Dans cette optique de
+			<lb/>
+			production de nouvelles connaissances, la définition du problème justifie la
+			<lb/>
+			pertinence scientifique, mais aussi sociale de la recherche. D&apos;après Chevrier, « il
+			<lb/>
+			s&apos;agit d&apos;une étape très importante puisque c&apos;est elle qui donne à la recherche ses
+			<lb/>
+			assises, son sens et sa portée » (<ref type="biblio">Chevrier, 2003, p. 51</ref>).
+			<lb/>
+		</p>
+		
+		<p>La présentation finale de la problématique dans un rapport résulte d&apos;un long
+			<lb/>
+			processus de re-formulation du problème de recherche, c&apos;est-à-dire d&apos;un travail
+			<lb/>
+			d&apos;écriture et de réécriture de la problématisation après de nombreuses réflexions. Le
+			<lb/>
+			préfixe re-marque l&apos;itération dans cette opération. Nous interrogeons ici plus
+			<lb/>
+			spécifiquement cette relation, autrement dit, les strates de production de ce discours.
+			<lb/>
+		</p>
+		
+		<p>Rappelons que la problématisation est habituellement construite selon une
+			<lb/>
+			logique déductive ou inductive. Dans notre cas, elle a été élaborée selon un
+			<lb/>
+			raisonnement inductif. Chevrier suggère quatre étapes de formulation de la
+			<lb/>
+			problématisation :
+			<lb/>
+		</p>
+		
+		<p>1-[le choix d&apos;]un problème de recherche provisoire à partir d&apos;une
+			<lb/>
+			situation comportant un phénomène particulier intéressant, 2-une
+			<lb/>
+			question de recherche permettant le choix d&apos;une méthodologie adaptée,
+			<lb/>
+			3-l&apos;élaboration d&apos;interprétations basées sur la collecte de données et
+			<lb/>
+			l&apos;analyse inductive de ces dernières, 4-la reformulation itérative du
+			<lb/>
+			problème et/ou de la question de recherche en fonction des prises de
+			<lb/>
+			conscience effectuées au cours de la collecte et de l&apos;analyse préliminaire
+			<lb/>
+			des données (<ref type="biblio">Chevrier, 2003, pp. 70-71</ref>).
+			<lb/>
+			Dans notre parcours, l&apos;articulation de la problématique n&apos;a pas été édifiée de
+			<lb/>
+			manière linéaire, mais en un mouvement de va-et-vient entre l&apos;empirie et la théorie.
+			<lb/>
+			o
+			<lb/>
+			1, pp. 210-238.
+			<lb/>
+		</p>
+		
+		<p>La thèse peut rarement se dérouler selon une « rhétorique prédéfinie », elle est
+			<lb/>
+			d&apos;abord un « apprentissage de la manière de construire l&apos;objet » (
+			<ref type="biblio">Davallon &amp;<lb/>
+				Jeanneret, 2006, p. 208
+			</ref>
+			). Le dernier façonnage de la problématique a répondu aux
+			<lb/>
+			principes de l&apos;argumentation pour une structure cohérente et complète. Peaufiner et
+			<lb/>
+			élaguer relèvent d&apos;un dernier effort pour recadrer le tout. Depuis la transformation des
+			<lb/>
+			questions de départ en un véritable « problème scientifique », on comprend dès lors
+			<lb/>
+			que la construction de l&apos;objet de recherche soulève au moins trois exigences :
+			<lb/>
+		</p>
+		
+		<p>[…] prendre position pour identifier les enjeux dont les pratiques de
+			<lb/>
+			communication sont investies; définir les concepts, non dans l&apos;absolu,
+			<lb/>
+			mais dans la confrontation à des constructions existantes; conjurer la
+			<lb/>
+			prédéfinition des questions communicationnelles comme des &quot;monstres&quot;<lb/>
+			dans l&apos;espace scientifique (<ref type="biblio">Davallon &amp; Jeanneret, 2006, pp. 206-207</ref>).
+			<lb/>
+		</p>
+		
+		<p>Dans la mesure où la problématisation a été menée en concomitance avec les
+			<lb/>
+			différentes enquêtes de terrain et qu&apos;elle a été réécrite jusqu&apos;à la fin du projet, nous
+			<lb/>
+			nous appuyons sur l&apos;explicitation des opérations méthodologiques telles que
+			<lb/>
+			suggérées par la méthodologie de la théorisation enracinée (MTE). Ainsi, nous
+			<lb/>
+			comprenons que notre parcours a été inscrit dans l&apos;épistémologie de la MTE.
+			<lb/>
+		</p>
+		
+		<p>Guillemette et <ref type="biblio">Luckerhoff (2009) et Plouffe et Guillemette (2012)</ref> proposent
+			<lb/>
+			une clarification des étapes de cette méthodologie. Ils suggèrent notamment l&apos;image
+			<lb/>
+			de la trajectoire hélicoïdale pour décrire la circularité toujours progressive de la
+			<lb/>
+			démarche (<ref type="biblio">Plouffe &amp; Guillemette, 2012</ref>). Les étapes du projet de recherche ne
+			sont
+			<lb/>
+			pas séquentielles, ce qui signifie qu&apos;elles renvoient à un mouvement itératif de
+			<lb/>
+			circonvolution où il y a un enrichissement cumulatif dans l&apos;interaction entre la
+			<lb/>
+			recension des écrits, l&apos;objet de recherche, le cadre conceptuel et la collecte de
+			<lb/>
+			données.
+			<lb/>
+		</p>
+		
+		<head>1. Problématique : comment retracer le cheminement intellectuel d&apos;une
+			<lb/>
+			recherche en muséologie?
+			<lb/>
+		</head>
+		
+		<p>Dans le présent texte, nous mettons au jour les positionnements épistémologiques qui
+			<lb/>
+			ont été adoptés tout au long de la recherche et faisons ressortir les paradigmes sous-<lb/>jacents. Pour
+			cela, nous examinons la phase de problématisation dans la démarche de
+			<lb/>
+			recherche parce qu&apos;elle marque les intentions et la trajectoire du raisonnement.
+			<lb/>
+			Comment notre problématique a-t-elle été reformulée à maintes reprises? Nous nous
+			<lb/>
+			intéressons aux strates de production de ce discours en particulier. Cet exercice de
+			<lb/>
+			réflexivité consiste à préciser davantage notre démarche par souci de traçabilité et de
+			<lb/>
+			transparence pédagogique pour les jeunes chercheurs. Nous ferons ainsi état des
+			<lb/>
+			ajustements dans notre processus de recherche qui nous ont finalement menée à
+			<lb/>
+			porter un éclairage sur le sens des pratiques muséales qui donnent la parole aux
+			<lb/>
+			autochtones.
+			<lb/>
+		</p>
+		
+		<p>Le projet de recherche est expliqué en quatre phases; la recension des écrits, la
+			<lb/>
+			délimitation de l&apos;objet de recherche, la proposition de recherche et les enquêtes de
+			<lb/>
+			terrain. Nous établissons, lorsqu&apos;il y a lieu, des liens avec la MTE.
+			<lb/>
+		</p>
+		
+		<p>Le point de départ du projet concerne le patrimoine autochtone et les
+			<lb/>
+			collaborations entre les peuples autochtones et les musées canadiens qui semblent
+			<lb/>
+			s&apos;accroître et même devenir une norme (<ref type="biblio">Clavir, 2002</ref>). En effet, Ames constate dès
+			<lb/>
+			1995 que les collaborations entre les conservateurs et les autochtones sont un
+			<lb/>
+			standard pour les expositions d&apos;art et d&apos;anthropologie dans les musées canadiens et
+			<lb/>
+			les galeries d&apos;art (<ref type="biblio">Ames, 2000</ref>). Dubuc et Turgeon ont également relevé l&apos;association
+			<lb/>
+			des autochtones aux musées nord-américains : le « mot d&apos;ordre est la &quot;plurivocalité&quot;<lb/>
+			[multi vocal en anglais] pour que les voix de tous les groupes culturels concernés
+			<lb/>
+			puissent se faire entendre » (<ref type="biblio">Dubuc &amp; Turgeon, 2004, p. 11</ref>).
+			<lb/>
+		</p>
+		
+		<p>La prise en charge de la parole autochtone annonce depuis les années 1980 Le
+			<lb/>
+			temps de la reconnaissance (<ref type="biblio">Degli &amp; Mauzé, 2000</ref>). La recension des écrits
+			révèle
+			<lb/>
+			Soulier, Problématiser en muséologie : quels paradigmes sous-jacents?
+			<lb/>
+			plusieurs promesses du milieu muséal à l&apos;égard des revendications de ces peuples.
+			<lb/>
+			Les discours des professionnels stipulent que les expositions plurivocales (produites
+			<lb/>
+			en collaboration) seraient meilleures que les expositions dites traditionnelles ou
+			<lb/>
+			encore univocales, c&apos;est-à-dire conçues sans comité autochtone et qui présentent
+			<lb/>
+			essentiellement le point de vue du concepteur-muséographe. Les expositions qui
+			<lb/>
+			présentent plusieurs voix sont qualifiées de plus tolérantes, contemporaines, non
+			<lb/>
+			traditionnelles. Elles proposeraient un point de vue non occidental, diversifié,
+			<lb/>
+			complémentaire et manifesteraient le respect vis-à-vis des autochtones. Elles
+			<lb/>
+			viseraient à répondre aux luttes pour leur droit de parole et la réappropriation de leur
+			<lb/>
+			patrimoine. Deux conjectures principales émergent. Elles laissent entendre que les
+			<lb/>
+			expositions issues de collaborations proposeraient aux autochtones un nouveau
+			<lb/>
+			rapport avec leur patrimoine d&apos;origine, mais aussi des relations harmonieuses entre
+			<lb/>
+			les peuples allochtones et autochtones. En outre, il ressort la fausse évidence que
+			<lb/>
+			donner la parole consiste à pourvoir une autorité de discours. De cette façon, il
+			<lb/>
+			apparaît dans la recension des écrits des rapprochements plus ou moins implicites
+			<lb/>
+			entre l&apos;approche plurivocale et la reconnaissance de la culture autochtone.
+			<lb/>
+		</p>
+		
+		<p>Cependant, la recension critique des écrits met en relief des absences et des
+			<lb/>
+			illusions quant aux opérations et aux retombées de ces pratiques muséales. Cette
+			<lb/>
+			recension consiste à interroger le contexte d&apos;apparition des expositions issues des
+			<lb/>
+			collaborations de même que les assises scientifiques et professionnelles qui les
+			<lb/>
+			soutiennent. Il ressort de cela que, du don à la prise de parole en contexte muséal, le
+			<lb/>
+			processus communicationnel demeure complexe et peu connu, tant sur le plan des
+			<lb/>
+			modes de production que sur le plan de la réception des expositions nommées
+			<lb/>
+			plurivocales. En quoi la production de ces expositions est-elle différente de celle des
+			<lb/>
+			expositions dites traditionnelles? Sur quoi reposent les distinctions entre ces deux
+			<lb/>
+			formes d&apos;expositions? Comment les points de vue des autochtones sont-ils inscrits
+			<lb/>
+			dans les expositions? Comment les visiteurs reconnaissent-ils les points de vue
+			<lb/>
+			autochtones? Notre objectif a été d&apos;interroger le processus communicationnel des
+			<lb/>
+			expositions qui associent les points de vue autochtones avec ceux des concepteurs-<lb/>muséographes.
+			<lb/>
+		</p>
+		
+		<head>1.1 Le contexte sociohistorique et les régimes de valeur des expositions dites
+			<lb/>
+			plurivocales
+			<lb/>
+		</head>
+		
+		<p>Dans notre parcours de questionnement, la première phase visait à élaborer un état de
+			<lb/>
+			la question quant aux pratiques d&apos;intégration des autochtones dans les projets
+			<lb/>
+			muséaux : quels sont les origines, les raisons et les retombées des pratiques
+			<lb/>
+			collaboratives?
+			<lb/>
+		</p>
+		
+		<p>Pour circonstancier et circonscrire le sujet de recherche, nous avons recueilli
+			<lb/>
+			des documents écrits qui traitent de l&apos;implication des autochtones dans les musées. La
+			<lb/>
+			recension incluait les publications des professionnels et des chercheurs, les archives
+			<lb/>
+			des musées canadiens, ainsi que les cadres légaux des institutions culturelles de
+			<lb/>
+			l&apos;international au provincial.
+			<lb/>
+		</p>
+		
+		<p>Selon les mots de <ref type="biblio">Foucault (2011)</ref>, nous avons construit une brève
+			<lb/>
+			« archéologie des discours » en nous centrant sur les débuts et les regains de la « mise
+			<lb/>
+			en discours » des pratiques collaboratives (p. 20). En ce sens, nous avons tout d&apos;abord
+			<lb/>
+			interrogé la volonté de prendre en charge le point de vue autochtone d&apos;après une
+			<lb/>
+			approche temporelle. Nous avons ensuite essayé de retracer les assises scientifiques et
+			<lb/>
+			les fondements idéologiques qui encouragent et génèrent les pratiques collaboratives.
+			<lb/>
+		</p>
+		
+		<p>À notre regard, il émerge des données un « régime d&apos;historicité », d&apos;après
+			<lb/>
+			<ref type="biblio">Hartog (2012)</ref>, que nous qualifions de régime de décolonisation. Pour cet auteur, qui
+			<lb/>
+			s&apos;intéresse à la « crise du temps », l&apos;intelligibilité du phénomène se comprend à partir
+			<lb/>
+			de l&apos;articulation et de la prédominance des catégories du présent et du futur dans la
+			<lb/>
+			mémoire et le patrimoine. Le patrimoine se révèle en tant que construction du temps.
+			<lb/>
+		</p>
+		
+		<p>Partant de diverses expériences du temps, le régime d&apos;historicité se
+			<lb/>
+			voudrait un outil heuristique aidant à mieux appréhender, non le temps,
+			<lb/>
+			tous les temps ou le tout du temps, mais principalement des moments de
+			<lb/>
+			crise du temps, ici et là, quand viennent, justement, à perdre de leur
+				<lb/>
+				évidence les articulations du passé, présent et futur (<ref type="biblio">Hartog, 2012, p. 38
+			</ref>
+			).
+			<lb/>
+		</p>
+		
+		<p>À titre d&apos;exemple, rappelons un évènement fréquemment cité dans la recension
+			<lb/>
+			des écrits. En 1988, lors des Jeux olympiques d&apos;hiver, le Musée Glenbow à Calgary a
+			<lb/>
+			présenté l&apos;exposition The Spirit Sings : artistic traditions of Canada&apos;s first people.
+			<lb/>
+			Cette exposition a engendré de nombreuses manifestations. À la suite de ces
+			<lb/>
+			manifestations visibles sur la scène internationale, l&apos;Assemblée des Premières
+			<lb/>
+			Nations et l&apos;Association des Musées canadiens ont constitué un groupe de travail dont
+			<lb/>
+			la mission était de répondre aux revendications et d&apos;émettre des recommandations sur
+			<lb/>
+			la coopération entre les autochtones et les musées.
+			<lb/>
+		</p>
+		
+		<p>Par ailleurs, il ressort de l&apos;analyse que les collaborations n&apos;ont pas commencé à
+			<lb/>
+			la fin des années 1980. Les pratiques collaboratives ont au moins débuté depuis
+			<lb/>
+			l&apos;expansion de la colonisation au Canada, c&apos;est-à-dire entre 1830 (période
+			<lb/>
+			victorienne) et 1960, avec l&apos;accroissement des lois sur les Indiens. Nous relevons que
+			<lb/>
+			l&apos;intensification de la patrimonialisation est synchrone avec l&apos;expansion coloniale.
+			<lb/>
+			Cette genèse montre une forme de résistance de la part des collectionneurs contre
+			<lb/>
+			l&apos;assimilation et la disparition des cultures autochtones. Cela suggère que les
+			<lb/>
+			pratiques collaboratives demeurent inscrites dans la mémoire même du patrimoine
+			<lb/>
+			autochtone.
+			<lb/>
+		</p>
+		
+		<p>En outre, nous avons mis au jour des cadres et des principes sur le droit de
+			<lb/>
+			parole des peuples autochtones et les coopérations culturelles. Les déclarations
+			<lb/>
+			d&apos;intention ont notamment émergé à la fin de la Seconde Guerre mondiale lors du
+			<lb/>
+			mouvement d&apos;indépendance des pays colonisés. Elles soulèvent les questions de
+			<lb/>
+			l&apos;autodétermination des autochtones, de la réappropriation du patrimoine par les
+			<lb/>
+			autochtones et de la lutte contre les préjugés et toute forme de sujétion. Ces ambitions
+			<lb/>
+			correspondent en partie à celles du courant du postcolonialisme qui propose
+			<lb/>
+			notamment de donner la parole aux opprimés et aux dominés.
+			<lb/>
+		</p>
+		
+		<p>Plus encore, nous avons identifié dans les écrits en anthropologie, une « crise de
+			<lb/>
+			la représentation » (<ref type="biblio">Marcus &amp; Fisher, 1986, p. 8</ref>) et un questionnement sur
+			<lb/>
+			« l&apos;autorité du locuteur » (<ref type="biblio">Gendreau, 2002, p. 107</ref>) au tournant des années 1980. Cette
+			<lb/>
+			crise épistémologique engendre une remise en question des méthodes
+			<lb/>
+			ethnographiques et des collections qu&apos;elles ont permis de rassembler. Les pratiques
+			<lb/>
+			collaboratives sont par conséquent promulguées et les collections sont délaissées dans
+			<lb/>
+			les musées. Ces dernières sont souvent associées à des références raciales et à des
+			<lb/>
+			logiques de domination, de sorte que des anthropologues comme <ref type="biblio">Clifford (1996)</ref>
+			<lb/>
+			critiquent le subjectivisme des Occidentaux et privilégient de rapporter, le plus
+			<lb/>
+			directement possible, le point de vue des autochtones.
+			<lb/>
+		</p>
+		
+		<p>En fin de compte, on voit d&apos;abord apparaître dans les discours institutionnels la
+			<lb/>
+			patrimonialisation de la culture autochtone, lors de l&apos;intensification de la colonisation
+			<lb/>
+			au Canada, puis la demande de prise de parole des autochtones à la fin de la Seconde
+			<lb/>
+			Guerre mondiale et enfin, au tournant des années 1980, le don de parole aux
+			<lb/>
+			autochtones. Dans notre recherche, nous sommes remontée jusqu&apos;à la
+			<lb/>
+			patrimonialisation intensive des objets autochtones et nous avons mis en lumière
+			<lb/>
+			deux moments de multiplication des discours qui construisent des cadres de référence
+			<lb/>
+			pour les professionnels des musées. Les pratiques collaboratives apparaissent ainsi en
+			<lb/>
+			surface dans un régime de revendication et de remise en question des collections
+			<lb/>
+			ethnologiques. Mais au-delà de cela, nous avons mis en évidence un régime
+			<lb/>
+			d&apos;historicité attaché au contexte de la décolonisation. Ainsi, dans le déplacement qui
+			<lb/>
+			part de la mise sous silence des peuples autochtones durant la colonisation et qui
+			<lb/>
+			aboutit à la mise en discours du point de vue autochtone en période postcoloniale,
+			<lb/>
+			nous avons dégagé « un fait discursif » <ref type="biblio">(Foucault, 2011)</ref> que nous avons ensuite
+			<lb/>
+			interrogé.
+			<lb/>
+		</p>
+		
+		<p>L&apos;analyse critique des documents recueillis met en lumière plusieurs idéologies
+			<lb/>
+			et régimes de valeurs issus des perspectives sociales des muséologies participatives et
+			<lb/>
+			des approches autochtonistes de l&apos;anthropologie. Ces documents recommandent et
+			<lb/>
+			entraînent donc les pratiques collaboratives. Des risques quant à cette démarche
+			<lb/>
+			consensuelle sont relevés comme l&apos;élimination d&apos;expression critique,
+			<lb/>
+			l&apos;endoctrinement, voire la censure. Il appert également que les effets de ces pratiques
+			<lb/>
+			sont difficilement évaluables en termes de mesures systématiques et rigoureuses.
+			<lb/>
+		</p>
+		
+		<head>1.2 L&apos;objet de recherche : de la plurivocalité à la polyphonie
+			<lb/>
+		</head>
+		
+		<p>Comme deuxième phase dans ce parcours épistémologique et méthodologique,
+			<lb/>
+			mentionnons la construction de « l&apos;objet de recherche », c&apos;est-à-dire la transformation
+			<lb/>
+			d&apos;un « objet concret » qui reste attaché au champ de l&apos;observation en un « objet
+			<lb/>
+			scientifique » (<ref type="biblio">Davallon, 2004, pp. 32-33</ref>). À cette étape-ci, il faut d&apos;emblée signaler
+			<lb/>
+			que les « concepts sensibilisateurs » (<ref type="biblio">Guillemette &amp; Luckerhoff, 2009</ref>) liés à la
+			<lb/>
+			plurivocalité et à la polyphonie sont apparus tout au long de la recherche sans être au
+			<lb/>
+			préalable définis comme cadre théorique. Autrement dit, selon les méthodologues de
+			<lb/>
+			la MTE, nous avons rassemblé ces concepts sensibilisateurs dans une logique de
+			<lb/>
+			mobilisation consciente et éclairée. À la fin du processus de recherche, nous avons
+			<lb/>
+			construit scientifiquement le système polyphonique du média exposition en nous
+			<lb/>
+			démarquant de la notion de plurivocalité qui appartient au champ pratique de la
+			<lb/>
+			muséologie. Pour cela, soulignons les quatre principes pour construire un objet de
+			<lb/>
+			recherche qui nous ont guidée : « prise en compte du lestage technosémiotique qui
+			<lb/>
+			résulte de l&apos;attache de l&apos;objet », « réflexivité », « échelle d&apos;observation » et « degré
+			<lb/>
+			d&apos;abstraction » (<ref type="biblio">Davallon, 2004, p. 35</ref>).
+			<lb/>
+		</p>
+		
+		<p>En premier lieu, les composantes du système communicationnel de l&apos;exposition
+			<lb/>
+			à plusieurs points de vue ont été définies afin d&apos;analyser la prise en charge des points
+			<lb/>
+			de vue autochtones et leur combinaison avec ceux des concepteurs-muséographes. Le
+			<lb/>
+			concept de plurivocalité qui appartient à l&apos;anthropologie ne nous permettait pas
+			<lb/>
+			facilement de construire notre objet de recherche en sciences de l&apos;information et de la
+			<lb/>
+			communication. Par contre, le système d&apos;interaction et d&apos;intertextualité de
+			<lb/>
+			l&apos;exposition a pu être circonscrit à partir du concept de polyphonie
+			<ref type="biblio">de Bakhtine
+				<lb/>
+				(Colas-Blaise, Kara, Perrin, &amp; Petitjean, 2010; Perrin, 2006; Todorov, 1981
+			</ref>
+			). Plus
+			<lb/>
+			précisément, Bakhtine a formé et développé les concepts de « dialogisme » et de
+			<lb/>
+			« polyphonie » dans le champ littéraire. En s&apos;opposant au formalisme russe, ce
+			<lb/>
+			théoricien s&apos;est intéressé à l&apos;interaction entre la langue et le contexte d&apos;énonciation
+			<lb/>
+			(contexte qui appartient à l&apos;histoire) et à la « dynamique sociale » dans la
+			<lb/>
+			communication (<ref type="biblio">Todorov, 1981, p. 8, 53</ref>). Il parvient ainsi à dépasser la dichotomie
+			<lb/>
+			de la forme et du contenu « pour inaugurer l&apos;analyse formelle des idéologies » et une
+			<lb/>
+			« théorie de l&apos;énoncé » (<ref type="biblio">Todorov, 1981, p. 8, 26</ref>). Le caractère le plus important de
+			<lb/>
+			l&apos;énoncé, ou le plus ignoré, est son « dialogisme », c&apos;est-à-dire sa dimension
+			<lb/>
+			intertextuelle. Intentionnellement ou non, chaque discours entre en dialogue avec les
+			<lb/>
+			discours antérieurs tenus sur le même objet, ainsi qu&apos;avec les discours à venir, dont il
+			<lb/>
+			pressent et prévient les réactions. La voix individuelle ne peut se faire entendre qu&apos;en
+			<lb/>
+			s&apos;intégrant au choeur complexe des autres voix en présence. Cela est vrai non
+			<lb/>
+			seulement de la littérature, mais aussi bien de tout discours, et Bakhtine se trouve
+			<lb/>
+			ainsi amené à esquisser une nouvelle interprétation de la culture : la culture est
+			<lb/>
+			composée des discours que retient la mémoire collective (les lieux communs et les
+			<lb/>
+			stéréotypes comme les paroles exceptionnelles), discours par rapport auxquels chaque
+			<lb/>
+			sujet est obligé de se situer (<ref type="biblio">Todorov, 1981</ref>). Ce qui signifie qu&apos;il n&apos;existe
+			pas de
+			<lb/>
+			discours non polyphoniques ou d&apos;énoncés dépourvus de la dimension intertextuelle.
+			<lb/>
+			Tout discours possède un dialogue, au moins potentiel (<ref type="biblio">Todorov, 1981</ref>).
+			<lb/>
+		</p>
+		
+		<p>Toutefois, la différence repose sur deux rôles que l&apos;intertextualité est appelée à
+			<lb/>
+			jouer : l&apos;un est fort, l&apos;autre est faible (<ref type="biblio">Todorov, 1981</ref>). À partir de
+			cette démarcation,
+			<lb/>
+			Bakhtine répertorie différents types de discours dits « dialogiques » ou, à l&apos;inverse,
+			<lb/>
+			« monologiques ». Ces derniers renferment aussi une dimension intertextuelle, mais
+			<lb/>
+			elle demeure faible. Dans les discours dialogiques surgit plus distinctement la
+			<lb/>
+			combinaison des voix. Selon cette distinction dans l&apos;intertextualité, deux « attitudes
+			<lb/>
+			stylistiques » (entre dialogismes in absentia et in praesentia) sont considérées dans le
+			<lb/>
+			but d&apos;examiner l&apos;orchestration des voix dans les expositions (<ref type="biblio">Todorov, 1981, p. 121</ref>).
+			<lb/>
+			Nous qualifions dès lors les expositions construites à partir du point de vue du
+			<lb/>
+			concepteur-muséographe comme « monophoniques », en opposition aux expositions
+			<lb/>
+			« polyphoniques » produites en collaboration avec les communautés concernées. En
+			<lb/>
+			dissociant de la sorte le « discours cité » du « discours citant », Bakhtine travaille sur
+			<lb/>
+			la « représentation du discours rapporté » à l&apos;intérieur du discours et sur les degrés de
+			<lb/>
+			domination de l&apos;une ou de l&apos;autre voix (<ref type="biblio">Todorov, 1981, pp. 107-109</ref>).
+			<lb/>
+		</p>
+		
+		<p>En résumé, notre recherche prend acte de l&apos;interprétation plus ou moins
+			<lb/>
+			subjective des points de vue autochtones par les professionnels des musées dès lors
+			<lb/>
+			qu&apos;ils les citent, et de celle des visiteurs. Ces interprétations induisent forcément des
+			<lb/>
+			transformations de sens. De plus, cette perspective permet de mettre au jour « la part
+			<lb/>
+			sous-entendue de l&apos;énoncé » et « l&apos;idéologie implicite » (<ref type="biblio">Todorov, pp. 61, 68</ref>). Nous
+			<lb/>
+			avons privilégié le mot polyphonie à dialogisme, car ce concept qui renvoie à la
+			<lb/>
+			métaphore de la musique est plus général et moins associé à l&apos;idée de dialogue. Nous
+			<lb/>
+			préférons monophonique à monologique, car le mot est construit sur la même racine
+			<lb/>
+			que polyphonique, ce qui indique une parenté, tout en maintenant une opposition, par
+			<lb/>
+			le choix des préfixes.
+			<lb/>
+		</p>
+		
+		<p>En deuxième lieu, deux espaces communicationnels sont délimités : l&apos;espace de
+			<lb/>
+			production et l&apos;espace de réception du média exposition. En sciences de l&apos;information
+			<lb/>
+			et de la communication, nous savons que chaque espace de communication renferme
+			<lb/>
+			un ensemble de contraintes diverses (d&apos;ordre communicationnel) qui régissent la
+			<lb/>
+			production puis la réception de sens et d&apos;affects. Chaque actant (émetteur ou
+			<lb/>
+			récepteur) est un point de passage d&apos;un faisceau de contraintes (Odin, 2011). Plus les
+			<lb/>
+			contraintes sont semblables entre l&apos;émetteur et le récepteur, plus le message émis et
+			<lb/>
+			reçu est semblable. Ce faisant, il y a autant d&apos;appropriations de messages que de
+			<lb/>
+			récepteurs. Or, dans le cas des collaborations muséales, le musée est à la fois
+			<lb/>
+			récepteur et émetteur. Les contraintes entre le monde autochtone et l&apos;univers muséal
+			<lb/>
+			et social divergent (<ref type="biblio">Odin, 2011</ref>).
+			<lb/>
+		</p>
+		
+		<p>En troisième lieu, trois moments de médiation sont distingués dans le système
+			<lb/>
+			polyphonique. Le premier moment concerne la construction des modalités
+			<lb/>
+			polyphoniques dans l&apos;espace de production. En d&apos;autres mots, il s&apos;agit des
+			<lb/>
+			collaborations entre les professionnels des musées et les représentants autochtones
+			<lb/>
+			pour mettre en oeuvre une exposition. Le deuxième moment correspond à la
+			<lb/>
+			présentation des points de vue autochtones inscrits dans le média exposition. Le
+			<lb/>
+			troisième moment se rapporte à la réception des expositions à caractère
+			<lb/>
+			polyphonique.
+			<lb/>
+		</p>
+		
+		<p>À partir de ces outils, il a été possible de travailler sur l&apos;ensemble des
+			<lb/>
+			opérations et du processus de médiation des points de vue autochtones depuis leur
+			<lb/>
+			prise en compte par les concepteurs-muséographes, à travers leur monstration par
+			<lb/>
+			l&apos;exposition, jusqu&apos;à leur interprétation par les visiteurs.
+			<lb/>
+		</p>
+		
+		<head>1.3 La proposition de recherche : mettre au jour et à l&apos;épreuve le potentiel de
+			<lb/>
+			reconnaissance des expositions à caractère polyphonique
+			<lb/>
+		</head>
+		
+		<p>La troisième phase de notre cheminement épistémologique et méthodologique
+			<lb/>
+			concerne la proposition de recherche. Nous avons procédé « par la confrontation à ce
+			<lb/>
+			qui résiste » (<ref type="biblio">Davallon, 2006, p. 203</ref>). En effet, après plusieurs propositions non
+			<lb/>
+			fructueuses, nous avons finalement eu recours au concept sensibilisateur de
+			<lb/>
+			reconnaissance, d&apos;après Ricoeur. Ce qui signifie que cette « sensibilité théorique »
+			<lb/>
+			répond à deux exigences explicitées par <ref type="biblio">Guillemette et Luckerhoff (2009)</ref>.
+			<lb/>
+			Premièrement, nous avons été à « l&apos;écoute des données », collectées au fur et à
+			<lb/>
+			mesure des quatre enquêtes de terrain. Deuxièmement, en avançant dans nos analyses
+			<lb/>
+			de données, nous avons eu recours à des « concepts riches et nombreux » que nous
+			<lb/>
+			avons progressivement soit rejetés, soit adaptés, soit intégrés à notre cadre
+			<lb/>
+			conceptuel. Pour ce faire, le cheminement vise à la fois un enracinement dans les
+			<lb/>
+			données empiriques et une distanciation théorisante (<ref type="biblio">Guillemette &amp; Luckerhoff,
+			<lb/>
+				2009</ref>), d&apos;où la nécessité de suspendre ses connaissances et en même temps de trouver
+			<lb/>
+			l&apos;instrument de lecture approprié pour favoriser l&apos;émergence du sens (de la
+			<lb/>
+			compréhension théorisante) à partir des données. Nous distinguons ainsi deux
+			<lb/>
+			moments dans la recherche : la découverte et l&apos;écriture. Ce qui apparaît comme cadre
+			<lb/>
+			de référence dans la rédaction finale n&apos;a pas été établi comme cadre théorique au
+			<lb/>
+			début de la recherche.
+			<lb/>
+		</p>
+		
+		<p>Rappelons que depuis les débuts de la patrimonialisation jusqu&apos;à maintenant,
+			<lb/>
+			les discours institutionnels suggèrent diverses formes de reconnaissance des peuples
+			<lb/>
+			autochtones. À partir de l&apos;approche <ref type="biblio">de Foucault (2011)</ref>, nous avons posé comme
+			<lb/>
+			« hypothèse » les perspectives directement invoquées dans la mise en discours des
+			<lb/>
+			pratiques collaboratives dans le but de faire ressortir la logique intrinsèque. Nous
+			<lb/>
+			avons donc interrogé la volonté qui porte les pratiques collaboratives et les intentions
+			<lb/>
+			qui les soutiennent tout en demeurant vigilante aux notions communes qui sont
+			<lb/>
+			véhiculées dans les discours muséaux (<ref type="biblio">Foucault, 2011</ref>). Dans une perspective
+			<lb/>
+			critique, nous avons pris en considération la présupposition selon laquelle
+			<lb/>
+			l&apos;exposition plurivocale engendre la reconnaissance des autochtones. L&apos;exposition
+			<lb/>
+			plurivocale est-elle un dispositif de reconnaissances des autochtones? Pour répondre à
+			<lb/>
+			cette question, nous avons mis à l&apos;épreuve le potentiel de reconnaissance des
+			<lb/>
+			expositions issues des collaborations et avons tenté d&apos;identifier les possibilités et les
+			<lb/>
+			limites communicationnelles de ce dispositif expositionnel.
+			<lb/>
+		</p>
+		
+		<p>Cependant, nous avons relevé dans notre corpus une polysémie du mot
+			<lb/>
+			reconnaissance. Ce mot et ses synonymes sont employés dans des sens communs
+			<lb/>
+			rattachés aux revendications autochtones et à des contextes variés. Ils concernent à la
+			<lb/>
+			fois les droits, la culture, l&apos;histoire, la mémoire et le patrimoine des peuples
+			<lb/>
+			autochtones, mais aussi leurs relations avec les allochtones.
+			<lb/>
+		</p>
+		
+		<p>Nous nous sommes dès lors appuyée sur les travaux de <ref type="biblio">Ricoeur (2004)</ref> pour
+			<lb/>
+			définir le concept de reconnaissance et interpréter les données. Ricoeur a établi une
+			<lb/>
+			généalogie des différents emplois de ce mot en un « parcours » : l&apos;identification (re-<lb/>connaître),
+			l&apos;acte de reconnaissance (admettre) et la gratitude (témoigner sa
+			<lb/>
+			reconnaissance). À la recherche de clés dans l&apos;élaboration des significations
+			<lb/>
+			successives de la notion de reconnaissance, la dérivation définitionnelle débute par la
+			<lb/>
+			mention du préfixe re-chez Littré. L&apos;auteur du Dictionnaire de la langue française
+			<lb/>
+			<ref type="biblio">(1872, dans Ricoeur, 2004</ref>) souligne en effet la racine « connaissance ». Le premier
+			<lb/>
+			emploi de re-connaissance signifie « saisir/, identifier et distinguer (par l&apos;esprit, par
+			<lb/>
+			la pensée) tout en établissant une relation d&apos;identité et en présentant un rapport
+			<lb/>
+			d&apos;exclusion et de distance entre le même et l&apos;autre » (<ref type="biblio">Ricoeur, 2004a, p. 239</ref>).
+			<lb/>
+			L&apos;identification est construite à l&apos;égard du « connaître », « mais le non-dit réside dans
+			<lb/>
+			la force du re » (<ref type="biblio">Ricoeur, 2004a, p. 21</ref>). Ricoeur précise ainsi que le non-dit « c&apos;est la
+			<lb/>
+			fiabilité du signe de reconnaissance, de la marque, de l&apos;indication à [laquelle] on
+			<lb/>
+			reconnaît quelque chose ou quelqu&apos;un. De la connaissance active, on passe finalement
+			<lb/>
+			au signe de vérité » (<ref type="biblio">2004a, p. 22</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le deuxième emploi vient confirmer le premier palier de reconnaissance. Il
+			<lb/>
+			concerne toujours l&apos;identité et plus spécifiquement l&apos;ipséité (particularité identitaire),
+			<lb/>
+			mettant ainsi en place un statut existentiel entre le même et l&apos;autre. Ce serait, en
+			<lb/>
+			quelque sorte, le sens de se reconnaître ou bien la reconnaissance de soi par soi
+			<lb/>
+			(<ref type="biblio">Ricoeur, 2004a, p. 34</ref>).
+			<lb/>
+		</p>
+		
+		<p>Le troisième axe définitoire recensé par Ricoeur est l&apos;aboutissement d&apos;une
+			<lb/>
+			trajectoire passant de l&apos;usage à la voix active à l&apos;usage à la voix passive (2004a). Ce
+			<lb/>
+			dernier stade est construit à partir de ce renversement sur le plan grammatical, mais
+			<lb/>
+			aussi sur l&apos;identification mutuelle. « Être reconnu », ou la demande de reconnaissance
+			<lb/>
+			au sens de « gratitude », témoigne de la réciprocité et de la mutualité s&apos;opérant par,
+			<lb/>
+			entre autres, une saisie analogisante. Cette dernière catégorie va au-delà du tenir pour
+			<lb/>
+			vrai, elle repose sur une « supériorité morale » (<ref type="biblio">Ricoeur, 2004a, p. 35</ref>).
+			<lb/>
+		</p>
+		
+		<p>Cette théorie englobe l&apos;ensemble des voies définitionnelles du concept de
+			<lb/>
+			reconnaissance à partir des logiques relatives à la mémoire et à l&apos;identité (<ref type="biblio">Ricoeur,
+			<lb/>
+				1990, 2000, 2004a</ref>).
+			<lb/>
+		</p>
+		
+		<p>En somme, trois formes de reconnaissance ressortent : la reconnaissance de
+			<lb/>
+			l&apos;objet, la reconnaissance de soi dans l&apos;objet et la reconnaissance mutuelle. Cette
+			<lb/>
+			dernière étape est construite à partir des deux autres. La reconnaissance effective
+			<lb/>
+			relève de la reconnaissance symbolique quand « <ref type="biblio">[l]</ref>&apos;altérité est à son comble
+			dans la
+			<lb/>
+			mutualité » (<ref type="biblio">Ricoeur, 2004, p. 384</ref>), autrement dit, dans la reconnaissance
+			réciproque.
+			<lb/>
+		</p>
+		
+		<p>À partir de ces axes définitionnels, nous avons déterminé si le système
+			<lb/>
+			polyphonique de l&apos;exposition présente ou non des modalités de reconnaissance. Est-<lb/>ce que le
+			système polyphonique de l&apos;exposition détient un potentiel de reconnaissance
+			<lb/>
+			particulier? Nous avons émis l&apos;hypothèse de travail que la logique directrice des
+			<lb/>
+			collaborations est générée et opère conséquemment une série d&apos;accommodations et de
+			<lb/>
+			dispositions qui se traduisent en plusieurs modalités de reconnaissance tant dans les
+			<lb/>
+			espaces de production que de réception des expositions.
+			<lb/>
+		</p>
+		
+		<head>1.4 L&apos;articulation des enquêtes de terrain et la confrontation des discours
+			<lb/>
+			muséaux
+			<lb/>
+		</head>
+		
+		<p>La dernière phase dans cet itinéraire épistémologique et méthodologique porte sur
+			<lb/>
+			l&apos;approche empirique. Rejoignant l&apos;approche de la MTE, notre démarche a consisté à
+			<lb/>
+			saisir la complexité des manifestations des points de vue autochtones à partir de
+			<lb/>
+			plusieurs types de discours et donc d&apos;après une itération circulaire impliquant
+			<lb/>
+			plusieurs méthodes (Luckerhoff &amp; Guillemette, 2012). Le travail engagé a été de faire
+			<lb/>
+			ressurgir les actes de manifestation des intentions des professionnels, incluant les
+			<lb/>
+			comités autochtones, des expositions et des visiteurs autochtones et allochtones au
+			<lb/>
+			sein de différents discours formulés dans le milieu muséal.
+			<lb/>
+		</p>
+		
+		<p>Notre intérêt a été centré sur cinq formes de discours en regard des trois étapes
+			<lb/>
+			que sont les pratiques collaboratives, les productions expositionnelles issues des
+			<lb/>
+			collaborations et les appropriations de ces expositions. Il s&apos;agit 1) du discours des
+			<lb/>
+			professionnels à l&apos;interne, puis 2) de ce même discours à l&apos;externe de l&apos;institution
+			<lb/>
+			muséale, 3) du discours explicite des expositions, mais aussi 4) du discours implicite
+			<lb/>
+			véhiculé par celles-ci, et enfin 5) du discours explicité lors de l&apos;exploration de
+			<lb/>
+			l&apos;exposition par les visiteurs. La démarche empirique a été articulée autour de ces
+			<lb/>
+			trois étapes générales de l&apos;exposition, puis la recherche a visé à analyser
+			<lb/>
+			successivement ces discours muséaux.
+			<lb/>
+		</p>
+		
+		<p>D&apos;une part, nous avons distingué dans le système polyphonique deux sources
+			<lb/>
+			d&apos;intentions de reconnaissance (de l&apos;exposition) des activités de reconnaissance (des
+			<lb/>
+			visiteurs) qui circonscrivent trois moments de médiation. Le premier moment de
+			<lb/>
+			médiation concerne les intentions des concepteurs-muséographes lors de la
+			<lb/>
+			production de l&apos;exposition. Le deuxième moment a pour objet les intentions
+			<lb/>
+			constitutives de l&apos;exposition. Le troisième moment s&apos;intéresse à la manière dont ces
+			<lb/>
+			intentions sont reconnues par les visiteurs. De cette façon, notre programme de
+			<lb/>
+			recherche a consisté à découvrir les logiques intentionnelles et opérationnelles.
+			<lb/>
+		</p>
+		
+		<p>D&apos;autre part, nous avons travaillé sur quatre origines des discours appartenant
+			<lb/>
+			au fonctionnement du musée : les discours des concepteurs-muséographes et des
+			<lb/>
+			autochtones lors de la production d&apos;une exposition; les discours des professionnels
+			<lb/>
+			des musées a posteriori de la production d&apos;expositions; les discours d&apos;expositions;
+			<lb/>
+			enfin, les discours des visiteurs. En d&apos;autres mots, nous nous sommes concentrée sur
+			<lb/>
+			les interactions entre les concepteurs-muséographes et les autochtones, sur les
+			<lb/>
+			représentations de ces interactions chez les professionnels des musées, sur la
+			<lb/>
+			transposition de ces interactions dans le système intertextuel des expositions et sur
+			<lb/>
+			l&apos;appropriation de cette intertextualité par les visiteurs.
+			<lb/>
+		</p>
+		
+		<p>Pour cela, nous avons mené plusieurs types d&apos;enquêtes dans le milieu muséal.
+			<lb/>
+			Nous avons réalisé quatre enquêtes de terrain pour recueillir les différents discours
+			<lb/>
+			qui se recouvrent et pour cerner leurs interprétations respectives plus ou moins
+			<lb/>
+			successives et simultanées dans les trois moments de médiation : une observation
+			<lb/>
+			participante; des entretiens individuels; des analyses de discours et des entretiens de
+			<lb/>
+			groupes. Nous avons ainsi été à même d&apos;appréhender les opérations suscitées par les
+			<lb/>
+			pratiques collaboratives. L&apos;observation dans le musée et les entretiens avec les
+			<lb/>
+			professionnels des musées portent sur le premier moment de médiation. Les analyses
+			<lb/>
+			de discours s&apos;intéressent au deuxième moment. Enfin, les entretiens avec les visiteurs
+			<lb/>
+			autochtones et allochtones traitent du troisième moment de médiation.
+			<lb/>
+		</p>
+		
+		<p>Nous avons ainsi retracé les intentions des professionnels lorsqu&apos;ils collaborent,
+			<lb/>
+			les intentions constitutives des expositions et la manière dont elles sont interprétées
+			<lb/>
+			par les visiteurs (<ref type="biblio">Davallon, 1999</ref>). Notre choix a été de réaliser selon une
+			observation
+			<lb/>
+			de l&apos;intérieur plusieurs types d&apos;investigations qui appartiennent à la recherche
+			<lb/>
+			qualitative : observation en situation, entretiens, analyses de discours. Cette approche
+			<lb/>
+			sélectionne des champs d&apos;observation qui prennent notamment en compte la part
+			<lb/>
+			subjective des acteurs muséaux et qui privilégient la « complémentarité des points de
+			<lb/>
+			vue » afin de poser une vue d&apos;ensemble (<ref type="biblio">Pires, 1997, pp. 33-35</ref>). Les différentes
+			<lb/>
+			méthodes combinent des points de vue à la fois du dedans et du dehors.
+			<lb/>
+		</p>
+		
+		<p>Ce procédé permet d&apos;appréhender l&apos;ensemble du processus communicationnel
+			<lb/>
+			et des intentions de l&apos;oeuvre expositionnelle (<ref type="biblio">Eco, 1992</ref>). Nous avons distingué les
+			<lb/>
+			intentions du concepteur-muséographe (l&apos;auteur), les intentions de l&apos;exposition
+			<lb/>
+			(l&apos;oeuvre) -toutes deux élaborées en fonction du visiteur (lecteur) modèle imaginé
+			<lb/>
+			(<ref type="biblio">Eco, 2008</ref>) -et l&apos;interprétation par les visiteurs des registres sémiotiques et du
+			<lb/>
+			discours polyphonique de l&apos;exposition conçus à partir des intentions de l&apos;exposition.
+			<lb/>
+		</p>
+		
+		<p>Finalement, la démarche empirique que nous avons conduite s&apos;est déroulée à
+			<lb/>
+			travers le Canada, d&apos;est en ouest du pays. La première enquête a eu lieu à Pointe-à-<lb/>Callière, le
+			Musée d&apos;archéologie et d&apos;histoire de Montréal. La technique utilisée à ce
+			<lb/>
+			moment, l&apos;observation participante, a permis de travailler à partir de plusieurs formes
+			<lb/>
+			de discours tant écrits qu&apos;oraux formulés à l&apos;intérieur même de l&apos;institution. Nous
+			<lb/>
+			avons ensuite mené des entretiens individuels avec des professionnels qui travaillent
+			<lb/>
+			dans des musées d&apos;envergure nationale. Nous avons donc travaillé à partir de discours
+			<lb/>
+			de professionnels a posteriori de la production des expositions. Nous avons par la
+			<lb/>
+			suite réalisé dans plusieurs provinces du Canada des analyses de discours
+			<lb/>
+			d&apos;expositions qui présentent une thématique sur les autochtones. Nous avons ainsi
+			<lb/>
+			interrogé le discours des textes des expositions. La dernière enquête a été produite au
+			<lb/>
+			Musée McCord d&apos;histoire canadienne à Montréal. Nous avons mené des entretiens de
+			<lb/>
+			groupes avec des visiteurs allochtones et autochtones afin de connaître leurs discours
+			<lb/>
+			sur une exposition qui mettait en valeur le point de vue d&apos;un commissaire autochtone.
+			<lb/>
+		</p>
+		
+		<head>2. Méthodologie: analyse des strates de production de la problématique
+			<lb/>
+		</head>
+		
+		<p>L&apos;approche méthodologique adoptée pour ce travail de retraçage du processus de
+			<lb/>
+			problématisation a été la méthodologie de la théorisation enracinée (MTE). Cette
+			<lb/>
+			approche générale a été mobilisée à deux niveaux dans cette étude; à la fois comme
+			<lb/>
+			méthode pour comprendre l&apos;objet problématique du projet en muséologie et comme
+			<lb/>
+			prisme de lecture pour éclairer l&apos;opérationnalisation de la démarche de recherche. Le
+			<lb/>
+			traitement des données a été réalisé selon une analyse par émergence.
+			<lb/>
+		</p>
+		
+		<p>Mentionnons tout d&apos;abord que la recherche a débuté en 2006 dans le cadre
+			<lb/>
+			d&apos;une maîtrise en muséologie et s&apos;est terminée en 2013 au moment de la soutenance
+			<lb/>
+			du doctorat. Quatre enquêtes de terrain ont eu lieu entre 2006 et 2012, entrecoupées
+			<lb/>
+			par la scolarité de 2006 à 2009. Nous avons retenu, pour l&apos;analyse, le travail
+			<lb/>
+			d&apos;écriture de la problématique mis en oeuvre entre 2010 et 2013. Nous avons exclu de
+			<lb/>
+			ce corpus les sujets de recherche encore trop hésitants qui manifestent davantage la
+			<lb/>
+			formation de l&apos;étudiante que ses positionnements épistémologiques.
+			<lb/>
+		</p>
+		
+		<p>Pour réaliser cette étude particulière sur notre processus épistémologique et
+			<lb/>
+			méthodologique, nous avons, entre autres, sélectionné trente énoncés qui ont permis,
+			<lb/>
+			d&apos;une part, de situer notre projet en muséologie au sein des sciences de l&apos;information
+			<lb/>
+			et de la communication, puis, d&apos;autre part, de construire les questions de recherche,
+			<lb/>
+			l&apos;objet, la proposition, le cadre conceptuel et la démarche empirique. Ces énoncés ont
+			<lb/>
+			tour à tour été envoyés et commentés par les directeurs de thèse qui ont manifesté le
+			<lb/>
+			besoin d&apos;apporter des ajustements importants dans la construction de la
+			<lb/>
+			problématique. Plus spécifiquement, trois documents ont été retenus dans les
+			<lb/>
+			différentes versions de la problématique de 2010, treize autres en 2011 et quinze de
+			<lb/>
+			2012 à la version définitive de 2013.
+			<lb/>
+		</p>
+		
+		<p>Précisons que la première phase de travail en 2010 s&apos;est intéressée surtout à la
+			<lb/>
+			constitution des collections autochtones dans l&apos;histoire des musées et à la
+			<lb/>
+			documentation des objets dans les archives de ces institutions. Plusieurs disciplines
+			<lb/>
+			ont été convoquées : l&apos;ethnologie (épistémologie de l&apos;anthropologie et culture
+			<lb/>
+			matérielle), l&apos;histoire, l&apos;histoire de l&apos;art. En outre, une investigation a été menée
+			<lb/>
+			touchant aux muséologies sociales (nouvelle muséologie, écomuséologie,
+			<lb/>
+			altermuséologie, etc.) et à la législation des droits autochtones. En 2011, le travail
+			<lb/>
+			portait essentiellement sur les théories du patrimoine, des discours et des points de
+			<lb/>
+			vue. En parallèle, une recension des écrits non concluante traitait de
+			<lb/>
+			l&apos;interculturalisme/multiculturalisme et du partenariat dans divers milieux
+			<lb/>
+			professionnels (éducation, santé, gestion, marketing, etc.). En 2012, plusieurs
+			<lb/>
+			méthodes de traitements de données et pistes d&apos;interprétation de ces dernières ont été
+			<lb/>
+			échafaudées d&apos;après une variété de théories. Citons l&apos;exploitation et le détour par
+			<lb/>
+			certains concepts qui paraissaient prometteurs, mais qui finalement n&apos;étaient ni
+			<lb/>
+			opératoires, ni éclairants : représentations sociales, actes de langage, biographie,
+			<lb/>
+			mythe, illusion, utopie, imaginaire, indianisation, clichés, acculturation, antinomie,
+			<lb/>
+			apophatique, etc. Enfin, en 2013, la difficulté rencontrée dans la rédaction a été de
+			<lb/>
+			trouver une mise en ordre discursive logique pour articuler l&apos;ensemble du processus
+			<lb/>
+			de recherche à la suite des résultats obtenus. En ce sens, ce rapport de recherche
+			<lb/>
+			universitaire exigeait une structuration qui ne révélait pas la procédure heuristique
+			<lb/>
+			mise en place.
+			<lb/>
+		</p>
+		
+		<p>Relevons, tout d&apos;abord, les titres des énoncés qui reflètent notamment un effort
+			<lb/>
+			d&apos;organisation de la pensée en va-et-vient entre l&apos;élaboration et la réduction :
+			<lb/>
+			« intentions de la thèse, sujet de la thèse, objectifs de la thèse, ficelles structurelles,
+			<lb/>
+			raisonnement de la recherche, mouvement de la recherche, corps de la thèse, question
+			<lb/>
+			de recherche, grilles hypothétiques, cadre méthodologique, cadre théorique, cadre de
+			<lb/>
+			référence, discussions », parmi tous les « plans détaillés », les numéros de chapitres et
+			<lb/>
+			les conclusions préliminaires.
+			<lb/>
+		</p>
+		
+		<p>Ensuite, des items appartenant à des postures différentes ressortent. À titre
+			<lb/>
+			d&apos;exemple, mentionnons des unités de sens qui révèlent différents degrés
+			<lb/>
+			d&apos;inscription depuis le post-positivisme jusqu&apos;au positionnement interprétativiste :
+			<lb/>
+			« le plus objectivement possible, hypothèse générale, corroboration, vérification d&apos;un
+			<lb/>
+			principe, cadre théorique, enquête semi-expérimentale », « mettre au jour, discours
+			<lb/>
+			implicite, faces cachées, émergence, immersion, hypothèses opératoires, proposition
+			<lb/>
+			de recherche ».
+			<lb/>
+		</p>
+		
+		<p>Dans ce cheminement, trois tournants majeurs sont dégagés touchant à
+			<lb/>
+			l&apos;ancrage disciplinaire, au renversement d&apos;une logique déductive à une logique
+			<lb/>
+			inductive et, enfin, à la mobilisation des écrits scientifiques solidaires des enquêtes de
+			<lb/>
+			terrain. En effet, une des difficultés a été de délimiter dans la recension des écrits
+			<lb/>
+			ceux appartenant à la muséologie et ceux appartenant à la muséographie. Les
+			<lb/>
+			frontières sont floues dans la mesure où les chercheurs et les praticiens sont souvent
+			<lb/>
+			les mêmes personnes. Ce qui signifie que certains écrits, d&apos;abord classés dans les
+			<lb/>
+			références scientifiques, ont ensuite été intégrés au corpus. En outre, la recherche en
+			<lb/>
+			muséologie relève de plusieurs disciplines, ce qui signifie qu&apos;il faut prendre
+			<lb/>
+			conscience des différents paradigmes utilisés, puis construire son propre langage de
+			<lb/>
+			manière cohérente et fondée en se défaisant des autres influences. De plus, dans la
+			<lb/>
+			mesure où la muséologie est attachée à son terrain d&apos;investigation, la deuxième
+			<lb/>
+			confusion concerne les valeurs et les convictions de la chercheuse. Dans l&apos;étape de
+			<lb/>
+			construction de la proposition de recherche, les énoncés montrent un basculement de
+			<lb/>
+			la logique de preuve à la logique de mise à l&apos;épreuve. Un troisième détour a été de
+			<lb/>
+			tenter d&apos;opérationnaliser certains concepts pour construire des grilles d&apos;analyse
+			<lb/>
+			hypothétiques. Finalement, nous avons construit des grilles de catégorisation
+			<lb/>
+			compréhensive élaborées à partir d&apos;une analyse inductive par émergence.
+			<lb/>
+		</p>
+		
+		<head>Conclusion
+			<lb/>
+		</head>
+		
+		<p>En interrogeant le processus de problématisation, nous avons pu expliquer la
+			<lb/>
+			formulation du problème de recherche d&apos;après l&apos;opérationnalisation suggérée par
+			<lb/>
+			<ref type="biblio">Guillemette et Luckerhoff (2009)</ref>, <ref type="biblio">Luckerhoff et Guillemette (2012)</ref>, de même que
+			<lb/>
+			<ref type="biblio">Plouffe et Guillemette (2012)</ref>, puis mettre au jour le positionnement et les
+			<lb/>
+			ajustements épistémologiques et méthodologiques selon les concepts de la MTE :
+			<lb/>
+			échantillonnage théorique, recours aux écrits scientifiques, sensibilité théorique et
+			<lb/>
+			circularité.
+			<lb/>
+		</p>
+		
+		<p>Ce mouvement itératif dans la problématisation nous a amenée à réaliser quatre
+			<lb/>
+			ajustements importants dans le positionnement épistémologique durant notre parcours
+			<lb/>
+			de recherche. Ils concernent 1) l&apos;ancrage disciplinaire qui est passé de l&apos;histoire aux
+			<lb/>
+			sciences de l&apos;information et de la communication; 2) la logique globale du
+			<lb/>
+			raisonnement qui est passée du déductif à l&apos;inductif; 3) le processus d&apos;objectivation
+			<lb/>
+			de la chercheuse qui est passé du post-positivisme à l&apos;interprétatif; 4) la mobilisation
+			<lb/>
+			de l&apos;univers de pensée ricoeurien qui est passée des concepts sensibilisateurs à la
+			<lb/>
+			phénoménologie herméneutique.
+			<lb/>
+		</p>
+		
+		<p>Les ajustements identifiés peuvent être regroupés dans les trois actes
+			<lb/>
+			épistémologiques décrits par Bachelard. « Le fait scientifique est conquis, construit et
+			<lb/>
+			constaté » (<ref type="biblio">Bachelard, 1965, cité dans Quivy &amp; Van Campenhoudt, 2006, p. 15</ref>). Le
+			<lb/>
+			processus de mise au point de la problématique renvoie tout d&apos;abord à une rupture
+			<lb/>
+			épistémologique. Par vigilance, nous nous sommes démarquée de l&apos;influence des
+			<lb/>
+			courants des muséologies sociales, des Postcolonial Studies et du postmodernisme
+			<lb/>
+			sur les pratiques collaboratives des musées avec les peuples autochtones. Après ce
+			<lb/>
+			recul réflexif, l&apos;étape suivante était la construction épistémologique qui visait à
+			<lb/>
+			articuler la théorie à l&apos;empirie pour construire l&apos;objet de recherche, à orienter le
+			<lb/>
+			questionnement et à appuyer la démarche méthodologique. Enfin, le troisième acte de
+			<lb/>
+			constatation était la mise à l&apos;épreuve. Soumise à l&apos;induction, la proposition de
+			<lb/>
+			recherche touchant au phénomène de reconnaissance a finalement été confrontée aux
+			<lb/>
+			premières immersions sur le terrain.
+			<lb/>
+		</p>
+		
+		<p>Il apparaît trois tournants épistémologiques qui évoluent en fonction du recours
+			<lb/>
+			aux écrits et à son enracinement dans les données empiriques. Nous avons tissé des
+			<lb/>
+			liens entre les postures en phénoménologie et en herméneutique avec la muséologie
+			<lb/>
+			comme cadre de pensée opératoire pour ce champ de recherche. Soulignons que ce
+			<lb/>
+			regard épistémologique sur notre propre travail n&apos;a ni l&apos;ambition d&apos;apporter de
+			<lb/>
+			nouvelles connaissances sur la constitution du savoir valable, ni la fausse prétention
+			<lb/>
+			de décrire une pratique scientifique comme principe muséologique. Au-delà de cela,
+			<lb/>
+			il apparaît dans la sensibilité théorique que la mobilisation d&apos;un concept pour éclairer
+			<lb/>
+			des données peut amener le chercheur à remonter jusqu&apos;à l&apos;univers de pensée de
+			<lb/>
+			l&apos;auteur. En nous appropriant les travaux de Ricoeur pour comprendre les pratiques
+			<lb/>
+			collaboratives entre les peuples autochtones et les musées canadiens, notre sensibilité
+			<lb/>
+			théorique nous a amenée à transposer son cadre de pensée en muséologie. En effet,
+			<lb/>
+			une démarcation devait clairement être élaborée avec les écrits recensés dans la
+			<lb/>
+			littérature postmoderne qui encourage et fonde ces pratiques muséales. Nous sommes
+			<lb/>
+			donc remontée à la phénoménologie et à l&apos;herméneutique telles que conçues par cet
+			<lb/>
+			auteur.
+			<lb/>
+		</p>
+		
+		<p>Néanmoins, à partir du moment où cet univers ne permet plus de porter un
+			<lb/>
+			éclairage sur les données empiriques, nous avons favorisé l&apos;émergence et fait ressortir
+			<lb/>
+			de nouveaux concepts eux-mêmes attachés à d&apos;autres paradigmes. Les écrits de
+			<lb/>
+			Ricoeur ont été insuffisants pour interpréter les données de la dernière enquête de
+			<lb/>
+			terrain, c&apos;est-à-dire la réception d&apos;une exposition à caractère polyphonique par des
+			<lb/>
+			visiteurs autochtones et allochtones. Dans notre discussion, il appert que les
+			<lb/>
+			intentions des professionnels des musées rejoignent la perspective ricoeurienne, par
+			<lb/>
+			contre les visiteurs s&apos;approprient ces mêmes intentions selon le paradigme
+			<lb/>
+			d&apos;Honneth. Il résulte que le contrat de communication entre les musées et les visiteurs
+			<lb/>
+			repose sur une reconnaissance « mutuelle » (<ref type="biblio">Ricoeur, 2004a</ref>) et « culturelle »
+			<lb/>
+			(<ref type="biblio">Honneth, 2010</ref>), pensée à la fois comme un droit moral et un besoin d&apos;être. Une
+			<lb/>
+			saturation théorique est apparue dans le recours aux écrits sur la reconnaissance.
+			<lb/>
+		</p>
+		
+		<p>Au sein de ce cheminement intellectuel, nous pouvons ainsi entrevoir un espace
+			<lb/>
+			polyphonique. Le chercheur tente d&apos;abord de mettre en réserve ses savoirs théoriques
+			<lb/>
+			pour être à l&apos;écoute des données, puis il s&apos;appuie sur ces derniers et, enfin, les
+			<lb/>
+			confronte. En théorisant, il met dès lors en dialogue plusieurs auteurs qui, eux-<lb/>mêmes, se réfèrent et
+			se réfutent entre eux. En surcroît de la discussion, l&apos;ensemble de
+			<lb/>
+			la recherche scientifique se construit sur cette polyphonie, c&apos;est-à-dire une
+			<lb/>
+			combinaison de plusieurs voix, un entrecroisement et un réseau complexe de citations
+			<lb/>
+			et de réponses. Le chercheur se rapporte à un paradigme, en trouve ensuite certaines
+			<lb/>
+			limites, puis il poursuit avec d&apos;autres, et ainsi de suite. L&apos;effort intellectuel à fournir
+			<lb/>
+			lors de la rédaction du rapport de recherche consiste à élucider une « cohérence
+			<lb/>
+			polyphonique » en dépit de la prolifération de toutes nos références. La contrainte que
+			<lb/>
+			nous avons par contre en science consiste à expliciter le recours aux écrits à titre de
+			<lb/>
+			traçabilité. De manière clairvoyante, il faut trouver un fil conducteur autour duquel la
+			<lb/>
+			pensée s&apos;articule pour pouvoir fournir une compréhension du phénomène étudié, le
+			<lb/>
+			but étant de présenter une problématique ordonnée et logique alors qu&apos;elle a été
+			<lb/>
+			élaborée dans une orchestration de savoirs.
+			<lb/>
+		</p>
+		
+		<p>Dans le but de mieux cerner la constitution des savoirs de la muséologie et
+			<lb/>
+			qualifier ses liens entre l&apos;empirie et la théorie, nous pourrions poursuivre cette
+			<lb/>
+			recherche sur la pratique scientifique de ce champ en analysant le travail de
+			<lb/>
+			problématisation d&apos;autres thèses de doctorat afin de mettre en évidence les
+			<lb/>
+			ajustements et paradigmes subjacents.
+			<lb/>
+		</p>
+	
+	</text>
+</tei>
